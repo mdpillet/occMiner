@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:fieldnos.bcss.org.uk)",
+      "WebFetch(domain:www.cl-cactus.com)",
+      "Bash(curl -s \"https://fieldnos.bcss.org.uk/finder.php?Plant=echinocactus+horizonthalonius\")",
+      "Bash(curl -s \"https://www.cl-cactus.com/fnfinder.asp?Lang=en&Plant=Echinocactus+horizonthalonius\")"
+    ]
+  }
+}
