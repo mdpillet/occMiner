@@ -105,7 +105,8 @@ make_shp <- function(data, shp_path) {
   data <- filter(data, !is.na(lat), !is.na(lon)) %>%
     rename(field_no = field_number, gc_query = geocode_query, gc_type = geocode_type) %>%
     st_as_sf(coords = c("lon", "lat"), crs = 4326)
-  st_write(data, shp_path, delete_layer = TRUE, quiet = TRUE)
+  st_write(data, shp_path, delete_layer = TRUE, quiet = TRUE,
+           layer_options = "ENCODING=UTF-8")
 }
 
 pipelines <- list(

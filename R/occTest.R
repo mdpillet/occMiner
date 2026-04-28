@@ -34,9 +34,9 @@ for (pl in pipelines) {
   )
 
   for (i in seq_along(csv_files)) {
-    data    <- read_csv(csv_files[i], show_col_types = FALSE)
-    sp_name <- unique(data$species)
-    sp_snake <- gsub(" ", "_", tolower(sp_name))
+    data     <- read_csv(csv_files[i], show_col_types = FALSE)
+    sp_snake <- tools::file_path_sans_ext(basename(csv_files[i]))
+    sp_name  <- str_to_title(gsub("_", " ", sp_snake))
     message(pl$in_dir, " | ", sp_name, " (", nrow(data), " records)")
 
     coords <- data %>%

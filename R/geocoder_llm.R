@@ -103,43 +103,50 @@ strip_markdown <- function(x) {
 }
 
 # Sends one chunk of locality strings to Gemini.
-# Returns a list of raw result objects (with $i), or NULL on unrecoverable failure.
+# Retries indefinitely: MAX_RETRIES inner attempts with exponential backoff,
+# then a 60-second pause before the next outer attempt.
 call_gemini_batch <- function(localities, label = "") {
   input_json <- toJSON(
     lapply(seq_along(localities), function(i) list(i = i, locality = localities[[i]])),
     auto_unbox = TRUE
   )
-  tryCatch({
-    resp <- request("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent") |>
-      req_url_query(key = Sys.getenv("GEMINI_API_KEY")) |>
-      req_body_json(list(
-        systemInstruction = list(parts = list(list(text = PARSE_PROMPT))),
-        contents          = list(list(parts = list(list(text = input_json)))),
-        generationConfig  = list(maxOutputTokens = 8192, temperature = 0)
-      )) |>
-      req_throttle(rate = 15 / 60, realm = "gemini") |>
-      req_retry(
-        max_tries    = MAX_RETRIES,
-        is_transient = \(resp) resp_status(resp) %in% c(429, 500, 502, 503, 504),
-        backoff      = \(i) 10 * 2^(i - 1)
-      ) |>
-      req_perform()
-    raw    <- resp_body_json(resp)$candidates[[1]]$content$parts[[1]]$text
-    log_gemini(label, input_json, output = raw)
-    parsed <- fromJSON(strip_markdown(raw), simplifyVector = FALSE)
-    if (!is.list(parsed) || length(parsed) != length(localities)) {
-      warning(sprintf(
-        "Gemini returned %d result(s) for %d locality/ies in this chunk.",
-        length(parsed), length(localities)
-      ))
-    }
-    parsed
-  }, error = function(e) {
-    msg <- sprintf("Gemini batch failed after %d tries: %s", MAX_RETRIES, conditionMessage(e))
-    log_gemini(label, input_json, error = msg)
-    warning(msg)
-    NULL
-  })
+  repeat {
+    result <- tryCatch({
+      resp <- request("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent") |>
+        req_url_query(key = Sys.getenv("GEMINI_API_KEY")) |>
+        req_body_json(list(
+          systemInstruction = list(parts = list(list(text = PARSE_PROMPT))),
+          contents          = list(list(parts = list(list(text = input_json)))),
+          generationConfig  = list(maxOutputTokens = 8192, temperature = 0)
+        )) |>
+        req_throttle(rate = 15 / 60, realm = "gemini") |>
+        req_retry(
+          max_tries    = MAX_RETRIES,
+          is_transient = \(resp) resp_status(resp) %in% c(429, 500, 502, 503, 504),
+          backoff      = \(i) 10 * 2^(i - 1)
+        ) |>
+        req_perform()
+      raw    <- resp_body_json(resp)$candidates[[1]]$content$parts[[1]]$text
+      log_gemini(label, input_json, output = raw)
+      parsed <- fromJSON(strip_markdown(raw), simplifyVector = FALSE)
+      if (!is.list(parsed) || length(parsed) != length(localities)) {
+        warning(sprintf(
+          "Gemini returned %d result(s) for %d locality/ies in this chunk.",
+          length(parsed), length(localities)
+        ))
+      }
+      parsed
+    }, error = function(e) {
+      msg <- sprintf("Gemini batch failed after %d tries: %s", MAX_RETRIES, conditionMessage(e))
+      log_gemini(label, input_json, error = msg)
+      warning(msg)
+      NULL
+    })
+
+    if (!is.null(result)) return(result)
+    message("  Service unavailable — retrying batch in 60 seconds...")
+    Sys.sleep(60)
+  }
 }
 
 # Normalize one element from a batch response into list(address, offset, fallback_lat, fallback_lon).

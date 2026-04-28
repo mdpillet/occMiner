@@ -3,6 +3,16 @@ run <- function(script) {
   source(script)
 }
 
+# Remove all pipeline output from previous runs (Logs/ is preserved)
+message("Cleaning previous output...")
+unlink(c("data/bcss", "data/clcactus",
+         "data/geocoded", "data/geocoded_llm",
+         "data/cleaned", "data/cleaned_llm",
+         "data/kml", "data/shp",
+         "data/occTest",
+         "Logs"),
+       recursive = TRUE)
+
 run("R/bcss_miner.R")
 run("R/clcactus_miner.R")
 run("R/geocoder.R")

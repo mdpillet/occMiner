@@ -49,13 +49,6 @@ fetch_page <- function(url) {
   read_html(html)
 }
 
-extract_link_text <- function(node, label) {
-  result <- node %>%
-    html_node(xpath = sprintf('.//b[contains(text(),"%s")]/following-sibling::a[1]', label)) %>%
-    html_text()
-  clean_text(result)
-}
-
 extract_sibling_text <- function(node, label) {
   result <- node %>%
     html_node(xpath = sprintf('.//b[contains(text(),"%s")]/following-sibling::text()[1]', label)) %>%
@@ -65,9 +58,9 @@ extract_sibling_text <- function(node, label) {
 
 parse_record_node <- function(par) {
   tibble(
-    field_number = extract_link_text(par, "Field number"),
-    collector    = extract_link_text(par, "Collector"),
-    species      = extract_link_text(par, "Species"),
+    field_number = extract_sibling_text(par, "Field number"),
+    collector    = extract_sibling_text(par, "Collector"),
+    species      = extract_sibling_text(par, "Species"),
     locality     = extract_sibling_text(par, "Locality"),
     altitude     = extract_sibling_text(par, "Altitude"),
     date         = extract_sibling_text(par, "Date"),
