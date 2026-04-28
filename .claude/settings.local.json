@@ -4,7 +4,10 @@
       "WebFetch(domain:fieldnos.bcss.org.uk)",
       "WebFetch(domain:www.cl-cactus.com)",
       "Bash(curl -s \"https://fieldnos.bcss.org.uk/finder.php?Plant=echinocactus+horizonthalonius\")",
-      "Bash(curl -s \"https://www.cl-cactus.com/fnfinder.asp?Lang=en&Plant=Echinocactus+horizonthalonius\")"
+      "Bash(curl -s \"https://www.cl-cactus.com/fnfinder.asp?Lang=en&Plant=Echinocactus+horizonthalonius\")",
+      "WebFetch(domain:jessecambon.github.io)",
+      "WebFetch(domain:ai.google.dev)",
+      "WebSearch"
     ]
   }
 }

@@ -1,0 +1,3 @@
+Additional ideas (not yet implemented):
+* Use existing occurrences to help with geocoder_llm.R.
+* Logging of LLM input/output.

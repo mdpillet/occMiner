@@ -1,0 +1,50 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+NA,NA,NA,"Padilla to Monteagudo about. 1/2 way, Chuquisaca, Bolivia",1270m,08/10/2009,same locality as CS314,bcss,"Padilla, Chuquisaca, Bolivia",direct,-19.307485,-64.3025643
+NA,NA,NA,"about 110km West of Puerto Casado, Alto Paraguay, Paraguay",105m,19/08/2013,same locality as CS676,bcss,"Puerto Casado, Alto Paraguay, Paraguay",offset_adjusted,-22.282246063488632,-59.012237721760044
+NA,NA,NA,"Tikal, El Peten, Guatemala",17/12/2022,17/12/2022,NA,bcss,"Tikal, El Peten, Guatemala",direct,16.9934045,-89.6914964
+NA,NA,NA,"Monteagudo, Chuquisaca, Bolivia",1270m,08/10/2009,NA,bcss,"Monteagudo, Chuquisaca, Bolivia",direct,-19.8028386,-63.9551052
+NA,NA,NA,"Alijilan 2, Catamarca, Argentina",1112m,14/03/2010,NA,bcss,"Alijilan, Catamarca, Argentina",direct,-28.182757,-65.4934802
+NA,NA,NA,"Mbashe River, Tsolorha, Eastern Cape, South Africa",Ems present,Ems present,Ems present,bcss,"Mbashe River, Eastern Cape, South Africa",direct,-32.085314,28.6471936
+NA,NA,NA,"Hluhluwe Mountains, KwaZulu Natal, South Africa",19/07/1971,19/07/1971,NA,bcss,"Hluhluwe, KwaZulu-Natal, South Africa",direct,-28.0175,32.269167
+NA,NA,NA,"Salvador, Bahia, Brazil",May-07,May-07,NA,bcss,"Salvador, Bahia, Brazil",direct,-12.9822499,-38.4812772
+NA,NA,NA,"Hluhluwe Mountains, KwaZulu Natal, South Africa",19/07/1971,19/07/1971,NA,bcss,"Hluhluwe, KwaZulu-Natal, South Africa",direct,-28.0175,32.269167
+NA,NA,NA,"La Soledad, upper end Valle Nacional, Oaxaca, Mexico",29/12/1987,29/12/1987,NA,bcss,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+NA,NA,NA,"Loreto, Rio Grande do Sul, Brazil",NA,NA,NA,bcss,"Loreto, Rio Grande do Sul, Brazil",direct,-29.7520432,-54.9513224
+NA,NA,NA,"Campo Quijano, Private Camping, Salta, Argentina",1513m,NA,NA,bcss,"Campo Quijano, Salta, Argentina",direct,-24.9079731,-65.6425972
+NA,NA,NA,Oribi Gorge,396m,04-Feb-02,NA,bcss,"Oribi Gorge, KwaZulu-Natal, South Africa",direct,-30.7054202,30.2690701
+NA,NA,NA,"Near Sucua, Ecuador",1975,1975,"Cuttings of a plant from the University of Heidelberg, collected as Werner Rauh37996",bcss,"Sucua, Ecuador",direct,-2.4560109,-78.1727383
+NA,NA,NA,"Dique la Cienaga, North of Salta, Argentina",1250m,NA,NA,bcss,"Dique la Cienaga, Salta, Argentina",direct,-25.12328,-65.9308
+NA,NA,NA,"Mount Ibity, Madagascar",August 2003,August 2003,NA,bcss,"Mount Ibity, Madagascar",direct,-20.11667,47.01667
+NA,NA,NA,"Zamora to Loja km 8, Zamora-Chinchipe, Ecuador",1200m,NA,NA,bcss,"Zamora, Zamora-Chinchipe, Ecuador",direct,-4.0042008,-78.9577754
+NA,NA,NA,"Yanzatza s 5km, Zamora-Chinchipe, Ecuador",950m,NA,NA,bcss,"Yanzatza, Zamora-Chinchipe, Ecuador",offset_adjusted,-3.675377680295937,-78.58843469999998
+NA,NA,NA,"La Soledad, upper end Valle Nacional, Oaxaca, Mexico",29/12/1987,29/12/1987,NA,bcss,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+NA,NA,NA,"La Soledad, upper end Valle Nacional, Oaxaca, Mexico",29/12/1987,29/12/1987,NA,bcss,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+NA,NA,NA,"Pampa Grande, Santa Cruz, Bolivia",1378m,10/11/2018,NA,bcss,"Pampa Grande, Santa Cruz, Bolivia",direct,-18.0910607,-64.110995
+NA,NA,NA,"Cinco Duraznos, Salta, Argentina",1244m,2009/01/22,NA,bcss,"Cinco Duraznos, Salta, Argentina",direct,-25.986573,-65.5132751
+NA,NA,NA,"La Union, Puebla, Mexico",NA,NA,NA,bcss,"La Union, Puebla, Mexico",direct,20.264167,-97.875556
+NA,NA,NA,"Jalapa, Veracruz, Mexico",NA,NA,NA,bcss,"Jalapa, Veracruz, Mexico",direct,19.4880323,-96.8080013
+NA,NA,NA,"2 km North of Bayahibe, Bayahibe, Dominican Republic",04/2008,04/2008,Epiphyte on trees; flowers and fruits visible,bcss,"Bayahibe, Dominican Republic",offset_adjusted,18.386695032118375,-68.8396888
+NA,NA,NA,"La Soledad, upper end Valle Nacional, Oaxaca, Mexico",29/12/1987,29/12/1987,NA,bcss,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+NA,NA,NA,"Cinco Duraznos, North of El Jardin, Salta, Argentina",1244m,22/01/2009,NA,bcss,"El Jardin, Salta, Argentina",direction_only,-26.0796564,-65.3931803
+NA,NA,NA,"Near Cobos, General Guemes to Salta, Salta, Argentina",937m,26/01/2022,NA,bcss,"Cobos, Salta, Argentina",direct,-24.7378262,-65.0846312
+LAU 1569,Alfred Bernhard Lau,Rhipsalis baccifera,"Mexicó : Oaxaca (La Soledad , upper end Valle Nacional)",NA,29/12/1987,NA,clcactus,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+L 1569,Alfred Bernhard Lau,Rhipsalis baccifera,"Mexicó : Oaxaca (La Soledad , upper end Valle Nacional)",NA,29/12/1987,NA,clcactus,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+BB 1548.04,Brian Francis Bates,Rhipsalis baccifera,"Bolivia : Ch'saca (Tomina, Padilla - Monteagudo approx. 1/2 way 1270m)",NA,2009/10/08,NA,clcactus,"Padilla, Chuquisaca, Bolivia",direct,-19.307485,-64.3025643
+BB 1845.07,Brian Francis Bates,Rhipsalis baccifera ssp. shaferi,"Paraguay : Alto Paraguay (ca. 110km West of Puerto Casado, 105m)",NA,19/08/2013,NA,clcactus,"Puerto Casado, Alto Paraguay, Paraguay",offset_adjusted,-22.282246063488632,-59.012237721760044
+CS 314.3,Chris Sherrah,Rhipsalis baccifera,"Bolivia : Chuquisaca (Monteagudo, 1270 m)",NA,08/10/2009,NA,clcactus,"Monteagudo, Chuquisaca, Bolivia",direct,-19.8028386,-63.9551052
+CS 471.3,Chris Sherrah,Rhipsalis baccifera,"Argentina : Catamarca (Alijilan 2, 1112 m)",NA,14/03/2010,NA,clcactus,"Alijilan, Catamarca, Argentina",direct,-28.182757,-65.4934802
+HUN 715,Cyrill Hunkeler,Rhipsalis baccifera,"Campo Quijano, Private Camping, Salta, Argentina 1513m",NA,NA,NA,clcactus,"Campo Quijano, Salta, Argentina",direct,-24.9079731,-65.6425972
+RF 8,Damien Richard,Rhipsalis baccifera ssp. baccifera,Dominican Republic : Bayahibe (2 km North of Bayahibe),NA,04/2008,"Plante épiphyte assez présente sur les arbres autour de Bayahibe. Lors de ma visite, des fleurs et des fruits étaient visibles.",clcactus,"Bayahibe, Dominican Republic",offset_adjusted,18.386695032118375,-68.8396888
+SH 1569,Dennis Sargant (plants collected by Alfred Bernhard Lau),Rhipsalis baccifera,"Mexicó : Oaxaca (La Soledad , upper end Valle Nacional)",NA,29/12/1987,NA,clcactus,"La Soledad, Valle Nacional, Oaxaca, Mexico",direct,17.77579,-96.30174
+EVJ 16889,Ernst Jacobus van Jaarsveld,Rhipsalis baccifera,"Mbashe River, Tsolorha, Eastern Cape, South Africa",NA,Ems present,Ems present,clcactus,"Mbashe River, Eastern Cape, South Africa",direct,-32.085314,28.6471936
+JA 382,"Florencia Senoret, Juan Pablo Acosta (Spiniflores)",Rhipsalis baccifera,"Dique la Cienaga, north of Salta,  ARGENTINA, 1.250 m",NA,NA,NA,clcactus,"Dique la Cienaga, Salta, Argentina",direct,-25.12328,-65.9308
+GJA 7.32,Gérard Ardisson,Rhipsalis baccifera,"Salvador, Bahia, Brazil",NA,01/05/07,NA,clcactus,"Salvador, Bahia, Brazil",direct,-12.9822499,-38.4812772
+GM 568,Grzegorz Matuszewski,Rhipsalis baccifera,Mexicó : Tamaulipasaulipas (Tamaulipas),NA,2002,NA,clcactus,"Tamaulipas, Mexico",direct,23.9891553,-98.7026825
+IB08714,Ingo Breuer,Rhipsalis baccifera,"South Africa  :  (Oribi Gorge, 396)",NA,04/02/2002,NA,clcactus,"Oribi Gorge, KwaZulu-Natal, South Africa",direct,-30.7054202,30.2690701
+JAA 376,Jean André Audissou,Rhipsalis baccifera,"Mt Ibity, Madagascar",NA,August 2003,NA,clcactus,"Mount Ibity, Madagascar",direct,-20.11667,47.01667
+JM 75837,Jens Madsen,Rhipsalis baccifera,"Ecuador :  (Zamora to Loja km 8, Zamora-Chinchipe, 1200m)",NA,NA,NA,clcactus,"Zamora, Zamora-Chinchipe, Ecuador",direct,-4.0042008,-78.9577754
+JM 75840,Jens Madsen,Rhipsalis baccifera,"Ecuador :  (Yanzatza s 5km, Zamora-Chinchipe, 950m)",NA,NA,NA,clcactus,"Yanzatza, Zamora-Chinchipe, Ecuador",offset_adjusted,-3.675377680295937,-78.58843469999998
+pm 21,Ken Preston-Mafham,Rhipsalis baccifera,"Jalapa, Veracruz, Mexicó",NA,NA,NA,clcactus,"Jalapa, Veracruz, Mexico",direct,19.4880323,-96.8080013
+HU 1099,"Leopoldo Horst, later, Kurt-Ingo Horst",Rhipsalis baccifera,"Loreto, Rio Grande do Sul, Brazil",NA,NA,NA,clcactus,"Loreto, Rio Grande do Sul, Brazil",direct,-29.7520432,-54.9513224
+MZ 561,Milan Zachar,Rhipsalis baccifera,"La Union, Puebla, Mexicó",NA,NA,NA,clcactus,"La Union, Puebla, Mexico",direct,20.264167,-97.875556
+TB 421.2,Tomasz Blaczkowski,Rhipsalis baccifera,"Argentina : Salta (Cinco Duraznos  N of El Jardin, 1244 m)",NA,2009/01/22,NA,clcactus,"El Jardin, Salta, Argentina",direction_only,-26.0796564,-65.3931803

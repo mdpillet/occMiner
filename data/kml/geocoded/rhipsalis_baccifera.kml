@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Rhipsalis Baccifera — geocoded</name>
+  <Style id="direct">
+    <IconStyle>
+      <color>ff4db34d</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="direction_only">
+    <IconStyle>
+      <color>ff00aaff</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="offset_adjusted">
+    <IconStyle>
+      <color>ffff6600</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="llm_approximate">
+    <IconStyle>
+      <color>ffff00cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="failed">
+    <IconStyle>
+      <color>ff0000cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+      <Placemark>
+        <name>Padilla to Monteagudo about. 1/2 way, Chuquisac...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Padilla to Monteagudo about. 1/2 way, Chuquisaca, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>1270m</td></tr><tr><td><b>Date</b></td><td>08/10/2009</td></tr><tr><td><b>Notes</b></td><td>same locality as CS314</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Padilla to Monteagudo about. 1/2 way, Chuquisaca, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-63.958019,-19.808642,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>about 110km West of Puerto Casado, Alto Paragua...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>about 110km West of Puerto Casado, Alto Paraguay, Paraguay</td></tr><tr><td><b>Altitude</b></td><td>105m</td></tr><tr><td><b>Date</b></td><td>19/08/2013</td></tr><tr><td><b>Notes</b></td><td>same locality as CS676</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>about 110km West of Puerto Casado, Alto Paraguay, Paraguay</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-59.085780,-21.812316,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tikal, El Peten, Guatemala</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Tikal, El Peten, Guatemala</td></tr><tr><td><b>Altitude</b></td><td>17/12/2022</td></tr><tr><td><b>Date</b></td><td>17/12/2022</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Tikal, El Peten, Guatemala</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-89.610683,17.227251,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Monteagudo, Chuquisaca, Bolivia</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Monteagudo, Chuquisaca, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>1270m</td></tr><tr><td><b>Date</b></td><td>08/10/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Monteagudo, Chuquisaca, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-63.955105,-19.802839,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Alijilan 2, Catamarca, Argentina</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Alijilan 2, Catamarca, Argentina</td></tr><tr><td><b>Altitude</b></td><td>1112m</td></tr><tr><td><b>Date</b></td><td>14/03/2010</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Alijilan 2, Catamarca, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.788267,-28.448959,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mbashe River, Tsolorha, Eastern Cape, South Africa</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Mbashe River, Tsolorha, Eastern Cape, South Africa</td></tr><tr><td><b>Altitude</b></td><td>Ems present</td></tr><tr><td><b>Date</b></td><td>Ems present</td></tr><tr><td><b>Notes</b></td><td>Ems present</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Mbashe River, Tsolorha, Eastern Cape, South Africa</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>28.901600,-32.248450,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hluhluwe Mountains, KwaZulu Natal, South Africa</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Hluhluwe Mountains, KwaZulu Natal, South Africa</td></tr><tr><td><b>Altitude</b></td><td>19/07/1971</td></tr><tr><td><b>Date</b></td><td>19/07/1971</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Hluhluwe Mountains, KwaZulu Natal, South Africa</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>32.272389,-28.020881,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Salvador, Bahia, Brazil</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Salvador, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>May-07</td></tr><tr><td><b>Date</b></td><td>May-07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Salvador, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-38.481277,-12.982250,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hluhluwe Mountains, KwaZulu Natal, South Africa</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Hluhluwe Mountains, KwaZulu Natal, South Africa</td></tr><tr><td><b>Altitude</b></td><td>19/07/1971</td></tr><tr><td><b>Date</b></td><td>19/07/1971</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Hluhluwe Mountains, KwaZulu Natal, South Africa</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>32.272389,-28.020881,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Soledad, upper end Valle Nacional, Oaxaca, M...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Altitude</b></td><td>29/12/1987</td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Loreto, Rio Grande do Sul, Brazil</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Loreto, Rio Grande do Sul, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Loreto, Rio Grande do Sul, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-54.951322,-29.752043,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Campo Quijano, Private Camping, Salta, Argentina</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Campo Quijano, Private Camping, Salta, Argentina</td></tr><tr><td><b>Altitude</b></td><td>1513m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Campo Quijano, Private Camping, Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.459667,-24.785052,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Oribi Gorge</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Oribi Gorge</td></tr><tr><td><b>Altitude</b></td><td>396m</td></tr><tr><td><b>Date</b></td><td>04-Feb-02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Oribi Gorge</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>30.273482,-30.731798,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Near Sucua, Ecuador</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Near Sucua, Ecuador</td></tr><tr><td><b>Altitude</b></td><td>1975</td></tr><tr><td><b>Date</b></td><td>1975</td></tr><tr><td><b>Notes</b></td><td>Cuttings of a plant from the University of Heidelberg, collected as Werner Rauh37996</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Near Sucua, Ecuador</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-78.211486,-2.485956,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Dique la Cienaga, North of Salta, Argentina</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Dique la Cienaga, North of Salta, Argentina</td></tr><tr><td><b>Altitude</b></td><td>1250m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Dique la Cienaga, North of Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-66.262704,-21.962231,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Ibity, Madagascar</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Mount Ibity, Madagascar</td></tr><tr><td><b>Altitude</b></td><td>August 2003</td></tr><tr><td><b>Date</b></td><td>August 2003</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Mount Ibity, Madagascar</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>47.016670,-20.116670,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Zamora to Loja km 8, Zamora-Chinchipe, Ecuador</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Zamora to Loja km 8, Zamora-Chinchipe, Ecuador</td></tr><tr><td><b>Altitude</b></td><td>1200m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Zamora to Loja km 8, Zamora-Chinchipe, Ecuador</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-78.982838,-4.012653,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Yanzatza s 5km, Zamora-Chinchipe, Ecuador</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Yanzatza s 5km, Zamora-Chinchipe, Ecuador</td></tr><tr><td><b>Altitude</b></td><td>950m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Yanzatza s 5km, Zamora-Chinchipe, Ecuador</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-78.903989,-4.171295,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Soledad, upper end Valle Nacional, Oaxaca, M...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Altitude</b></td><td>29/12/1987</td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Soledad, upper end Valle Nacional, Oaxaca, M...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Altitude</b></td><td>29/12/1987</td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pampa Grande, Santa Cruz, Bolivia</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Pampa Grande, Santa Cruz, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>1378m</td></tr><tr><td><b>Date</b></td><td>10/11/2018</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Pampa Grande, Santa Cruz, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-64.112515,-18.089557,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cinco Duraznos, Salta, Argentina</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Cinco Duraznos, Salta, Argentina</td></tr><tr><td><b>Altitude</b></td><td>1244m</td></tr><tr><td><b>Date</b></td><td>2009/01/22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Cinco Duraznos, Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.513275,-25.986573,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Union, Puebla, Mexico</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>La Union, Puebla, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>La Union, Puebla, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-97.875556,20.264167,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Jalapa, Veracruz, Mexico</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Jalapa, Veracruz, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jalapa, Veracruz, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.808001,19.488032,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>2 km North of Bayahibe, Bayahibe, Dominican Rep...</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>2 km North of Bayahibe, Bayahibe, Dominican Republic</td></tr><tr><td><b>Altitude</b></td><td>04/2008</td></tr><tr><td><b>Date</b></td><td>04/2008</td></tr><tr><td><b>Notes</b></td><td>Epiphyte on trees; flowers and fruits visible</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Bayahibe, Bayahibe, Dominican Republic</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-68.841999,18.390663,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Soledad, upper end Valle Nacional, Oaxaca, M...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Altitude</b></td><td>29/12/1987</td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad, upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cinco Duraznos, North of El Jardin, Salta, Arge...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Cinco Duraznos, North of El Jardin, Salta, Argentina</td></tr><tr><td><b>Altitude</b></td><td>1244m</td></tr><tr><td><b>Date</b></td><td>22/01/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Cinco Duraznos, North of El Jardin, Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.394040,-26.079995,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Near Cobos, General Guemes to Salta, Salta, Arg...</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td></td></tr><tr><td><b>Collector</b></td><td></td></tr><tr><td><b>Species</b></td><td></td></tr><tr><td><b>Locality</b></td><td>Near Cobos, General Guemes to Salta, Salta, Argentina</td></tr><tr><td><b>Altitude</b></td><td>937m</td></tr><tr><td><b>Date</b></td><td>26/01/2022</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Near Cobos, General Guemes to Salta, Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.083606,-24.738944,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>LAU 1569</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>LAU 1569</td></tr><tr><td><b>Collector</b></td><td>Alfred Bernhard Lau</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Oaxaca (La Soledad , upper end Valle Nacional)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad , upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>L 1569</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>L 1569</td></tr><tr><td><b>Collector</b></td><td>Alfred Bernhard Lau</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Oaxaca (La Soledad , upper end Valle Nacional)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad , upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 1548.04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 1548.04</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Bolivia : Ch'saca (Tomina, Padilla - Monteagudo approx. 1/2 way 1270m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2009/10/08</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Tomina, Padilla - Monteagudo approx. 1/2 way, Ch'saca, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-64.301606,-19.307028,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 1845.07</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 1845.07</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera ssp. shaferi</td></tr><tr><td><b>Locality</b></td><td>Paraguay : Alto Paraguay (ca. 110km West of Puerto Casado, 105m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>19/08/2013</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>ca. 110km West of Puerto Casado,, Alto Paraguay, Paraguay</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-59.085780,-21.812316,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 314.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 314.3</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Bolivia : Chuquisaca (Monteagudo, 1270 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>08/10/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Monteagudo,, Chuquisaca, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-63.955105,-19.802839,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 471.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 471.3</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Argentina : Catamarca (Alijilan 2, 1112 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>14/03/2010</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Alijilan 2,, Catamarca, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.788267,-28.448959,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HUN 715</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HUN 715</td></tr><tr><td><b>Collector</b></td><td>Cyrill Hunkeler</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Campo Quijano, Private Camping, Salta, Argentina 1513m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Campo Quijano, Private Camping, Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.459667,-24.785052,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RF 8</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RF 8</td></tr><tr><td><b>Collector</b></td><td>Damien Richard</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera ssp. baccifera</td></tr><tr><td><b>Locality</b></td><td>Dominican Republic : Bayahibe (2 km North of Bayahibe)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>04/2008</td></tr><tr><td><b>Notes</b></td><td>Plante épiphyte assez présente sur les arbres autour de Bayahibe. Lors de ma visite, des fleurs et des fruits étaient visibles.</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>2 km North of Bayahibe, Bayahibe, Dominican Republic</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-68.764490,18.311210,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>SH 1569</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>SH 1569</td></tr><tr><td><b>Collector</b></td><td>Dennis Sargant (plants collected by Alfred Bernhard Lau)</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Oaxaca (La Soledad , upper end Valle Nacional)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>29/12/1987</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>La Soledad , upper end Valle Nacional, Oaxaca, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.301740,17.775790,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>EVJ 16889</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>EVJ 16889</td></tr><tr><td><b>Collector</b></td><td>Ernst Jacobus van Jaarsveld</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Mbashe River, Tsolorha, Eastern Cape, South Africa</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>Ems present</td></tr><tr><td><b>Notes</b></td><td>Ems present</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mbashe River, Tsolorha, Eastern Cape, South Africa</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>28.901600,-32.248450,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JA 382</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JA 382</td></tr><tr><td><b>Collector</b></td><td>Florencia Senoret, Juan Pablo Acosta (Spiniflores)</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Dique la Cienaga, north of Salta,  ARGENTINA, 1.250 m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Dique la Cienaga, north of Salta,  ARGENTINA,</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-66.262704,-21.962231,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GJA 7.32</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GJA 7.32</td></tr><tr><td><b>Collector</b></td><td>Gérard Ardisson</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Salvador, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>01/05/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Salvador, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-38.481277,-12.982250,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GM 568</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GM 568</td></tr><tr><td><b>Collector</b></td><td>Grzegorz Matuszewski</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Tamaulipasaulipas (Tamaulipas)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2002</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Tamaulipas, Tamaulipasaulipas, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-98.986256,22.737396,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>IB08714</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>IB08714</td></tr><tr><td><b>Collector</b></td><td>Ingo Breuer</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>South Africa  :  (Oribi Gorge, 396)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>04/02/2002</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Oribi Gorge, 396, South Africa</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>30.285501,-30.745510,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JAA 376</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JAA 376</td></tr><tr><td><b>Collector</b></td><td>Jean André Audissou</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Mt Ibity, Madagascar</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>August 2003</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mt Ibity, Madagascar</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>47.001057,-20.052919,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JM 75837</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JM 75837</td></tr><tr><td><b>Collector</b></td><td>Jens Madsen</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Ecuador :  (Zamora to Loja km 8, Zamora-Chinchipe, 1200m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Zamora to Loja km 8, Zamora-Chinchipe,, Ecuador</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-78.982838,-4.012653,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JM 75840</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JM 75840</td></tr><tr><td><b>Collector</b></td><td>Jens Madsen</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Ecuador :  (Yanzatza s 5km, Zamora-Chinchipe, 950m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Yanzatza s 5km, Zamora-Chinchipe,, Ecuador</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-78.903989,-4.171295,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>pm 21</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>pm 21</td></tr><tr><td><b>Collector</b></td><td>Ken Preston-Mafham</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Jalapa, Veracruz, Mexicó</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jalapa, Veracruz, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-96.808001,19.488032,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 1099</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 1099</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Loreto, Rio Grande do Sul, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Loreto, Rio Grande do Sul, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-54.951322,-29.752043,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 561</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>MZ 561</td></tr><tr><td><b>Collector</b></td><td>Milan Zachar</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>La Union, Puebla, Mexicó</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>La Union, Puebla, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-97.875556,20.264167,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>TB 421.2</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>TB 421.2</td></tr><tr><td><b>Collector</b></td><td>Tomasz Blaczkowski</td></tr><tr><td><b>Species</b></td><td>Rhipsalis baccifera</td></tr><tr><td><b>Locality</b></td><td>Argentina : Salta (Cinco Duraznos  N of El Jardin, 1244 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2009/01/22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cinco Duraznos  N of El Jardin,, Salta, Argentina</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.394040,-26.079995,0</coordinates></Point>
+      </Placemark>
+</Document>
+</kml>
