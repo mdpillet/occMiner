@@ -1,0 +1,2245 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ariocarpus_fissuratus" id="ariocarpus_fissuratus">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>ariocarpus_fissuratus</name>
+  <Placemark id="ariocarpus_fissuratus.1">
+	<name>AD 109</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. fissuratus</SimpleData>
+		<SimpleData name="collector">South-West of Cuatro Ciénegas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">768m</SimpleData>
+		<SimpleData name="locality">7-Feb-06</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cuatro Ciénegas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3791854,26.6665018</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.2">
+	<name>AD 207</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">from Parras to Tanque Menchaca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1461m</SimpleData>
+		<SimpleData name="locality">14-Mar-10</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">from Parras to Tanque Menchaca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.30103,25.27482</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.3">
+	<name>AD 214</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Brewster County, Texas, USA</SimpleData>
+		<SimpleData name="species">1012m</SimpleData>
+		<SimpleData name="locality">22-Mar-10</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Brewster County, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.2400734,29.8462742</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.4">
+	<name>AD 467</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Maderas del Carmen, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1262m</SimpleData>
+		<SimpleData name="locality">2-Apr-15</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Maderas del Carmen, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.578646389,28.963611111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.5">
+	<name>AD 468</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">West of Cuesta de Malena, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1332m</SimpleData>
+		<SimpleData name="locality">2-Apr-15</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cuesta de Malena, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.489996,28.7325738</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.6">
+	<name>AD 688</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus 'intermedius'</SimpleData>
+		<SimpleData name="collector">South-West of El Hundido, Cuatro Cienégas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">821m</SimpleData>
+		<SimpleData name="locality">9-Mar-19</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Hundido, Cuatro Cienégas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3034754,26.6095619</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.7">
+	<name>AD 83</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">South-West of Parras, behind hill with church of Santo Madero, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1601m</SimpleData>
+		<SimpleData name="locality">13-Mar-10</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Parras, behind hill with church of Santo Madero, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.272227089,25.769438892</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.8">
+	<name>AD 97</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">South-East of Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1197m</SimpleData>
+		<SimpleData name="locality">31-Jan-06</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.8608673,25.1900179</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.9">
+	<name>AL 113</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Dagger Flat, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Dagger Flat, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.0756407,29.4890811</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.10">
+	<name>AL 313</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Parras de la Fuente, Coahuila, México</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Parras de la Fuente, Coahuila, México</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.1782179,25.4436602</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.11">
+	<name>AL 55</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Terlingua Ghost Town, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Terlingua Ghost Town, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.6169449,29.3210186</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.12">
+	<name>AL 61</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Hot Springs, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Hot Springs, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9985803,29.1776768</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.13">
+	<name>AL 80</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">River Road East, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">River Road East, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.0355087,29.1371525</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.14">
+	<name>AL 96</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mariscal Mine, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mariscal Mine, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.1875468,29.0953524</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.15">
+	<name>B 1425</name>
+	<description>Elwood R. Blakley</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Tornillo Creek, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tornillo Creek, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.1451478,29.4158973</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.16">
+	<name>B 15491</name>
+	<description>Lyman Benson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">South of Alpine, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Alpine, Texas, USA</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.6628596,30.3602181</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.17">
+	<name>BB 2113.01</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Lajitas, Texas, USA</SimpleData>
+		<SimpleData name="species">785m</SimpleData>
+		<SimpleData name="locality">11/05/2016</SimpleData>
+		<SimpleData name="altitude">same locality as PKS1780</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Lajitas, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.775817,29.26222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.18">
+	<name>BB 2119.01</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Big Bend National Park, Texas, USA</SimpleData>
+		<SimpleData name="species">611m</SimpleData>
+		<SimpleData name="locality">14/05/2016</SimpleData>
+		<SimpleData name="altitude">same locality as PKS2255</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Big Bend National Park, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.1943284,29.3332484</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.19">
+	<name>BB 2129.01</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Marathon, Texas, USA</SimpleData>
+		<SimpleData name="species">1256m</SimpleData>
+		<SimpleData name="locality">19/05/2016</SimpleData>
+		<SimpleData name="altitude">same locality as CH US29</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Marathon, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.2445646,30.2059642</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.20">
+	<name>CH 209</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3839713,25.591946</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.21">
+	<name>CH 345</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. hintonii</SimpleData>
+		<SimpleData name="collector">Palmas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1994/10/23</SimpleData>
+		<SimpleData name="locality">1994/10/23</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Palmas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6591865,23.5971795</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.22">
+	<name>CH 578</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Bermejillo, Durango, Mexico</SimpleData>
+		<SimpleData name="species">88m</SimpleData>
+		<SimpleData name="locality">1995/5/7</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Bermejillo, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.6195205,25.8898063</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.23">
+	<name>CS 1127.1</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Alacran Randi, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">768m</SimpleData>
+		<SimpleData name="locality">17/05/2024</SimpleData>
+		<SimpleData name="altitude">IDD1166 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Alacran Randi, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.332823333,26.769526944</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.24">
+	<name>CS 1128.5</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Cuatro Cienegas SW, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">743m</SimpleData>
+		<SimpleData name="locality">17/05/2024</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cuatro Cienegas SW, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.298982671,26.699103866</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.25">
+	<name>DU 107</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus sp.</SimpleData>
+		<SimpleData name="collector">A bit east of the Northern road, about 20 to 30km North of Estancia Marte Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">= DO83</SimpleData>
+		<SimpleData name="locality">= DO83</SimpleData>
+		<SimpleData name="altitude">= DO83</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">A bit east of the Northern road, about 20 to 30km North of Estancia Marte Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.766312222,25.695818055</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.26">
+	<name>DU 132</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">Hill at Western edge of Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1185m</SimpleData>
+		<SimpleData name="locality">= DO129A</SimpleData>
+		<SimpleData name="altitude">= DO129A</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Hill at Western edge of Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.160091575944,25.4357272522</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.27">
+	<name>DU 3</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">on hill, about 30km West of Cuatrocienegas up to Microonda, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">on hill, about 30km West of Cuatrocienegas up to Microonda, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.06386,26.98542</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.28">
+	<name>DU 88</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">El Amparo 500m towards Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Amparo  towards Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.586846389,25.452269167</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.29">
+	<name>DU 89</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. intermedius?</SimpleData>
+		<SimpleData name="collector">Cuatrocienegas MEX30 towards San Pedro, near &quot;&quot;balneario&quot;&quot;, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cuatrocienegas MEX30 towards San Pedro, near &quot;&quot;balneario&quot;&quot;, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.484684722,26.76771</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.30">
+	<name>EFA 1047</name>
+	<description>Edward Frederick Anderson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Near Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Near Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.114668029,25.503871718</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.31">
+	<name>EFA 1054</name>
+	<description>Edward Frederick Anderson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Big Bend National Park San Vicente (old road), Texas, USA</SimpleData>
+		<SimpleData name="species">503m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Big Bend National Park San Vicente (old road), Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.209863,29.322232</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.32">
+	<name>EFA 1685</name>
+	<description>Edward Frederick Anderson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Langtry, Texas, USA</SimpleData>
+		<SimpleData name="species">427m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Langtry, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.5587249,29.8085361</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.33">
+	<name>EFA 931</name>
+	<description>Edward Frederick Anderson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Alpine South Texas, USA</SimpleData>
+		<SimpleData name="species">1219m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Alpine South Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.6615786,30.3570039</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.34">
+	<name>EFA 933</name>
+	<description>Edward Frederick Anderson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Panther Junction, East Tornillo Creek, Texas, USA</SimpleData>
+		<SimpleData name="species">625m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Panther Junction, East Tornillo Creek, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.062197589778,29.992226016341</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.35">
+	<name>EFA 941</name>
+	<description>Edward Frederick Anderson</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">South-West of Big Bend National Park HQ, Texas, USA</SimpleData>
+		<SimpleData name="species">1158m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Big Bend National Park HQ, Texas, USA</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.256645897989,29.334465684059</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.36">
+	<name>GL&amp;F 1630</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">hills just East of Sanderson, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">hills just East of Sanderson, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3969252,30.1406783</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.37">
+	<name>GL&amp;F 1688</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus fma. intermedius</SimpleData>
+		<SimpleData name="collector">Sierra de la Paila, km 496, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sierra de la Paila, km 496, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.742601667,25.901326389</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.38">
+	<name>GL&amp;F 2183</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus fma. intermedius</SimpleData>
+		<SimpleData name="collector">mountain, South-West border of Laguna de Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">mountain, South-West border of Laguna de Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.924968307,25.221868961</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.39">
+	<name>GM 239</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">El Hundido</SimpleData>
+		<SimpleData name="species">770m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Hundido</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.5931576,28.4002437</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.40">
+	<name>HK 1239</name>
+	<description>Horst Kuenzler</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5456116,31.2638905</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.41">
+	<name>HK 1603</name>
+	<description>Horst Kuenzler</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.0000001,27.3333331</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.42">
+	<name>HT 703</name>
+	<description>P. Hallet (plants collected by Alfred Bernhard Lau)</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Coyame, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="species">1700m</SimpleData>
+		<SimpleData name="locality">28/4/1974</SimpleData>
+		<SimpleData name="altitude">together with Escobaria tuberculosa, Echinocereus dasyacanthus</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Coyame, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.0946093,29.4615113</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.43">
+	<name>IDD 1001</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. intermedius</SimpleData>
+		<SimpleData name="collector">San Rafael, Durango, Mexico</SimpleData>
+		<SimpleData name="species">15/10/2007</SimpleData>
+		<SimpleData name="locality">15/10/2007</SimpleData>
+		<SimpleData name="altitude">= IDD48/03</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Rafael, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.7690479,24.320821</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.44">
+	<name>JJH 30336</name>
+	<description>Josef Jakob Halda</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. hintonii</SimpleData>
+		<SimpleData name="collector">El Herrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Herrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.674581,23.5760188</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.45">
+	<name>JJH 30337</name>
+	<description>Josef Jakob Halda</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. hintonii</SimpleData>
+		<SimpleData name="collector">Piedra Blanca, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Piedra Blanca, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6418832,23.5692228</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.46">
+	<name>JM 122</name>
+	<description>Josef Mikuláš</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Fort Stockton, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Fort Stockton, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.883662,30.891901</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.47">
+	<name>JM 172</name>
+	<description>John Miller</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Shafter, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Shafter, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.3061281,29.8173646</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.48">
+	<name>JM 20</name>
+	<description>John Miller</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Terlingua Ranch, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Terlingua Ranch, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.4777215,29.4304509</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.49">
+	<name>JM 25</name>
+	<description>John Miller</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mariposa Mine, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mariposa Mine, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.6946325,29.3182524</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.50">
+	<name>JM 38</name>
+	<description>John Miller</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Fort Stockton East Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Fort Stockton East Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.8632018,30.8953493</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.51">
+	<name>JO 479</name>
+	<description>Josef Odehnal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">4km North of Hot Springs, Texas, USA</SimpleData>
+		<SimpleData name="species">1998</SimpleData>
+		<SimpleData name="locality">1998</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Hot Springs, Texas, USA</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9985803,29.2136496642368</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.52">
+	<name>KMR 92A</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Guevara, West of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Guevara, West of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.48333,27.31667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.53">
+	<name>KMR 92B</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Rancho La Puerta, West of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rancho La Puerta, West of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.48333,27.3</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.54">
+	<name>KMR 92C</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Ocampo to Galveston, West of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ocampo to Galveston, West of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.36667,27.28333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.55">
+	<name>KMR 93</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">18 km South-East of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.843344751711,27.9384201572855</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.56">
+	<name>KMR 93B</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Rancho El Espejo, South-East Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rancho El Espejo, South-East Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.4647,27.20775</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.57">
+	<name>KMR 99</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Parras- in gospel mill, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Parras- in gospel mill, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.919707512517,25.408415952412</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.58">
+	<name>KMR 99A</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">North-East of ast of El Capulín, Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">ast of El Capulín, Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.242752778,25.382044167</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.59">
+	<name>KMR 99B</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">West of Abrevadero, Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Abrevadero, Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.0646637,25.4069112</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.60">
+	<name>KPP 1656</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">classic locality, Rio Nazas, Durango, Mexico</SimpleData>
+		<SimpleData name="species">19/03/2011</SimpleData>
+		<SimpleData name="locality">19/03/2011</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">classic locality, Rio Nazas, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.123744722,25.225906389</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.61">
+	<name>KPP 1703</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">01/01/2012</SimpleData>
+		<SimpleData name="locality">01/01/2012</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9729103,28.0529459</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.62">
+	<name>KPP 1865</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Sierra Ovejas, lok. Thel. lauseri, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">10/02/2015</SimpleData>
+		<SimpleData name="locality">10/02/2015</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sierra Ovejas, lok. Thel. lauseri, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.1,27.23333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.63">
+	<name>LH 390</name>
+	<description>Ladislav Horáček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Matehuala, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Matehuala, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.604046,23.5229037</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.64">
+	<name>LH 483</name>
+	<description>Ladislav Horáček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. bravoanus</SimpleData>
+		<SimpleData name="collector">Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5110812,22.9103315</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.65">
+	<name>LLOYD 21</name>
+	<description>Francis Ernest Lloyd</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Escondido Creek, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Escondido Creek, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.8904984,28.8300831</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.66">
+	<name>LLOYD 34</name>
+	<description>Francis Ernest Lloyd</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Hacienda de Cedros, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Hacienda de Cedros, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.77387,24.67919</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.67">
+	<name>LX 274</name>
+	<description>Alexander Lux</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. intermedius</SimpleData>
+		<SimpleData name="collector">Paila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Paila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.145923,25.6506482</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.68">
+	<name>MC 400</name>
+	<description>Martina Colli</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">El Pueblito, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="species">1500m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Pueblito, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.1116507,29.1010016</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.69">
+	<name>MK 148.441</name>
+	<description>Miloš Kaplan</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Jose Maria Morelos, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jose Maria Morelos, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.433734,29.1001363</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.70">
+	<name>MK 26.68</name>
+	<description>Miloš Kaplan</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Villa Real, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Villa Real, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5869152,28.6923557</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.71">
+	<name>MMR 4.3</name>
+	<description>Milan Majer</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. intermedius / lloydii</SimpleData>
+		<SimpleData name="collector">Cerro Bola, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cerro Bola, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.0927131,25.1407393</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.72">
+	<name>MMR 4.4</name>
+	<description>Milan Majer</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">El Amparo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Amparo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.484605556,26.681671944</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.73">
+	<name>MMR 4.5</name>
+	<description>Milan Majer</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Estanque de Menchaca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Estanque de Menchaca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.647395,27.1304675</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.74">
+	<name>MZ 1297</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Boquillas del Carmen, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Boquillas del Carmen, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.8344557,29.0961296</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.75">
+	<name>MZ 27</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Sierra de Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sierra de Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.9757705,25.375884</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.76">
+	<name>MZ 402</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. hintonii</SimpleData>
+		<SimpleData name="collector">Matehuala III, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Matehuala III, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.64493502,23.649299649</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.77">
+	<name>PAR 322</name>
+	<description>Pavlosek Rostislav</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">El Florenio, San Felipe, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="species">22/03/2006</SimpleData>
+		<SimpleData name="locality">22/03/2006</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Florenio, San Felipe, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.865884050336,21.256400315358</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.78">
+	<name>PAR 327</name>
+	<description>Pavlosek Rostislav</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Gallegos, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="species">2000m</SimpleData>
+		<SimpleData name="locality">23/03/2006</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Gallegos, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.6983931,22.6470128</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.79">
+	<name>PAR 348</name>
+	<description>Pavlosek Rostislav</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Echido Nuevo Sacramento, Sierra El Capulin, North of Monclova, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">28/03/2006</SimpleData>
+		<SimpleData name="locality">28/03/2006</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Echido Nuevo Sacramento, Sierra El Capulin, North of Monclova, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.041768611,26.778787778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.80">
+	<name>PAR 349</name>
+	<description>Pavlosek Rostislav</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Los Charcos, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">28/03/2006</SimpleData>
+		<SimpleData name="locality">28/03/2006</SimpleData>
+		<SimpleData name="altitude">small form</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Los Charcos, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.7378698,28.3300679</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.81">
+	<name>PC 26</name>
+	<description>Petr Česal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Low hills, gravel, Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Low hills, gravel, Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.892888915,27.9656187</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.82">
+	<name>PH 509.11</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Southern slopes of the Sierra Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1200-1410m</SimpleData>
+		<SimpleData name="locality">16-Nov-03</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Southern slopes of the Sierra Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.22095,25.35098</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.83">
+	<name>PH 551.1</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Sierra la Paila, North of San José de la Paila, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1630m</SimpleData>
+		<SimpleData name="locality">09-Nov-04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sierra la Paila, North of San José de la Paila, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.664888333,25.716821111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.84">
+	<name>PP 1010</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">La Linda, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">northern form</SimpleData>
+		<SimpleData name="locality">northern form</SimpleData>
+		<SimpleData name="altitude">northern form</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Linda, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.8168793,29.4494313</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.85">
+	<name>PP 1011</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Cuatro Palmas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cuatro Palmas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.560083056,29.288480278</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.86">
+	<name>PP 1415</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Laguna del Rey to Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2005</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Laguna del Rey to Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.367157,27.0310889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.87">
+	<name>PP 1578</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Ejido Lucio Blanco, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2013</SimpleData>
+		<SimpleData name="locality">2013</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ejido Lucio Blanco, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.188611389,26.165299722</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.88">
+	<name>PP 539</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus fma. intermedius</SimpleData>
+		<SimpleData name="collector">Cuatro Ciénegas, near factory, Municipio Cuatro Ciénegas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="altitude">= PP353, PP539</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cuatro Ciénegas, near factory, Municipio Cuatro Ciénegas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.035993889,26.991843611</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.89">
+	<name>PP 565</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">San Rafael, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Rafael, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5595358,25.3642699</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.90">
+	<name>PP 989</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">El Hundido, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">= PP989, RS581A</SimpleData>
+		<SimpleData name="locality">= PP989, RS581A</SimpleData>
+		<SimpleData name="altitude">= PP989, RS581A</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Hundido, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.9801842,21.7625922</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.91">
+	<name>REP 1216b</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Huasteca Canon, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">900m</SimpleData>
+		<SimpleData name="locality">4/12/1976</SimpleData>
+		<SimpleData name="altitude">together with REP1212-1216d, Ferocactus hamatacanthus, Escobaria roseana, Echinocereus salmdyckianus, Neolloydia conoidea</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Huasteca Canon, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.4594525,25.6544318</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.92">
+	<name>REP 445</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Ojo Caliente, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1600m</SimpleData>
+		<SimpleData name="locality">7/9/1971</SimpleData>
+		<SimpleData name="altitude">together with REP441-446</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ojo Caliente, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.8375014,25.6214308</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.93">
+	<name>REP 485</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Perote by Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1600m</SimpleData>
+		<SimpleData name="locality">13/9/1971</SimpleData>
+		<SimpleData name="altitude">together with REP480-487</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Perote by Parras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.21234,25.44112</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.94">
+	<name>RS 1255</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">before Ejido Nuevo Yucatan, Paila, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">28/6/04</SimpleData>
+		<SimpleData name="locality">28/6/04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">before Ejido Nuevo Yucatan, Paila, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.759896667,25.941991389</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.95">
+	<name>SB 1156</name>
+	<description>Steven (Steve) Brack</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. lloydii</SimpleData>
+		<SimpleData name="collector">Rodeo, Durango, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rodeo, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.578476,25.1953827</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.96">
+	<name>SB 403</name>
+	<description>Steven (Steve) Brack</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Crockett County, Texas, USA</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Crockett County, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.3766686,30.6517377</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.97">
+	<name>WCO 48</name>
+	<description>Wolfgang Colotti</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">South of Durango, Mexico</SimpleData>
+		<SimpleData name="species">1971</SimpleData>
+		<SimpleData name="locality">1971</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Durango, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.833333,24.833333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.98">
+	<name>WTH 93</name>
+	<description>Wolter ten Hoeve</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">ariocarpus fissuratus v. intermedius</SimpleData>
+		<SimpleData name="collector">Almost on top of the hill to the South-East of Antiguos Mineras del Norte, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">2001</SimpleData>
+		<SimpleData name="locality">2001</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Almost on top of the hill to the South-East of Antiguos Mineras del Norte, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.001455833,26.784403889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.99">
+	<name>BP 924</name>
+	<description>Brian Penick</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Jeff Davis County)</SimpleData>
+		<SimpleData name="locality">23/09/2024</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Jeff Davis County, Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.150169,30.7018281</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.100">
+	<name>GCG 10634</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Black Gap WMA, Brewster Co.)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Black Gap WMA, Brewster Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.887032,29.561265</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.101">
+	<name>GCG 10708</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Ft.Stockton-Bakersfield, Pecos Co.)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Ft.Stockton-Bakersfield, Pecos Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3079223,30.8116024</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.102">
+	<name>GCG 10877</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. lloydii f.</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (5 de Mayo)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">5 de Mayo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.0020873,29.3332062</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.103">
+	<name>GCG 10932</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. fissuratus f.</SimpleData>
+		<SimpleData name="collector">Mexicó : Chihuahua (1,5km before Tres Marias, Mpo.Manuel Benavides)</SimpleData>
+		<SimpleData name="locality">very nice form</SimpleData>
+		<SimpleData name="altitude">very nice form</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">1,5km before Tres Marias, Mpo.Manuel Benavides, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.66627,29.14271</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.104">
+	<name>GCG 10935</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Chihuahua (Puente El Ararito before El Alamo, Coyame - Ojinaga)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Puente El Ararito before El Alamo, Coyame - Ojinaga, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.525295922,29.36421992</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.105">
+	<name>GCG 10936</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. fissuratus f.</SimpleData>
+		<SimpleData name="collector">Mexicó : Chihuahua (E of El Saucito, Sra.Grande, Coayame)</SimpleData>
+		<SimpleData name="locality">nice north lloydii aff. form</SimpleData>
+		<SimpleData name="altitude">nice north lloydii aff. form</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">E of El Saucito, Sra.Grande, Coayame, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.29904,29.010344722</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.106">
+	<name>GCG 10937</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (before Purtecitos, W of Ocampo)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">before Purtecitos, W of Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.860799722,27.284151389</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.107">
+	<name>GCG 10938</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. fissuratus f.</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Caňon Santa Elena, Mpo. Ocampo)</SimpleData>
+		<SimpleData name="locality">very nice tubercules form</SimpleData>
+		<SimpleData name="altitude">very nice tubercules form</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Caňon Santa Elena, Mpo. Ocampo, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9785175,27.853184444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.108">
+	<name>GCG 10940</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. hintonii</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (San Vincente, Sierra Jicote)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Vincente, Sierra Jicote, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.021131389,23.658549167</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.109">
+	<name>GCG 10957</name>
+	<description>GCG - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. lloydii f.</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Cinco de Mayo, Mpo.Viesca)</SimpleData>
+		<SimpleData name="locality">very nice form</SimpleData>
+		<SimpleData name="altitude">very nice form</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Cinco de Mayo, Mpo.Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.538176944,25.056005555</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.110">
+	<name>GM 039</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. hintonii</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (Palmas, 1600 m)</SimpleData>
+		<SimpleData name="locality">1996</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Palmas,, San Louis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.189261667,23.169066944</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.111">
+	<name>GM 111</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuilauila (Cuatrocienega El Retiro, 860 m)</SimpleData>
+		<SimpleData name="locality">1996</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Cuatrocienega El Retiro,, Coahuilauila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.134202778,27.041721944</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.112">
+	<name>GM 629.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  intermedius</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuilauila (Estanque de Leon, 1165 m)</SimpleData>
+		<SimpleData name="locality">2002</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Estanque de Leon,, Coahuilauila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.206044722,26.099555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.113">
+	<name>GM 671.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuilauila (San Miguel, 900 m)</SimpleData>
+		<SimpleData name="locality">2002</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Miguel,, Coahuilauila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.806510556,25.426155278</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.114">
+	<name>GM 1075.10</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Casa Blanca, 650 m)</SimpleData>
+		<SimpleData name="locality">2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Casa Blanca,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.134437,25.4453455</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.115">
+	<name>GM 1082.11</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (El Jabali, 1300 m)</SimpleData>
+		<SimpleData name="locality">2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Jabali,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.012135833,26.618493056</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.116">
+	<name>GM 1082.6</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Cero Blanco, 1220 m)</SimpleData>
+		<SimpleData name="locality">2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Cero Blanco,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.39831,28.26647</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.117">
+	<name>GM 1233.14</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (El Retiro, 820 m)</SimpleData>
+		<SimpleData name="locality">30/10/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Retiro,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6796097,25.464093</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.118">
+	<name>GM 1233.28</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (San Miguel, 900 m)</SimpleData>
+		<SimpleData name="locality">31/10/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Miguel,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9494602,25.6991232</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.119">
+	<name>GM 1233.31</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Nuevo Milagro - S-ra Carmen, 1300 m)</SimpleData>
+		<SimpleData name="locality">31/10/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Nuevo Milagro - S-ra Carmen,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.73837,28.74868</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.120">
+	<name>GM 1235.3</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Los Temporales, 1260 m)</SimpleData>
+		<SimpleData name="locality">02/11/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Los Temporales,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3350501,28.9564464</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.121">
+	<name>GM 1331.11</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Chihuahua (El Fortin, 1020 m)</SimpleData>
+		<SimpleData name="locality">02/07/2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Fortin,, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.0630036,29.0446222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.122">
+	<name>GM 1331.18</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Chihuahua (Sierra el Peguis, 1375 m)</SimpleData>
+		<SimpleData name="locality">02/07/2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Sierra el Peguis,, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.7774932,29.6248262</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.123">
+	<name>GM 1334.22</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (La Harina, 970 m)</SimpleData>
+		<SimpleData name="locality">03/07/2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Harina,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.910983056,28.6747</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.124">
+	<name>GM 1501.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Las Flores, 1115 m)</SimpleData>
+		<SimpleData name="locality">03/04/2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Las Flores,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.68932,27.0437717</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.125">
+	<name>GM 1640</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Hercules, 1390 m)</SimpleData>
+		<SimpleData name="locality">04/03/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Hercules,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.7920214,28.0428005</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.126">
+	<name>GM 1640.8</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (El Alicante, 1290 m)</SimpleData>
+		<SimpleData name="locality">04/03/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Alicante,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.5702201,27.9398544</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.127">
+	<name>IDD 1680</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (smer Rancho de Campana)</SimpleData>
+		<SimpleData name="locality">01/04/2012</SimpleData>
+		<SimpleData name="altitude">idd3112 GPS 427, 1506 m n. m., lokalita od Mirka Marka</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">smer Rancho de Campana, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.78333,26.58333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.128">
+	<name>BKM 859</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  LLOYDII</SimpleData>
+		<SimpleData name="collector">Mexicó : Durango (Las Animas, 1 KM before village, alt. 1396 m)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Las Animas, 1 KM before village, alt., Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.459520556,24.154130278</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.129">
+	<name>BKM 866</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  LLOYDII</SimpleData>
+		<SimpleData name="collector">Mexicó : Durango (Santa Elena alt. 1889 m)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Santa Elena alt., Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.473800833,23.611094722</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.130">
+	<name>BKM 868</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  LLOYDII</SimpleData>
+		<SimpleData name="collector">Mexicó : Durango (Siete Zacates, behind village KM 2)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Siete Zacates, behind village KM 2, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.628245278,24.539602222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.131">
+	<name>BKM 905</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus LLOYDII MAGNIFICUS</SimpleData>
+		<SimpleData name="collector">Mexicó : Zacatecas (San Miguel I., 2 KM before village in canyon)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Miguel I., 2 KM before village in canyon, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.623527222,22.785558889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.132">
+	<name>BKM 919</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus LLOYDII MAGNIFICUS</SimpleData>
+		<SimpleData name="collector">Mexicó : Zacatecas (San Felipe)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Felipe, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.1067644,23.7889289</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.133">
+	<name>JS 1800</name>
+	<description>JS - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Black Gap, SE of Big Bend, Brewter Co.)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Black Gap, SE of Big Bend, Brewter Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.196722622817,29.138405162159</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.134">
+	<name>JS 1803</name>
+	<description>JS - gerardo.cz</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (behined Terlingua, Brewster Co.)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">behined Terlingua, Brewster Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.606638,29.319294</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.135">
+	<name>KMR 94A</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  / lloydii complex</SimpleData>
+		<SimpleData name="collector">La Virgen, North of Viesca, Coahuila, Mexicó</SimpleData>
+		<SimpleData name="locality">27/06/09</SimpleData>
+		<SimpleData name="altitude">a. 'intermedius'</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Virgen, North of Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.11484,27.87146</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.136">
+	<name>KMR 94B</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  / lloydii complex</SimpleData>
+		<SimpleData name="collector">Emiliano Zapata, North of Viesca, Coahuila, Mexicó</SimpleData>
+		<SimpleData name="locality">27/06/09</SimpleData>
+		<SimpleData name="altitude">a. 'intermedius'</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Emiliano Zapata, North of Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.993105325379,25.485331334865</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.137">
+	<name>KMR 460</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Zacatecas (Gallegos to San Rafael)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Gallegos to San Rafael, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.097976111,21.486114445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.138">
+	<name>PD 45</name>
+	<description>Pavel Duchek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (San Jose de Carranza)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Jose de Carranza, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.5605455,27.8369512</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.139">
+	<name>PP 565</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  lloydii</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (San Raphael)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Raphael, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.676946944,25.511260555</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.140">
+	<name>PA 0524</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. intermedius</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Laguna de Mayrán II, severní okraj, 1127 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Laguna de Mayrán II, severní okraj,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.53217,25.82684</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.141">
+	<name>PA 0613</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. intermedius</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (8 km za Bouillas del Refugio, 1300 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">8 km za Bouillas del Refugio,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.470506667,25.553074166</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.142">
+	<name>PA 1458</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Severní Coahuila, 1129 m)</SimpleData>
+		<SimpleData name="locality">30/10/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Severní Coahuila,, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.486245833,28.541528055</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.143">
+	<name>PA 1518</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. lloydii</SimpleData>
+		<SimpleData name="collector">Mexicó : Durango (Západne od Nazas, 1398 m)</SimpleData>
+		<SimpleData name="locality">3/11/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Západne od Nazas,, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.077685861,25.247098329</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.144">
+	<name>RUS 347</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Rancho Las Pacas)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Rancho Las Pacas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.620961111,27.344901389</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.145">
+	<name>RUS 474</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. hintonii</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (Sierra Jicote, 1814 m)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Sierra Jicote,, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.122638611,22.939423055</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.146">
+	<name>SB 1568</name>
+	<description>Steven (Steve) Brack</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. hintonii</SimpleData>
+		<SimpleData name="collector">Mexicó :  (South-West of Matehuala)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">South-West of Matehuala, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.638603158593,23.665167239339</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.147">
+	<name>VZ 339</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Shafter, Hudspeth Co.)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Shafter, Hudspeth Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.386472492084,31.456188094352</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.148">
+	<name>VCCB 343</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Santiago Mts., Brewster Co.)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Santiago Mts., Brewster Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.41629,29.83518</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.149">
+	<name>VZ 405</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (Hacienda El Capulín)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Hacienda El Capulín, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.649625556,25.461663611</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.150">
+	<name>VZ 408</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (Rancho Puerto de San José)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Rancho Puerto de San José, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.08333,27.73333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.151">
+	<name>VCCB 409</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (Rancho Sacramento)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Rancho Sacramento, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.756494084,26.939832568</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.152">
+	<name>VZD 412</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (Laguna de la Leche)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Laguna de la Leche, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.869705556,27.227235833</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.153">
+	<name>VZD 414</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (La Jarita)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Jarita, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.261990278,27.914834722</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.154">
+	<name>VZ 415</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (Los Americanos)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Los Americanos, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.28492,27.176674723</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.155">
+	<name>VCCB 424</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. lloydii</SimpleData>
+		<SimpleData name="collector">Mexicó : Zacatecas  (San Rafael .)</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Rafael ., Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.1106586,24.5918228</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.156">
+	<name>VZ 442</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">USA : Texas (Chaffin Place, Presidio Co.)</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Chaffin Place, Presidio Co., Texas, USA</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.4576923,29.9810004</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.157">
+	<name>VCCB 708</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Censontle)</SimpleData>
+		<SimpleData name="locality">2006</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Censontle, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.36281,27.70468</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.158">
+	<name>VZD 793</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. lloydii</SimpleData>
+		<SimpleData name="collector">Mexicó : Zacatecas (San Miguel)</SimpleData>
+		<SimpleData name="locality">2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Miguel, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.5176792,22.8285492</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.159">
+	<name>VZD 1030</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">Mexicó : Durango  (La Trinidad)</SimpleData>
+		<SimpleData name="locality">2008</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Trinidad, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.134346,25.7955522</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.160">
+	<name>VZ 1092</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Castillon)</SimpleData>
+		<SimpleData name="locality">2008</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Castillon, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.63333,28.26667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.161">
+	<name>VZ 1110</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus ssp. lloydii</SimpleData>
+		<SimpleData name="collector">Mexicó : Zacatecas  (Las Norias)</SimpleData>
+		<SimpleData name="locality">2008</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Las Norias, Zacatecas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.3991556,22.874905</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.162">
+	<name>VCCB 1115</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila  (San José Carranza)</SimpleData>
+		<SimpleData name="locality">2008</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San José Carranza, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.0572781,26.9838552</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.163">
+	<name>VZD 1291</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Nuevo Victoria)</SimpleData>
+		<SimpleData name="locality">5-6/2011</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Nuevo Victoria, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.0188808,27.7733191</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.164">
+	<name>VZD 1371</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. lloyidi</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (El Yegual)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Yegual, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.07576,25.30176</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.165">
+	<name>VZD 1382</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Rancho Buenavista)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Rancho Buenavista, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.267863889,29.083058056</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.166">
+	<name>VZD 1391</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (San Isidro)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Isidro, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.6454913,27.0245482</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.167">
+	<name>VZD 1396</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Borrego)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Borrego, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.286724,28.0925399</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.168">
+	<name>VZD 1400</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Chihuahua (El Molino)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Molino, Chihuahua, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-107.4075801,29.1933903</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.169">
+	<name>VZD 1402</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Durango (La Campana)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Campana, Durango, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.4892768,26.1284309</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.170">
+	<name>VZD 1403</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
+		<SimpleData name="collector">Mexicó : Coahuila (Parritas)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Parritas, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.03333,26.38333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

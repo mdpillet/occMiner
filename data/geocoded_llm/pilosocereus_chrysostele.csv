@@ -1,0 +1,7 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+HU 460,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus chrysostele,"Souza to Pombal, Fazienda Tigre, Paraiba, Brazil",NA,NA,NA,bcss,"Fazenda Tigre, Sousa, Paraiba, Brazil",direct,-7.112000020905,-34.837542473681
+HU 939,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus chrysostele ssp. cearensis,"Tamboril, Ceará, Brazil",NA,NA,NA,bcss,"Tamboril, Ceará, Brazil",direct,-4.8330075,-40.3210323
+RWB 427,Rudi Werner Büneker,pilosocereus chrysostele,Brazil,NA,NA,NA,bcss,Brazil,direct,-10.3333333,-53.2
+HU 460,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus chrysostele,"Souza to Pombal, Fazienda Tigre, Paraiba, Brazil",NA,NA,NA,clcactus,"Fazenda Tigre, Sousa, Paraiba, Brazil",direct,-7.112000020905,-34.837542473681
+HU 939,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus chrysostele ssp. cearensis,"Tamboril, Ceará, Brazil",NA,NA,NA,clcactus,"Tamboril, Ceará, Brazil",direct,-4.8330075,-40.3210323
+RWB 427,Rudi Werner Bueneker,Pilosocereus chrysostele,Brazil  :,NA,NA,NA,clcactus,Brazil,direct,-10.3333333,-53.2

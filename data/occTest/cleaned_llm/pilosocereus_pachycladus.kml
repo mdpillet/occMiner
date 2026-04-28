@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pilosocereus_pachycladus" id="pilosocereus_pachycladus">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>pilosocereus_pachycladus</name>
+  <Placemark id="pilosocereus_pachycladus.1">
+	<name>A&amp;M 1392</name>
+	<description>Giovanna Anceschi, Alberto Magli</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">West of Januaria, Januaria, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">25/06/2016</SimpleData>
+		<SimpleData name="locality">25/06/2016</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Januaria, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-45.2045505,-15.317185</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.2">
+	<name>A&amp;M 1398</name>
+	<description>Giovanna Anceschi, Alberto Magli</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Between Manga and Iuiú, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">29/06/2016</SimpleData>
+		<SimpleData name="locality">29/06/2016</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Manga, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.594729,-13.2129158</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.3">
+	<name>A&amp;M 1410</name>
+	<description>Giovanna Anceschi, Alberto Magli</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Palmas de Monte Alto, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">01/07/2016</SimpleData>
+		<SimpleData name="locality">01/07/2016</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Palmas de Monte Alto, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.1649976,-14.2636093</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.4">
+	<name>A&amp;M 1455</name>
+	<description>Giovanna Anceschi, Alberto Magli</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">West of the Santa Izabel cemetery, Mucugê, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">18/07/2016</SimpleData>
+		<SimpleData name="locality">18/07/2016</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Santa Izabel cemetery, Mucugê, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.367548380877,-13.003989564897</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.5">
+	<name>A&amp;M 348</name>
+	<description>Giovanna Anceschi, Alberto Magli</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Serra Mineira, Bocaiúva, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">05-May-09</SimpleData>
+		<SimpleData name="locality">05-May-09</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Serra Mineira, Bocaiúva, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5696619,-17.1791366</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.6">
+	<name>AH 323</name>
+	<description>Andreas Hofacker</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">East of Pedra Azul, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">1992</SimpleData>
+		<SimpleData name="locality">1992</SimpleData>
+		<SimpleData name="altitude">= P. glaucescens</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Pedra Azul, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.2793731,-16.0058567</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.7">
+	<name>AH 339</name>
+	<description>Andreas Hofacker</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">West of Morro do Chapéu, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">1992</SimpleData>
+		<SimpleData name="locality">1992</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Morro do Chapéu, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.1570248,-11.5500293</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.8">
+	<name>BB 109.01</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Araçuaí, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">300m</SimpleData>
+		<SimpleData name="locality">27/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Araçuaí, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.0661868,-16.8484451</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.9">
+	<name>BB 128.03</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Sopa, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">1315m</SimpleData>
+		<SimpleData name="locality">05/06/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sopa, Diamantina, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.6948887,-18.1815788</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.10">
+	<name>BB 129.02</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Porto Agraria, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">07/06/1999</SimpleData>
+		<SimpleData name="locality">07/06/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Porto Agraria, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.8182843,-14.3714816</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.11">
+	<name>BB 134.02</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">West of Ipirá, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">15/06/1999</SimpleData>
+		<SimpleData name="locality">15/06/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ipirá, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.7416605,-12.1578337</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.12">
+	<name>BB 85.06</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">West of Morro do Chapéu towards America Dourada, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">790m</SimpleData>
+		<SimpleData name="locality">16/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">America Dourada, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.5247219,-11.3998963</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.13">
+	<name>BB 86.03</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">near Jacarezinho, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">845m</SimpleData>
+		<SimpleData name="locality">16/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jacarezinho, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.8041366,-15.1044714</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.14">
+	<name>BB 89.01</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">1300m</SimpleData>
+		<SimpleData name="locality">19/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.772051,-12.4172071</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.15">
+	<name>BB 96.05</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Rio de Contas near waterfall, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">925m</SimpleData>
+		<SimpleData name="locality">21/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rio de Contas, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.8112152,-13.5803333</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.16">
+	<name>CS 153.3</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Sobradinho 1, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">389m</SimpleData>
+		<SimpleData name="locality">20/10/2007</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sobradinho, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.7957473,-9.469775</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.17">
+	<name>CS 155.1_71</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">South of Massaroca Hwy 407, Bahia, Brasil, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">592m</SimpleData>
+		<SimpleData name="locality">21/10/2007</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Massaroca, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.286779,-9.876159</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.18">
+	<name>CS 177.3</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Barrieras, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">10/11/2007</SimpleData>
+		<SimpleData name="locality">10/11/2007</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Barreiras, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.9967406,-12.1440031</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.19">
+	<name>CS 357.1</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Itinga, Minas Gerais, Brasil</SimpleData>
+		<SimpleData name="species">300m</SimpleData>
+		<SimpleData name="locality">18/11/2009</SimpleData>
+		<SimpleData name="altitude">BB109 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Itinga, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.7702077,-16.6066757</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.20">
+	<name>CS 369.2_131</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Serra Escura, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">620m</SimpleData>
+		<SimpleData name="locality">23/11/2009</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Serra Escura, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.4032006,-12.7704741</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.21">
+	<name>CS 374.3</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Porto Novo, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">498m</SimpleData>
+		<SimpleData name="locality">27/11/2009</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Porto Novo, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.8707923,-13.1573721</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.22">
+	<name>CS 380.3</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Capim Grosso, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">392m</SimpleData>
+		<SimpleData name="locality">03/12/2009</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Capim Grosso, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.0115228,-11.379428</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.23">
+	<name>CS 383.9</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Delfino, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">624m</SimpleData>
+		<SimpleData name="locality">05/12/2009</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Delfino, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.1048995,-10.4966113</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.24">
+	<name>CS 385.3</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Rio Morim Mimoso, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">1226m</SimpleData>
+		<SimpleData name="locality">05/12/2009</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rio Morim Mimoso, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-38.48586,-11.65531</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.25">
+	<name>FR 1223</name>
+	<description>Friedrich Ritter</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Urandi, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">seed</SimpleData>
+		<SimpleData name="locality">seed</SimpleData>
+		<SimpleData name="altitude">seed</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Urandi, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6573988,-14.7680766</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.26">
+	<name>FR 1223</name>
+	<description>Friedrich Ritter</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Below Monte Azul, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">seed</SimpleData>
+		<SimpleData name="locality">seed</SimpleData>
+		<SimpleData name="altitude">seed</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Monte Azul, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.8711742,-15.1531999</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.27">
+	<name>GBG 81/118</name>
+	<description>German Brazil Group</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Mato Verde to Rio Pardo de Minas, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">1981/08</SimpleData>
+		<SimpleData name="locality">1981/08</SimpleData>
+		<SimpleData name="altitude">=GH118</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mato Verde, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.8624286,-15.3942731</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.28">
+	<name>GBG 81/134a</name>
+	<description>German Brazil Group</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Lecinho de Almerida to Caetité, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">1981/08/17</SimpleData>
+		<SimpleData name="locality">1981/08/17</SimpleData>
+		<SimpleData name="altitude">=GH134a</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Caetité, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.4852428,-14.0691776</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.29">
+	<name>GBG 88/401</name>
+	<description>German Brazil Group</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brejinho das Amethistas, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">1988</SimpleData>
+		<SimpleData name="locality">1988</SimpleData>
+		<SimpleData name="altitude">=HU421, GH401, UES52</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Brejinho das Ametistas, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5140263,-14.2868643</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.30">
+	<name>GC 1008.07</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">San Rafael</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Rafael, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.9603407,-21.1134476</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.31">
+	<name>GC 1009.03</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">North of Gruta dos Brejões</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Gruta dos Brejões</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.4345838,-11.007223</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.32">
+	<name>GC 1017.05</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Iuiú</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Iuiú, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5508641,-14.4113008</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.33">
+	<name>GC 1020.07</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">North of Licinio de Almeida</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Licinio de Almeida, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5064545,-14.6835152</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.34">
+	<name>GC 1027.05</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">East of Montes Claros</SimpleData>
+		<SimpleData name="species">cenepequei</SimpleData>
+		<SimpleData name="locality">cenepequei</SimpleData>
+		<SimpleData name="altitude">cenepequei</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Montes Claros, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.8687268,-16.7495727</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.35">
+	<name>GC 358.03</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Vargea Nova</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Várzea Nova, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.9456569,-11.2527934</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.36">
+	<name>GC 369.04</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">South of Sento Sé</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sento Sé, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.8830056,-9.7406436</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.37">
+	<name>GC 378.03</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Xiche Xiche</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Xique-Xique, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7265689,-10.8217193</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.38">
+	<name>GC 380.06</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Mata dos Mendes</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mata dos Mendes, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.9948939,-12.4254259</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.39">
+	<name>GC 381.04</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Piaté</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Piatã, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.7743761,-13.1535638</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.40">
+	<name>GC 492.06</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">West of Itaobim</SimpleData>
+		<SimpleData name="species">woolly</SimpleData>
+		<SimpleData name="locality">woolly</SimpleData>
+		<SimpleData name="altitude">woolly</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Itaobim, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.502275,-16.5614934</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.41">
+	<name>GC 656.04</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Road to Barra</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Barra, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.1414512,-11.0891794</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.42">
+	<name>GC 675.02</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Barrocão</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Barrocão, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-38.5361361,-10.6953606</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.43">
+	<name>GC 685.05</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Sussuarana</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sussuarana, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.2063284,-14.1598189</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.44">
+	<name>GD 47a-3</name>
+	<description>Gérard Delanoy</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.2785248531729,-12.4167370155942</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.45">
+	<name>GD 51-4</name>
+	<description>Gérard Delanoy</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">15km North of Porto-Novo, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Porto Novo, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.8707923,-13.0224738591122</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.46">
+	<name>GD 54-2</name>
+	<description>Gérard Delanoy</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">20km South of Iulu, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Iuiu, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5508641,-14.5911651211837</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.47">
+	<name>GD 57-3</name>
+	<description>Gérard Delanoy</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">BR030, 5km after Guanambi, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Guanambi, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7335549654248,-14.2230615276133</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.48">
+	<name>GD 60-4</name>
+	<description>Gérard Delanoy</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">after Jurema, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jurema, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.8475754,-14.8663583</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.49">
+	<name>GD 64-3</name>
+	<description>Gérard Delanoy</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">5km after GD63, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.1588654,-18.4815183197041</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.50">
+	<name>HU 147</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus ssp. pachycladus</SimpleData>
+		<SimpleData name="collector">North of Serra do Cabral, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="species">9/9/1985</SimpleData>
+		<SimpleData name="locality">9/9/1985</SimpleData>
+		<SimpleData name="altitude">= P. glaucescens?</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Serra do Cabral, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.4125697,-17.8281736</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.51">
+	<name>HU 1944</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">behind Cabeluda, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">= AH436, GC367.04</SimpleData>
+		<SimpleData name="locality">= AH436, GC367.04</SimpleData>
+		<SimpleData name="altitude">= AH436, GC367.04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cabeluda, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.3454635,-9.9772624</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.52">
+	<name>HU 402</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Municipio Espinosa, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Espinosa, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7929277,-14.9042986</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.53">
+	<name>HU 421a</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Minas Gerais and Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="source">llm_approximate</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43,-15</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.54">
+	<name>HU 477</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus ssp. pernambucoensis</SimpleData>
+		<SimpleData name="collector">Parnamirim road, BR 232, Pernambuco, Brazil</SimpleData>
+		<SimpleData name="species">1985</SimpleData>
+		<SimpleData name="locality">1985</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Parnamirim, Pernambuco, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.5778505,-8.0913471</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.55">
+	<name>HU 921</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus ssp. pernambucoensis</SimpleData>
+		<SimpleData name="collector">Tanquinho, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tanquinho, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.1057638,-11.9747061</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.56">
+	<name>NPT 1398</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Jocobina w 27-28km towards Lajes, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">12/1/1991</SimpleData>
+		<SimpleData name="locality">12/1/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jacobina, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.7586057788324,-11.1847057636068</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.57">
+	<name>NPT 1406</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Morro do Chapeu w 21km, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">13/1/1991</SimpleData>
+		<SimpleData name="locality">13/1/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Morro do Chapéu, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.3497856685026,-11.5499656914858</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.58">
+	<name>NPT 1426</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Santana s 28km, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">530m</SimpleData>
+		<SimpleData name="locality">15/1/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Santana, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.05064,-12.979217</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.59">
+	<name>BB 099.07</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brazil : Bahia (Mun. Ituaçu, Mun. Ituaçu  650m)</SimpleData>
+		<SimpleData name="locality">1999/05/23</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Ituaçu, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.2981722,-13.815529</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.60">
+	<name>BB 129.02</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brazil : Minas Gerais (Mun. Montalvania, Porto Agraria)</SimpleData>
+		<SimpleData name="locality">1999/06/07</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Porto Agraria, Montalvânia, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.3667105,-14.414558</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.61">
+	<name>A&amp;M 1398</name>
+	<description>Giovanna Anceschi, Alberto Magli</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brazil : Bahia (between Manga and IuiÃº)</SimpleData>
+		<SimpleData name="locality">29/06/2016</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Manga, Minas Gerais to Iuiú, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.9375384,-14.7552448</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.62">
+	<name>GC 522,09</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brazil :  (Porto Novo)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Porto Novo, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-45.3351826,-19.332748</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.63">
+	<name>GC 667,06</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brazil :  (Porta Nova)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Porta Nova, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.7911253,-9.4551876</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.64">
+	<name>GC 1021,06</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Brazil :  (Serra Escura)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Serra Escura, Minas Gerais, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.7005265,-16.0403936</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.65">
+	<name>NPT 1375</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil 470m</SimpleData>
+		<SimpleData name="locality">08/01/91</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Maçaroca, Juazeiro, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.1929557,-9.3051736</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_pachycladus.66">
+	<name>NPT 1426</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
+		<SimpleData name="field_number">Pilosocereus pachycladus</SimpleData>
+		<SimpleData name="collector">Santana s 28km, Bahia, Brazil 530m</SimpleData>
+		<SimpleData name="locality">15/01/91</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Santana, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.05064,-13.2310270496572</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,468 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+AD 298,Aldo Delladdio,thelocactus conothelos ssp. aurantiacus,"road to Marmolejo, Aramberri, Nuevo Leon, Mexico",1054m,15-Aug-12,NA,bcss,"Marmolejo, Aramberri, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+AD 333,Aldo Delladdio,thelocactus conothelos ssp. argenteus,"San Juan de Aviles, Nuevo Leon, Mexico",1612m,19-Apr-13,NA,bcss,"San Juan de Aviles, Aramberri, Nuevo Leon, Mexico",direct,24.1731513,-100.0704162
+AD 335,Aldo Delladdio,thelocactus conothelos,"South of Tula, Tamaulipas, Mexico",1332m,21-Apr-13,NA,bcss,"Tula, Tamaulipas, Mexico",direction_only,22.9478816,-99.8055882
+AD 417,Aldo Delladdio,thelocactus conothelos ssp. argenteus,"North of La Trinidad, Nuevo Leon, Mexico",1612m,27-Jan-18,NA,bcss,"La Trinidad, Nuevo Leon, Mexico",direction_only,24.0977137,-100.0591686
+AD 507,Aldo Delladdio,thelocactus conothelos ssp. aurantiacus,"El Molino, Aramberri, Nuevo Leon, Mexico",1054m,10-Apr-17,NA,bcss,"El Molino, Aramberri, Nuevo Leon, Mexico",direct,24.1454702,-99.8095698
+AD 684,Aldo Delladdio,thelocactus conothelos,"East of La Naranjita, San Luis Potosí, Mexico",1301m,11-Mar-19,NA,bcss,"La Naranjita, San Luis Potosi, Mexico",direction_only,23.2034315,-100.2154238
+AD 873,Aldo Delladdio,thelocactus conothelos,"Laureles, Matehuala, San Luis Potosí, Mexico",2121m,9-Mar-22,NA,bcss,"Laureles, Matehuala, San Luis Potosi, Mexico",direct,23.6513711,-100.6500236
+AL 287,Dr. Andreas Laras,thelocactus conothelos ssp. aurantiacus,"North of Marmolejo, Nuevo León, México",NA,NA,NA,bcss,"Marmolejo, Nuevo Leon, Mexico",direction_only,24.1346896,-99.7843536
+CH 186,Jaromír Chvastek,thelocactus conothelos,"La Paz, San Antonio de las Castello, San Luis Potosí, Mexico",1992/3/21-/4/27,1992/3/21-/4/27,NA,bcss,"La Paz, San Antonio de las Castello, San Luis Potosi, Mexico",direct,23.688421389,-100.472663056
+CH 194,Jaromír Chvastek,thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo León, Mexico",1992/3/21-/4/27,1992/3/21-/4/27,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+CH 198,Jaromír Chvastek,thelocactus conothelos fma. saussieri,"Doctor Arroyo, Nuevo León, Mexico",1992/3/21-/4/27,1992/3/21-/4/27,NA,bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+CH 237,Jaromír Chvastek,thelocactus conothelos,"Tula, Tamaulipas, Mexico",1992/3/21-/4/27,1992/3/21-/4/27,NA,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+CH 320,Jaromír Chvastek,thelocactus conothelos,"La Gloria, Route 101, Tamaulipas, Mexico",1994/10/20,1994/10/20,NA,bcss,"La Gloria, Route 101, Tamaulipas, Mexico",direct,25.860634402307,-97.489749620431
+CH 338,Jaromír Chvastek,thelocactus conothelos v. aurantiacus fma. nova,"Marmolejo, Nuevo León, Mexico",1050m,1994/10/22,NA,bcss,"Marmolejo, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+CH 472,Jaromír Chvastek,thelocactus conothelos,"Guerrero, San Luis Potosí, Mexico",1775m,1995/4/28,NA,bcss,"Guerrero, San Luis Potosi, Mexico",direct,21.5546766,-99.7699518
+CH 477,Jaromír Chvastek,thelocactus conothelos,"Soledad, San Luis Potosí, Mexico",1535m,1995/4/29,NA,bcss,"Soledad de Graciano Sanchez, San Luis Potosi, Mexico",direct,22.2970555,-100.8671956
+CH 491,Jaromír Chvastek,thelocactus conothelos v. argenteus,"San Juan de Aviles, Nuevo León, Mexico",1550m,1995/4/29,NA,bcss,"San Juan de Aviles, Nuevo Leon, Mexico",direct,24.1731513,-100.0704162
+CH 493,Jaromír Chvastek,thelocactus conothelos v. argenteus,"Sandia Victoria, Nuevo León, Mexico",1635m,1995/4/29,NA,bcss,"Sandia Victoria, Aramberri, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+CS 1050.1,Chris Sherrah,thelocactus conothelos,"Charco Azul, Tamaulipas, Mexico",1082m,03/10/2022,DL971 location,bcss,"Charco Azul, Tamaulipas, Mexico",direct,25.9931228,-97.9841855
+CS 1053.9,Chris Sherrah,thelocactus conothelos,"La Perdida, Tamaulipas, Mexico",1573m,05/10/2022,DL998 location,bcss,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+CS 111.4,Chris Sherrah,thelocactus conothelos v. auranticus,"East of Matehuala, San Luis Potosi, Mexico",1619m,16/06/2007,NA,bcss,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+CS 1112.12,Chris Sherrah,thelocactus conothelos,"Entronque Huizache, San Luis Potosi, Mexico",1443m,10/05/2024,GLASS&GLASS226 location,bcss,"Entronque Huizache, San Luis Potosi, Mexico",direct,22.149808894447,-100.90310915881
+CS 1116.5,Chris Sherrah,thelocactus conothelos v. aurantiacus,"Arramberi, Nuevo Leon, Mexico",1239m,13/05/2024,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+CS 112.2,Chris Sherrah,thelocactus conothelos v. auranticus,"South of Matehuala, San Luis Potosi, Mexico",1610m,16/06/2007,NA,bcss,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+CS 73.10,Chris Sherrah,thelocactus conothelos 'sausseri',"Matehuala to Doctor Arroyo, Nuevo Leon, Mexico",1651m,24/05/2007,NA,bcss,"Matehuala, San Luis Potosi to Doctor Arroyo, Nuevo Leon, Mexico",direct,23.65769673046,-100.622386335177
+CS 73.8,Chris Sherrah,thelocactus conothelos 'sausseri',"Matehuala to Doctor Arroyo, Nuevo Leon, Mexico",1651m,24/05/2007,NA,bcss,"Matehuala, San Luis Potosi to Doctor Arroyo, Nuevo Leon, Mexico",direct,23.65769673046,-100.622386335177
+CS 87.2,Chris Sherrah,thelocactus conothelos,"north Matehuala, Nuevo Leon, Mexico",1817m,30/05/2007,NA,bcss,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+CSD 109,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos,"Bad road behind Palmas, Guerrero, San Luis Potosí, Mexico",01/05/1997,01/05/1997,= IDD114,bcss,"Palmas, Guerrero, San Luis Potosi, Mexico",direct,21.856033342024,-99.488098974522
+CSD 115,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos,"Behind Matehuala towards Doctor Arroyo, La Soledad, San Luis Potosí, Mexico",02/05/1997,02/05/1997,= IDD120,bcss,"La Soledad, San Luis Potosi, Mexico",direct,23.6856814,-100.5070432
+CSD 122,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos fma. sausieri,"Towards Doctor Arroyo, Nuevo León, Mexico",02/05/1997,02/05/1997,= IDD127,bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+CSD 123,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos,"Lobera de Portillo, Nuevo León, Mexico",02/05/1997,02/05/1997,= IDD128,bcss,"Lobera de Portillo, Nuevo Leon, Mexico",direct,23.572674167,-100.213333056
+CSD 129,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos,"Mier y Noriega, Nuevo León, Mexico",03/05/1997,03/05/1997,= IDD135,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+CSD 137,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos v. aurantiacus,"Aramberi, Nuevo León, Mexico",04/05/1997,04/05/1997,= IDD144,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+CSD 149,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos v. aurantiacus,"Marmolejo, Aramberi, Nuevo León, Mexico",05/05/1997,05/05/1997,= IDD159,bcss,"Marmolejo, Aramberri, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+CSD 62,"Jaromír Chvastek, Roman Staník, Igor Dráb",thelocactus conothelos,"Tula, Tamaulipas, Mexico",27/04/1997,27/04/1997,= IDD67,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+CZ 123,"Jaromír Chvastek, Jaroslav Žvak",thelocactus conothelos,"Doctor Arroyo, Nuevo León, Mexico",1987/12/16,1987/12/16,NA,bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+DAR 115,Amante Darmanin,thelocactus conothelos,"Tula, Tamaulipas, Mexico",NA,NA,NA,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+DAR 15,Amante Darmanin,thelocactus conothelos,"Doctor Arroyo, Nuevo León, Mexico",NA,NA,NA,bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+DAR 198,Amante Darmanin,thelocactus conothelos,"La Perdida, Tamaulipas, Mexico",NA,NA,NA,bcss,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+GL 158,Gary Loos,thelocactus conothelos v. aurantiacus,"Zaragoza, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+GL 758,Gary Loos,thelocactus conothelos v. aurantiacus,"Zaragoza, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+GL&F 5529,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",thelocactus conothelos v. argenteus,"Near Ascension, Cerro Hijo, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Ascension, Cerro Hijo, Nuevo Leon, Mexico",direct,24.25994,-99.95372
+GL&F 758,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",thelocactus conothelos v. aurantiacus,"Zaragoza, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+GM 147,Grzegorz Matuszewski,thelocactus conothelos,Tula,NA,NA,NA,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+GM 260,Grzegorz Matuszewski,thelocactus conothelos,Altamira,NA,NA,NA,bcss,"Altamira, Tamaulipas, Mexico",direct,22.5630208,-98.1165184
+GM 390,Grzegorz Matuszewski,thelocactus conothelos,La Perdida,1435m,yellow central spines,yellow central spines,bcss,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+GM 396,Grzegorz Matuszewski,thelocactus conothelos v. argenteus,Sandia,1900m,NA,NA,bcss,"Sandia, Aramberri, Nuevo Leon, Mexico",direct,24.2010934,-100.0767244
+GM 399,Grzegorz Matuszewski,thelocactus conothelos v. argenteus,Sandia,1700m,NA,NA,bcss,"Sandia, Aramberri, Nuevo Leon, Mexico",direct,24.2010934,-100.0767244
+GM 46,Grzegorz Matuszewski,thelocactus conothelos v. argenteus,Sandia -Puentes,1900m,NA,NA,bcss,"Sandia, Puentes, Nuevo Leon, Mexico",direct,25.688030459307,-100.457002562684
+GM 49,Grzegorz Matuszewski,thelocactus conothelos v. aurantiacus,Marmolejos,1050m,NA,NA,bcss,"Marmolejo, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+GM 62,Grzegorz Matuszewski,thelocactus conothelos v. macdowellii,Arteaga,NA,NA,NA,bcss,"Arteaga, Coahuila, Mexico",direct,25.3453685,-100.6831723
+GOMEZ 1250,Carlos Gómez Hinostrosa,thelocactus conothelos,"Mier y Noriega, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+GOMEZ 1250,Carlos Gómez Hinostrosa,thelocactus conothelos,"Mier y Noriega, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+GOMEZ-H 1250,Carlos Gómez Hinostrosa,thelocactus conothelos,"Mier y Noriega, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+GOMEZ-H 1250,Carlos Gómez Hinostrosa,thelocactus conothelos,"Mier y Noriega, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+HT 1068,P. Hallet (plants collected by Alfred Bernhard Lau),thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo Leon, Mexico",900-1300m,26/11/1974,"together with L1063, L1064, L1069",bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+HT 663,P. Hallet (plants collected by Alfred Bernhard Lau),thelocactus conothelos v. argenteus,"road from Ascension to Sandia, Nuevo Leon, Mexico",2200m,3/3/1974,NA,bcss,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+HT 731,P. Hallet (plants collected by Alfred Bernhard Lau),thelocactus conothelos,"road from Cardenas to La Jolla, San Luis Potosi, Mexico",1600-1800m,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",bcss,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+IDD 105/99,Igor D. Dráb,thelocactus conothelos fma.,"Turn to Miquihuana, Tamaulipas, Mexico",30/04/2003,30/04/2003,= IDD645; Altamira form,bcss,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+IDD 107/99,Igor D. Dráb,thelocactus conothelos fma.,"At the turn off towards Villa de Bustamante, Tamaulipas, Mexico",30/04/2003,30/04/2003,= IDD647; red flower!,bcss,"Villa de Bustamante, Tamaulipas, Mexico",direct,23.3580801,-100.0831693
+IDD 114,Igor D. Dráb,thelocactus conothelos,"Bad road behind Palmas, Guerrero, San Luis Potosí, Mexico",01/05/1997,01/05/1997,= CSD109,bcss,"Palmas, Guerrero, San Luis Potosi, Mexico",direct,21.856033342024,-99.488098974522
+IDD 120,Igor D. Dráb,thelocactus conothelos,"Behind Matehuala towards Doctor Arroyo, La Soledad, San Luis Potosí, Mexico",02/05/1997,02/05/1997,= CSD115,bcss,"La Soledad, San Luis Potosi, Mexico",direct,23.6856814,-100.5070432
+IDD 127,Igor D. Dráb,thelocactus conothelos fma. sausieri,"Towards Doctor Arroyo, Nuevo León, Mexico",02/05/1997,02/05/1997,= CSD122,bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+IDD 128,Igor D. Dráb,thelocactus conothelos,"Lobera de Portillo, Nuevo León, Mexico",02/05/1997,02/05/1997,= CSD123,bcss,"Lobera de Portillo, Nuevo Leon, Mexico",direct,23.572674167,-100.213333056
+IDD 135,Igor D. Dráb,thelocactus conothelos,"Mier y Noriega, Nuevo León, Mexico",03/05/1997,03/05/1997,= CSD129,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+IDD 144,Igor D. Dráb,thelocactus conothelos v. aurantiacus,"Aramberi, Nuevo León, Mexico",04/05/1997,04/05/1997,= CSD137,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+IDD 159,Igor D. Dráb,thelocactus conothelos v. aurantiacus,"Marmolejo, Aramberi, Nuevo León, Mexico",05/05/1997,05/05/1997,= CSD149,bcss,"Marmolejo, Aramberri, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+IDD 365,Igor D. Dráb,thelocactus conothelos v. argenteus,"Puentes, km 25.5 towards Sandia Victoria, Nuevo León, Mexico",24/10/2000,24/10/2000,NA,bcss,Puentes,offset_adjusted,20.823720590490723,-97.99555499999998
+IDD 45/99,Igor D. Dráb,thelocactus conothelos ssp. conothelos,"Microwave station on left, Matehuala to Doctor Arroyo",23/04/2003,23/04/2003,"= IDD582; with Mammillaria candida, Coryphantha sp.",bcss,"Matehuala to Doctor Arroyo, Mexico",direct,23.6829942,-100.2020618
+IDD 49A/99,Igor D. Dráb,thelocactus conothelos v. argenteus,"Past the village, to the right, km 19, Sandia La Victoria, Nuevo León, Mexico",23/04/2003,23/04/2003,= IDD587,bcss,"Sandia La Victoria, Nuevo León, Mexico",direct,24.20089,-100.07641
+IDD 51/99,Igor D. Dráb,thelocactus conothelos v. aurantiacus,"Above Marmolejos, Aramberi, Nuevo León, Mexico",24/04/2003,24/04/2003,= IDD589; next to and on the location of Ariocarpus confusus,bcss,"Marmolejos, Aramberri, Nuevo León, Mexico",direct,24.134801111,-99.784346389
+IDD 582,Igor D. Dráb,thelocactus conothelos ssp. conothelos,"Microwave station on left, Matehuala to Doctor Arroyo",23/04/2003,23/04/2003,"= IDD45/99; with Mammillaria candida, Coryphantha sp.",bcss,"Matehuala to Doctor Arroyo, Mexico",direct,23.6829942,-100.2020618
+IDD 587,Igor D. Dráb,thelocactus conothelos v. argenteus,"Past the village, to the right, km 19, Sandia La Victoria, Nuevo León, Mexico",23/04/2003,23/04/2003,= IDD049A/99,bcss,"Sandia La Victoria, Nuevo León, Mexico",direct,24.20089,-100.07641
+IDD 589,Igor D. Dráb,thelocactus conothelos v. aurantiacus,"Above Marmolejos, Aramberi, Nuevo León, Mexico",24/04/2003,24/04/2003,= IDD51/99; next to and on the location of Ariocarpus confusus,bcss,"Marmolejos, Aramberri, Nuevo León, Mexico",direct,24.134801111,-99.784346389
+IDD 645,Igor D. Dráb,thelocactus conothelos fma.,"Turn to Miquihuana, Tamaulipas, Mexico",30/04/2003,30/04/2003,= IDD105/99; Altamira form,bcss,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+IDD 647,Igor D. Dráb,thelocactus conothelos fma.,"At the turn off towards Villa de Bustamante, Tamaulipas, Mexico",30/04/2003,30/04/2003,= IDD107/99; red flower!,bcss,"Villa de Bustamante, Tamaulipas, Mexico",direct,23.3580801,-100.0831693
+IDD 67,Igor D. Dráb,thelocactus conothelos,"Tula, Tamaulipas, Mexico",27/04/1997,27/04/1997,= CSD62,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+JABO 314,Jaroslav Bohata,thelocactus conothelos v. argenteus,"South-West of Ascension, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Ascension, Nuevo Leon, Mexico",direction_only,25.757418,-100.2750526
+KMR 31,Miroslav Kupčák,thelocactus conothelos,"South of Jaumave, Tamaulipas, Mexico",2004,2004,NA,bcss,"Jaumave, Tamaulipas, Mexico",direction_only,23.4719813,-99.4263583
+KMR 31A,Miroslav Kupčák,thelocactus conothelos,"San Lorenzo, Jaumave, Tamaulipas, Mexico",2004,2004,NA,bcss,"San Lorenzo, Jaumave, Tamaulipas, Mexico",direct,23.371954167,-99.404514444
+KMR 36,Miroslav Kupčák,thelocactus conothelos ssp. aurantiacus,"La Pena, South-West of Miquihuana, Tamaulipas, Mexico",2004,2004,NA,bcss,"Miquihuana, Tamaulipas, Mexico",direction_only,23.5860223,-99.7934682
+KMR 5,Miroslav Kupčák,thelocactus conothelos ssp. conothelos x ssp. aurantiacus,"San Antonio de Pena Nevada, East of Doctor Arroyo, Nuevo León, Mexico",2004,2004,NA,bcss,"Doctor Arroyo, Nuevo León, Mexico",direction_only,23.8042046,-100.2256635
+KMR 56,Miroslav Kupčák,thelocactus conothelos ssp. aurantiacus,"Marmolejos, Aramberri, Nuevo León, Mexico",2004,2004,NA,bcss,"Marmolejos, Aramberri, Nuevo León, Mexico",direct,24.134801111,-99.784346389
+KMR 67,Miroslav Kupčák,thelocactus conothelos,"South of Siberia, South of Zaragoza, Nuevo León, Mexico",2004,2004,NA,bcss,"Zaragoza, Nuevo León, Mexico",direction_only,24.8514442,-99.5584592
+KMR 67A,Miroslav Kupčák,thelocactus conothelos,"East of Joya de San Diego, South of Zaragoza, Nuevo León, Mexico",2004,2004,NA,bcss,"Zaragoza, Nuevo León, Mexico",direction_only,24.8514442,-99.5584592
+KMR 68,Miroslav Kupčák,thelocactus conothelos,"Ejido Pena Nevada direction to Siberia, South-West of Zaragoza, Nuevo León, Mexico",2004,2004,NA,bcss,"Zaragoza, Nuevo León, Mexico",direction_only,24.8514442,-99.5584592
+KPP 1698,Karel Pavel Pavlíček,thelocactus conothelos,"Carmen, Nuevo Leon, Mexico",01/01/2012,01/01/2012,NA,bcss,"Carmen, Nuevo Leon, Mexico",direct,25.9368419,-100.3613419
+KPP 1722,Karel Pavel Pavlíček,thelocactus conothelos,"Dr. Arroyo, Carmen, Nuevo Leon, Mexico",01/01/2012,01/01/2012,NA,bcss,"Carmen, Doctor Arroyo, Nuevo Leon, Mexico",direct,23.795739,-100.3106026
+KPP 1726,Karel Pavel Pavlíček,thelocactus conothelos,"San Jose del Llano, Tamaulipas, Mexico",01/10/2012,01/10/2012,NA,bcss,"San Jose del Llano, Tamaulipas, Mexico",direct,23.5350824,-99.9355695
+KS 29,"Libor Kunte, Jaroslav Šnicer",thelocactus conothelos v. macdowellii,"Arteaga, Coahuila, Mexico",NA,NA,NA,bcss,"Arteaga, Coahuila, Mexico",direct,25.3453685,-100.6831723
+L 1068,Alfred Bernhard Lau,thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo Leon, Mexico",900-1300m,26/11/1974,"together with L1063, L1064, L1069",bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+L 663,Alfred Bernhard Lau,thelocactus conothelos v. argenteus,"road from Ascension to Sandia, Nuevo Leon, Mexico",2200m,3/3/1974,NA,bcss,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+L 731,Alfred Bernhard Lau,thelocactus conothelos,"road from Cardenas to La Jolla, San Luis Potosi, Mexico",1600-1800m,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",bcss,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+LAU 1068,Alfred Bernhard Lau,thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo Leon, Mexico",900-1300m,26/11/1974,"together with L1063, L1064, L1069",bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+LAU 663,Alfred Bernhard Lau,thelocactus conothelos v. argenteus,"road from Ascension to Sandia, Nuevo Leon, Mexico",2200m,3/3/1974,NA,bcss,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+LAU 731,Alfred Bernhard Lau,thelocactus conothelos,"road from Cardenas to La Jolla, San Luis Potosi, Mexico",1600-1800m,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",bcss,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+LH 124,Ladislav Horáček,thelocactus conothelos,"Aramberri, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+LH 28,Ladislav Horáček,thelocactus conothelos,"Tula, Tamaulipas, Mexico",NA,NA,NA,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+LH 343,Ladislav Horáček,thelocactus conothelos v. argenteus,"Sandia Victoria, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+LH 840,Ladislav Horáček,thelocactus conothelos v. argenteus,"Sandia y Victoria, Nuevo León, Mexicó",March 2001,March 2001,NA,bcss,"Sandia La Victoria, Nuevo León, Mexico",direct,24.20089,-100.07641
+LRM 298,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",thelocactus conothelos,"Monte Redondo, Tamaulipas, Mexico",2001,2001,NA,bcss,"Monte Redondo, Tamaulipas, Mexico",direct,23.3681934,-99.4755028
+LRM 313,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo León, Mexico",2001,2001,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+LRM 336,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",thelocactus conothelos,"Puente Oregano, San Luis Potosí/Nuevo León, Mexico",2001,2001,NA,bcss,"Puente Oregano, San Luis Potosí, Mexico",direct,21.952639898263,-100.002944138834
+LRM 449,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",thelocactus conothelos v. argenteus,"St Juan de Aviles, Nuevo León, Mexico",2002,2002,NA,bcss,"San Juan de Aviles, Nuevo León, Mexico",direct,24.1731513,-100.0704162
+LRM 81,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",thelocactus conothelos v. aurantiacus,"Marmelejos, Nuevo León, Mexico",1999,1999,NA,bcss,"Marmolejos, Nuevo León, Mexico",direct,24.134801111,-99.784346389
+MK 117.378,Miloš Kaplan,thelocactus conothelos v. argenteus-aurantiacus,"Sn. Antonio Pena Nevada, Nuevo Leon, Mexico",intermediate form,intermediate form,intermediate form,bcss,"San Antonio de Peña Nevada, Nuevo Leon, Mexico",direct,23.7458279,-99.9802958
+MK 118.383,Miloš Kaplan,thelocactus conothelos v. argenteus,"South-West Ascension, Nuevo Leon, Mexico",long ivory spines,long ivory spines,long ivory spines,bcss,"Ascension, Nuevo Leon, Mexico",direction_only,25.757418,-100.2750526
+MK 45.149,Miloš Kaplan,thelocactus conothelos v. aurantiacus,"North of Zaragoza, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Zaragoza, Nuevo Leon, Mexico",direction_only,24.8514442,-99.5584592
+MK 46.150,Miloš Kaplan,thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+MK 87.321,Miloš Kaplan,thelocactus conothelos v. macdowellii,"Arteaga, Coahuila, Mexico",NA,NA,NA,bcss,"Arteaga, Coahuila, Mexico",direct,25.3453685,-100.6831723
+MK 88.320,Miloš Kaplan,thelocactus conothelos,"Tula, Tamaulipas, Mexico",NA,NA,NA,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+MMR 190,Milan Majer,thelocactus conothelos,"La Perdida, Tamaulipas, Mexico",NA,NA,NA,bcss,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+MMR 190.1,Milan Majer,thelocactus conothelos,"San Antonio de Peña Nevada, Nuevo León, Mexico",NA,NA,NA,bcss,"San Antonio de Peña Nevada, Nuevo León, Mexico",direct,23.7458279,-99.9802958
+MMR 191,Milan Majer,thelocactus conothelos,"South of Palmillas, Tamaulipas, Mexico",NA,NA,NA,bcss,"Palmillas, Tamaulipas, Mexico",direction_only,23.2634256,-99.5861891
+MZ 1447,Milan Zachar,thelocactus conothelos,"San Antonio de Pena Nevada, Nuevo Leon, Mexico",NA,NA,NA,bcss,"San Antonio de Peña Nevada, Nuevo Leon, Mexico",direct,23.7458279,-99.9802958
+MZ 1461,Milan Zachar,thelocactus conothelos,"Cruz de Elorza, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Cruz de Elorza, San Luis Potosi, Mexico",direct,23.064709722,-100.872260833
+MZ 176,Milan Zachar,thelocactus conothelos,"Miquihuana I, Tamaulipas, Mexico",NA,NA,NA,bcss,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+MZ 202,Milan Zachar,thelocactus conothelos v. macdowellii,"Higueras, Coahuila, Mexico",NA,NA,NA,bcss,"Higueras, Coahuila, Mexico",direct,25.6351495,-100.797136
+MZ 263,Milan Zachar,thelocactus conothelos,"Miquihuana III, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+MZ 3B,Milan Zachar,thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+MZ 62,Milan Zachar,thelocactus conothelos v. argenteus,"Ascencion, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Ascension, Nuevo Leon, Mexico",direct,25.757418,-100.2750526
+MZ 632,Milan Zachar,thelocactus conothelos,"Lazaro Cardenas, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Lazaro Cardenas, San Luis Potosi, Mexico",direct,21.3980992,-98.6873504
+MZ 68,Milan Zachar,thelocactus conothelos,"Doctor Arroyo, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+MZ 6B,Milan Zachar,thelocactus conothelos,"Zaragosa, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+PAR 166,Pavlosek Rostislav,thelocactus conothelos,"San Miguel de Valdo, Tamaulipas, Mexico",NA,NA,NA,bcss,"San Miguel de Valdo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+PAR 167,Pavlosek Rostislav,thelocactus conothelos v. garcia,"San Miguel de Valdo, Tamaulipas, Mexico",NA,NA,NA,bcss,"San Miguel de Valdo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+PAR 38,Pavlosek Rostislav,thelocactus conothelos v. argenteus,"Sandia La Victoria, Nuevo León, Mexico",NA,NA,NA,bcss,"Sandia La Victoria, Nuevo León, Mexico",direct,24.20089,-100.07641
+PC 83,Petr Česal,thelocactus conothelos,"Dolores, Mexico",NA,NA,NA,bcss,"Dolores, Mexico",direct,30.4953693,-110.683626
+PH 100.1,Paul Hoxey,thelocactus conothelos,"Between Bustamante and El Capulin, Tamaulipas, Mexico",1450m,21-Mar-98,NA,bcss,"Bustamante to El Capulin, Tamaulipas, Mexico",direct,23.3322373,-99.7149612
+PH 37.6,Paul Hoxey,thelocactus conothelos,"Tula, Tamaulipas, Mexico",05-Nov-96,05-Nov-96,NA,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+PH 48.1,Paul Hoxey,thelocactus conothelos,"Between El Capulin and Bustamante, Tamaulipas, Mexico",06-Nov-96,06-Nov-96,NA,bcss,"El Capulin to Bustamante, Tamaulipas, Mexico",direct,23.2956261,-99.6641034
+PH 565.3,Paul Hoxey,thelocactus conothelos,"La Perdida, Tamaulipas, Mexico",1560m,14-Nov-04,NA,bcss,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+PH 567.3,Paul Hoxey,thelocactus conothelos,"La Joya de Herrera, Tamaulipas, Mexico",2190m,15-Nov-04,NA,bcss,"La Joya de Herrera, Tamaulipas, Mexico",direct,23.4325112,-99.812732
+PH 71.13,Paul Hoxey,thelocactus conothelos ssp. argenteus,"Sandia la Victoria, Nuevo León, Mexico",1600m,15-Mar-98,NA,bcss,"Sandia La Victoria, Nuevo León, Mexico",direct,24.20089,-100.07641
+PH 74.6,Paul Hoxey,thelocactus conothelos ssp. aurantiacus,"La Escondida, road to Aramberri, Nuevo León, Mexico",1550-1600m,16-Mar-98,NA,bcss,"La Escondida, Aramberri, Nuevo León, Mexico",direct,24.105236,-99.926469
+PH 75.10,Paul Hoxey,thelocactus conothelos ssp. aurantiacus,"Aramberri, Nuevo León, Mexico",1200m,16-Mar-98,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+PH 85.2,Paul Hoxey,thelocactus conothelos,"Between Dr. Arroyo and Matehuala, Nuevo León, Mexico",1900m,18-Mar-98,NA,bcss,"Doctor Arroyo to Matehuala, Mexico",direct,23.656168,-100.6262909
+PH 86.3,Paul Hoxey,thelocactus conothelos,"Between Dr. Arroyo and Matehuala, Nuevo León, Mexico",1600m,18-Mar-98,NA,bcss,"Doctor Arroyo to Matehuala, Mexico",direct,23.656168,-100.6262909
+PH 92.3,Paul Hoxey,thelocactus conothelos,"Mier y Noriega, Nuevo León, Mexico",1900m,19-Mar-98,NA,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+PH 97.1,Paul Hoxey,thelocactus conothelos,"Near La Peña, East of Miquihuana, Tamaulipas, Mexico",2050m,20-Mar-98,NA,bcss,"Miquihuana, Tamaulipas, Mexico",direction_only,23.5860223,-99.7934682
+PHA 29,Pavel Heřtus,thelocactus conothelos,"North-East of Tula, Tamaulipas, Mexico",NA,NA,NA,bcss,"Tula, Tamaulipas, Mexico",direction_only,22.9478816,-99.8055882
+PP 1025,Pavel Pavlíček,thelocactus conothelos ssp. argenteus,"Nuevo Leon, Mexico",new locality,new locality,new locality,bcss,"Nuevo Leon, Mexico",direct,26.2384363,-99.8873
+PP 1026,Pavel Pavlíček,thelocactus conothelos ssp. aurantiacus,"Santa Lucia, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Santa Lucia, Nuevo Leon, Mexico",direct,23.7733343,-99.917754
+PP 1179,Pavel Pavlíček,thelocactus conothelos,"El Coyote, Huizache, San Luis Potosí, Mexico",NA,NA,NA,bcss,"El Coyote, Huizache, San Luis Potosí, Mexico",direct,22.916,-100.39664
+PP 1183,Pavel Pavlíček,thelocactus conothelos ssp. argenteus,"San Dolores, Municipio Aramberri, Nuevo Leon, Mexico",2002,2002,NA,bcss,"San Dolores, Aramberri, Nuevo Leon, Mexico",direct,24.16396,-99.85201
+PP 1249,Pavel Pavlíček,thelocactus conothelos v. flavus,"Santa Rita del Rucio, San Luis Potosí, Mexico",NA,NA,NA,bcss,"Santa Rita del Rucio, San Luis Potosí, Mexico",direct,23.0644411,-100.3000094
+PP 1252,Pavel Pavlíček,thelocactus conothelos,"El Coyote, San Luis Potosí, Mexico",NA,NA,NA,bcss,"El Coyote, San Luis Potosí, Mexico",direct,22.8971107,-100.573063
+PP 1442,Pavel Pavlíček,thelocactus conothelos,"La Boquilla, Autoservis 20 km from Matehuala, San Luis Potosí, Mexico",robust form,robust form,robust form,bcss,"Matehuala, San Luis Potosí, Mexico",direction_only,23.5229037,-100.604046
+PP 1445,Pavel Pavlíček,thelocactus conothelos,Mexico,"= LS512, PP1445","= LS512, PP1445","= LS512, PP1445",bcss,Mexico,direct,23.6585116,-102.0077097
+PP 20,Pavel Pavlíček,thelocactus conothelos v. saussieri,"La Joya, Nuevo Leon, Mexico",NA,NA,NA,bcss,"La Joya, Nuevo Leon, Mexico",direct,25.0603216,-99.8973174
+PP 24,Pavel Pavlíček,thelocactus conothelos ssp. argenteus,"Sandia Victoria, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+PP 582,Pavel Pavlíček,thelocactus conothelos ssp. aurantiacus,"Marmolejos, Nuevo Leon, Mexico",1998/11,1998/11,"large, white spines, gold flowers",bcss,"Marmolejos, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+PP 605,Pavel Pavlíček,thelocactus conothelos,"Tula, Municipio Tula, Tamaulipas, Mexico",1998/11,1998/11,NA,bcss,"Tula, Tula, Tamaulipas, Mexico",direct,22.9965712,-99.7136296
+PP 609,Pavel Pavlíček,thelocactus conothelos,"Jaumave, Tamaulipas, Mexico",1998/11,1998/11,NA,bcss,"Jaumave, Tamaulipas, Mexico",direct,23.4719813,-99.4263583
+PP 613,Pavel Pavlíček,thelocactus conothelos,"Avilla y Urbina, Tamaulipas, Mexico",1998/11,1998/11,NA,bcss,"Avilla y Urbina, Tamaulipas, Mexico",direct,23.696016666,-99.600519723
+PP 846,Pavel Pavlíček,thelocactus conothelos ssp. saussieri,"Tula, Municipio Tula, Tamaulipas, Mexico",1998/11,1998/11,locality of Gymnocactus ysabelae,bcss,"Tula, Tula, Tamaulipas, Mexico",direct,22.9965712,-99.7136296
+PP 847,Pavel Pavlíček,thelocactus conothelos ssp. argenteus,"Puentes, Nuevo Leon, Mexico",1998/11,1998/11,NA,bcss,"Puentes, Nuevo Leon, Mexico",direct,25.1744829,-99.8682914
+PP 848,Pavel Pavlíček,thelocactus conothelos ssp. aurantiacus,"Aramberri, Municipio Aramberri, Nuevo Leon, Mexico",1998/11,1998/11,NA,bcss,"Aramberri, Aramberri, Nuevo Leon, Mexico",direct,24.1028828,-99.8178742
+REP 1056a,Werner Reppenhagen,thelocactus conothelos,"Doctor Arroyo, Nuevo León, Mexico",1900m,7/11/1975,"together with REP1054-1056a, Gymnocactus sp., Neolloydia sp., Coryphantha sp. and Echinocactus platyacanthus",bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+REP 1219,Werner Reppenhagen,thelocactus conothelos v. macdowellii,"Los Muertos, Nuevo León, Mexico",1300m,5/12/1976,together with REP1217-1219a,bcss,"Los Muertos, Nuevo León, Mexico",direct,25.6475691,-100.7450211
+REP 513,Werner Reppenhagen,thelocactus conothelos v. macdowellii,"Quatro Cienegas, Coahuila, Mexico",800m,17/9/1971,"together with REP508-514a, Larrea tridentata, Opuntia cholla, O. kleiniae and Yucca sp.",bcss,"Cuatro Ciénegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
+REPP 1056a,Werner Reppenhagen,thelocactus conothelos,"Doctor Arroyo, Nuevo León, Mexico",1900m,7/11/1975,"together with REP1054-1056a, Gymnocactus sp., Neolloydia sp., Coryphantha sp. and Echinocactus platyacanthus",bcss,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+REPP 1219,Werner Reppenhagen,thelocactus conothelos v. macdowellii,"Los Muertos, Nuevo León, Mexico",1300m,5/12/1976,together with REP1217-1219a,bcss,"Los Muertos, Nuevo León, Mexico",direct,25.6475691,-100.7450211
+REPP 513,Werner Reppenhagen,thelocactus conothelos v. macdowellii,"Quatro Cienegas, Coahuila, Mexico",800m,17/9/1971,"together with REP508-514a, Larrea tridentata, Opuntia cholla, O. kleiniae and Yucca sp.",bcss,"Cuatro Ciénegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
+RS 1240,Roman Staník,thelocactus conothelos v. argenteus,"in the pass, hill on the right, San Ignacio del Texas, Nuevo Leon, Mexico",NA,NA,NA,bcss,"San Ignacio del Texas, Nuevo Leon, Mexico",direct,24.31245,-100.189225833
+RS 1247,Roman Staník,thelocactus conothelos,"Zaragosa, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+RS 1273,Roman Staník,thelocactus conothelos v. macdowellii,"canyon opposite Ojo Caliente, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Ojo Caliente, Nuevo Leon, Mexico",direct,25.6747026,-100.1765509
+RS 1305,Roman Staník,thelocactus conothelos fma.?,"down, next to the road, just before Miquihuana slope on the right, Tamaulipas, Mexico",4/7/04,4/7/04,NA,bcss,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+RS 237,Roman Staník,thelocactus conothelos,"Tula, Tamaulipas, Mexico",26/4/93,26/4/93,= CSD62,bcss,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+RS 281,Roman Staník,thelocactus conothelos,"Guerrero, San Luis Potosi, Mexico on road behind Palmas",= CSD109,= CSD109,= CSD109,bcss,"Guerrero, San Luis Potosi, Mexico",direct,21.5546766,-99.7699518
+RS 287,Roman Staník,thelocactus conothelos,"behind Matehuala direction to Doctor Arroyo, La Soledad, San Luis Potosi, Mexico",= CSD115,= CSD115,= CSD115,bcss,"La Soledad, San Luis Potosi, Mexico",direct,23.6856814,-100.5070432
+RS 294,Roman Staník,thelocactus conothelos fma. saussieri,"km26, Route 3?, direction to Doctor Arroyo, Nuevo Leon, Mexico",= CSD122,= CSD122,= CSD122,bcss,"Route 3, Nuevo Leon, Mexico",direct,25.572590262,-99.968969896
+RS 295,Roman Staník,thelocactus conothelos,"Lobera de Portillo, Nuevo Leon, Mexico",= CSD123,= CSD123,= CSD123,bcss,"Lobera de Portillo, Nuevo Leon, Mexico",direct,23.572674167,-100.213333056
+RS 302,Roman Staník,thelocactus conothelos,"Mier y Noriega, Nuevo Leon, Mexico",= CSD129,= CSD129,= CSD129,bcss,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+RS 311,Roman Staník,thelocactus conothelos v. aurantiacus,"Aramberi, Nuevo Leon, Mexico",= CSD137,= CSD137,= CSD137,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+RS 311,Roman Staník,thelocactus conothelos v. aurantiacus,"Marmolejo behind Aramberi, Nuevo Leon, Mexico","= RS311, = CSD149","= RS311, = CSD149","= RS311, = CSD149",bcss,"Marmolejo, Aramberri, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+RS 558,Roman Staník,thelocactus conothelos v. argenteus,"Puentes, km25.5 direction to Sandia Victoria, Nuevo Leon, Mexico",1996,1996,NA,bcss,"Puentes, Nuevo Leon, Mexico",direction_only,25.1744829,-99.8682914
+RS 686,Roman Staník,thelocactus conothelos,"Bustamante, Tamaulipas, Mexico",NA,NA,NA,bcss,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+RS 687,Roman Staník,thelocactus conothelos,"Altamira, Tamaulipas, Mexico",NA,NA,NA,bcss,"Altamira, Tamaulipas, Mexico",direct,22.5630208,-98.1165184
+RS 737,Roman Staník,thelocactus conothelos,"Las Jarillas, Nuevo Leon, Mexico before Doctor Arroyo",NA,NA,NA,bcss,"Las Jarillas, Nuevo Leon, Mexico",direct,23.7672395,-100.2697293
+SB 1862,Steven (Steve) Brack,thelocactus conothelos v. argenteus,"Sandia Grande, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Sandia Grande, Nuevo Leon, Mexico",direct,24.2010934,-100.0767244
+SB 1966,Steven (Steve) Brack,thelocactus conothelos,"East of Matehuala, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+SB 302,Steven (Steve) Brack,thelocactus conothelos,"Matehuala, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Matehuala, San Luis Potosi, Mexico",direct,23.5229037,-100.604046
+SB 311,Steven (Steve) Brack,thelocactus conothelos v. argenteus,"Ascencion, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Ascension, Nuevo Leon, Mexico",direct,25.757418,-100.2750526
+SB 329,Steven (Steve) Brack,thelocactus conothelos v. aurantiacus,"Amberri, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+SH 1068,Dennis Sargant (plants collected by Alfred Bernhard Lau),thelocactus conothelos v. aurantiacus,"Aramberri, Nuevo Leon, Mexico",900-1300m,26/11/1974,"together with L1063, L1064, L1069",bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+SH 663,Dennis Sargant (plants collected by Alfred Bernhard Lau),thelocactus conothelos v. argenteus,"road from Ascension to Sandia, Nuevo Leon, Mexico",2200m,3/3/1974,NA,bcss,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+SH 731,Dennis Sargant (plants collected by Alfred Bernhard Lau),thelocactus conothelos,"road from Cardenas to La Jolla, San Luis Potosi, Mexico",1600-1800m,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",bcss,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+TK 334,Antonín Krejčík,thelocactus conothelos,"Bustamante, Mexico",NA,NA,NA,bcss,"Bustamante, Mexico",direct,26.5713326,-100.5700509
+TK 338,Antonín Krejčík,thelocactus conothelos,"Nuevo Leon to Puentes, Mexico",NA,NA,NA,bcss,"Puentes, Nuevo Leon, Mexico",direct,25.1744829,-99.8682914
+TK 344,Antonín Krejčík,thelocactus conothelos,"Aramberi to La Escondida, Mexico",NA,NA,NA,bcss,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+WH 268,Walter Hellinx,thelocactus conothelos,"Cerro Hijo, Nuevo Leon, Mexico",1788m,NA,NA,bcss,"Cerro Hijo, Nuevo Leon, Mexico",direct,24.2846982,-99.9777274
+WTH 114,Wolter ten Hoeve,thelocactus conothelos v. argenteus,"On the hill just South of La Presa, Nuevo León, Mexico",2001,2001,Many plants,bcss,"La Presa, Nuevo León, Mexico",direction_only,24.6026374,-99.9914956
+WTH 205,Wolter ten Hoeve,thelocactus conothelos v. argenteus,"On a hill to the South of Sandia El Grande, Nuevo León, Mexico",2002,2002,NA,bcss,"Sandia El Grande, Nuevo León, Mexico",direction_only,24.2010934,-100.0767244
+WTH 450,Wolter ten Hoeve,thelocactus conothelos,"Low hills about 4km East of Jesús Maria Barones, Nuevo León, Mexico",2004,2004,NA,bcss,"Jesús Maria Barones, Nuevo León, Mexico",offset_adjusted,24.135874940046712,-99.75956273218564
+WTH 583,Wolter ten Hoeve,thelocactus conothelos,"Between the rocks higher up a hill along the road to El Aguacate, Tamaulipas, Mexico",2005,2005,NA,bcss,"El Aguacate, Tamaulipas, Mexico",direct,23.157775,-99.5302824
+WTH 586,Wolter ten Hoeve,thelocactus conothelos v. garciae,"Hills along the road to Bustamante, Tamaulipas, Mexico",2005,2005,NA,bcss,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+LAU 663,Alfred Bernhard Lau,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (road from Ascension to Sandia 2200m),NA,03/03/1974,NA,clcactus,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+L 663,Alfred Bernhard Lau,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (road from Ascension to Sandia 2200m),NA,03/03/1974,NA,clcactus,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+LAU 731,Alfred Bernhard Lau,Thelocactus conothelos,Mexicó : San Luis Potosi (road from Cardenas to La Jolla 1600-1800m),NA,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",clcactus,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+L 731,Alfred Bernhard Lau,Thelocactus conothelos,Mexicó : San Luis Potosi (road from Cardenas to La Jolla 1600-1800m),NA,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",clcactus,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+LAU 1068,Alfred Bernhard Lau,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Aramberri 900-1300m),NA,26/11/1974,"together with L1063, L1064, L1069",clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+L 1068,Alfred Bernhard Lau,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Aramberri 900-1300m),NA,26/11/1974,"together with L1063, L1064, L1069",clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+DAR 15,Amante Darmanin,Thelocactus conothelos,"Doctor Arroyo, Nuevo León, Mexicó",NA,NA,NA,clcactus,"Doctor Arroyo, Nuevo León, Mexico",direct,23.8042046,-100.2256635
+DAR 115,Amante Darmanin,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+DAR 198,Amante Darmanin,Thelocactus conothelos,"La Perdida, Tamaulipas, Mexicó",NA,NA,NA,clcactus,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+AL 287,Andreas Laras,Thelocactus conothelos ssp. aurantiacus,Mexicó : Nuevo León (north of Marmolejo),NA,NA,NA,clcactus,"Marmolejo, Nuevo Leon, Mexico",direction_only,24.1346896,-99.7843536
+TK 334,Antonín Krejčík,Thelocactus conothelos,"Bustamante, Mexicó",NA,NA,NA,clcactus,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+TK 338,Antonín Krejčík,Thelocactus conothelos,"Nuevo Leon to Puentes, Mexicó",NA,NA,NA,clcactus,"Puentes, Nuevo Leon, Mexico",direct,25.1744829,-99.8682914
+TK 344,Antonín Krejčík,Thelocactus conothelos,"Aramberi to La Escondida, Mexicó",NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+Z 7,Carlo Zanovello,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+Z 122,Carlo Zanovello,Thelocactus conothelos,Mexicó : Tamaulipas (La Perdida),NA,NA,NA,clcactus,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+Z 128A,Carlo Zanovello,Thelocactus conothelos,Mexicó : Nuevo León (Myer y Noriega),NA,NA,NA,clcactus,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+Z 177,Carlo Zanovello,Thelocactus conothelos,Mexicó : Nuevo León (La Escondida),NA,NA,NA,clcactus,"La Escondida, Nuevo Leon, Mexico",direct,24.9079613,-99.5176098
+GOMEZ 1250,Carlos Gómez Hinostrosa,Thelocactus conothelos,"Mier y Noriega, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+GLF 608,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. macdowellii,"km 377, Highway 40, between Saltillo to Menterrey, Coahuila, Mexicó",NA,NA,NA,clcactus,"Highway 40, Coahuila, Mexico",direct,25.660933510966,-101.701634302081
+GLF 682,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos,"6 miles South-West of Jaumave, Tamaulipas, Mexicó",NA,NA,NA,clcactus,"Jaumave, Tamaulipas, Mexico",offset_adjusted,23.410537494038067,-99.49329820303956
+GLF 758,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Zaragoza),NA,NA,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+GLF 1717,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos,"km 28, Puerto Oregano, West of microwave station, Mexicó",NA,NA,NA,clcactus,"Puerto Oregano, Mexico",direct,18.83365,-101.33529
+GLF 2218,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. argenteus,"Mexicó : Coahuila (1 mile past Higueras, side road to hill just beyond border of Nuevo Leon)",NA,NA,NA,clcactus,"Higueras, Nuevo Leon, Mexico",offset_adjusted,26.03551640629559,-99.99127397482388
+GLF 2269,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos,Mexicó : San Luis Potosi (10 miles out of Matehuala),NA,NA,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",offset_adjusted,23.522824163655468,-100.44623086976704
+GLF 2276,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos,"20 miles East of Matehuala, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",offset_adjusted,23.522585357659327,-100.2883180386662
+GLF 3176,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. argenteus,"Mountain ridges 7 miles West of Ascension, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Ascension, Nuevo Leon, Mexico",offset_adjusted,25.75737474617778,-100.38758734975276
+GLF 3183,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. aurantiacus,"rocky cliffs 9 miles East of La Escondida, North-West of Aramberri, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"La Escondida, Nuevo Leon, Mexico",offset_adjusted,24.907892583201804,-99.37403339236346
+GLF 3599,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+GLF 3909,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. argenteus,"Sandia, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+GLF 5529,"Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)",Thelocactus conothelos  v. argenteus,"Near Ascension, Cerro Hijo, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Ascension, Nuevo Leon, Mexico",direct,25.757418,-100.2750526
+CS 73.10,Chris Sherrah,Thelocactus conothelos  (sausseri),"Mexicó : Nuevo Leon (Matehuala to Doctor Arroyo, 1651 m)",NA,24/05/2007,NA,clcactus,"Matehuala to Doctor Arroyo, Nuevo Leon, Mexico",direct,23.6802125,-100.1964976
+CS 73.8,Chris Sherrah,Thelocactus conothelos  (sausseri),"Mexicó : Nuevo Leon (Matehuala to Doctor Arroyo, 1651 m)",NA,24/05/2007,NA,clcactus,"Matehuala to Doctor Arroyo, Nuevo Leon, Mexico",direct,23.6802125,-100.1964976
+CS 87.2,Chris Sherrah,Thelocactus conothelos,"Mexicó : Nuevo Leon (north Matehuala, 1817 m)",NA,30/05/2007,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direct,23.5229037,-100.604046
+CS 111.4,Chris Sherrah,Thelocactus conothelos ssp. auranticus,"Mexicó : San Luis Potosi (East of Matehuala, 1619 m)",NA,16/06/2007,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direct,23.5229037,-100.604046
+CS 112.2,Chris Sherrah,Thelocactus conothelos ssp. auranticus,"Mexicó : San Luis Potosi (South of Matehuala, 1610 m)",NA,16/06/2007,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direct,23.5229037,-100.604046
+SH 663,Dennis Sargant (plants collected by Alfred Bernhard Lau),Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (road from Ascension to Sandia 2200m),NA,03/03/1974,NA,clcactus,"Ascension to Sandia, Nuevo Leon, Mexico",direct,24.32392,-99.9141
+SH 731,Dennis Sargant (plants collected by Alfred Bernhard Lau),Thelocactus conothelos,Mexicó : San Luis Potosi (road from Cardenas to La Jolla 1600-1800m),NA,16/11/1974,"together with Thelocactus bicolor, Astrophythum myriostigma",clcactus,"Cardenas to La Jolla, San Luis Potosi, Mexico",direct,21.999450886,-99.642043381
+SH 1068,Dennis Sargant (plants collected by Alfred Bernhard Lau),Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Aramberri 900-1300m),NA,26/11/1974,"together with L1063, L1064, L1069",clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+GL 158,Gary Loos,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Zaragoza),NA,NA,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+GL 758,Gary Loos,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Zaragoza),NA,NA,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+GM 041,Grzegorz Matuszewski,Thelocactus conothelos,Mexicó : Nuevo Leon (Las Javillas),NA,1996,NA,clcactus,"Las Javillas, Nuevo Leon, Mexico",direct,23.766931945,-100.268686111
+GM 046,Grzegorz Matuszewski,Thelocactus conothelos  v. argenteus,"Mexicó : Nuevo Leon (Sandia, 1610 m)",NA,1996,NA,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+GM 049,Grzegorz Matuszewski,Thelocactus conothelos  v. aurantiacus,"Mexicó : Nuevo Leon (Aramberi, Marmolejos, 1030 m)",NA,1996,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+GM 147,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Tamaulipasaulipas (Tula, 1600 m)",NA,1996,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+GM 260,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Tamaulipasaulipas (Altamira, 1700 m)",NA,1997,NA,clcactus,"Altamira, Tamaulipas, Mexico",direct,22.5630208,-98.1165184
+GM 390,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (La Perdida, 1435 m)",NA,1999,NA,clcactus,"La Perdida, Nuevo Leon, Mexico",direct,24.27932,-99.6319
+GM 395.1,Grzegorz Matuszewski,Thelocactus conothelos  v. aurantiacus,"Mexicó : Nuevo Leon (La Escondida, 1460 m)",NA,1999,NA,clcactus,"La Escondida, Nuevo Leon, Mexico",direct,24.9079613,-99.5176098
+GM 396,Grzegorz Matuszewski,Thelocactus conothelos  v. argenteus,"Mexicó : Nuevo Leon (Sandia, 1600 m)",NA,1999,NA,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+GM 399,Grzegorz Matuszewski,Thelocactus conothelos  v. argenteus,"Mexicó : Nuevo Leon (Sandia, 1700 m)",NA,1999,NA,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+GM 804.4,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Tamaulipas (La Perdida, 1610 m)",NA,2003,NA,clcactus,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+GM 1005,Grzegorz Matuszewski,Thelocactus conothelos  garciae,"Mexicó : Tamaulipas (Felipe Angeles, 1320 m)",NA,2005,NA,clcactus,"Felipe Angeles, Tamaulipas, Mexico",direct,23.3892135,-99.7548905
+GM 1011,Grzegorz Matuszewski,Thelocactus conothelos  argenteus,"Mexicó : Nuevo Leon (Sandia, 1590 m)",NA,2005,NA,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+GM 1014.6,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (San Antonio, 1630 m)",NA,2005,NA,clcactus,"San Antonio, Nuevo Leon, Mexico",direct,24.6814043,-99.8876779
+GM 1017.1,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Tamaulipas (Tula, 1250 m)",NA,2005,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+GM 1090.14,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (La Bolsa, 1640 m)",NA,2007,NA,clcactus,"La Bolsa, Nuevo Leon, Mexico",direct,23.7317692,-100.0160757
+GM 1100.1,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : San Louis Potosi (San Antonio, 1590 m)",NA,2007,NA,clcactus,"San Antonio, San Luis Potosi, Mexico",direct,21.6188931,-98.877326299999993
+GM 1250.11,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (La Joya de Zacate, 2000 m)",NA,07/11/2009,NA,clcactus,"La Joya de Zacate, Nuevo Leon, Mexico",direct,23.369158055,-100.275104444
+GM 1250.14,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (La Cardona, 1660 m)",NA,07/11/2009,NA,clcactus,"La Cardona, Nuevo Leon, Mexico",direct,23.4020847,-99.9817219
+GM 1251.3,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (La Lagunita, 1620 m)",NA,08/11/2009,NA,clcactus,"La Lagunita, Nuevo Leon, Mexico",direct,24.9350737,-100.2386345
+GM 1363.11,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Tamaulipas (San Jose del Llano, 1580 m)",NA,13/03/2014,NA,clcactus,"San Jose del Llano, Tamaulipas, Mexico",direct,23.5350824,-99.9355695
+GM 1518,Grzegorz Matuszewski,Thelocactus conothelos  aurantiacus,"Mexicó : Nuevo Leon (Dolores Palmita, 1360 m)",NA,08/04/2012,NA,clcactus,"Dolores Palmita, Nuevo Leon, Mexico",direct,24.164711944,-99.852341667
+GM 1522,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : Nuevo Leon (La Presa de San Carlos, 1525 m)",NA,09/04/2012,NA,clcactus,"La Presa de San Carlos, Nuevo Leon, Mexico",direct,23.58889,-99.98111
+GM 1527.4,Grzegorz Matuszewski,Thelocactus conothelos,"Mexicó : San Louis Potosi (San Antonio del Fraile, 1490 m)",NA,10/04/2012,NA,clcactus,"San Antonio del Fraile, San Luis Potosi, Mexico",direct,21.629209689,-98.841535175
+IDD 0067,Igor D. Dráb,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,26/04/1993,CSD 062,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+IDD 0114,Igor D. Dráb,Thelocactus conothelos,Mexicó : San Luis Potosí (Guerrero),NA,30/04/1993,CSD 109 po zlej ceste za Palmas,clcactus,"Guerrero, San Luis Potosi, Mexico",direct,21.5546766,-99.7699518
+IDD 0120,Igor D. Dráb,Thelocactus conothelos,Mexicó : San Luis Potosí (La Soledad),NA,01/05/1993,CSD 115  za Matehuala na Dr. Arroyo,clcactus,"La Soledad, San Luis Potosi, Mexico",direct,23.6856814,-100.5070432
+IDD 0127,Igor D. Dráb,Thelocactus conothelos,Mexicó : Nuevo León (smer Dr. Arroyo),NA,01/05/1993,CSD 122 fa. sausieri,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+IDD 0128,Igor D. Dráb,Thelocactus conothelos,Mexicó : Nuevo León (Lobera de Portillo),NA,01/05/1993,CSD 123,clcactus,"Lobera de Portillo, Nuevo Leon, Mexico",direct,23.572674167,-100.213333056
+IDD 0135,Igor D. Dráb,Thelocactus conothelos,Mexicó : Nuevo León (Mier y Noriega),NA,02/05/1993,CSD 129,clcactus,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+IDD 0144,Igor D. Dráb,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (Aramberi),NA,03/05/1993,CSD 137,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+IDD 0159,Igor D. Dráb,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (Marmolejo za Aramberi),NA,04/05/1993,CSD 149,clcactus,"Marmolejo, Aramberri, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+IDD 0365,Igor D. Dráb,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (smer Sandia Victoria),NA,23/10/1996,"Puentes, km 25, 5",clcactus,"Sandia Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+IDD 0582,Igor D. Dráb,Thelocactus conothelos ssp. conothelos,Mexicó : San Luis Potosí (Matehuala - Dr. Arroyo),NA,22/04/1999,"idd045/99 MO v smere na Dr. Arroyo, vľavo od cesty aj Mammillaria candida, Coryphantha sp.",clcactus,"Matehuala to Doctor Arroyo, San Luis Potosi, Mexico",direct,23.686732,-100.4497873
+IDD 0587,Igor D. Dráb,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Sandia La Victoria),NA,22/04/1999,"idd049A/99 za dedinou vpravo, km 19",clcactus,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+IDD 0589,Igor D. Dráb,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (nad Marmolejos),NA,23/04/1999,idd051/99 na a pod lokalitou Ariocarpus confusus,clcactus,"Marmolejos, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+IDD 0645,Igor D. Dráb,Thelocactus conothelos  f.,Mexicó : Tamaulipas (odbocka na Miquihuana),NA,29/04/1999,"idd105/99 km 88 cesty č. 101, forma Altamira",clcactus,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+IDD 0647,Igor D. Dráb,Thelocactus conothelos  f.,Mexicó : Tamaulipas (smer Villa de Bustamante),NA,29/04/1999,"idd107/99 pri odbočke na Bustamante, červený kvet!",clcactus,"Villa de Bustamante, Tamaulipas, Mexico",direct,23.3580801,-100.0831693
+IDD 1661,Igor D. Dráb,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (Marmolejos),NA,27/03/2012,"idd1312 GPS 408, 1032 m n. m., asi 900 m od križovatky, spolu s Ariocarpus confusus, Neolloydia conoidea, Thelocactus buekii",clcactus,"Marmolejos, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+IDD 1664,Igor D. Dráb,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Trinidad - Sandia la Victoria),NA,27/03/2012,"idd1612 GPS 412, aj Stenocactus erectocentrus",clcactus,"Trinidad to Sandia la Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+ISI 735A,International Succulent Introductions (previously International Succulent Institute),Thelocactus conothelos  v. argenteus,"Sandia, Nuevo Leon, Mexicó",NA,01/03/72,Plants collected as Glass and Foster3909. Type locality,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+ISI 735B,International Succulent Introductions (previously International Succulent Institute),Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo Leon, Mexicó",NA,01/03/72,Plants collected as Glass and Foster3599. Type locality,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+ISI  735A,International Succulent Introductions (previously International Succulent Institute),Thelocactus conothelos  v. argenteus,"Sandia, Nuevo Leon, Mexicó",NA,01/03/72,Plants collected as Glass and Foster3909. Type locality,clcactus,"Sandia, Nuevo Leon, Mexico",direct,25.8064079,-100.2717608
+ISI  735B,International Succulent Introductions (previously International Succulent Institute),Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo Leon, Mexicó",NA,01/03/72,Plants collected as Glass and Foster3599. Type locality,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+CH 186,Jaromír Chvastek,Thelocactus conothelos,"La Paz, San Antonio de las Castello, San Luis Potosi, Mexicó",NA,1992/3/21-/4/27,NA,clcactus,"San Antonio de las Castello, San Luis Potosi, Mexico",direct,23.688421389,-100.472663056
+CH 194,Jaromír Chvastek,Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo Lón, Mexicó",NA,1992/3/21-/4/27,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+CH 198,Jaromír Chvastek,Thelocactus conothelos  f. saussieri,"Doctor Arroyo, Nuevo Lón, Mexicó",NA,1992/3/21-/4/27,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+CH 237,Jaromír Chvastek,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,1992/3/21-/4/27,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+CH 320,Jaromír Chvastek,Thelocactus conothelos,"La Gloria, Route 101, Tamaulipas, Mexicó",NA,19/10/1990,NA,clcactus,"La Gloria, Route 101, Tamaulipas, Mexico",direct,25.860634402307,-97.489749620431
+CH 338,Jaromír Chvastek,Thelocactus conothelos  v. aurantiacus f. nova,"Marmolejo, Nuevo Lón, Mexicó 1050m",NA,21/10/1990,NA,clcactus,"Marmolejo, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+CH 472,Jaromír Chvastek,Thelocactus conothelos,"Mexicó : San Luis Potosi (Guerrero, 1775m)",NA,27/04/1991,NA,clcactus,"Guerrero, San Luis Potosi, Mexico",direct,21.5546766,-99.7699518
+CH 477,Jaromír Chvastek,Thelocactus conothelos,"Soledad, San Luis Potosi, Mexicó 1535m",NA,28/04/1991,NA,clcactus,"Soledad, San Luis Potosi, Mexico",direct,22.2970555,-100.8671956
+CH 491,Jaromír Chvastek,Thelocactus conothelos  v. argenteus,"San Juan de Aviles, Nuevo Lón, Mexicó 1550m",NA,28/04/1991,NA,clcactus,"San Juan de Aviles, Nuevo Leon, Mexico",direct,24.1731513,-100.0704162
+CH 493,Jaromír Chvastek,Thelocactus conothelos  v. argenteus,"Sandia Victoria, Nuevo Lón, Mexicó 1635m",NA,28/04/1991,NA,clcactus,"Sandia Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+CZ 123,"Jaromír Chvastek, Jaroslav Žvak",Thelocactus conothelos,"Doctor Arroyo, Nuevo Lón, Mexicó",NA,15/12/1983,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+CSD 62,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,27/04/1997,IDD67,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+CSD 109,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos,"Mexicó : San Luis Potosí (Bad road behind Palmas, Guerrero)",NA,01/05/1997,IDD114,clcactus,"Palmas, Guerrero, San Luis Potosi, Mexico",direct,21.856033342024,-99.488098974522
+CSD 115,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos,"Mexicó : San Luis Potosí (Behind Matehuala towards Doctor Arroyo,  La Soledad)",NA,02/05/1997,IDD120,clcactus,"La Soledad, Matehuala, San Luis Potosi, Mexico",direct,23.6856814,-100.5070432
+CSD 122,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos  f. sausieri,Mexicó : Nuevo León (Towards Doctor Arroyo),NA,02/05/1997,IDD127,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+CSD 123,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos,Mexicó : Nuevo León (Lobera de Portillo),NA,02/05/1997,IDD128,clcactus,"Lobera de Portillo, Nuevo Leon, Mexico",direct,23.572674167,-100.213333056
+CSD 129,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos,Mexicó : Nuevo León (Mier y Noriega),NA,03/05/1997,IDD135,clcactus,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+CSD 137,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (Aramberi),NA,04/05/1997,IDD144,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+CSD 149,"Jaromír Chvastek, Roman Staník, Igor Dráb",Thelocactus conothelos  v. aurantiacus,"Mexicó : Nuevo León (Marmolejo,  Aramberi)",NA,05/05/1997,IDD159,clcactus,"Marmolejo, Aramberri, Nuevo Leon, Mexico",direct,24.1346896,-99.7843536
+JABO 314,Jaroslav Bohata,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (SW. Ascension),NA,NA,NA,clcactus,"Ascension, Nuevo Leon, Mexico",direction_only,25.757418,-100.2750526
+P 265,Jörg and Brigitte Piltz,Thelocactus conothelos  v. argenteus,Mexicó : Coahuila (Saltillo),NA,NA,NA,clcactus,"Saltillo, Coahuila, Mexico",direct,25.4230425,-100.9927509
+PIL 265,Jörg and Brigitte Piltz,Thelocactus conothelos  v. argenteus,Mexicó : Coahuila (Saltillo),NA,NA,NA,clcactus,"Saltillo, Coahuila, Mexico",direct,25.4230425,-100.9927509
+BKM 811,"Josef Barcák, Miroslav Kupcák",Thelocactus conothelos,Mexicó : Tamaulipas (4 km nad Peňa Nevada alt. 1735),NA,2010,NA,clcactus,"Pena Nevada, Tamaulipas, Mexico",offset_adjusted,26.09057946423675,-98.312332
+BKM 821,"Josef Barcák, Miroslav Kupcák",Thelocactus conothelos ssp. Argenteus,Mexicó : Nuevo Leon (La Trinidad),NA,2010,NA,clcactus,"La Trinidad, Nuevo Leon, Mexico",direct,24.0977137,-100.0591686
+BKM 825,"Josef Barcák, Miroslav Kupcák",Thelocactus conothelos ssp. argenteus,"Mexicó : Nuevo Leon (San Jose del Sitio, za křižovatkou)",NA,2010,NA,clcactus,"San Jose del Sitio, Nuevo Leon, Mexico",direct,24.2242136,-100.2386758
+BKM 947,"Josef Barcák, Miroslav Kupcák",Thelocactus conothelos  f.,Mexicó : San Luis Potosí (El Herrero),NA,2010,NA,clcactus,"El Herrero, San Luis Potosi, Mexico",direct,23.5760188,-100.674581
+KPP 1698,Karel Pavlíček,Thelocactus conothelos  červený květ,Mexicó : Nuevo Leon (Carmen),NA,01/01/2012,NA,clcactus,"Carmen, Nuevo Leon, Mexico",direct,25.9368419,-100.3613419
+KPP 1722,Karel Pavlíček,Thelocactus conothelos  bílý květ,"Mexicó : Nuevo Leon (Dr. Aroyo, Carmen)",NA,01/01/2012,NA,clcactus,"Carmen, Doctor Arroyo, Nuevo Leon, Mexico",direct,23.795739,-100.3106026
+KPP 1726,Karel Pavlíček,Thelocactus conothelos,Mexicó : Tamaulipas (San Jose del Llano),NA,01/10/2012,NA,clcactus,"San Jose del Llano, Tamaulipas, Mexico",direct,23.5350824,-99.9355695
+LH 28,Ladislav Horáček,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+LH 124,Ladislav Horáček,Thelocactus conothelos,Mexicó : Nuevo Leon (Aramberri),NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+LH 343,Ladislav Horáček,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (Sandia Victoria),NA,NA,NA,clcactus,"Sandia Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+LH 840,Ladislav Horáček,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Sandia y Victoria),NA,28/02/1997,NA,clcactus,"Sandia y Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+KS 29,"Libor Kunte, Jaroslav Šnicer",Thelocactus conothelos  v. macdowellii,"Arteaga, Coahuila, Mexicó",NA,NA,NA,clcactus,"Arteaga, Coahuila, Mexico",direct,25.3453685,-100.6831723
+LRM 81,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",Thelocactus conothelos  v. aurantiacus,"Marmelejos, Nuevo León, Mexicó",NA,22/06/09,NA,clcactus,"Marmolejos, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+LRM 298,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",Thelocactus conothelos,"Monte Redondo, Tamaulipas, Mexicó",NA,24/06/09,NA,clcactus,"Monte Redondo, Tamaulipas, Mexico",direct,23.3681934,-99.4755028
+LRM 313,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo León, Mexicó",NA,24/06/09,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+LRM 336,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",Thelocactus conothelos,"Puente Oregano, San Luis Potosi/Nuevo León, Mexicó",NA,24/06/09,NA,clcactus,"Puente Oregano, San Luis Potosi, Mexico",direct,21.952639898263,-100.002944138834
+LRM 449,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",Thelocactus conothelos  v. argenteus,"St Juan de Aviles, Nuevo León, Mexicó",NA,25/06/09,NA,clcactus,"San Juan de Aviles, Nuevo Leon, Mexico",direct,24.1731513,-100.0704162
+BZ 32,"Luciano Battaia, Carlo Zanovello",Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+MMR 190,Milan Majer,Thelocactus conothelos,Mexicó : Tamaulipas (La Perdida),NA,NA,NA,clcactus,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+MMR 190.1,Milan Majer,Thelocactus conothelos,Mexicó : Nuevo León (San Antonio de Peña Nevada),NA,NA,NA,clcactus,"San Antonio de Pena Nevada, Nuevo Leon, Mexico",direct,23.7458279,-99.9802958
+MMR 191,Milan Majer,Thelocactus conothelos,Mexicó : Tamaulipas (South of Palmillas),NA,NA,NA,clcactus,"Palmillas, Tamaulipas, Mexico",direction_only,23.2634256,-99.5861891
+MZ 3B,Milan Zachar,Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+MZ 6B,Milan Zachar,Thelocactus conothelos,Mexicó : Nuevo León (Zaragosa),NA,NA,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+MZ 62,Milan Zachar,Thelocactus conothelos  v. argenteus,"Ascencion, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Ascencion, Nuevo Leon, Mexico",direct,24.3236353,-99.9136298
+MZ 68,Milan Zachar,Thelocactus conothelos,"Doctor Arroyo, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+MZ 176,Milan Zachar,Thelocactus conothelos,"Miquihuana I, Tamaulipas, Mexicó",NA,NA,NA,clcactus,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+MZ 202,Milan Zachar,Thelocactus conothelos  v. macdowellii,"Higueras, Coahuila, Mexicó",NA,NA,NA,clcactus,"Higueras, Coahuila, Mexico",direct,25.6351495,-100.797136
+MZ 263,Milan Zachar,Thelocactus conothelos,"Miquihuana III, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Miquihuana, San Luis Potosi, Mexico",direct,22.71349,-99.50104
+MZ 632,Milan Zachar,Thelocactus conothelos,"Lazaro Cardenas, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Lazaro Cardenas, San Luis Potosi, Mexico",direct,21.3980992,-98.6873504
+MZ 867,Milan Zachar,Thelocactus conothelos  / tulensis aff.,"Bustamante, Tamaulipas, Mexicó",NA,NA,NA,clcactus,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+MZ 1461,Milan Zachar,Thelocactus conothelos,Mexicó : San Luis Potosi (Cruz de Elorza),NA,NA,NA,clcactus,"Cruz de Elorza, San Luis Potosi, Mexico",direct,23.064709722,-100.872260833
+MK 45.149,Miloš Kaplan,Thelocactus conothelos  v. aurantiacus,"North of Zaragoza, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direction_only,24.8514442,-99.5584592
+MK 46.15,Miloš Kaplan,Thelocactus conothelos  v. aurantiacus,"Aramberri, Nuevo Leon, Mexicó",NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+MK 87.321,Miloš Kaplan,Thelocactus conothelos  v. macdowellii,"Arteaga, Coahuila, Mexicó",NA,NA,NA,clcactus,"Arteaga, Coahuila, Mexico",direct,25.3453685,-100.6831723
+MK 88.32,Miloš Kaplan,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+MK 117.378,Miloš Kaplan,Thelocactus conothelos  v. argenteus-aurantiacus,"Sn. Antonio Pena Nevada, Nuevo Leon, Mexicó",NA,intermediate form,intermediate form,clcactus,"San Antonio de Pena Nevada, Nuevo Leon, Mexico",direct,23.7458279,-99.9802958
+MK 118.383,Miloš Kaplan,Thelocactus conothelos  v. argenteus,"South-West Ascension, Nuevo Leon, Mexicó",NA,long ivory spines,long ivory spines,clcactus,"Ascension, Nuevo Leon, Mexico",direction_only,25.757418,-100.2750526
+MH 132,Miroslav Halfar,Thelocactus conothelos,Mexicó :  (La Perdida),NA,NA,NA,clcactus,"La Perdida, Mexico",direct,18.0307856,-90.5765634
+MH 434,Miroslav Halfar,Thelocactus conothelos ssp. macdowellii v. sniceri,Mexicó : Coahuila (El Kelso - Saltillo),NA,NA,NA,clcactus,"El Kelso, Saltillo, Coahuila, Mexico",direct,25.423202982,-100.987141631
+KMR 5,Miroslav Kupčák,Thelocactus conothelos ssp. conothelos x ssp. aurantiacus,"San Antonio de Pena Nevada, East of Doctor Arroyo, Nuevo León, Mexicó",NA,27/06/09,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direction_only,23.8042046,-100.2256635
+KMR 31A,Miroslav Kupčák,Thelocactus conothelos,"San Lorenzo, Jaumave, Tamaulipas, Mexicó",NA,27/06/09,NA,clcactus,"San Lorenzo, Jaumave, Tamaulipas, Mexico",direct,23.371954167,-99.404514444
+KMR 31,Miroslav Kupčák,Thelocactus conothelos,"South of Jaumave, Tamaulipas, Mexicó",NA,27/06/09,NA,clcactus,"Jaumave, Tamaulipas, Mexico",direction_only,23.4719813,-99.4263583
+KMR 36,Miroslav Kupčák,Thelocactus conothelos ssp. aurantiacus,"La Pena, South-West of Miquihuana, Tamaulipas, Mexicó",NA,27/06/09,NA,clcactus,"Miquihuana, Tamaulipas, Mexico",direction_only,23.5860223,-99.7934682
+KMR 56,Miroslav Kupčák,Thelocactus conothelos ssp. aurantiacus,"Marmolejos, Aramberri, Nuevo León, Mexicó",NA,27/06/09,NA,clcactus,"Marmolejos, Aramberri, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+KMR 67,Miroslav Kupčák,Thelocactus conothelos,"South of Siberia, South of Zaragoza, Nuevo León, Mexicó",NA,27/06/09,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direction_only,24.8514442,-99.5584592
+KMR 67A,Miroslav Kupčák,Thelocactus conothelos,"East of Joya de San Diego, South of Zaragoza, Nuevo León, Mexicó",NA,27/06/09,NA,clcactus,"Joya de San Diego, Zaragoza, Nuevo Leon, Mexico",direction_only,23.8801882,-99.9001429
+KMR 68,Miroslav Kupčák,Thelocactus conothelos,"Ejido Pena Nevada direction to Siberia, South-West of Zaragoza, Nuevo León, Mexicó",NA,27/06/09,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direction_only,24.8514442,-99.5584592
+PH 37.06,Paul Hoxey,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,05/11/96,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+PH 48.01,Paul Hoxey,Thelocactus conothelos,"Between El Capulin and Bustamante, Tamaulipas, Mexicó",NA,06/11/96,NA,clcactus,"El Capulin, Bustamante, Tamaulipas, Mexico",direct,23.2956261,-99.6641034
+PH 71.013,Paul Hoxey,Thelocactus conothelos ssp. argenteus,"Sandia la Victoria, Nuevo León, Mexicó 1600m",NA,15/03/98,NA,clcactus,"Sandia la Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+PH 74.06,Paul Hoxey,Thelocactus conothelos ssp. aurantiacus,"La Escondida, road to Aramberri, Nuevo León, Mexicó 1550-1600m",NA,16/03/98,NA,clcactus,"La Escondida, Aramberri, Nuevo Leon, Mexico",direct,24.105236,-99.926469
+PH 75.01,Paul Hoxey,Thelocactus conothelos ssp. aurantiacus,"Aramberri, Nuevo León, Mexicó 1200m",NA,16/03/98,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+PH 85.02,Paul Hoxey,Thelocactus conothelos,"Between Dr. Arroyo and Matehuala, Nuevo León, Mexicó 1900m",NA,18/03/98,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+PH 86.03,Paul Hoxey,Thelocactus conothelos,"Between Dr. Arroyo and Matehuala, Nuevo León, Mexicó 1600m",NA,18/03/98,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+PH 92.03,Paul Hoxey,Thelocactus conothelos,"Mier y Noriega, Nuevo León, Mexicó 1900m",NA,19/03/98,NA,clcactus,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+PH 97.01,Paul Hoxey,Thelocactus conothelos,"Near La Peña, East of Miquihuana, Tamaulipas, Mexicó 2050m",NA,20/03/98,NA,clcactus,"Miquihuana, Tamaulipas, Mexico",direction_only,23.5860223,-99.7934682
+PH 100.01,Paul Hoxey,Thelocactus conothelos,"Between Bustamante and El Capulin, Tamaulipas, Mexicó 1450m",NA,21/03/98,NA,clcactus,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+PH 565.03,Paul Hoxey,Thelocactus conothelos,"La Perdida, Tamaulipas, Mexicó 1560m",NA,14/11/04,NA,clcactus,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+PH 567.03,Paul Hoxey,Thelocactus conothelos,"La Joya de Herrera, Tamaulipas, Mexicó 2190m",NA,15/11/04,NA,clcactus,"La Joya de Herrera, Tamaulipas, Mexico",direct,23.4325112,-99.812732
+PHA   29,Pavel Heřtus,Thelocactus conothelos,Mexicó : San Luis Potosí (North-East of Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direction_only,22.9478816,-99.8055882
+PHA   342,Pavel Heřtus,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Ciudad Victoria),NA,NA,NA,clcactus,"Ciudad Victoria, Tamaulipas, Mexico",direct,23.7389846,-99.1441352
+PP 20,Pavel Pavlíček,Thelocactus conothelos  saussieri,Mexicó : Nuevo Leon (La Joya),NA,NA,NA,clcactus,"La Joya, Nuevo Leon, Mexico",direct,25.0603216,-99.8973174
+PP 24,Pavel Pavlíček,Thelocactus conothelos  argenteus,Mexicó : Nuevo Leon (Sandia Victoria),NA,NA,NA,clcactus,"Sandia Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+PP 582,Pavel Pavlíček,Thelocactus conothelos  aurantiacus,Mexicó : Nuevo Leon (Marmolejos),NA,NA,NA,clcactus,"Marmolejos, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+PP 605,Pavel Pavlíček,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+PP 609,Pavel Pavlíček,Thelocactus conothelos,Mexicó : Tamaulipas (Jaumave),NA,NA,NA,clcactus,"Jaumave, Tamaulipas, Mexico",direct,23.4719813,-99.4263583
+PP 613,Pavel Pavlíček,Thelocactus conothelos,Mexicó : Tamaulipas (Avilla y Urbina),NA,NA,NA,clcactus,"Avilla y Urbina, Tamaulipas, Mexico",direct,23.696016666,-99.600519723
+PP 846,Pavel Pavlíček,Thelocactus conothelos  saussieri,Mexicó : Tamaulipas (Tula),NA,locality of Gymnocactus ysabelae,locality of Gymnocactus ysabelae,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+PP 847,Pavel Pavlíček,Thelocactus conothelos  argenteus,Mexicó : Nuevo Leon (Puentes),NA,NA,NA,clcactus,"Puentes, Nuevo Leon, Mexico",direct,25.1744829,-99.8682914
+PP 848,Pavel Pavlíček,Thelocactus conothelos  aurantiacus,Mexicó : Nuevo Leon (Aramberri),NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+PP 1025,Pavel Pavlíček,Thelocactus conothelos  argenteus,Mexicó : Nuevo Leon,NA,new. local.,new. local.,clcactus,"Nuevo Leon, Mexico",direct,26.2384363,-99.8873
+PP 1026,Pavel Pavlíček,Thelocactus conothelos  aurantiacus,Mexicó : Nuevo Leon (Sta Lucia),NA,NA,NA,clcactus,"Santa Lucia, Nuevo Leon, Mexico",direct,23.7733343,-99.917754
+PP 1179,Pavel Pavlíček,Thelocactus conothelos,"Mexicó : San Luis Potosi (El Coyote, Huizache)",NA,NA,NA,clcactus,"El Coyote, Huizache, San Luis Potosi, Mexico",direct,22.916,-100.39664
+PP 1183,Pavel Pavlíček,Thelocactus conothelos  aurantiacus,Mexicó : Nuevo Leon (San Dolores),NA,NA,NA,clcactus,"San Dolores, Nuevo Leon, Mexico",direct,24.9765135,-99.3972322
+PP 1249,Pavel Pavlíček,Thelocactus conothelos  flavus,Mexicó : San Luis Potosi (Sta Rita del Rucio),NA,NA,NA,clcactus,"Santa Rita del Rucio, San Luis Potosi, Mexico",direct,23.0644411,-100.3000094
+PP 1252,Pavel Pavlíček,Thelocactus conothelos,Mexicó : San Luis Potosi (El Coyote),NA,NA,NA,clcactus,"El Coyote, San Luis Potosi, Mexico",direct,22.8971107,-100.573063
+PP 1442,Pavel Pavlíček,Thelocactus conothelos,Mexicó : San Luis Potosi (La Boquila),NA,NA,NA,clcactus,"La Boquilla, San Luis Potosi, Mexico",direct,21.8801393,-100.8206861
+PAR 38,Pavlosek Rostislav,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (Sandia La Victoria),NA,NA,NA,clcactus,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+PAR 166,Pavlosek Rostislav,Thelocactus conothelos,Mexicó : Tamaulipas (San Miguel de Valdo),NA,NA,NA,clcactus,"San Miguel de Valdo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+PAR 167,Pavlosek Rostislav,Thelocactus conothelos  v. garcia,Mexicó : Tamaulipas (San Miguel de Valdo),NA,NA,NA,clcactus,"San Miguel de Valdo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+PA 0097,Petr Antálek,Thelocactus conothelos,"Mexicó : Tamaulipas (Pred Jose Maria Morelos, 1507 m)",NA,2011,NA,clcactus,"Jose Maria Morelos, Tamaulipas, Mexico",direct,24.6675101,-99.3505277
+PA 0140,Petr Antálek,Thelocactus conothelos  v. aurantiacus,"Mexicó : Nuevo León (Vlevo za La Escondida smer Aramberri, 1531 m)",NA,2011,NA,clcactus,"La Escondida, Aramberri, Nuevo Leon, Mexico",direct,24.105236,-99.926469
+PA 0152,Petr Antálek,Thelocactus conothelos  v. aurantiacus,"Mexicó : Nuevo León (Pred Marmolejo, 996 m)",NA,2011,NA,clcactus,"Marmolejos, Nuevo Leon, Mexico",direct,24.134801111,-99.784346389
+PA 0448,Petr Antálek,Thelocactus conothelos,"Mexicó : San Luis Potosí (24 km severne od Matahualy, 1941 m)",NA,2012,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",offset_adjusted,23.738740885420498,-100.604046
+PA 0843,Petr Antálek,Thelocactus conothelos,"Mexicó : Tamaulipas (San Jose del Llano, 1614 m)",NA,2012,NA,clcactus,"San Jose del Llano, Tamaulipas, Mexico",direct,23.5350824,-99.9355695
+PA 0855,Petr Antálek,Thelocactus conothelos,"Mexicó : Tamaulipas (Dr/ Arroyo - La Perdida, 1479 m)",NA,2012,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+PA 0865,Petr Antálek,Thelocactus conothelos,"Mexicó : Tamaulipas (La Perdida, 1545 m)",NA,2012,NA,clcactus,"La Perdida, Tamaulipas, Mexico",direct,23.5459106,-99.858352
+PA 0883,Petr Antálek,Thelocactus conothelos  v. sausieri,"Mexicó : Tamaulipas (8 km jihozápadne od Jaumave, 1010 m)",NA,2012,NA,clcactus,"Jaumave, Tamaulipas, Mexico",offset_adjusted,23.42109819070643,-99.48179950068608
+PA 1100,Petr Antálek,Thelocactus conothelos  v. flavus,"Mexicó : San Luis Potosí (Entronque Huizache III, 1409 m)",NA,17/10/2014,NA,clcactus,"Entronque Huizache, San Luis Potosi, Mexico",direct,22.149808894447,-100.90310915881
+PA 1130,Petr Antálek,Thelocactus conothelos  v. flavus,"Mexicó : San Luis Potosí (Za Santa Rita del Rucio, 1494 m)",NA,18/10/2014,NA,clcactus,"Santa Rita del Rucio, San Luis Potosi, Mexico",direct,23.0644411,-100.3000094
+PA 1194,Petr Antálek,Thelocactus conothelos,"Mexicó : Tamaulipas (Palmillas - Miquihuana, 1673 m)",NA,21/10/2014,NA,clcactus,"Palmillas, Tamaulipas, Mexico",direct,23.2634256,-99.5861891
+PA 1244,Petr Antálek,Thelocactus conothelos  v. argenteus,"Mexicó : Nuevo León (La Trinidad, 1598 m)",NA,22/10/2014,NA,clcactus,"La Trinidad, Nuevo Leon, Mexico",direct,24.0977137,-100.0591686
+PC 83,Petr Česal,Thelocactus conothelos,"Dolores, Mexicó",NA,NA,NA,clcactus,"Dolores, Mexico",direct,30.4953693,-110.683626
+RS 237,Roman Staník,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,26/04/1993,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+RS 281,Roman Staník,Thelocactus conothelos,"Mexicó : San Luis Potosi (Guerrero, Mexicó on road behind Palmas)",NA,NA,NA,clcactus,"Guerrero, San Luis Potosi, Mexico",direct,21.5546766,-99.7699518
+RS 287,Roman Staník,Thelocactus conothelos,"Mexicó : San Luis Potosi (behind Matehuala direction to Doctor Arroyo , La Soledad)",NA,NA,NA,clcactus,"La Soledad, San Luis Potosi, Mexico",direct,23.6856814,-100.5070432
+RS 294,Roman Staník,Thelocactus conothelos  f. saussieri,"Mexicó : Nuevo Leon (km26, Route 3?, direction to Doctor Arroyo)",NA,NA,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+RS 295,Roman Staník,Thelocactus conothelos,Mexicó : Nuevo Leon (Lobera de Portillo),NA,NA,NA,clcactus,"Lobera de Portillo, Nuevo Leon, Mexico",direct,23.572674167,-100.213333056
+RS 302,Roman Staník,Thelocactus conothelos,Mexicó : Nuevo Leon (Mier y Noriega),NA,NA,NA,clcactus,"Mier y Noriega, Nuevo Leon, Mexico",direct,23.4022432,-100.1389355
+RS 311,Roman Staník,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Aramberi),NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+RS 558,Roman Staník,Thelocactus conothelos  v. argenteus,"Mexicó : Nuevo Leon (Puentes , km25.5 direction to Sandia Victoria)",NA,NA,NA,clcactus,"Puentes, Nuevo Leon, Mexico",direct,25.1744829,-99.8682914
+RS 686,Roman Staník,Thelocactus conothelos,Mexicó : Tamaulipas (Bustamante),NA,NA,NA,clcactus,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+RS 687,Roman Staník,Thelocactus conothelos,Mexicó : Tamaulipas (Altamira),NA,NA,NA,clcactus,"Altamira, Tamaulipas, Mexico",direct,22.5630208,-98.1165184
+RS 737,Roman Staník,Thelocactus conothelos,"Mexicó : Nuevo Leon (Las Jarillas, before Doctor Arroyo)",NA,NA,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+RS 1240,Roman Staník,Thelocactus conothelos  v. argenteus,"Mexicó : Nuevo Leon (in the pass,  hill on the right, San Ignacio del Texas)",NA,NA,NA,clcactus,"San Ignacio del Texas, Nuevo Leon, Mexico",direct,24.31245,-100.189225833
+RS 1247,Roman Staník,Thelocactus conothelos,Mexicó : Nuevo Leon (Zaragosa),NA,NA,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+RS 1273,Roman Staník,Thelocactus conothelos  v. macdowellii,Mexicó : Nuevo Leon (canyon opposite Ojo Caliente),NA,NA,NA,clcactus,"Ojo Caliente, Nuevo Leon, Mexico",direct,25.6747026,-100.1765509
+RS 1305,Roman Staník,Thelocactus conothelos  f. ?,"Mexicó : Tamaulipas (down, next to the road, just before Miquihuana slope on the right)",NA,04/07/2004,NA,clcactus,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+RUS 046,Safronov Evgeny,Thelocactus conothelos  v. flavus,Mexicó : San Luis Potosi (Santo Domingo),NA,NA,NA,clcactus,"Santo Domingo, San Luis Potosi, Mexico",direct,23.412227,-101.5582297
+RUS 342,Safronov Evgeny,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Arramberri-EL Mezquitlan),NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+RUS 344,Safronov Evgeny,Thelocactus conothelos ssp. argenteus,Mexicó : Nuevo Leon (La Trinidad),NA,NA,NA,clcactus,"La Trinidad, Nuevo Leon, Mexico",direct,24.0977137,-100.0591686
+RUS 436,Safronov Evgeny,Thelocactus conothelos,Mexicó : Tamaulipas (La Florida),NA,21/10/2014,NA,clcactus,"La Florida, Tamaulipas, Mexico",direct,23.3202573,-98.1147122
+RUS 437,Safronov Evgeny,Thelocactus conothelos,"Mexicó : Tamaulipas (Altamira, Bustamante)",NA,21/10/2014,NA,clcactus,"Altamira, Bustamante, Tamaulipas, Mexico",direct,23.32679751,-99.872678882
+RUS 438,Safronov Evgeny,Thelocactus conothelos,Mexicó : Tamaulipas (Miquihuana),NA,21/10/2014,NA,clcactus,"Miquihuana, Tamaulipas, Mexico",direct,23.5860223,-99.7934682
+RUS 439,Safronov Evgeny,Thelocactus conothelos,Mexicó : Tamaulipas (San Jose del Llano),NA,21/10/2014,NA,clcactus,"San Jose del Llano, Tamaulipas, Mexico",direct,23.5350824,-99.9355695
+RUS 640,Safronov Evgeny,Thelocactus conothelos,Mexicó : Tamaulipas (Ejido La Verdolaga),NA,NA,NA,clcactus,"Ejido La Verdolaga, Tamaulipas, Mexico",direct,23.282219444,-99.871791944
+SB 302,Steven (Steve) Brack,Thelocactus conothelos,Mexicó : San Luis Potosi (Matehuala),NA,NA,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direct,23.5229037,-100.604046
+SB 311,Steven (Steve) Brack,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (Ascencion),NA,NA,NA,clcactus,"Ascencion, Nuevo Leon, Mexico",direct,24.3236353,-99.9136298
+SB 329,Steven (Steve) Brack,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Leon (Amberri),NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direct,24.2217256,-99.9241345
+SB 1862,Steven (Steve) Brack,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Leon (Sandia Grande),NA,NA,NA,clcactus,"Sandia Grande, Nuevo Leon, Mexico",direct,24.2010934,-100.0767244
+SB 1966,Steven (Steve) Brack,Thelocactus conothelos,Mexicó : San Luis Potosi (East of Matehuala),NA,NA,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+VM 227,Vojtech Myšák,Thelocactus conothelos,Mexicó : Nuevo Léon (EI Refugio),NA,NA,NA,clcactus,"El Refugio, Nuevo Leon, Mexico",direct,24.9059302,-99.529303
+VM 266,Vojtech Myšák,Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo Léon (South of Aramberri),NA,NA,NA,clcactus,"Aramberri, Nuevo Leon, Mexico",direction_only,24.2217256,-99.9241345
+VM 271,Vojtech Myšák,Thelocactus conothelos  v. aurantiacus,Mexicó : Tamaulipas (Bustamante),NA,NA,NA,clcactus,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+VM 280,Vojtech Myšák,Thelocactus conothelos,Mexicó : San Luis Potosí (North of Matehuala),NA,NA,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+VM 281,Vojtech Myšák,Thelocactus conothelos,Mexicó : San Luis Potosí (North of Matehuala),NA,NA,NA,clcactus,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
+VM 315,Vojtech Myšák,Thelocactus conothelos,Mexicó : Tamaulipas (Tula),NA,NA,NA,clcactus,"Tula, Tamaulipas, Mexico",direct,22.9478816,-99.8055882
+VM 328,Vojtech Myšák,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Léon (Puentes),NA,NA,NA,clcactus,"Puentes, Nuevo Leon, Mexico",direct,25.1744829,-99.8682914
+VM 372,Vojtech Myšák,Thelocactus conothelos  v. argenteus-aurantiacus,"Mexicó : Nuevo Léon (San Antonio, Peña Nevada)",NA,NA,NA,clcactus,"San Antonio, Peña Nevada, Nuevo Leon, Mexico",direct,23.74527,-99.98022
+VM 375,Vojtech Myšák,Thelocactus conothelos  v. argenteus,Mexicó : Nuevo Léon (South-West of Ascension),NA,NA,NA,clcactus,"Ascencion, Nuevo Leon, Mexico",direction_only,24.3236353,-99.9136298
+REPP 513,Werner Reppenhagen,Thelocactus conothelos  v. macdowellii,"Mexicó : Coahuila (Quatro Cienegas, 800m)",NA,17/09/1971,NA,clcactus,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
+REP 513,Werner Reppenhagen,Thelocactus conothelos  v. macdowellii,"Mexicó : Coahuila (Quatro Cienegas, 800m)",NA,17/09/1971,NA,clcactus,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
+REP 1056A,Werner Reppenhagen,Thelocactus conothelos,"Mexicó : Nuevo León (Doctor Arroyo, 1900m)",NA,07/11/1975,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+REPP 1056A,Werner Reppenhagen,Thelocactus conothelos,"Mexicó : Nuevo León (Doctor Arroyo, 1900m)",NA,07/11/1975,NA,clcactus,"Doctor Arroyo, Nuevo Leon, Mexico",direct,23.8042046,-100.2256635
+REPP 1219,Werner Reppenhagen,Thelocactus conothelos  v. macdowellii,"Mexicó : Nuevo León (Los Muertos, 1300m)",NA,05/12/1976,NA,clcactus,"Los Muertos, Nuevo Leon, Mexico",direct,25.6475691,-100.7450211
+REP 1219,Werner Reppenhagen,Thelocactus conothelos  v. macdowellii,"Mexicó : Nuevo León (Los Muertos, 1300m)",NA,05/12/1976,NA,clcactus,"Los Muertos, Nuevo Leon, Mexico",direct,25.6475691,-100.7450211
+WTH 114,Wolter ten Hoeve,Thelocactus conothelos  v. argenteus,"On the hill just South of La Presa, Nuevo León, Mexicó",NA,2001,Many plants,clcactus,"La Presa, Nuevo Leon, Mexico",direction_only,25.5190453,-99.6367509
+WTH 205,Wolter ten Hoeve,Thelocactus conothelos  v. argenteus,"On a hill to the South of Sandia El Grande, Nuevo León, Mexicó",NA,2002,NA,clcactus,"Sandia El Grande, Nuevo Leon, Mexico",direction_only,24.2010934,-100.0767244
+WTH 450,Wolter ten Hoeve,Thelocactus conothelos,"Low hills about 4km East of Jesús Maria Barones, Nuevo León, Mexicó",NA,2004,NA,clcactus,"Jesús Maria Barones, Nuevo Leon, Mexico",offset_adjusted,24.135874940046712,-99.75956273218564
+WTH 583,Wolter ten Hoeve,Thelocactus conothelos,"Between the rocks higher up a hill along the road to El Aguacate, Tamaulipas, Mexicó",NA,2005,NA,clcactus,"El Aguacate, Tamaulipas, Mexico",direct,23.157775,-99.5302824
+WTH 586,Wolter ten Hoeve,Thelocactus conothelos  v. garciae,"Hills along the road to Bustamante, Tamaulipas, Mexicó",NA,2005,NA,clcactus,"Bustamante, Tamaulipas, Mexico",direct,23.3249637,-99.8847687
+VZ 22,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Sandia La Victoria),NA,2001,NA,clcactus,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+VCCB 22,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Sandia La Victoria),NA,2001,NA,clcactus,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+VZD 022,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. argenteus,Mexicó : Nuevo León (Sandia La Victoria),NA,2001,NA,clcactus,"Sandia La Victoria, Nuevo Leon, Mexico",direct,24.20089,-100.07641
+VZD 138,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. nova,Mexicó : Tamaulipas  (San Miguel de Waldo),NA,2002,NA,clcactus,"San Miguel de Waldo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+VZ 138,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. nova,Mexicó : Tamaulipas  (San Miguel de Waldo),NA,2002,NA,clcactus,"San Miguel de Waldo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+VCCB 138,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. nova,Mexicó : Tamaulipas  (San Miguel de Waldo),NA,2002,NA,clcactus,"San Miguel de Waldo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+VZD 139,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos ssp. garciae,Mexicó : Tamaulipas (San Miguel de Waldo),NA,2002,NA,clcactus,"San Miguel de Waldo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+VCCB 139,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos ssp. garciae,Mexicó : Tamaulipas (San Miguel de Waldo),NA,2002,NA,clcactus,"San Miguel de Waldo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+VZ 139,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos ssp. garciae,Mexicó : Tamaulipas (San Miguel de Waldo),NA,2002,NA,clcactus,"San Miguel de Waldo, Tamaulipas, Mexico",direct,23.316062777,-99.734555
+VZD 160,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí  (La Tapona),NA,2003,NA,clcactus,"La Tapona, San Luis Potosi, Mexico",direct,21.9962105,-100.178654
+VZ 160,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí  (La Tapona),NA,2003,NA,clcactus,"La Tapona, San Luis Potosi, Mexico",direct,21.9962105,-100.178654
+VCCB 160,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí  (La Tapona),NA,2003,NA,clcactus,"La Tapona, San Luis Potosi, Mexico",direct,21.9962105,-100.178654
+VCCB 748,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí (La Pastoriza),NA,2006,NA,clcactus,"La Pastoriza, San Luis Potosi, Mexico",direct,23.4446861,-100.6243471
+VZD 748,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí (La Pastoriza),NA,2006,NA,clcactus,"La Pastoriza, San Luis Potosi, Mexico",direct,23.4446861,-100.6243471
+VZ 748,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí (La Pastoriza),NA,2006,NA,clcactus,"La Pastoriza, San Luis Potosi, Mexico",direct,23.4446861,-100.6243471
+VCCB 1046,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí (El Mulero),NA,2008,NA,clcactus,"El Mulero, San Luis Potosi, Mexico",direct,22.5833539,-101.1743799
+VZ 1046,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí (El Mulero),NA,2008,NA,clcactus,"El Mulero, San Luis Potosi, Mexico",direct,22.5833539,-101.1743799
+VZD 1046,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : San Luis Potosí (El Mulero),NA,2008,NA,clcactus,"El Mulero, San Luis Potosi, Mexico",direct,22.5833539,-101.1743799
+VZD 1168,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : Nuevo León (San Blas),NA,2009,NA,clcactus,"San Blas, Nuevo Leon, Mexico",direct,23.6774919,-100.435557
+VCCB 1168,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : Nuevo León (San Blas),NA,2009,NA,clcactus,"San Blas, Nuevo Leon, Mexico",direct,23.6774919,-100.435557
+VZ 1168,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : Nuevo León (San Blas),NA,2009,NA,clcactus,"San Blas, Nuevo Leon, Mexico",direct,23.6774919,-100.435557
+VZD 1410,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (Zaragoza),NA,3-4/2013,NA,clcactus,"Zaragoza, Nuevo Leon, Mexico",direct,24.8514442,-99.5584592
+VZD 1411,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos  v. aurantiacus,Mexicó : Nuevo León (La Escondida),NA,3-4/2013,NA,clcactus,"La Escondida, Nuevo Leon, Mexico",direct,24.9079613,-99.5176098
+VZD 1415,"Zdenek Vasko, Vladislav Zatloukal",Thelocactus conothelos,Mexicó : Nuevo León (Albarcones Las Viejas),NA,3-4/2013,NA,clcactus,"Albarcones Las Viejas, Nuevo Leon, Mexico",direct,23.70176,-100.21989

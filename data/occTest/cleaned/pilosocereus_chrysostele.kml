@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pilosocereus_chrysostele" id="pilosocereus_chrysostele">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="int"></SimpleField>
+	<SimpleField name="date" type="int"></SimpleField>
+	<SimpleField name="notes" type="int"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>pilosocereus_chrysostele</name>
+  <Placemark id="pilosocereus_chrysostele.1">
+	<name>HU 460</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_chrysostele">
+		<SimpleData name="field_number">pilosocereus chrysostele</SimpleData>
+		<SimpleData name="collector">Souza to Pombal, Fazienda Tigre, Paraiba, Brazil</SimpleData>
+		<SimpleData name="date">0</SimpleData>
+		<SimpleData name="notes">0</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-38.1,-6.56667</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_chrysostele.2">
+	<name>HU 939</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_chrysostele">
+		<SimpleData name="field_number">pilosocereus chrysostele ssp. cearensis</SimpleData>
+		<SimpleData name="collector">Tamboril, Ceará, Brazil</SimpleData>
+		<SimpleData name="date">0</SimpleData>
+		<SimpleData name="notes">0</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.3210323,-4.8330075</coordinates></Point>
+  </Placemark>
+  <Placemark id="pilosocereus_chrysostele.3">
+	<name>RWB 427</name>
+	<description>Rudi Werner Büneker</description>
+	<ExtendedData><SchemaData schemaUrl="#pilosocereus_chrysostele">
+		<SimpleData name="field_number">pilosocereus chrysostele</SimpleData>
+		<SimpleData name="collector">Brazil</SimpleData>
+		<SimpleData name="date">0</SimpleData>
+		<SimpleData name="notes">0</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.2,-10.3333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

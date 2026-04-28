@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="thelocactus_conothelos" id="thelocactus_conothelos">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>thelocactus_conothelos</name>
+  <Placemark id="thelocactus_conothelos.1">
+	<name>AD 298</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">road to Marmolejo, Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1054m</SimpleData>
+		<SimpleData name="locality">15-Aug-12</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">road to Marmolejo, Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.784346389,24.134801111</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.2">
+	<name>AD 333</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. argenteus</SimpleData>
+		<SimpleData name="collector">San Juan de Aviles, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1612m</SimpleData>
+		<SimpleData name="locality">19-Apr-13</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Juan de Aviles, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.0704162,24.1731513</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.3">
+	<name>AD 335</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">South of Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1332m</SimpleData>
+		<SimpleData name="locality">21-Apr-13</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8055882,22.9478816</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.4">
+	<name>AD 417</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. argenteus</SimpleData>
+		<SimpleData name="collector">North of La Trinidad, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1612m</SimpleData>
+		<SimpleData name="locality">27-Jan-18</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Trinidad, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.0591686,24.0977137</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.5">
+	<name>AD 507</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">El Molino, Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1054m</SimpleData>
+		<SimpleData name="locality">10-Apr-17</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Molino, Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8095698,24.1454702</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.6">
+	<name>AD 684</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">East of La Naranjita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1301m</SimpleData>
+		<SimpleData name="locality">11-Mar-19</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Naranjita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2154238,23.2034315</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.7">
+	<name>AD 873</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Laureles, Matehuala, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">2121m</SimpleData>
+		<SimpleData name="locality">9-Mar-22</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Laureles, Matehuala, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6457618,23.6310783</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.8">
+	<name>CH 186</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">La Paz, San Antonio de las Castello, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Paz, San Antonio de las Castello, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.472663056,23.688421389</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.9">
+	<name>CH 194</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. aurantiacus</SimpleData>
+		<SimpleData name="collector">Aramberri, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Aramberri, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9241345,24.2217256</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.10">
+	<name>CH 198</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos fma. saussieri</SimpleData>
+		<SimpleData name="collector">Doctor Arroyo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Doctor Arroyo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2256635,23.8042046</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.11">
+	<name>CH 472</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Guerrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1775m</SimpleData>
+		<SimpleData name="locality">1995/4/28</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Guerrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7699518,21.5546766</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.12">
+	<name>CH 477</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Soledad, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1535m</SimpleData>
+		<SimpleData name="locality">1995/4/29</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Soledad, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.8671956,22.2970555</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.13">
+	<name>CH 493</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. argenteus</SimpleData>
+		<SimpleData name="collector">Sandia Victoria, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">1635m</SimpleData>
+		<SimpleData name="locality">1995/4/29</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sandia Victoria, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.07641,24.20089</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.14">
+	<name>CS 1050.1</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Charco Azul, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1082m</SimpleData>
+		<SimpleData name="locality">03/10/2022</SimpleData>
+		<SimpleData name="altitude">DL971 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Charco Azul, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.9841855,25.9931228</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.15">
+	<name>CS 1053.9</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">La Perdida, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1573m</SimpleData>
+		<SimpleData name="locality">05/10/2022</SimpleData>
+		<SimpleData name="altitude">DL998 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Perdida, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.858352,23.5459106</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.16">
+	<name>CS 111.4</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. auranticus</SimpleData>
+		<SimpleData name="collector">East of Matehuala, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1619m</SimpleData>
+		<SimpleData name="locality">16/06/2007</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Matehuala, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.604046,23.5229037</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.17">
+	<name>CS 1112.12</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Entronque Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1443m</SimpleData>
+		<SimpleData name="locality">10/05/2024</SimpleData>
+		<SimpleData name="altitude">GLASS&amp;GLASS226 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Entronque Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.90310915881,22.149808894447</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.18">
+	<name>CS 73.10</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos 'sausseri'</SimpleData>
+		<SimpleData name="collector">Matehuala to Doctor Arroyo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1651m</SimpleData>
+		<SimpleData name="locality">24/05/2007</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Matehuala to Doctor Arroyo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1964976,23.6802125</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.19">
+	<name>CS 87.2</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">north Matehuala, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1817m</SimpleData>
+		<SimpleData name="locality">30/05/2007</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">north Matehuala, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.493388949192,26.52649484413</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.20">
+	<name>CSD 109</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Bad road behind Palmas, Guerrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">01/05/1997</SimpleData>
+		<SimpleData name="locality">01/05/1997</SimpleData>
+		<SimpleData name="altitude">= IDD114</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Bad road behind Palmas, Guerrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.791512222,21.550753611</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.21">
+	<name>CSD 115</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Behind Matehuala towards Doctor Arroyo, La Soledad, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">02/05/1997</SimpleData>
+		<SimpleData name="locality">02/05/1997</SimpleData>
+		<SimpleData name="altitude">= IDD120</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Behind Matehuala towards Doctor Arroyo, La Soledad, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.154721944,22.415</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.22">
+	<name>CSD 122</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos fma. sausieri</SimpleData>
+		<SimpleData name="collector">Towards Doctor Arroyo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">02/05/1997</SimpleData>
+		<SimpleData name="locality">02/05/1997</SimpleData>
+		<SimpleData name="altitude">= IDD127</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Towards Doctor Arroyo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.306266485,23.860108379</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.23">
+	<name>CSD 123</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Lobera de Portillo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">02/05/1997</SimpleData>
+		<SimpleData name="locality">02/05/1997</SimpleData>
+		<SimpleData name="altitude">= IDD128</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Lobera de Portillo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.213333056,23.572674167</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.24">
+	<name>CSD 129</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mier y Noriega, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">03/05/1997</SimpleData>
+		<SimpleData name="locality">03/05/1997</SimpleData>
+		<SimpleData name="altitude">= IDD135</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mier y Noriega, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1389355,23.4022432</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.25">
+	<name>CSD 137</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. aurantiacus</SimpleData>
+		<SimpleData name="collector">Aramberi, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">04/05/1997</SimpleData>
+		<SimpleData name="locality">04/05/1997</SimpleData>
+		<SimpleData name="altitude">= IDD144</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Aramberi, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1275011,25.6681685</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.26">
+	<name>GL 158</name>
+	<description>Gary Loos</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. aurantiacus</SimpleData>
+		<SimpleData name="collector">Zaragoza, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Zaragoza, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.5584592,24.8514442</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.27">
+	<name>GL&amp;F 5529</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. argenteus</SimpleData>
+		<SimpleData name="collector">Near Ascension, Cerro Hijo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Near Ascension, Cerro Hijo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.95372,24.25994</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.28">
+	<name>HT 663</name>
+	<description>P. Hallet (plants collected by Alfred Bernhard Lau)</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. argenteus</SimpleData>
+		<SimpleData name="collector">road from Ascension to Sandia, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">2200m</SimpleData>
+		<SimpleData name="locality">3/3/1974</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">road from Ascension to Sandia, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9141,24.32392</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.29">
+	<name>HT 731</name>
+	<description>P. Hallet (plants collected by Alfred Bernhard Lau)</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">road from Cardenas to La Jolla, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1600-1800m</SimpleData>
+		<SimpleData name="locality">16/11/1974</SimpleData>
+		<SimpleData name="altitude">together with Thelocactus bicolor, Astrophythum myriostigma</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">road from Cardenas to La Jolla, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.642043381,21.999450886</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.30">
+	<name>IDD 105/99</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos fma.</SimpleData>
+		<SimpleData name="collector">Turn to Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">30/04/2003</SimpleData>
+		<SimpleData name="locality">30/04/2003</SimpleData>
+		<SimpleData name="altitude">= IDD645; Altamira form</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Turn to Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.773914264,23.619121261</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.31">
+	<name>IDD 107/99</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos fma.</SimpleData>
+		<SimpleData name="collector">At the turn off towards Villa de Bustamante, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">30/04/2003</SimpleData>
+		<SimpleData name="locality">30/04/2003</SimpleData>
+		<SimpleData name="altitude">= IDD647; red flower!</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">At the turn off towards Villa de Bustamante, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.872678882,23.32679751</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.32">
+	<name>KMR 31</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">South of Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4263583,23.4719813</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.33">
+	<name>KMR 31A</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">San Lorenzo, Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Lorenzo, Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.404514444,23.371954167</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.34">
+	<name>KMR 36</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">La Pena, South-West of Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Pena, South-West of Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.686766666,23.559219444</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.35">
+	<name>KMR 5</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. conothelos x ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">San Antonio de Pena Nevada, East of Doctor Arroyo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Antonio de Pena Nevada, East of Doctor Arroyo, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.972376249135,23.763282373201</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.36">
+	<name>KMR 67</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">South of Siberia, South of Zaragoza, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Siberia, South of Zaragoza, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.841186111,23.86013</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.37">
+	<name>KMR 67A</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">East of Joya de San Diego, South of Zaragoza, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Joya de San Diego, South of Zaragoza, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.897617778,23.881723889</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.38">
+	<name>KMR 68</name>
+	<description>Miroslav Kupčák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Ejido Pena Nevada direction to Siberia, South-West of Zaragoza, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">2004</SimpleData>
+		<SimpleData name="locality">2004</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ejido Pena Nevada direction to Siberia, South-West of Zaragoza, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.279219444,25.515176944</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.39">
+	<name>KPP 1698</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Carmen, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">01/01/2012</SimpleData>
+		<SimpleData name="locality">01/01/2012</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Carmen, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3613419,25.9368419</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.40">
+	<name>KPP 1722</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Dr. Arroyo, Carmen, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">01/01/2012</SimpleData>
+		<SimpleData name="locality">01/01/2012</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Dr. Arroyo, Carmen, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.355238,25.9440178</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.41">
+	<name>KPP 1726</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">San Jose del Llano, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">01/10/2012</SimpleData>
+		<SimpleData name="locality">01/10/2012</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Jose del Llano, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9355695,23.5350824</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.42">
+	<name>KS 29</name>
+	<description>Libor Kunte, Jaroslav Šnicer</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. macdowellii</SimpleData>
+		<SimpleData name="collector">Arteaga, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Arteaga, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6831723,25.3453685</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.43">
+	<name>LRM 298</name>
+	<description>Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Monte Redondo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2001</SimpleData>
+		<SimpleData name="locality">2001</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Monte Redondo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4755028,23.3681934</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.44">
+	<name>MK 117.378</name>
+	<description>Miloš Kaplan</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. argenteus-aurantiacus</SimpleData>
+		<SimpleData name="collector">Sn. Antonio Pena Nevada, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">intermediate form</SimpleData>
+		<SimpleData name="locality">intermediate form</SimpleData>
+		<SimpleData name="altitude">intermediate form</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sn. Antonio Pena Nevada, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.98022,23.74527</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.45">
+	<name>MMR 191</name>
+	<description>Milan Majer</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">South of Palmillas, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Palmillas, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.5861891,23.2634256</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.46">
+	<name>MZ 1461</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Cruz de Elorza, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cruz de Elorza, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.872260833,23.064709722</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.47">
+	<name>MZ 176</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Miquihuana I, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Miquihuana I, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7535893,23.574656</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.48">
+	<name>MZ 202</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. macdowellii</SimpleData>
+		<SimpleData name="collector">Higueras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Higueras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.797136,25.6351495</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.49">
+	<name>MZ 263</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Miquihuana III, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Miquihuana III, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.50104,22.71349</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.50">
+	<name>MZ 632</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Lazaro Cardenas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Lazaro Cardenas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6873504,21.3980992</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.51">
+	<name>PAR 166</name>
+	<description>Pavlosek Rostislav</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">San Miguel de Valdo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Miguel de Valdo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.734555,23.316062777</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.52">
+	<name>PH 48.1</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Between El Capulin and Bustamante, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">06-Nov-96</SimpleData>
+		<SimpleData name="locality">06-Nov-96</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Between El Capulin and Bustamante, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.664651111,23.295531389</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.53">
+	<name>PH 567.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">La Joya de Herrera, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2190m</SimpleData>
+		<SimpleData name="locality">15-Nov-04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Joya de Herrera, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.812732,23.4325112</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.54">
+	<name>PH 74.6</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">La Escondida, road to Aramberri, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">1550-1600m</SimpleData>
+		<SimpleData name="locality">16-Mar-98</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Escondida, road to Aramberri, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.926620833,24.107695</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.55">
+	<name>PP 1025</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. argenteus</SimpleData>
+		<SimpleData name="collector">Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">new locality</SimpleData>
+		<SimpleData name="locality">new locality</SimpleData>
+		<SimpleData name="altitude">new locality</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8873,26.2384363</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.56">
+	<name>PP 1026</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">Santa Lucia, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Santa Lucia, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.917754,23.7733343</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.57">
+	<name>PP 1179</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">El Coyote, Huizache, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Coyote, Huizache, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.39664,22.916</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.58">
+	<name>PP 1183</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. argenteus</SimpleData>
+		<SimpleData name="collector">San Dolores, Municipio Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">2002</SimpleData>
+		<SimpleData name="locality">2002</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Dolores, Municipio Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.85201,24.16396</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.59">
+	<name>PP 1249</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. flavus</SimpleData>
+		<SimpleData name="collector">Santa Rita del Rucio, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Santa Rita del Rucio, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3000094,23.0644411</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.60">
+	<name>PP 1252</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">El Coyote, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Coyote, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.573063,22.8971107</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.61">
+	<name>PP 1442</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">La Boquilla, Autoservis 20 km from Matehuala, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">robust form</SimpleData>
+		<SimpleData name="locality">robust form</SimpleData>
+		<SimpleData name="altitude">robust form</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Boquilla, Autoservis 20 km from Matehuala, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.64493502,23.649299649</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.62">
+	<name>PP 1445</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexico</SimpleData>
+		<SimpleData name="species">= LS512, PP1445</SimpleData>
+		<SimpleData name="locality">= LS512, PP1445</SimpleData>
+		<SimpleData name="altitude">= LS512, PP1445</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.0077097,23.6585116</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.63">
+	<name>PP 20</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. saussieri</SimpleData>
+		<SimpleData name="collector">La Joya, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Joya, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8973174,25.0603216</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.64">
+	<name>PP 605</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Tula, Municipio Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tula, Municipio Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7136296,22.9965712</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.65">
+	<name>PP 613</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Avilla y Urbina, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Avilla y Urbina, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.600519723,23.696016666</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.66">
+	<name>PP 847</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. argenteus</SimpleData>
+		<SimpleData name="collector">Puentes, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Puentes, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8682914,25.1744829</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.67">
+	<name>PP 848</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos ssp. aurantiacus</SimpleData>
+		<SimpleData name="collector">Aramberri, Municipio Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Aramberri, Municipio Aramberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8178742,24.1028828</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.68">
+	<name>REP 1219</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. macdowellii</SimpleData>
+		<SimpleData name="collector">Los Muertos, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">1300m</SimpleData>
+		<SimpleData name="locality">5/12/1976</SimpleData>
+		<SimpleData name="altitude">together with REP1217-1219a</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Los Muertos, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.7450211,25.6475691</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.69">
+	<name>RS 1240</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. argenteus</SimpleData>
+		<SimpleData name="collector">in the pass, hill on the right, San Ignacio del Texas, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">in the pass, hill on the right, San Ignacio del Texas, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.189225833,24.31245</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.70">
+	<name>RS 1273</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. macdowellii</SimpleData>
+		<SimpleData name="collector">canyon opposite Ojo Caliente, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">canyon opposite Ojo Caliente, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.26667,22.53333</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.71">
+	<name>RS 1305</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos fma.?</SimpleData>
+		<SimpleData name="collector">down, next to the road, just before Miquihuana slope on the right, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">4/7/04</SimpleData>
+		<SimpleData name="locality">4/7/04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">down, next to the road, just before Miquihuana slope on the right, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.640596906,24.291116457</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.72">
+	<name>RS 686</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Bustamante, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Bustamante, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8847687,23.3249637</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.73">
+	<name>RS 687</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Altamira, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Altamira, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.1165184,22.5630208</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.74">
+	<name>RS 737</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Las Jarillas, Nuevo Leon, Mexico before Doctor Arroyo</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Las Jarillas, Nuevo Leon, Mexico before Doctor Arroyo</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.268686111,23.766931945</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.75">
+	<name>SB 329</name>
+	<description>Steven (Steve) Brack</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. aurantiacus</SimpleData>
+		<SimpleData name="collector">Amberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Amberri, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.622929209314,26.089334760426</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.76">
+	<name>TK 334</name>
+	<description>Antonín Krejčík</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Bustamante, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Bustamante, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5700509,26.5713326</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.77">
+	<name>WH 268</name>
+	<description>Walter Hellinx</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Cerro Hijo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1788m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cerro Hijo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9777274,24.2846982</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.78">
+	<name>WTH 114</name>
+	<description>Wolter ten Hoeve</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos v. argenteus</SimpleData>
+		<SimpleData name="collector">On the hill just South of La Presa, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="species">2001</SimpleData>
+		<SimpleData name="locality">2001</SimpleData>
+		<SimpleData name="altitude">Many plants</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">On the hill just South of La Presa, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.815334444,25.348647222</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.79">
+	<name>WTH 583</name>
+	<description>Wolter ten Hoeve</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Between the rocks higher up a hill along the road to El Aguacate, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2005</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Between the rocks higher up a hill along the road to El Aguacate, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.168896666,23.176225278</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.80">
+	<name>Z 128A</name>
+	<description>Carlo Zanovello</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo León (Myer y Noriega)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Myer y Noriega, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.160407969,23.417916554</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.81">
+	<name>Z 177</name>
+	<description>Carlo Zanovello</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo León (La Escondida)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Escondida, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.5176098,24.9079613</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.82">
+	<name>GLF 682</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">6 miles South-West of Jaumave, Tamaulipas, Mexicó</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">6 miles South-West of Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.412658509,23.478425777</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.83">
+	<name>GLF 2276</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">20 miles East of Matehuala, San Luis Potosi, Mexicó</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">20 miles East of Matehuala, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.66016118404,23.660852824888</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.84">
+	<name>CS 112.2</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos ssp. auranticus</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (South of Matehuala, 1610 m)</SimpleData>
+		<SimpleData name="locality">16/06/2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">South of Matehuala,, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.638603158593,23.665167239339</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.85">
+	<name>GM 147</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipasaulipas (Tula, 1600 m)</SimpleData>
+		<SimpleData name="locality">1996</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Tula,, Tamaulipasaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.776262227,22.939893555</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.86">
+	<name>GM 390</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Perdida, 1435 m)</SimpleData>
+		<SimpleData name="locality">1999</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Perdida,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.6319,24.27932</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.87">
+	<name>GM 1005</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  garciae</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Felipe Angeles, 1320 m)</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Felipe Angeles,, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7548905,23.3892135</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.88">
+	<name>GM 1014.6</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (San Antonio, 1630 m)</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Antonio,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8876779,24.6814043</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.89">
+	<name>GM 1090.14</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Bolsa, 1640 m)</SimpleData>
+		<SimpleData name="locality">2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Bolsa,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.0160757,23.7317692</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.90">
+	<name>GM 1250.11</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Joya de Zacate, 2000 m)</SimpleData>
+		<SimpleData name="locality">07/11/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Joya de Zacate,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.275104444,23.369158055</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.91">
+	<name>GM 1250.14</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Cardona, 1660 m)</SimpleData>
+		<SimpleData name="locality">07/11/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Cardona,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9817219,23.4020847</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.92">
+	<name>GM 1251.3</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Lagunita, 1620 m)</SimpleData>
+		<SimpleData name="locality">08/11/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Lagunita,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2386345,24.9350737</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.93">
+	<name>GM 1522</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Presa de San Carlos, 1525 m)</SimpleData>
+		<SimpleData name="locality">09/04/2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Presa de San Carlos,, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.98111,23.58889</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.94">
+	<name>IDD 0120</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (La Soledad)</SimpleData>
+		<SimpleData name="locality">01/05/1993</SimpleData>
+		<SimpleData name="altitude">CSD 115  za Matehuala na Dr. Arroyo</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Soledad, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5070432,23.6856814</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.95">
+	<name>IDD 0582</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos ssp. conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Matehuala - Dr. Arroyo)</SimpleData>
+		<SimpleData name="locality">22/04/1999</SimpleData>
+		<SimpleData name="altitude">idd045/99 MO v smere na Dr. Arroyo, vľavo od cesty aj Mammillaria candida, Coryphantha sp.</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Matehuala - Dr. Arroyo, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.4497873,23.686732</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.96">
+	<name>CH 194</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  v. aurantiacus</SimpleData>
+		<SimpleData name="collector">Aramberri, Nuevo Lón, Mexicó</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Aramberri, Nuevo Lón, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.793285278,24.025915833</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.97">
+	<name>CH 198</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  f. saussieri</SimpleData>
+		<SimpleData name="collector">Doctor Arroyo, Nuevo Lón, Mexicó</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Doctor Arroyo, Nuevo Lón, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.622386335177,23.65769673046</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.98">
+	<name>BKM 811</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (4 km nad Peňa Nevada alt. 1735)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">4 km nad Peňa Nevada alt. 1735, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.55,23.25</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.99">
+	<name>BKM 825</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos ssp. argenteus</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (San Jose del Sitio, za křižovatkou)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Jose del Sitio, za křižovatkou, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.238578333,24.224803333</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.100">
+	<name>BKM 947</name>
+	<description>Josef Barcák, Miroslav Kupcák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  f.</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (El Herrero)</SimpleData>
+		<SimpleData name="locality">2010</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Herrero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.674581,23.5760188</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.101">
+	<name>KPP 1722</name>
+	<description>Karel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  bílý květ</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (Dr. Aroyo, Carmen)</SimpleData>
+		<SimpleData name="locality">01/01/2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Dr. Aroyo, Carmen, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3534337,25.9420436</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.102">
+	<name>MMR 191</name>
+	<description>Milan Majer</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (South of Palmillas)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">South of Palmillas, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.565293335,23.271775923</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.103">
+	<name>PP 1183</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  aurantiacus</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (San Dolores)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Dolores, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3972322,24.9765135</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.104">
+	<name>PP 1442</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (La Boquila)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Boquila, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.561084444,23.815808334</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.105">
+	<name>PP 1445</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó :  (GPS Luděk 512)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">GPS Luděk 512, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.548353419,23.95282499</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.106">
+	<name>PA 0097</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Pred Jose Maria Morelos, 1507 m)</SimpleData>
+		<SimpleData name="locality">2011</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Pred Jose Maria Morelos,, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.079681389,22.527107778</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.107">
+	<name>PA 0448</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (24 km severne od Matahualy, 1941 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">24 km severne od Matahualy,, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.666159167,23.604599166</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.108">
+	<name>PA 1100</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  v. flavus</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Entronque Huizache III, 1409 m)</SimpleData>
+		<SimpleData name="locality">17/10/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Entronque Huizache III,, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.598641863552,22.125666251607</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.109">
+	<name>PA 1194</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Palmillas - Miquihuana, 1673 m)</SimpleData>
+		<SimpleData name="locality">21/10/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Palmillas - Miquihuana,, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.5486089,23.3311048</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.110">
+	<name>RS 281</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (Guerrero, Mexicó on road behind Palmas)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Guerrero, Mexico on road behind Palmas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.189261667,23.169066944</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.111">
+	<name>RUS 046</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  v. flavus</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (Santo Domingo)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Santo Domingo, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.5582297,23.412227</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.112">
+	<name>RUS 342</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  v. aurantiacus</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (Arramberri-EL Mezquitlan)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Arramberri-EL Mezquitlan, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.760141944,24.161645277</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.113">
+	<name>RUS 436</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (La Florida)</SimpleData>
+		<SimpleData name="locality">21/10/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Florida, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.1147122,23.3202573</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.114">
+	<name>RUS 438</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Miquihuana)</SimpleData>
+		<SimpleData name="locality">21/10/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7934682,23.5860223</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.115">
+	<name>RUS 640</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Ejido La Verdolaga)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Ejido La Verdolaga, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.871791944,23.282219444</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.116">
+	<name>VM 227</name>
+	<description>Vojtech Myšák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Léon (EI Refugio)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">EI Refugio, Nuevo Léon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.529303,24.9059302</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.117">
+	<name>VZD 160</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí  (La Tapona)</SimpleData>
+		<SimpleData name="locality">2003</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Tapona, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.178654,21.9962105</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.118">
+	<name>VCCB 748</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (La Pastoriza)</SimpleData>
+		<SimpleData name="locality">2006</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Pastoriza, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6243471,23.4446861</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.119">
+	<name>VCCB 1046</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (El Mulero)</SimpleData>
+		<SimpleData name="locality">2008</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Mulero, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.1743799,22.5833539</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.120">
+	<name>VZD 1168</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo León (San Blas)</SimpleData>
+		<SimpleData name="locality">2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Blas, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.435557,23.6774919</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.121">
+	<name>VZD 1415</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo León (Albarcones Las Viejas)</SimpleData>
+		<SimpleData name="locality">3-4/2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Albarcones Las Viejas, Nuevo León, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.21989,23.70176</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
