@@ -12,19 +12,26 @@ Scrapes cactus collection records from two hobbyist databases and geocodes the f
 ## Pipeline
 
 ```
-bcss_miner.R      →  data/bcss/<species>.csv
-clcactus_miner.R  →  data/clcactus/<species>.csv
-                          ↓
-geocoder.R        →  data/geocoded/<species>.csv      (regex pipeline)
-geocoder_llm.R    →  data/geocoded_llm/<species>.csv  (LLM pipeline)
-                          ↓
-mapCreator.R      →  data/kml/geocoded/<species>.kml
-                      data/kml/geocoded_llm/<species>.kml
-                      data/shp/geocoded/<species>.shp
-                      data/shp/geocoded_llm/<species>.shp
+bcss_miner.R          →  data/bcss/<species>.csv
+clcactus_miner.R      →  data/clcactus/<species>.csv
+                                ↓
+geocoder.R            →  data/geocoded/<species>.csv      (regex pipeline)
+geocoder_llm.R        →  data/geocoded_llm/<species>.csv  (LLM pipeline)
+                          ┌─────┴─────┐
+coordinateCleaner.R   →  data/cleaned/<species>.csv       mapCreator.R  →  data/kml/
+                          data/cleaned_llm/<species>.csv                     data/shp/
+                                ↓
+occTest.R             →  data/occTest/cleaned/
+                          data/occTest/cleaned_llm/
 ```
 
-Run each script from the project root with `Rscript R/<script>.R`.
+Run the full pipeline from the project root with:
+
+```r
+source("run_pipeline.R")
+```
+
+Or run individual scripts with `Rscript R/<script>.R`.
 
 ## Data sources
 
@@ -135,9 +142,27 @@ All methods failed: the query returned no geocoder result and Gemini returned nu
 | Fallback for failed geocodes | None — record marked `failed` | LLM approximate coordinates |
 | Rate limit | Nominatim: 1 req/s | Gemini free tier: 15 req/min |
 
-## KML output
+## Coordinate cleaning
 
-`mapCreator.R` converts geocoded CSVs to KML and shapefile (SHP) for visualisation in Google Earth, QGIS, or any GIS tool. It produces one file per species per pipeline:
+`coordinateCleaner.R` reads the geocoded CSVs from both pipelines and removes suspect records using the `CoordinateCleaner` package. Records with `NA` coordinates are dropped first, then seven tests are run:
+
+| Test | What it flags |
+|---|---|
+| `zeros` | lat = 0 or lon = 0 |
+| `equal` | lat == lon |
+| `gbif` | Coordinates at the GBIF headquarters |
+| `seas` | Records in the ocean |
+| `capitals` | Records near country/province capitals |
+| `centroids` | Records at country/province centroids |
+| `institutions` | Records near biodiversity institutions |
+
+Only records passing all tests (`errorAcceptance = "strict"`) are kept. A New World bounding box (lat −60 to 60, lon −135 to −30) is applied as a final filter.
+
+Output: `data/cleaned/<species>.csv` and `data/cleaned_llm/<species>.csv`.
+
+## Map output
+
+`mapCreator.R` converts geocoded CSVs to KML and shapefile (SHP) for visualisation in Google Earth, QGIS, or any GIS tool. It reads directly from the geocoded outputs (not the cleaned ones) and produces one file per species per pipeline:
 
 ```
 data/kml/
@@ -170,16 +195,35 @@ Each placemark is colour-coded by `geocode_type` and includes a metadata table (
 
 Records with no coordinates (`lat`/`lon` = `NA`) are excluded.
 
+## Occurrence testing
+
+`occTest.R` runs the `occTest` package against an environmental raster to detect and remove further suspect occurrences. It reads from `data/cleaned/` and `data/cleaned_llm/` and runs one test configuration per species (env outliers ON, raster layers 1–26, `errorAcceptance = "strict"`).
+
+Predictor raster: `data/predictors/ase_UKESM1-0-LL_current.tif` (layers 1–26).
+
+Output per species per pipeline (in `data/occTest/cleaned/` and `data/occTest/cleaned_llm/`):
+
+| File | Contents |
+|---|---|
+| `<species>.kml` | Filtered occurrences (KML) |
+| `<species>.shp` | Filtered occurrences (shapefile) |
+| `<species>.rda` | Raw `occTest` and `occFilter` R objects |
+| `<species>.jpg` | Diagnostic plots |
+| `filterSummary.csv` | Record counts before and after filtering |
+
 ## Setup
 
 ### Dependencies
 
 ```r
 install.packages(c(
-  "httr", "rvest",          # scraping
-  "httr2", "jsonlite",      # LLM pipeline
-  "tidygeocoder",            # geocoding
-  "dplyr", "readr", "stringr", "purrr"
+  "httr", "rvest",                      # scraping
+  "httr2", "jsonlite",                  # LLM pipeline
+  "tidygeocoder",                       # geocoding
+  "CoordinateCleaner",                  # coordinate cleaning
+  "terra", "sf",                        # spatial output
+  "occTest", "ggpubr",                  # occurrence testing
+  "dplyr", "readr", "stringr", "purrr"  # data wrangling
 ))
 ```
 

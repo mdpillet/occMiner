@@ -1,0 +1,272 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+NA,NA,NA,"West of Januaria, Januaria, Minas Gerais, Brazil",25/06/2016,25/06/2016,NA,bcss,"Januaria, Januaria, Minas Gerais, Brazil",direction_only,-15.4875,-44.361111
+NA,NA,NA,"Between Manga and Iuiú, Bahia, Brazil",29/06/2016,29/06/2016,NA,bcss,"Between Manga and Iuiú, Bahia, Brazil",direct,-11.46667,-44
+NA,NA,NA,"Palmas de Monte Alto, Bahia, Brazil",01/07/2016,01/07/2016,NA,bcss,"Palmas de Monte Alto, Bahia, Brazil",direct,-14.2636093,-43.1649976
+NA,NA,NA,"Palmas de Monte Alto, Bahia, Brazil",02/07/2016,02/07/2016,NA,bcss,"Palmas de Monte Alto, Bahia, Brazil",direct,-14.2636093,-43.1649976
+NA,NA,NA,"West of the Santa Izabel cemetery, Mucugê, Bahia, Brazil",18/07/2016,18/07/2016,NA,bcss,"the Santa Izabel cemetery, Mucugê, Bahia, Brazil",direction_only,-13.003989564897,-41.367548380877
+NA,NA,NA,"West of the Santa Izabel cemetery, Mucugê, Bahia, Brazil",18/07/2016,18/07/2016,NA,bcss,"the Santa Izabel cemetery, Mucugê, Bahia, Brazil",direction_only,-13.003989564897,-41.367548380877
+NA,NA,NA,"Serra Mineira, Bocaiúva, Minas Gerais, Brazil",05-May-09,05-May-09,NA,bcss,"Serra Mineira, Bocaiúva, Minas Gerais, Brazil",direct,-17.1791366,-43.5696619
+NA,NA,NA,"East of Pedra Azul, Minas Gerais, Brazil",1992,1992,= P. glaucescens,bcss,"Pedra Azul, Minas Gerais, Brazil",direction_only,-16.0058567,-41.2793731
+NA,NA,NA,"West of Morro do Chapéu, Bahia, Brazil",1992,1992,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
+NA,NA,NA,"Araçuaí, Minas Gerais, Brazil",300m,27/05/1999,NA,bcss,"Araçuaí, Minas Gerais, Brazil",direct,-16.8484451,-42.0661868
+NA,NA,NA,"Sopa, Minas Gerais, Brazil",1315m,05/06/1999,NA,bcss,"Sopa, Minas Gerais, Brazil",direct,-18.1815788,-43.6948887
+NA,NA,NA,"Porto Agraria, Minas Gerais, Brazil",07/06/1999,07/06/1999,NA,bcss,"Porto Agraria, Minas Gerais, Brazil",direct,-14.3714816,-43.8182843
+NA,NA,NA,"West of Ipirá, Bahia, Brazil",15/06/1999,15/06/1999,NA,bcss,"Ipirá, Bahia, Brazil",direction_only,-12.1578337,-39.7416605
+NA,NA,NA,"Morro do Chapéu, Bahia, Brazil",970m,15/05/1999,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+NA,NA,NA,"Morro do Chapéu, Bahia, Brazil",15/05/1999,15/05/1999,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+NA,NA,NA,"West of Morro do Chapéu towards America Dourada, Bahia, Brazil",790m,16/05/1999,NA,bcss,"Morro do Chapéu towards America Dourada, Bahia, Brazil",direction_only,-11.444069976473,-41.425120299547
+NA,NA,NA,"near Jacarezinho, Bahia, Brazil",845m,16/05/1999,NA,bcss,"near Jacarezinho, Bahia, Brazil",direct,-23.1619741,-49.9695166
+NA,NA,NA,"Seabra, Bahia, Brazil",1300m,19/05/1999,NA,bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+NA,NA,NA,"West of Seabra, Bahia, Brazil",19/05/1999,19/05/1999,NA,bcss,"Seabra, Bahia, Brazil",direction_only,-12.4172071,-41.772051
+NA,NA,NA,"West of Seabra, Bahia, Brazil",900m,19/05/1999,NA,bcss,"Seabra, Bahia, Brazil",direction_only,-12.4172071,-41.772051
+NA,NA,NA,"East of Seabra, Bahia, Brazil",780m,19/05/1999,NA,bcss,"Seabra, Bahia, Brazil",direction_only,-12.4172071,-41.772051
+NA,NA,NA,"Mucugê, Bahia, Brazil",1075m,20/05/1999,NA,bcss,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+NA,NA,NA,"Rio de Contas near waterfall, Bahia, Brazil",925m,21/05/1999,NA,bcss,"Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5778179,-41.8115466
+NA,NA,NA,"Rio de Contas near waterfall, Bahia, Brazil",925m,21/05/1999,NA,bcss,"Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5778179,-41.8115466
+NA,NA,NA,"Brumado, Bahia, Brazil",650m,23/05/1999,NA,bcss,"Brumado, Bahia, Brazil",direct,-14.2025099,-41.6701307
+NA,NA,NA,"Sobradinho 1, Bahia, Brasil",389m,20/10/2007,NA,bcss,"Sobradinho 1, Bahia, Brasil",direct,-12.9633139,-39.263182
+NA,NA,NA,"South of Massaroca Hwy 407, Bahia, Brasil, Bahia, Brasil",592m,21/10/2007,NA,bcss,"Massaroca Hwy 407, Bahia, Brasil, Bahia, Brasil",direction_only,-9.8764579,-40.2884766
+NA,NA,NA,"Barrieras, Bahia, Brasil",10/11/2007,10/11/2007,NA,bcss,"Barrieras, Bahia, Brasil",direct,-12.1339871,-44.98989
+NA,NA,NA,"America Dourada, Bahia, Brasil",879m,10/11/2007,NA,bcss,"America Dourada, Bahia, Brasil",direct,-11.3998963,-41.5247219
+NA,NA,NA,"America Dourada, Bahia, Brasil",882m,01/12/2009,near BB85 location,bcss,"America Dourada, Bahia, Brasil",direct,-11.3998963,-41.5247219
+NA,NA,NA,"Itinga, Minas Gerais, Brasil",300m,18/11/2009,BB109 location,bcss,"Itinga, Minas Gerais, Brasil",direct,-16.6066757,-41.7702077
+NA,NA,NA,"Itinga 2, Minas Gerais, Brasil",300m,18/11/2009,BB110 location,bcss,"Itinga 2, Minas Gerais, Brasil",direct,-16.6066757,-41.7702077
+NA,NA,NA,"Pedra Azul 4, Minas Gerais, Brasil",670m,19/11/2009,NA,bcss,"Pedra Azul 4, Minas Gerais, Brasil",direct,-16.0058567,-41.2793731
+NA,NA,NA,"Serra Escura, Bahia, Brasil",620m,23/11/2009,NA,bcss,"Serra Escura, Bahia, Brasil",direct,-12.7704741,-41.4032006
+NA,NA,NA,"Brumado, Bahia, Brasil",650m,24/11/2009,BB99 location,bcss,"Brumado, Bahia, Brasil",direct,-14.2025099,-41.6701307
+NA,NA,NA,"Rio de Contas, Bahia, Brasil",925m,24/11/2009,BB096 location,bcss,"Rio de Contas, Bahia, Brasil",direct,-13.5803333,-41.8112152
+NA,NA,NA,"Porto Novo, Bahia, Brasil",498m,27/11/2009,NA,bcss,"Porto Novo, Bahia, Brasil",direct,-13.1573722,-43.8707923
+NA,NA,NA,"Seabra, Bahia, Brasil",1129m,30/11/2009,near BB89 location,bcss,"Seabra, Bahia, Brasil",direct,-12.4172071,-41.772051
+NA,NA,NA,"Capim Grosso, Bahia, Brasil",392m,03/12/2009,NA,bcss,"Capim Grosso, Bahia, Brasil",direct,-11.379428,-40.0115228
+NA,NA,NA,"Delfino, Bahia, Brasil",624m,05/12/2009,NA,bcss,"Delfino, Bahia, Brasil",direct,-10.4966113,-41.1048995
+NA,NA,NA,"Rio Morim Mimoso, Bahia, Brasil",1226m,05/12/2009,NA,bcss,"Rio Morim Mimoso, Bahia, Brasil",direct,-11.65531,-38.48586
+NA,NA,NA,"Paulo Alfonso, Alagoas, Brasil",306m,07/12/2009,NA,bcss,"Paulo Alfonso, Alagoas, Brasil",direct,-9.1175,-37.73222
+NA,NA,NA,"Urandi, Bahia, Brazil",seed,seed,seed,bcss,"Urandi, Bahia, Brazil",direct,-14.7680766,-42.6573988
+NA,NA,NA,"Below Monte Azul, Minas Gerais, Brazil",seed,seed,seed,bcss,"Below Monte Azul, Minas Gerais, Brazil",direct,-15.1586422,-42.8676262
+NA,NA,NA,Brazil,= FR1223,= FR1223,= FR1223,bcss,Brazil,direct,-10.3333333,-53.2
+NA,NA,NA,"Mato Verde to Rio Pardo de Minas, Minas Gerais, Brazil",1981/08,1981/08,=GH118,bcss,"Mato Verde to Rio Pardo de Minas, Minas Gerais, Brazil",direct,-15.40137,-42.3101249
+NA,NA,NA,"Lecinho de Almerida to Caetité, Bahia, Brazil",1981/08/17,1981/08/17,=GH134a,bcss,"Lecinho de Almerida to Caetité, Bahia, Brazil",direct,-14.061480512785,-42.485424420069
+NA,NA,NA,"Brejinho das Amethistas, Bahia, Brazil",1988,1988,"=HU421, GH401, UES52",bcss,"Brejinho das Amethistas, Bahia, Brazil",direct,-14.26361,-42.52667
+NA,NA,NA,"Mucugê, Bahia, Brazil",1988,1988,"=HU891, GH421, UES77",bcss,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+NA,NA,NA,"Seabra, Bahia, Brazil",1988,1988,"=HU906, GH445, UES102",bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+NA,NA,NA,West of Morro do Chapéu,NA,NA,NA,bcss,Morro do Chapéu,direction_only,-11.5500293,-41.1570248
+NA,NA,NA,San Rafael,NA,NA,NA,bcss,San Rafael,direct,37.9747795,-122.5316686
+NA,NA,NA,North of Gruta dos Brejões,NA,NA,NA,bcss,Gruta dos Brejões,direction_only,-11.007223,-41.4345838
+NA,NA,NA,West of Seabra,NA,NA,NA,bcss,Seabra,direction_only,-12.4172071,-41.772051
+NA,NA,NA,Porta Nova,NA,NA,NA,bcss,Porta Nova,direct,37.1330908,-7.6482059
+NA,NA,NA,Porta Nova,NA,NA,NA,bcss,Porta Nova,direct,37.1330908,-7.6482059
+NA,NA,NA,Iuiú,NA,NA,NA,bcss,Iuiú,direct,-14.4113008,-43.5508641
+NA,NA,NA,Caetité,NA,NA,NA,bcss,Caetité,direct,-14.0691776,-42.4852428
+NA,NA,NA,Brejinho das Ametistas,NA,NA,NA,bcss,Brejinho das Ametistas,direct,-14.2868643,-42.5140263
+NA,NA,NA,North of Licinio de Almeida,NA,NA,NA,bcss,Licinio de Almeida,direction_only,-14.6835152,-42.5064545
+NA,NA,NA,Serra Escura,NA,NA,NA,bcss,Serra Escura,direct,-12.7704741,-41.4032006
+NA,NA,NA,Pedra Azul,cenepequei,cenepequei,cenepequei,bcss,Pedra Azul,direct,-16.0058567,-41.2793731
+NA,NA,NA,East of Montes Claros,cenepequei,cenepequei,cenepequei,bcss,Montes Claros,direction_only,-16.7495727,-43.8687268
+NA,NA,NA,East of Mato Verde,NA,NA,NA,bcss,Mato Verde,direction_only,-15.3942731,-42.8624286
+NA,NA,NA,West of Morro do Chapéu,NA,NA,NA,bcss,Morro do Chapéu,direction_only,-11.5500293,-41.1570248
+NA,NA,NA,San Rafael,NA,NA,NA,bcss,San Rafael,direct,37.9747795,-122.5316686
+NA,NA,NA,West of Morro do Chapéu,NA,NA,NA,bcss,Morro do Chapéu,direction_only,-11.5500293,-41.1570248
+NA,NA,NA,Vargea Nova,NA,NA,NA,bcss,Vargea Nova,direct,-11.2573931,-40.9423272
+NA,NA,NA,West of Petrolina,NA,NA,NA,bcss,Petrolina,direction_only,-9.3817334,-40.4968875
+NA,NA,NA,South of Sento Sé,NA,NA,NA,bcss,Sento Sé,direction_only,-9.7406436,-41.8830056
+NA,NA,NA,South of Sento Sé,NA,NA,NA,bcss,Sento Sé,direction_only,-9.7406436,-41.8830056
+NA,NA,NA,South of Sento Sé,NA,NA,NA,bcss,Sento Sé,direction_only,-9.7406436,-41.8830056
+NA,NA,NA,Xiche Xiche,NA,NA,NA,bcss,Xiche Xiche,direct,29.0341661,109.51512
+NA,NA,NA,Mata dos Mendes,NA,NA,NA,bcss,Mata dos Mendes,direct,-12.4254259,-41.9948939
+NA,NA,NA,Piaté,NA,NA,NA,bcss,Piaté,direct,46.0556102,8.6905128
+NA,NA,NA,West of Itaobim,woolly,woolly,woolly,bcss,Itaobim,direction_only,-16.5614934,-41.502275
+NA,NA,NA,East of Mato Verde,NA,NA,NA,bcss,Mato Verde,direction_only,-15.3942731,-42.8624286
+NA,NA,NA,North of Licinio de Armeida,NA,NA,NA,bcss,Licinio de Armeida,direction_only,-14.6832866,-42.5044377
+NA,NA,NA,South-West of Brejinho das Ametistas,NA,NA,NA,bcss,Brejinho das Ametistas,direction_only,-14.2868643,-42.5140263
+NA,NA,NA,Porto Novo,NA,NA,NA,bcss,Porto Novo,direct,6.4990718,2.6253361
+NA,NA,NA,West of Seabra,NA,NA,NA,bcss,Seabra,direction_only,-12.4172071,-41.772051
+NA,NA,NA,North of Morro do Chapéu,NA,NA,NA,bcss,Morro do Chapéu,direction_only,-11.5500293,-41.1570248
+NA,NA,NA,North of Morro do Chapéu,NA,NA,NA,bcss,Morro do Chapéu,direction_only,-11.5500293,-41.1570248
+NA,NA,NA,San Rafael,NA,NA,NA,bcss,San Rafael,direct,37.9747795,-122.5316686
+NA,NA,NA,San Rafael,NA,NA,NA,bcss,San Rafael,direct,37.9747795,-122.5316686
+NA,NA,NA,Morro do Chapéu,NA,NA,NA,bcss,Morro do Chapéu,direct,-11.5500293,-41.1570248
+NA,NA,NA,Gruta dos Brejões,NA,NA,NA,bcss,Gruta dos Brejões,direct,-11.007223,-41.4345838
+NA,NA,NA,Road to Barra,NA,NA,NA,bcss,Road to Barra,direct,58.9621741,-2.9687784
+NA,NA,NA,Porta Nova,NA,NA,NA,bcss,Porta Nova,direct,37.1330908,-7.6482059
+NA,NA,NA,Porta Nova,NA,NA,NA,bcss,Porta Nova,direct,37.1330908,-7.6482059
+NA,NA,NA,Iuiú,NA,NA,NA,bcss,Iuiú,direct,-14.4113008,-43.5508641
+NA,NA,NA,Caetité,NA,NA,NA,bcss,Caetité,direct,-14.0691776,-42.4852428
+NA,NA,NA,Brejinho das Ametistas,NA,NA,NA,bcss,Brejinho das Ametistas,direct,-14.2868643,-42.5140263
+NA,NA,NA,North of Licinio de Almeida,NA,NA,NA,bcss,Licinio de Almeida,direction_only,-14.6835152,-42.5064545
+NA,NA,NA,East of Mato Verde,NA,NA,NA,bcss,Mato Verde,direction_only,-15.3942731,-42.8624286
+NA,NA,NA,Barrocão,NA,NA,NA,bcss,Barrocão,direct,-16.6028259,-43.2810367
+NA,NA,NA,West of Pedra Azul,NA,NA,NA,bcss,Pedra Azul,direction_only,-16.0058567,-41.2793731
+NA,NA,NA,Sussuarana,NA,NA,NA,bcss,Sussuarana,direct,-14.1598189,-41.2063284
+NA,NA,NA,"Serra Obscura, East of Sussuarana, Bahia, Brazil",NA,NA,NA,bcss,"Serra Obscura, East of Sussuarana, Bahia, Brazil",direct,-12.939117,-38.4356201
+NA,NA,NA,"BA426, South-West Morro de Chapeu, Bahia, Brazil",NA,NA,NA,bcss,"BA426, South-West Morro de Chapeu, Bahia, Brazil",direct,-11.413952294298,-41.038974000258
+NA,NA,NA,"Road leaving BR052, returning towards Morro de Chapeu, Bahia, Brazil",NA,NA,NA,bcss,"Road leaving BR052, returning towards Morro de Chapeu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+NA,NA,NA,"BA426, South-West Morro de Chapeu, Bahia, Brazil",NA,NA,NA,bcss,"BA426, South-West Morro de Chapeu, Bahia, Brazil",direct,-11.413952294298,-41.038974000258
+NA,NA,NA,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",NA,NA,NA,bcss,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+NA,NA,NA,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",NA,NA,NA,bcss,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+NA,NA,NA,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,bcss,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",direct,-12.416977077701,-41.778965783414
+NA,NA,NA,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,bcss,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",direct,-12.416977077701,-41.778965783414
+NA,NA,NA,"15km North of Porto-Novo, Bahia, Brazil",NA,NA,NA,bcss,"Porto-Novo, Bahia, Brazil",offset_adjusted,-13.022473859112187,-43.8707923
+NA,NA,NA,"20km South of Iulu, Bahia, Brazil",NA,NA,NA,bcss,"Iulu, Bahia, Brazil",offset_adjusted,-12.655175649707747,-41.721435781216
+NA,NA,NA,"BR030, 5km after Guanambi, Bahia, Brazil",NA,NA,NA,bcss,"BR030, 5km after Guanambi, Bahia, Brazil",direct,-14.159763988182,-42.686602036788
+NA,NA,NA,"South of Caitité, road towards Brejinho das Amethystas, Bahia, Brazil",NA,NA,NA,bcss,"Caitité, road towards Brejinho das Amethystas, Bahia, Brazil",direction_only,-14.26361,-42.52667
+NA,NA,NA,"Brejinho das Amethystas, Bahia, Brazil",NA,NA,NA,bcss,"Brejinho das Amethystas, Bahia, Brazil",direct,-14.26361,-42.52667
+NA,NA,NA,"after Jurema, Bahia, Brazil",NA,NA,NA,bcss,"after Jurema, Bahia, Brazil",direct,-14.8641857,-40.8479423
+NA,NA,NA,"5km after GD63, Minas Gerais, Brazil",NA,NA,NA,bcss,"5km after GD63, Minas Gerais, Brazil",direct,-18.456295297924,-44.673412162104
+NA,NA,NA,"Mato Verde to Rio Pardo de Minas, Minas Gerais, Brazil",1981/08,1981/08,NA,bcss,"Mato Verde to Rio Pardo de Minas, Minas Gerais, Brazil",direct,-15.40137,-42.3101249
+NA,NA,NA,"Lecinho de Almerida to Caetité, Bahia, Brazil",1981/08/17,1981/08/17,NA,bcss,"Lecinho de Almerida to Caetité, Bahia, Brazil",direct,-14.061480512785,-42.485424420069
+NA,NA,NA,"America Dourada, Bahia, Brazil",May-07,May-07,NA,bcss,"America Dourada, Bahia, Brazil",direct,-11.3998963,-41.5247219
+NA,NA,NA,"Morro do Chapeu, Bahia, Brazil",May-07,May-07,NA,bcss,"Morro do Chapeu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+NA,NA,NA,"North of Serra do Cabral, Minas Gerais, Brazil",9/9/1985,9/9/1985,= P. glaucescens?,bcss,"Serra do Cabral, Minas Gerais, Brazil",direction_only,-17.8281736,-44.4125697
+NA,NA,NA,"Alto Alegre, Piaui, Brazil",NA,NA,NA,bcss,"Alto Alegre, Piaui, Brazil",direct,-5.0404731,-42.8239201
+NA,NA,NA,"behind Cabeluda, Bahia, Brazil","= AH436, GC367.04","= AH436, GC367.04","= AH436, GC367.04",bcss,"behind Cabeluda, Bahia, Brazil",direct,-9.9783,-41.345
+NA,NA,NA,"Municipio Espinosa, Minas Gerais, Brazil",NA,NA,NA,bcss,"Municipio Espinosa, Minas Gerais, Brazil",direct,-14.9232007,-42.8093337
+NA,NA,NA,"Brejinho das Amethistas, Bahia, Brazil",NA,NA,NA,bcss,"Brejinho das Amethistas, Bahia, Brazil",direct,-14.26361,-42.52667
+NA,NA,NA,"Minas Gerais and Bahia, Brazil",NA,NA,NA,bcss,"Minas Gerais and Bahia, Brazil",direct,-12.150609169664,-38.420225583066
+NA,NA,NA,"Parnamirim road, BR 232, Pernambuco, Brazil",1985,1985,NA,bcss,"Parnamirim road, BR 232, Pernambuco, Brazil",direct,-8.0911653,-39.5790136
+NA,NA,NA,"18 km East of Rio Sao Joao, Minas Gerais, Brazil",5/9/1985,5/9/1985,= P. cyaneus according to DW,bcss,"Rio Sao Joao, Minas Gerais, Brazil",offset_adjusted,-20.571923273534004,-46.64833193122506
+NA,NA,NA,"MucugÍ, Bahia, Brazil",NA,NA,NA,bcss,"MucugÍ, Bahia, Brazil",direct,-13.0090975,-41.3717267
+NA,NA,NA,"Seabra, Bahia, Brazil",NA,NA,NA,bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+NA,NA,NA,"Tanquinho, Bahia, Brazil",NA,NA,NA,bcss,"Tanquinho, Bahia, Brazil",direct,-11.9747061,-39.1057638
+NA,NA,NA,"Stop II, Mato Verde Minas Gerais, Brazil",NA,NA,NA,bcss,"Stop II, Mato Verde Minas Gerais, Brazil",direct,-15.4027219,-42.8676665
+NA,NA,NA,"Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil",470m,8/1/1991,NA,bcss,"Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil",direct,-10.4636445,-40.179723
+NA,NA,NA,"Jocobina w 27-28km towards Lajes, Bahia, Brazil",12/1/1991,12/1/1991,NA,bcss,"Jocobina w 27-28km towards Lajes, Bahia, Brazil",direct,-8.95,-39.13333
+NA,NA,NA,"Jocobina w 27km towards Lajes, Bahia, Brazil",12/1/1991,12/1/1991,NA,bcss,"Jocobina w 27km towards Lajes, Bahia, Brazil",direct,-8.95,-39.13333
+NA,NA,NA,"Morro do Chapeu w 21km, Bahia, Brazil",13/1/1991,13/1/1991,NA,bcss,"Morro do Chapeu w 21km, Bahia, Brazil",direct,-11.057196995736,-40.78674796074
+NA,NA,NA,"Santana s 28km, Bahia, Brazil",530m,15/1/1991,NA,bcss,"Santana s 28km, Bahia, Brazil",direct,-12.1314838,-45.0120168
+NA,NA,NA,"Urandi, Bahia, Brazil",seed,seed,seed,bcss,"Urandi, Bahia, Brazil",direct,-14.7680766,-42.6573988
+NA,NA,NA,"Below Monte Azul, Minas Gerais, Brazil",seed,seed,seed,bcss,"Below Monte Azul, Minas Gerais, Brazil",direct,-15.1586422,-42.8676262
+NA,NA,NA,Brazil,= FR1223,= FR1223,= FR1223,bcss,Brazil,direct,-10.3333333,-53.2
+NA,NA,NA,Brazil,NA,NA,NA,bcss,Brazil,direct,-10.3333333,-53.2
+AH 323,Andreas Hofacker,Pilosocereus pachycladus,Brazil : Minas Gerais (East of Pedra Azul),NA,1992,NA,clcactus,"East of Pedra Azul, Minas Gerais, Brazil",direct,-16.0120974,-41.2900276
+AH 339,Andreas Hofacker,Pilosocereus pachycladus,Brazil : Bahia (West of Morro do Chapéu),NA,1992,NA,clcactus,"West of Morro do Chapéu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+BB 077.03,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapéu  970m)",NA,1999/05/15,NA,clcactus,"Mun. Morro do Chapéu, Morro do Chapéu, Bahia, Brazil",direct,-11.54852,-41.15804
+BB 078.04,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapéu  970m)",NA,1999/05/15,NA,clcactus,"Mun. Morro do Chapéu, Morro do Chapéu, Bahia, Brazil",direct,-11.54852,-41.15804
+BB 085.06,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Morro do Chapéu, W of Morro do Chapéu -> America Dourada  790m)",NA,1999/05/16,NA,clcactus,"Mun. Morro do Chapéu, W of Morro do Chapéu -> America Dourada, Bahia, Brazil",direct,-11.54852,-41.15804
+BB 086.03,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Morro do Chapéu, near Jacarezinho  845m)",NA,1999/05/16,NA,clcactus,"Mun. Morro do Chapéu, near Jacarezinho, Bahia, Brazil",direct,-11.5487212,-41.1596058
+BB 089.01,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Seabra, Seabra 1300m)",NA,1999/05/19,NA,clcactus,"Mun. Seabra, Seabra, Bahia, Brazil",direct,-12.416206055759,-41.781189341887
+BB 090.02,Brian Francis Bates,Pilosocereus pachycladus,Brazil : Bahia (W of Seabra),NA,1999/05/19,NA,clcactus,"W of Seabra, Bahia, Brazil",direct,-12.4209057,-41.7689616
+BB 091.02,Brian Francis Bates,Pilosocereus pachycladus,Brazil : Bahia (W of Seabra  900m),NA,1999/05/19,NA,clcactus,"W of Seabra, Bahia, Brazil",direct,-12.4209057,-41.7689616
+BB 092.01,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Seabra, E of Seabra  780m)",NA,1999/05/19,NA,clcactus,"Mun. Seabra, E of Seabra, Bahia, Brazil",direct,-12.416206055759,-41.781189341887
+BB 094.02,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Mucugê, Mucugê 1075m)",NA,1999/05/20,NA,clcactus,"Mun. Mucugê, Mucugê, Bahia, Brazil",direct,-13.010030129089,-41.375232062394
+BB 096.05,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Rio de Contas, Rio de Contas near waterfall  925m)",NA,1999/05/21,NA,clcactus,"Mun. Rio de Contas, Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5853,-41.81624
+BB 099.07,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Ituaçu, Mun. Ituaçu  650m)",NA,1999/05/23,NA,clcactus,"Mun. Ituaçu, Mun. Ituaçu, Bahia, Brazil",direct,-13.8153579,-41.3020406
+BB 109.01,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Minas Gerais (Mun. Aracuai, Aracuai  300m)",NA,1999/05/27,NA,clcactus,"Mun. Aracuai, Aracuai, Minas Gerais, Brazil",direct,-16.84972,-42.07028
+BB 128.03,Brian Francis Bates,Pilosocereus pachycladus,Brazil : Minas Gerais (1315m),NA,1999/06/05,NA,clcactus,Brazil : Minas Gerais (),direct,-18.5264844,-44.1588654
+BB 129.02,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Minas Gerais (Mun. Montalvania, Porto Agraria)",NA,1999/06/07,NA,clcactus,"Mun. Montalvania, Porto Agraria, Minas Gerais, Brazil",direct,-19.540781670607,-44.137397572974
+BB 134.02,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Ipirá?, W of Ipirá)",NA,1999/06/15,NA,clcactus,"Mun. Ipirá?, W of Ipirá, Bahia, Brazil",direct,-12.15833,-39.73722
+BB 145.03,Brian Francis Bates,Pilosocereus pachycladus  / magnificus / catingicola,"Brazil : Bahia (Mun. Mucugê, S of Mucugê)",NA,1999/06/17,NA,clcactus,"Mun. Mucugê, S of Mucugê, Bahia, Brazil",direct,-13.010030129089,-41.375232062394
+CS 154.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Sobradinho 1, 389 m)",NA,20/10/2007,NA,clcactus,"Sobradinho 1,, Bahia, Brazil",direct,-12.9633139,-39.263182
+CS 156.1_71,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (South of Massaroca Hwy 407, 592 m)",NA,21/10/2007,NA,clcactus,"South of Massaroca Hwy 407,, Bahia, Brazil",direct,-9.8764579,-40.2884766
+CS 179.3,Chris Sherrah,Pilosocereus pachycladus,Brazil : Bahia (Barrieras),NA,10/11/2007,NA,clcactus,"Barrieras, Bahia, Brazil",direct,-12.1339871,-44.98989
+CS 180.2,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (America Dourada, 879 m)",NA,10/11/2007,NA,clcactus,"America Dourada,, Bahia, Brazil",direct,-11.3998963,-41.5247219
+CS 180.2,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (America Dourada, 882 m)",NA,01/12/2009,NA,clcactus,"America Dourada,, Bahia, Brazil",direct,-11.3998963,-41.5247219
+CS 357.1,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Minas Gerais (Itinga, 300 m)",NA,18/11/2009,NA,clcactus,"Itinga,, Minas Gerais, Brazil",direct,-16.6066757,-41.7702077
+CS 358.1_115,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Minas Gerais (Itinga 2, 300 m)",NA,18/11/2009,NA,clcactus,"Itinga 2,, Minas Gerais, Brazil",direct,-16.6066757,-41.7702077
+CS 363.1_122,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Minas Gerais (Pedra Azul 4, 670 m)",NA,19/11/2009,NA,clcactus,"Pedra Azul 4,, Minas Gerais, Brazil",direct,-16.0058567,-41.2793731
+CS 369.2_131,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Serra Escura, 620 m)",NA,23/11/2009,NA,clcactus,"Serra Escura,, Bahia, Brazil",direct,-12.7704741,-41.4032006
+CS 370.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Brumado, 650 m)",NA,24/11/2009,NA,clcactus,"Brumado,, Bahia, Brazil",direct,-14.2025099,-41.6701307
+CS 371.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Rio de Contas, 925 m)",NA,24/11/2009,NA,clcactus,"Rio de Contas,, Bahia, Brazil",direct,-13.5803333,-41.8112152
+CS 374.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Porto Novo, 498 m)",NA,27/11/2009,NA,clcactus,"Porto Novo,, Bahia, Brazil",direct,-13.1573721,-43.8707923
+CS 377.2,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Seabra, 1129 m)",NA,30/11/2009,NA,clcactus,"Seabra,, Bahia, Brazil",direct,-12.4172071,-41.772051
+CS 380.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Capim Grosso, 392 m)",NA,03/12/2009,NA,clcactus,"Capim Grosso,, Bahia, Brazil",direct,-11.379428,-40.0115228
+CS 383.9,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Delfino, 624 m)",NA,05/12/2009,NA,clcactus,"Delfino,, Bahia, Brazil",direct,-10.4966113,-41.1048995
+CS 385.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Rio Morim Mimoso, 1226 m)",NA,05/12/2009,NA,clcactus,"Rio Morim Mimoso,, Bahia, Brazil",direct,-11.65531,-38.48586
+CS 386.1_154,Chris Sherrah,Pilosocereus pachycladus ssp. pernambucoensis,"Brazil : Alagoas (Paulo Alfonso, 306 m)",NA,07/12/2009,NA,clcactus,"Paulo Alfonso,, Alagoas, Brazil",direct,-9.1175,-37.73222
+RITT 1223,Friedrich Ritter,Pilosocereus pachycladus,"Below Monte Azul, Minas Gerais, Brazil",NA,seed,seed,clcactus,"Below Monte Azul, Minas Gerais, Brazil",direct,-15.1586422,-42.8676262
+FR 1223,Friedrich Ritter,Pilosocereus pachycladus,"Urandi, Bahia, Brazil",NA,seed,seed,clcactus,"Urandi, Bahia, Brazil",direct,-14.7680766,-42.6573988
+RITT 1223,Friedrich Ritter,Pilosocereus pachycladus,"Urandi, Bahia, Brazil",NA,seed,seed,clcactus,"Urandi, Bahia, Brazil",direct,-14.7680766,-42.6573988
+FR 1223,Friedrich Ritter,Pilosocereus pachycladus,"Below Monte Azul, Minas Gerais, Brazil",NA,seed,seed,clcactus,"Below Monte Azul, Minas Gerais, Brazil",direct,-15.1586422,-42.8676262
+RITT 1290,Friedrich Ritter,Pilosocereus pachycladus,Brazil  :,NA,NA,NA,clcactus,Brazil  :,direct,-10.3333333,-53.2
+FR 1290,Friedrich Ritter,Pilosocereus pachycladus,Brazil  :,NA,NA,NA,clcactus,Brazil  :,direct,-10.3333333,-53.2
+GJA 7.13,Gérard Ardisson,Pilosocereus pachycladus,Brazil : Bahia (America Dourada),NA,01/05/07,NA,clcactus,"America Dourada, Bahia, Brazil",direct,-11.3998963,-41.5247219
+GJA 7.37,Gérard Ardisson,Pilosocereus pachycladus,"Morro do Chapeu, Bahia, Brazil",NA,01/05/07,NA,clcactus,"Morro do Chapeu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+GD 39223,Gérard Delanoy,Pilosocereus pachycladus,"Road leaving BR052, returning towards Morro de Chapeu, Bahia, Brazil",NA,NA,NA,clcactus,"Road leaving BR052, returning towards Morro de Chapeu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+GD 39134,Gérard Delanoy,Pilosocereus pachycladus,"BA426, South-West Morro de Chapeu, Bahia, Brazil",NA,NA,NA,clcactus,"BA426, South-West Morro de Chapeu, Bahia, Brazil",direct,-11.413952294298,-41.038974000258
+GD 39317,Gérard Delanoy,Pilosocereus pachycladus,"BA426, South-West Morro de Chapeu, Bahia, Brazil",NA,NA,NA,clcactus,"BA426, South-West Morro de Chapeu, Bahia, Brazil",direct,-11.413952294298,-41.038974000258
+GD 39167,Gérard Delanoy,Pilosocereus pachycladus,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",NA,NA,NA,clcactus,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+GD 39140,Gérard Delanoy,Pilosocereus pachycladus,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",NA,NA,NA,clcactus,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+GD 47b-2,Gérard Delanoy,Pilosocereus pachycladus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",direct,-12.416977077701,-41.778965783414
+GD 47a-3,Gérard Delanoy,Pilosocereus pachycladus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",direct,-12.416977077701,-41.778965783414
+GD 51-4,Gérard Delanoy,Pilosocereus pachycladus,"15km North of Porto-Novo, Bahia, Brazil",NA,NA,NA,clcactus,"Porto-Novo, Bahia, Brazil",offset_adjusted,-13.022473859112187,-43.8707923
+GD 54-2,Gérard Delanoy,Pilosocereus pachycladus,"20km South of Iulu, Bahia, Brazil",NA,NA,NA,clcactus,"Iulu, Bahia, Brazil",offset_adjusted,-12.655175649707747,-41.721435781216
+GD 57-3,Gérard Delanoy,Pilosocereus pachycladus,"BR030, 5km after Guanambi, Bahia, Brazil",NA,NA,NA,clcactus,"BR030, 5km after Guanambi, Bahia, Brazil",direct,-14.159763988182,-42.686602036788
+GD 58-2,Gérard Delanoy,Pilosocereus pachycladus,"South of Caitité, road towards Brejinho das Amethystas, Bahia, Brazil",NA,NA,NA,clcactus,"Caitité, road towards Brejinho das Amethystas, Bahia, Brazil",direction_only,-14.26361,-42.52667
+GD 59-3,Gérard Delanoy,Pilosocereus pachycladus,"Brejinho das Amethystas, Bahia, Brazil",NA,NA,NA,clcactus,"Brejinho das Amethystas, Bahia, Brazil",direct,-14.26361,-42.52667
+GD 60-4,Gérard Delanoy,Pilosocereus pachycladus,"after Jurema, Bahia, Brazil",NA,NA,NA,clcactus,"after Jurema, Bahia, Brazil",direct,-14.8641857,-40.8479423
+GD 64-3,Gérard Delanoy,Pilosocereus pachycladus,"5km after GD63, Minas Gerais, Brazil",NA,NA,NA,clcactus,"5km after GD63, Minas Gerais, Brazil",direct,-18.456295297924,-44.673412162104
+GD 102-4,Gérard Delanoy,Pilosocereus pachycladus,"Serra Obscura, East of Sussuarana, Bahia, Brazil",NA,NA,NA,clcactus,"Serra Obscura, East of Sussuarana, Bahia, Brazil",direct,-12.939117,-38.4356201
+A&M 348,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,"Brazil : Minas Gerais (Bocaiúva, Serra Mineira)",NA,05/05/2009,NA,clcactus,"Bocaiúva, Serra Mineira, Minas Gerais, Brazil",direct,-17.1113023,-43.8143902
+A&M 1392,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Minas Gerais (Januaria west of Januaria),NA,25/06/2016,NA,clcactus,"Januaria west of Januaria, Minas Gerais, Brazil",direct,-15.48866,-44.35988
+A&M 1398,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Bahia (between Manga and IuiÃº),NA,29/06/2016,NA,clcactus,"between Manga and IuiÃº, Bahia, Brazil",direct,-11.46667,-44
+A&M 1410,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Bahia (Palmas de Monte Alto),NA,01/07/2016,NA,clcactus,"Palmas de Monte Alto, Bahia, Brazil",direct,-14.2636093,-43.1649976
+A&M 1415,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Bahia (Palmas de Monte Alto),NA,02/07/2016,NA,clcactus,"Palmas de Monte Alto, Bahia, Brazil",direct,-14.2636093,-43.1649976
+A&M 1455,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Bahia (MucugÃª west of the Santa Izabel cemetery),NA,18/07/2016,NA,clcactus,"MucugÃª west of the Santa Izabel cemetery, Bahia, Brazil",direct,-23.3164208,-46.2233788
+A&M 1457,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Bahia (MucugÃª west of the Santa Izabel cemetery),NA,18/07/2016,NA,clcactus,"MucugÃª west of the Santa Izabel cemetery, Bahia, Brazil",direct,-23.3164208,-46.2233788
+"GC 352,1",Graham Charles,Pilosocereus pachycladus,Brazil  :  (W. Morro do Chapéu),NA,NA,NA,clcactus,"W. Morro do Chapéu, Brazil",direct,-11.5500293,-41.1570248
+"GC 353,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
+"GC 354,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (W. Morro do Chapéu),NA,NA,NA,clcactus,"W. Morro do Chapéu, Brazil",direct,-11.5500293,-41.1570248
+"GC 358,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (Vargea Nova),NA,NA,NA,clcactus,"Vargea Nova, Brazil",direct,-11.2573931,-40.9423272
+"GC 368,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (W. of Petrolina),NA,NA,NA,clcactus,"W. of Petrolina, Brazil",direct,-7.8923357,-40.0884218
+"GC 369,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (S. of Sento Sé),NA,NA,NA,clcactus,"S. of Sento Sé, Brazil",direct,-9.7401356,-41.8829581
+"GC 370,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (S. of Sento Sé),NA,NA,NA,clcactus,"S. of Sento Sé, Brazil",direct,-9.7401356,-41.8829581
+"GC 371,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (S. of Sento Sé),NA,NA,NA,clcactus,"S. of Sento Sé, Brazil",direct,-9.7401356,-41.8829581
+"GC 378,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (Xiche Xiche),NA,NA,NA,clcactus,"Xiche Xiche, Brazil",direct,-10.769946429,-53.073466889
+"GC 380,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Mata dos Mendes),NA,NA,NA,clcactus,"Mata dos Mendes, Brazil",direct,-12.4254259,-41.9948939
+"GC 381,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (Piaté),NA,NA,NA,clcactus,"Piaté, Brazil",direct,-13.1545434,-41.7739181
+"GC 492,06",Graham Charles,Pilosocereus pachycladus  (woolly),Brazil :  (W Itaobim),NA,NA,NA,clcactus,"W Itaobim, Brazil",direct,-16.5614934,-41.502275
+"GC 516,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (E Mato Verde),NA,NA,NA,clcactus,"E Mato Verde, Brazil",direct,-15.3942731,-42.8624286
+"GC 519,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (N  Licinio de Armeida),NA,NA,NA,clcactus,"N  Licinio de Armeida, Brazil",direct,-14.6832866,-42.5044377
+"GC 520,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (SW Brejinho das Ametistas),NA,NA,NA,clcactus,"SW Brejinho das Ametistas, Brazil",direct,-14.2591798,-42.5237381
+"GC 522,09",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porto Novo),NA,NA,NA,clcactus,"Porto Novo, Brazil",direct,-27.1724236,-53.7118989
+"GC 524,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (W Seabra),NA,NA,NA,clcactus,"W Seabra, Brazil",direct,-12.4172071,-41.772051
+"GC 527,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (N of Morro do Chapéu),NA,NA,NA,clcactus,"N of Morro do Chapéu, Brazil",direct,-11.5487212,-41.1596058
+"GC 529,1",Graham Charles,Pilosocereus pachycladus,Brazil :  (N of Morro do Chapéu),NA,NA,NA,clcactus,"N of Morro do Chapéu, Brazil",direct,-11.5487212,-41.1596058
+"GC 643,07",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
+"GC 644,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
+"GC 645,1",Graham Charles,Pilosocereus pachycladus,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Brazil",direct,-11.5500293,-41.1570248
+"GC 649,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (Gruta dos Brejões),NA,NA,NA,clcactus,"Gruta dos Brejões, Brazil",direct,-11.0072231,-41.4345838
+"GC 656,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (Road to Barra),NA,NA,NA,clcactus,"Road to Barra, Brazil",direct,-11.089902500000001,-43.1416284
+"GC 667,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
+"GC 668,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
+"GC 670,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (Iuiú),NA,NA,NA,clcactus,"Iuiú, Brazil",direct,-14.4113008,-43.5508641
+"GC 671,02",Graham Charles,Pilosocereus pachycladus,Brazil :  (Caetité),NA,NA,NA,clcactus,"Caetité, Brazil",direct,-14.0691776,-42.4852428
+"GC 672,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (Brejinho das Ametistas),NA,NA,NA,clcactus,"Brejinho das Ametistas, Brazil",direct,-14.2868643,-42.5140263
+"GC 673,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (N. of Licinio de Almeida),NA,NA,NA,clcactus,"N. of Licinio de Almeida, Brazil",direct,-14.6832866,-42.5044377
+"GC 674,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (E. of Mato Verde),NA,NA,NA,clcactus,"E. of Mato Verde, Brazil",direct,-15.389603784102,-42.854078692896
+"GC 675,02",Graham Charles,Pilosocereus pachycladus,Brazil :  (Barrocão),NA,NA,NA,clcactus,"Barrocão, Brazil",direct,-16.6028259,-43.2810367
+"GC 678,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (W. of Pedra Azul),NA,NA,NA,clcactus,"W. of Pedra Azul, Brazil",direct,-16.0120974,-41.2900276
+"GC 685,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (Sussuarana),NA,NA,NA,clcactus,"Sussuarana, Brazil",direct,-14.1598189,-41.2063284
+"GC 1007,01",Graham Charles,Pilosocereus pachycladus,Brazil :  (West of Morro do Chapéu),NA,NA,NA,clcactus,"West of Morro do Chapéu, Brazil",direct,-11.5487212,-41.1596058
+"GC 1008,07",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
+"GC 1009,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (North of Gruta dos Brejões),NA,NA,NA,clcactus,"North of Gruta dos Brejões, Brazil",direct,-13.101564,-39.793817
+"GC 1013,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (West of Seabra),NA,NA,NA,clcactus,"West of Seabra, Brazil",direct,-12.4209057,-41.7689616
+"GC 1014,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
+"GC 1015,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
+"GC 1017,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (Iuiú),NA,NA,NA,clcactus,"Iuiú, Brazil",direct,-14.4113008,-43.5508641
+"GC 1018,02",Graham Charles,Pilosocereus pachycladus,Brazil :  (Caetité),NA,NA,NA,clcactus,"Caetité, Brazil",direct,-14.0691776,-42.4852428
+"GC 1019,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (Brejinho das Ametistas),NA,NA,NA,clcactus,"Brejinho das Ametistas, Brazil",direct,-14.2868643,-42.5140263
+"GC 1020,07",Graham Charles,Pilosocereus pachycladus,Brazil :  (North of Licinio de Almeida),NA,NA,NA,clcactus,"North of Licinio de Almeida, Brazil",direct,-14.6832866,-42.5044377
+"GC 1021,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Serra Escura),NA,NA,NA,clcactus,"Serra Escura, Brazil",direct,-12.7704741,-41.4032006
+"GC 1026,06",Graham Charles,Pilosocereus pachycladus  (cenepequei),Brazil :  (Pedra Azul),NA,NA,NA,clcactus,"Pedra Azul, Brazil",direct,-16.0058567,-41.2793731
+"GC 1027,05",Graham Charles,Pilosocereus pachycladus  (cenepequei),Brazil :  (East of Montes Claros),NA,NA,NA,clcactus,"East of Montes Claros, Brazil",direct,-16.73688,-43.8653725
+"GC 1032,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (East of Mato Verde),NA,NA,NA,clcactus,"East of Mato Verde, Brazil",direct,-15.4027219,-42.8676665
+HU 147,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus ssp. pachycladus,"North of Serra do Cabral, Minas Gerais, Brazil",NA,08/09/1981,NA,clcactus,"Serra do Cabral, Minas Gerais, Brazil",direction_only,-17.8281736,-44.4125697
+HU 402,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Municipio Espinosa, Minas Gerais, Brazil",NA,NA,NA,clcactus,"Municipio Espinosa, Minas Gerais, Brazil",direct,-14.9232007,-42.8093337
+HU 421,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Brejinho das Amethistas, Bahia, Brazil",NA,NA,NA,clcactus,"Brejinho das Amethistas, Bahia, Brazil",direct,-14.26361,-42.52667
+HU 421a,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Minas Gerais and Bahia, Brazil",NA,NA,NA,clcactus,"Minas Gerais and Bahia, Brazil",direct,-12.150609169664,-38.420225583066
+HU 477,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus ssp. pernambucoensis,"Parnamirim road, BR 232, Pernambuco, Brazil",NA,07/06/1905,NA,clcactus,"Parnamirim road, BR 232, Pernambuco, Brazil",direct,-8.0911653,-39.5790136
+HU 714,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"18 km East of Rio Sao Joao, Minas Gerais, Brazil",NA,04/09/1981,NA,clcactus,"Rio Sao Joao, Minas Gerais, Brazil",offset_adjusted,-20.571923273534004,-46.64833193122506
+HU 891,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"MucugÃ?, Bahia, Brazil",NA,NA,NA,clcactus,"MucugÃ?, Bahia, Brazil",direct,-12.475311328524,-41.721435781216
+HU 906,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+HU 921,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus ssp. pernambucoensis,"Tanquinho, Bahia, Brazil",NA,NA,NA,clcactus,"Tanquinho, Bahia, Brazil",direct,-11.9747061,-39.1057638
+HU 1756,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus ssp. pernambucoensis,"Alto Alegre, Piaui, Brazil",NA,NA,NA,clcactus,"Alto Alegre, Piaui, Brazil",direct,-5.0404731,-42.8239201
+HU 1944,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"behind Cabeluda, Bahia, Brazil",NA,NA,NA,clcactus,"behind Cabeluda, Bahia, Brazil",direct,-9.9783,-41.345
+MZ 1632,Milan Zachar,Pilosocereus pachycladus,Brazil : Minas Gerais (Mato Verde II.),NA,NA,NA,clcactus,"Mato Verde II., Minas Gerais, Brazil",direct,-15.3942731,-42.8624286
+NPT 1375,Nigel Paul Taylor,Pilosocereus pachycladus,"Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil 470m",NA,08/01/91,NA,clcactus,"Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil",direct,-10.4636445,-40.179723
+NPT 1398,Nigel Paul Taylor,Pilosocereus pachycladus,"Jocobina w 27-28km towards Lajes, Bahia, Brazil",NA,12/01/91,NA,clcactus,"Jocobina w 27-28km towards Lajes, Bahia, Brazil",direct,-8.95,-39.13333
+NPT 1400,Nigel Paul Taylor,Pilosocereus pachycladus,"Jocobina w 27km towards Lajes, Bahia, Brazil",NA,12/01/91,NA,clcactus,"Jocobina w 27km towards Lajes, Bahia, Brazil",direct,-8.95,-39.13333
+NPT 1406,Nigel Paul Taylor,Pilosocereus pachycladus,"Morro do Chapeu w 21km, Bahia, Brazil",NA,13/01/91,NA,clcactus,"Morro do Chapeu w 21km, Bahia, Brazil",direct,-11.057196995736,-40.78674796074
+NPT 1426,Nigel Paul Taylor,Pilosocereus pachycladus,"Santana s 28km, Bahia, Brazil 530m",NA,15/01/91,NA,clcactus,"Santana s 28km, Bahia, Brazil",direct,-12.1314838,-45.0120168
+PCO 1193-02,Philippe Corman,Pilosocereus pachycladus,Brazil : Bahia (Morro do Chapeu),NA,2008,NA,clcactus,"Morro do Chapeu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+PCO 1217-04,Philippe Corman,Pilosocereus pachycladus,"Brazil : Bahia (sud de Caetité, Brejinho das A.)",NA,2008,belle forme,clcactus,"sud de Caetité, Brejinho das A., Bahia, Brazil",direct,-14.26361,-42.52667
+RWB 464,Rudi Werner Bueneker,Pilosocereus pachycladus,Brazil  :,NA,NA,NA,clcactus,Brazil  :,direct,-10.3333333,-53.2

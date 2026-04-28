@@ -2,7 +2,7 @@ field_number,collector,species,locality,altitude,date,notes,source,geocode_query
 NA,NA,NA,"South-West of Cuatro Ciénegas, Coahuila, Mexico",768m,7-Feb-06,NA,bcss,"Cuatro Ciénegas, Coahuila, Mexico",direction_only,26.6665018,-102.3791854
 NA,NA,NA,"from Parras to Tanque Menchaca, Coahuila, Mexico",1461m,14-Mar-10,NA,bcss,"from Parras to Tanque Menchaca, Coahuila, Mexico",direct,25.27482,-102.30103
 NA,NA,NA,"Brewster County, Texas, USA",1012m,22-Mar-10,NA,bcss,"Brewster County, Texas, USA",direct,29.8462742,-103.2400734
-NA,NA,NA,"Maderas del Carmen, Coahuila, Mexico",1262m,2-Apr-15,NA,bcss,"Maderas del Carmen, Coahuila, Mexico",direct,28.963611111,-102.578646389
+NA,NA,NA,"Maderas del Carmen, Coahuila, Mexico",1262m,2-Apr-15,NA,bcss,"Maderas del Carmen, Coahuila, Mexico",direct,29.0063792,-102.5465257
 NA,NA,NA,"West of Cuesta de Malena, Coahuila, Mexico",1332m,2-Apr-15,NA,bcss,"Cuesta de Malena, Coahuila, Mexico",direction_only,28.7325738,-102.489996
 NA,NA,NA,"South-West of El Hundido, Cuatro Cienégas, Coahuila, Mexico",821m,9-Mar-19,NA,bcss,"El Hundido, Cuatro Cienégas, Coahuila, Mexico",direction_only,26.6095619,-102.3034754
 NA,NA,NA,"South-West of Parras, behind hill with church of Santo Madero, Coahuila, Mexico",1601m,13-Mar-10,NA,bcss,"Parras, behind hill with church of Santo Madero, Coahuila, Mexico",direction_only,25.769438892,-103.272227089
@@ -11,7 +11,7 @@ NA,NA,NA,"South-West of Parras, behind hill with church of Santo Madero, Coahuil
 NA,NA,NA,"South-East of Viesca, Coahuila, Mexico",1197m,31-Jan-06,NA,bcss,"Viesca, Coahuila, Mexico",direction_only,25.1900179,-102.8608673
 NA,NA,NA,"Dagger Flat, Texas, USA",NA,NA,NA,bcss,"Dagger Flat, Texas, USA",direct,29.4890811,-103.0756407
 NA,NA,NA,"Parras de la Fuente, Coahuila, México",NA,NA,NA,bcss,"Parras de la Fuente, Coahuila, México",direct,25.4436602,-102.1782179
-NA,NA,NA,"Terlingua Ghost Town, Texas, USA",NA,NA,NA,bcss,"Terlingua Ghost Town, Texas, USA",direct,29.3206607,-103.6151181
+NA,NA,NA,"Terlingua Ghost Town, Texas, USA",NA,NA,NA,bcss,"Terlingua Ghost Town, Texas, USA",direct,29.3210187,-103.6169449
 NA,NA,NA,"Hot Springs, Texas, USA",NA,NA,NA,bcss,"Hot Springs, Texas, USA",direct,29.1776768,-102.9985803
 NA,NA,NA,"River Road East, Texas, USA",NA,NA,NA,bcss,"River Road East, Texas, USA",direct,29.1371525,-103.0355087
 NA,NA,NA,"Mariscal Mine, Texas, USA",NA,NA,NA,bcss,"Mariscal Mine, Texas, USA",direct,29.0953524,-103.1875468
@@ -78,7 +78,7 @@ NA,NA,NA,"South-West of Big Bend National Park HQ, Texas, USA",1158m,NA,NA,bcss,
 NA,NA,NA,"South of Marathon, Texas, USA",914m,NA,NA,bcss,"Marathon, Texas, USA",direction_only,30.2059642,-103.2445646
 NA,NA,NA,"West of Langtry, Texas, USA",488m,NA,NA,bcss,"Langtry, Texas, USA",direction_only,29.8085361,-101.5587249
 NA,NA,NA,"Brewster County, Texas, USA",NA,NA,NA,bcss,"Brewster County, Texas, USA",direct,29.8462742,-103.2400734
-NA,NA,NA,"Matehuala, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Matehuala, Nuevo Leon, Mexico",direct,25.6993648,-100.3461585
+NA,NA,NA,"Matehuala, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Matehuala, Nuevo Leon, Mexico",direct,25.6950798,-100.342431
 NA,NA,NA,"hills just East of Sanderson, Texas, USA",NA,NA,NA,bcss,"hills just East of Sanderson, Texas, USA",direct,30.1406783,-102.3969252
 NA,NA,NA,"hills South-West of Parras, by church, Coahuila, Mexico",NA,NA,NA,bcss,"hills South-West of Parras, by church, Coahuila, Mexico",direct,25.449052341491,-102.179349554786
 NA,NA,NA,"Sierra de la Paila, km 496, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, km 496, Coahuila, Mexico",direct,25.901326389,-101.742601667
@@ -100,10 +100,10 @@ NA,NA,NA,"30 miles South of Alpine, Texas, USA",3500feet,March 1960,Collected by
 NA,NA,NA,"Near Parras de la Fuente, Coahuila, Mexico",March 1972,March 1972,Collected by C. Aguirre. See C&SJ 37:43,bcss,"Near Parras de la Fuente, Coahuila, Mexico",direct,25.440536593,-102.178418209
 NA,NA,NA,"Cuatro Cienegas, Coahuila, Mexico",NA,NA,NA,bcss,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
 NA,NA,NA,"Monclova, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Monclova, Nuevo Leon, Mexico",direct,25.8151655,-100.3969887
-NA,NA,NA,"North of Sierra de la Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214964,-100.9835202
+NA,NA,NA,"North of Sierra de la Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214965,-100.9835202
 NA,NA,NA,"Parras de la Fuente, Coahuila, Mexico",NA,NA,NA,bcss,"Parras de la Fuente, Coahuila, Mexico",direct,25.4436602,-102.1782179
 NA,NA,NA,"Viesca, Coahuila, Mexico",NA,NA,NA,bcss,"Viesca, Coahuila, Mexico",direct,25.1900179,-102.8608673
-NA,NA,NA,"South of Sierra de la Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214964,-100.9835202
+NA,NA,NA,"South of Sierra de la Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214965,-100.9835202
 NA,NA,NA,"East of Saltillo, Coahuila, Mexico",NA,NA,NA,bcss,"Saltillo, Coahuila, Mexico",direction_only,25.4230425,-100.9927509
 NA,NA,NA,"El Hundido, Coahuila, Mexico",NA,NA,NA,bcss,"El Hundido, Coahuila, Mexico",direct,26.6095619,-102.3034754
 NA,NA,NA,"Las Palmas, San Luis Potosí, Mexico",NA,NA,NA,bcss,"Las Palmas, San Luis Potosí, Mexico",direct,21.2734969,-98.7324597
@@ -113,9 +113,9 @@ NA,NA,NA,"Fort Stockton, Texas, USA",NA,NA,NA,bcss,"Fort Stockton, Texas, USA",d
 NA,NA,NA,"Lajitas, Texas, USA",NA,NA,NA,bcss,"Lajitas, Texas, USA",direct,29.26222,-103.775817
 NA,NA,NA,"Lajitas-Terlingua Texas, USA",NA,NA,NA,bcss,"Lajitas-Terlingua Texas, USA",direct,29.263098,-103.770187
 NA,NA,NA,"Shafter, Texas, USA",NA,NA,NA,bcss,"Shafter, Texas, USA",direct,29.8173646,-104.3061281
-NA,NA,NA,"Terlingua Ranch, Texas, USA",NA,NA,NA,bcss,"Terlingua Ranch, Texas, USA",direct,29.4693411,-103.3760029
+NA,NA,NA,"Terlingua Ranch, Texas, USA",NA,NA,NA,bcss,"Terlingua Ranch, Texas, USA",direct,29.3685644,-103.4800816
 NA,NA,NA,"Mariposa Mine, Texas, USA",NA,NA,NA,bcss,"Mariposa Mine, Texas, USA",direct,29.3182524,-103.6946325
-NA,NA,NA,"Terlingua Ghost Town Texas, USA",NA,NA,NA,bcss,"Terlingua Ghost Town Texas, USA",direct,29.3206607,-103.6151181
+NA,NA,NA,"Terlingua Ghost Town Texas, USA",NA,NA,NA,bcss,"Terlingua Ghost Town Texas, USA",direct,29.3210186,-103.6169449
 NA,NA,NA,"Fort Stockton East Texas, USA",NA,NA,NA,bcss,"Fort Stockton East Texas, USA",direct,30.8953493,-102.8632018
 NA,NA,NA,"4km North of Hot Springs, Texas, USA",1998,1998,NA,bcss,"Hot Springs, Texas, USA",offset_adjusted,29.21364966423675,-102.99858030000001
 NA,NA,NA,"Estanque Menchaca, first valley/I. hill, South-West of Parras-Minschaca, Coahuila, Mexico",2004,2004,NA,bcss,"Estanque Menchaca, first valley/I. hill, South-West of Parras-Minschaca, Coahuila, Mexico",direct,25.27482,-102.30103
@@ -166,7 +166,7 @@ NA,NA,NA,"West of Cuatrocienegas, Coahuila, Mexico",NA,NA,NA,bcss,"Cuatrocienega
 NA,NA,NA,"South of Matehuala, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Matehuala, San Luis Potosi, Mexico",direction_only,23.5229037,-100.604046
 NA,NA,NA,"Est. Marté, Sierra Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Est. Marté, Sierra Paila, Coahuila, Mexico",direct,25.901326389,-101.742601667
 NA,NA,NA,"Parras, Coahuila, Mexico",NA,NA,NA,bcss,"Parras, Coahuila, Mexico",direct,25.591946,-102.3839713
-NA,NA,NA,"Cerro Bola, Coahuila, Mexico",NA,NA,NA,bcss,"Cerro Bola, Coahuila, Mexico",direct,25.1407393,-101.0927131
+NA,NA,NA,"Cerro Bola, Coahuila, Mexico",NA,NA,NA,bcss,"Cerro Bola, Coahuila, Mexico",direct,25.0685411,-101.1683326
 NA,NA,NA,"El Amparo, Coahuila, Mexico",NA,NA,NA,bcss,"El Amparo, Coahuila, Mexico",direct,26.681671944,-102.484605556
 NA,NA,NA,"Estanque de Menchaca, Coahuila, Mexico",NA,NA,NA,bcss,"Estanque de Menchaca, Coahuila, Mexico",direct,27.1304675,-101.647395
 NA,NA,NA,"Estanque de Menchaca, Coahuila, Mexico",NA,NA,NA,bcss,"Estanque de Menchaca, Coahuila, Mexico",direct,27.1304675,-101.647395
@@ -177,11 +177,11 @@ NA,NA,NA,"Palmas, San Luis Potosí, Mexico",NA,NA,NA,bcss,"Palmas, San Luis Poto
 NA,NA,NA,"West of Ocampo, Coahuila, Mexico",NA,NA,NA,bcss,"Ocampo, Coahuila, Mexico",direction_only,28.0529459,-102.9729103
 NA,NA,NA,"West of Ocampo, 20km West of MMR9.1, Coahuila, Mexico",NA,NA,NA,bcss,"Ocampo, 20km West of MMR9.1, Coahuila, Mexico",direction_only,27.903846018,-101.166105947
 NA,NA,NA,"Palmas II, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Palmas II, San Luis Potosi, Mexico",direct,23.5971795,-100.6591865
-NA,NA,NA,"Cerro Bola, Coahuila, Mexico",NA,NA,NA,bcss,"Cerro Bola, Coahuila, Mexico",direct,25.1407393,-101.0927131
+NA,NA,NA,"Cerro Bola, Coahuila, Mexico",NA,NA,NA,bcss,"Cerro Bola, Coahuila, Mexico",direct,25.0685411,-101.1683326
 NA,NA,NA,"Cuatro Cienegas, Coahuila, Mexico",NA,NA,NA,bcss,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
-NA,NA,NA,"Boquillas del Carmen, Coahuila, Mexico",NA,NA,NA,bcss,"Boquillas del Carmen, Coahuila, Mexico",direct,29.188674,-102.9341739
+NA,NA,NA,"Boquillas del Carmen, Coahuila, Mexico",NA,NA,NA,bcss,"Boquillas del Carmen, Coahuila, Mexico",direct,29.0961296,-102.8344557
 NA,NA,NA,"Stop III, Sierra de la Paila Coahuila, Mexico",NA,NA,NA,bcss,"Stop III, Sierra de la Paila Coahuila, Mexico",direct,25.901326389,-101.742601667
-NA,NA,NA,"Sierra de la Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, Coahuila, Mexico",direct,25.4214964,-100.9835202
+NA,NA,NA,"Sierra de la Paila, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de la Paila, Coahuila, Mexico",direct,25.4214965,-100.9835202
 NA,NA,NA,"Sierra de Parras, Coahuila, Mexico",NA,NA,NA,bcss,"Sierra de Parras, Coahuila, Mexico",direct,25.375884,-100.9757705
 NA,NA,NA,"Matehuala III, San Luis Potosi, Mexico",NA,NA,NA,bcss,"Matehuala III, San Luis Potosi, Mexico",direct,23.649299649,-100.64493502
 NA,NA,NA,"El Herrero, San Luis Potosi, Mexico",NA,NA,NA,bcss,"El Herrero, San Luis Potosi, Mexico",direct,23.5760188,-100.674581
@@ -212,7 +212,7 @@ NA,NA,NA,"South of Cuatrociénegas, Coahuila, Mexico",780-1020m,12-Nov-04,NA,bcs
 NA,NA,NA,"Cuatro Ciénegas, Coahuila, Mexico",2014,2014,NA,bcss,"Cuatro Ciénegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
 NA,NA,NA,"Cuatrocienegas, Coahuila, Mexico",NA,NA,NA,bcss,"Cuatrocienegas, Coahuila, Mexico",direct,25.4451986,-100.9929376
 NA,NA,NA,"La Linda, Coahuila, Mexico",northern form,northern form,northern form,bcss,"La Linda, Coahuila, Mexico",direct,29.4494313,-102.8168793
-NA,NA,NA,"Cuatro Palmas, Coahuila, Mexico",NA,NA,NA,bcss,"Cuatro Palmas, Coahuila, Mexico",direct,29.288480278,-102.560083056
+NA,NA,NA,"Cuatro Palmas, Coahuila, Mexico",NA,NA,NA,bcss,"Cuatro Palmas, Coahuila, Mexico",direct,32.6281402,-115.4393921
 NA,NA,NA,"East of Viesca, Coahuila, Mexico",NA,NA,NA,bcss,"Viesca, Coahuila, Mexico",direction_only,25.1900179,-102.8608673
 NA,NA,NA,"Terlingua, Brewster County, Texas, USA",NA,NA,NA,bcss,"Terlingua, Brewster County, Texas, USA",direct,29.321586,-103.616019
 NA,NA,NA,"Rio Nazas, Durango, Mexico",NA,NA,NA,bcss,"Rio Nazas, Durango, Mexico",direct,25.5035637,-103.5344389
@@ -266,7 +266,7 @@ NA,NA,NA,"Palmas, before Matehuala, San Luis Potosi, Mexico",30/4/93,30/4/93,= C
 NA,NA,NA,"Parras, Coahuila, Mexico",= CSD220,= CSD220,= CSD220,bcss,"Parras, Coahuila, Mexico",direct,25.591946,-102.3839713
 NA,NA,NA,"Cuatro Cienegas, Coahuila, Mexico",13/5/93,13/5/93,= CSD245,bcss,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
 NA,NA,NA,"km162, direction to Cuatro Ciénegas Coahuila, Mexico",1996,1996,NA,bcss,"km162, direction to Cuatro Ciénegas Coahuila, Mexico",direct,26.699103866,-102.298982671
-NA,NA,NA,"Rodeo, Durango, Mexico",NA,NA,NA,bcss,"Rodeo, Durango, Mexico",direct,25.1953826,-104.578476
+NA,NA,NA,"Rodeo, Durango, Mexico",NA,NA,NA,bcss,"Rodeo, Durango, Mexico",direct,25.1953827,-104.578476
 NA,NA,NA,South-West of Matehuala,NA,NA,NA,bcss,Matehuala,direction_only,23.5229037,-100.604046
 NA,NA,NA,"Crockett County, Texas, USA",NA,NA,NA,bcss,"Crockett County, Texas, USA",direct,30.6517377,-101.3766686
 NA,NA,NA,"Brewster County, Texas, USA",NA,NA,NA,bcss,"Brewster County, Texas, USA",direct,29.8462742,-103.2400734
@@ -278,7 +278,7 @@ NA,NA,NA,"Almost on top of the hill to the South-East of Antiguos Mineras del No
 LX 274,Alexander Lux,Ariocarpus fissuratus  v. intermedius,"Paila, Mexicó",NA,NA,NA,clcactus,"Paila, Mexico",direct,25.6506482,-102.145923
 LAU 703,Alfred Bernhard Lau,Ariocarpus fissuratus,Mexicó : Chihuahua (Coyame 1700m),NA,28/04/1974,"together with Escobaria tuberculosa, Echinocereus dasyacanthus",clcactus,"Coyame, Chihuahua, Mexico",direct,29.4615113,-105.0946093
 L 703,Alfred Bernhard Lau,Ariocarpus fissuratus,Mexicó : Chihuahua (Coyame 1700m),NA,28/04/1974,"together with Escobaria tuberculosa, Echinocereus dasyacanthus",clcactus,"Coyame, Chihuahua, Mexico",direct,29.4615113,-105.0946093
-AL 55,Andreas Laras,Ariocarpus fissuratus,USA : Texas (Terlingua Ghost Town),NA,NA,NA,clcactus,"Terlingua Ghost Town, Texas, USA",direct,29.3206607,-103.6151181
+AL 55,Andreas Laras,Ariocarpus fissuratus,USA : Texas (Terlingua Ghost Town),NA,NA,NA,clcactus,"Terlingua Ghost Town, Texas, USA",direct,29.3210187,-103.6169449
 AL 61,Andreas Laras,Ariocarpus fissuratus,USA : Texas (Hot Springs),NA,NA,NA,clcactus,"Hot Springs, Texas, USA",direct,29.1776768,-102.9985803
 AL 80,Andreas Laras,Ariocarpus fissuratus,USA : Texas (River Road East),NA,NA,NA,clcactus,"River Road East, Texas, USA",direct,29.1371525,-103.0355087
 AL 96,Andreas Laras,Ariocarpus fissuratus,USA : Texas (Mariscal Mine),NA,NA,NA,clcactus,"Mariscal Mine, Texas, USA",direct,29.0953524,-103.1875468
@@ -331,7 +331,7 @@ B 1425,Elwood R. Blakley,Ariocarpus fissuratus,USA : Texas (Tornillo Creek),NA,N
 LLOYD 21,Francis Ernest Lloyd,Ariocarpus fissuratus,"Escondido Creek, Texas, USA",NA,NA,NA,clcactus,"Escondido Creek, Texas, USA",direct,28.8300831,-97.8904984
 LLOYD 34,Francis Ernest Lloyd,Ariocarpus fissuratus  v. lloydii,"Hacienda de Cedros, Zacatecas, Mexicó",NA,NA,NA,clcactus,"Hacienda de Cedros, Zacatecas, Mexico",direct,24.67919,-101.77387
 GL 790,Gary Loos,Ariocarpus fissuratus,USA : Texas (Brewster County),NA,NA,NA,clcactus,"Brewster County, Texas, USA",direct,29.8462742,-103.2400734
-GL 795,Gary Loos,Ariocarpus fissuratus  v. hintonii,Mexicó : Nuevo Leon (Matehuala),NA,NA,NA,clcactus,"Matehuala, Nuevo Leon, Mexico",direct,25.6993648,-100.3461585
+GL 795,Gary Loos,Ariocarpus fissuratus  v. hintonii,Mexicó : Nuevo Leon (Matehuala),NA,NA,NA,clcactus,"Matehuala, Nuevo Leon, Mexico",direct,25.6950798,-100.342431
 GCG 10586,GCG - gerardo.cz,Ariocarpus fissuratus ssp. fissuratus,"USA : Texas (SE of Fort Stockton, Pecos Co.)",NA,NA,NA,clcactus,"SE of Fort Stockton, Pecos Co., Texas, USA",direct,30.893943,-102.884527
 GCG 10634,GCG - gerardo.cz,Ariocarpus fissuratus,"USA : Texas (Black Gap WMA, Brewster Co.)",NA,NA,NA,clcactus,"Black Gap WMA, Brewster Co., Texas, USA",direct,29.561265,-102.887032
 GCG 10708,GCG - gerardo.cz,Ariocarpus fissuratus,"USA : Texas (Ft.Stockton-Bakersfield, Pecos Co.)",NA,NA,NA,clcactus,"Ft.Stockton-Bakersfield, Pecos Co., Texas, USA",direct,30.8116024,-102.3079223
@@ -384,9 +384,9 @@ CH 578,Jaromír Chvastek,Ariocarpus fissuratus,"Bermejillo, Durango, Mexicó 88m
 CSD 107,"Jaromír Chvastek, Roman Staník, Igor Dráb",Ariocarpus fissuratus  v. hintonii,"Mexicó : San Luis Potosí (Palmas, before Matehuala)",NA,01/05/1997,IDD112,clcactus,"Palmas, before Matehuala, San Luis Potosí, Mexico",direct,23.595880556,-100.657021111
 CSD 220,"Jaromír Chvastek, Roman Staník, Igor Dráb",Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (Parras),NA,12/05/1997,IDD229,clcactus,"Parras, Coahuila, Mexico",direct,25.591946,-102.3839713
 CSD 245,"Jaromír Chvastek, Roman Staník, Igor Dráb",Ariocarpus fissuratus,Mexicó : Coahuila (Cuatro Cienegas),NA,14/05/1997,IDD260,clcactus,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
-JM 20,John Miller,Ariocarpus fissuratus,"Terlingua Ranch, Texas, USA",NA,NA,NA,clcactus,"Terlingua Ranch, Texas, USA",direct,29.4693411,-103.3760029
+JM 20,John Miller,Ariocarpus fissuratus,"Terlingua Ranch, Texas, USA",NA,NA,NA,clcactus,"Terlingua Ranch, Texas, USA",direct,29.3685644,-103.4800816
 JM 25,John Miller,Ariocarpus fissuratus,"Mariposa Mine, Texas, USA",NA,NA,NA,clcactus,"Mariposa Mine, Texas, USA",direct,29.3182524,-103.6946325
-JM 27,John Miller,Ariocarpus fissuratus,"Terlingua Ghost Town Texas, USA",NA,NA,NA,clcactus,"Terlingua Ghost Town Texas, USA",direct,29.3206607,-103.6151181
+JM 27,John Miller,Ariocarpus fissuratus,"Terlingua Ghost Town Texas, USA",NA,NA,NA,clcactus,"Terlingua Ghost Town Texas, USA",direct,29.3210186,-103.6169449
 JM 38,John Miller,Ariocarpus fissuratus,"Fort Stockton East Texas, USA",NA,NA,NA,clcactus,"Fort Stockton East Texas, USA",direct,30.8953493,-102.8632018
 JM 154,John Miller,Ariocarpus fissuratus,"Lajitas, Texas, USA",NA,NA,NA,clcactus,"Lajitas, Texas, USA",direct,29.26222,-103.775817
 JM 155,John Miller,Ariocarpus fissuratus,"Lajitas-Terlingua Texas, USA",NA,NA,NA,clcactus,"Lajitas-Terlingua Texas, USA",direct,29.263098,-103.770187
@@ -407,9 +407,9 @@ BKM 907,"Josef Barcák, Miroslav Kupcák",Ariocarpus fissuratus LLOYDII MAGNIFIC
 BKM 918,"Josef Barcák, Miroslav Kupcák",Ariocarpus fissuratus LLOYDII MAGNIFICUS,Mexicó : Zacatecas (Gallegos),NA,2010,NA,clcactus,"Gallegos, Zacatecas, Mexico",direct,22.6470128,-103.6983931
 BKM 919,"Josef Barcák, Miroslav Kupcák",Ariocarpus fissuratus LLOYDII MAGNIFICUS,Mexicó : Zacatecas (San Felipe),NA,2010,NA,clcactus,"San Felipe, Zacatecas, Mexico",direct,23.7889289,-103.1067644
 JJH 30322,Josef Jakob Halda,Ariocarpus fissuratus,"Cuatro Cienegas, Coahuila, Mexicó",NA,NA,NA,clcactus,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
-JJH 30323,Josef Jakob Halda,Ariocarpus fissuratus,"North of Sierra de la Paila, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214964,-100.9835202
+JJH 30323,Josef Jakob Halda,Ariocarpus fissuratus,"North of Sierra de la Paila, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214965,-100.9835202
 JJH 30330,Josef Jakob Halda,Ariocarpus fissuratus  v. lloydii,"Parras de la Fuente, Coahuila, Mexicó",NA,NA,NA,clcactus,"Parras de la Fuente, Coahuila, Mexico",direct,25.4436602,-102.1782179
-JJH 30331,Josef Jakob Halda,Ariocarpus fissuratus  v. lloydii,"South of Sierra de la Paila, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214964,-100.9835202
+JJH 30331,Josef Jakob Halda,Ariocarpus fissuratus  v. lloydii,"South of Sierra de la Paila, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direction_only,25.4214965,-100.9835202
 JJH 30335,Josef Jakob Halda,Ariocarpus fissuratus ssp. hintonii,"Las Palmas, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Las Palmas, San Luis Potosi, Mexico",direct,21.2734969,-98.7324597
 JJH 30336,Josef Jakob Halda,Ariocarpus fissuratus ssp. hintonii,"El Herrero, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"El Herrero, San Luis Potosi, Mexico",direct,23.5760188,-100.674581
 JJH 30337,Josef Jakob Halda,Ariocarpus fissuratus ssp. hintonii,"Piedra Blanca, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Piedra Blanca, San Luis Potosi, Mexico",direct,23.5692228,-100.6418832
@@ -450,7 +450,7 @@ LRM 228,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also 
 B 15491,Lyman Benson,Ariocarpus fissuratus,"South of Alpine, Texas, USA",NA,NA,NA,clcactus,"Alpine, Texas, USA",direction_only,30.3602181,-103.6628596
 BENSON 15491,Lyman Benson,Ariocarpus fissuratus,"South of Alpine, Texas, USA",NA,NA,NA,clcactus,"Alpine, Texas, USA",direction_only,30.3602181,-103.6628596
 MMR 4,Milan Majer,Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (Parras),NA,NA,NA,clcactus,"Parras, Coahuila, Mexico",direct,25.591946,-102.3839713
-MMR 4.3,Milan Majer,Ariocarpus fissuratus  v. intermedius - lloydii,Mexicó : Coahuila (Cerro Bola),NA,NA,NA,clcactus,"Cerro Bola, Coahuila, Mexico",direct,25.1407393,-101.0927131
+MMR 4.3,Milan Majer,Ariocarpus fissuratus  v. intermedius - lloydii,Mexicó : Coahuila (Cerro Bola),NA,NA,NA,clcactus,"Cerro Bola, Coahuila, Mexico",direct,25.0685411,-101.1683326
 MMR 4.4,Milan Majer,Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (El Amparo),NA,NA,NA,clcactus,"El Amparo, Coahuila, Mexico",direct,26.681671944,-102.484605556
 MMR 4.5,Milan Majer,Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (Estanque de Menchaca),NA,NA,NA,clcactus,"Estanque de Menchaca, Coahuila, Mexico",direct,27.1304675,-101.647395
 MMR 4.6,Milan Majer,Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (Estanque de Menchaca),NA,NA,NA,clcactus,"Estanque de Menchaca, Coahuila, Mexico",direct,27.1304675,-101.647395
@@ -462,14 +462,14 @@ MMR 9.1,Milan Majer,Ariocarpus fissuratus,Mexicó : Coahuila (West of Ocampo),NA
 MMR 9.2,Milan Majer,Ariocarpus fissuratus,"Mexicó : Coahuila (West of Ocampo,  20km West of MMR 9.1)",NA,NA,NA,clcactus,"West of Ocampo,  20km West of MMR 9.1, Coahuila, Mexico",direct,27.9656187,-102.892888915
 MMR 33,Milan Majer,"Ariocarpus fissuratus  f. intermedius ""pailanus""","Mexicó : Coahuila (Est. Marté, Sierra Paila)",NA,NA,NA,clcactus,"Est. Marté, Sierra Paila, Coahuila, Mexico",direct,25.901326389,-101.742601667
 MZ 27,Milan Zachar,Ariocarpus fissuratus  v. lloydii,"Sierra de Parras, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de Parras, Coahuila, Mexico",direct,25.375884,-100.9757705
-MZ 118,Milan Zachar,Ariocarpus fissuratus  v. lloydii,"Cerro Bola, Coahuila, Mexicó",NA,NA,NA,clcactus,"Cerro Bola, Coahuila, Mexico",direct,25.1407393,-101.0927131
+MZ 118,Milan Zachar,Ariocarpus fissuratus  v. lloydii,"Cerro Bola, Coahuila, Mexicó",NA,NA,NA,clcactus,"Cerro Bola, Coahuila, Mexico",direct,25.0685411,-101.1683326
 MZ 127,Milan Zachar,Ariocarpus fissuratus,"Cuatro Cienegas, Coahuila, Mexicó",NA,NA,NA,clcactus,"Cuatro Cienegas, Coahuila, Mexico",direct,26.6665018,-102.3791854
-MZ 245,Milan Zachar,Ariocarpus fissuratus  f. intermedius,"Sierra de la Paila, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direct,25.4214964,-100.9835202
+MZ 245,Milan Zachar,Ariocarpus fissuratus  f. intermedius,"Sierra de la Paila, Coahuila, Mexicó",NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direct,25.4214965,-100.9835202
 MZ 402,Milan Zachar,Ariocarpus fissuratus  v. hintonii,"Matehuala III, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Matehuala III, San Luis Potosi, Mexico",direct,23.649299649,-100.64493502
 MZ 891,Milan Zachar,Ariocarpus fissuratus  v. hintonii,"El Herrero, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"El Herrero, San Luis Potosi, Mexico",direct,23.5760188,-100.674581
 MZ 913,Milan Zachar,Ariocarpus fissuratus  v. lloydii,"El Amparo, Coahuila, Mexicó",NA,NA,NA,clcactus,"El Amparo, Coahuila, Mexico",direct,26.681671944,-102.484605556
 MZ 1102,Milan Zachar,Ariocarpus fissuratus  v. hintonii,"Palmas II, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"Palmas II, San Luis Potosi, Mexico",direct,23.5971795,-100.6591865
-MZ 1297,Milan Zachar,Ariocarpus fissuratus,"Boquillas del Carmen, Coahuila, Mexicó",NA,NA,NA,clcactus,"Boquillas del Carmen, Coahuila, Mexico",direct,29.188674,-102.9341739
+MZ 1297,Milan Zachar,Ariocarpus fissuratus,"Boquillas del Carmen, Coahuila, Mexicó",NA,NA,NA,clcactus,"Boquillas del Carmen, Coahuila, Mexico",direct,29.0961296,-102.8344557
 MZ 1413,Milan Zachar,Ariocarpus fissuratus  f. intermedius,Mexicó : Coahuila (Sierra de la Paila III),NA,NA,NA,clcactus,"Sierra de la Paila III, Coahuila, Mexico",direct,25.901326389,-101.742601667
 MK 26.68,Miloš Kaplan,Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (Villa Real),NA,NA,NA,clcactus,"Villa Real, Coahuila, Mexico",direct,28.6923557,-100.58691520000001
 MK 29.99,Miloš Kaplan,Ariocarpus fissuratus,"Cuatrocienegas, Coahuila, Mexicó",NA,NA,NA,clcactus,"Cuatrocienegas, Coahuila, Mexico",direct,25.4451986,-100.9929376
@@ -489,7 +489,7 @@ KMR 92,Miroslav Kupčák,Ariocarpus fissuratus,"12 km west Ocampo, Coahuila, Mex
 KMR 93,Miroslav Kupčák,Ariocarpus fissuratus,"18 km South-East of Ocampo, Coahuila, Mexicó",NA,27/06/09,NA,clcactus,"Ocampo, Coahuila, Mexico",offset_adjusted,27.938420157285485,-102.8433447517106
 KMR 93A,Miroslav Kupčák,Ariocarpus fissuratus,"Santo Domingo, South-East Ocampo, Coahuila, Mexicó",NA,27/06/09,NA,clcactus,"Santo Domingo, South-East Ocampo, Coahuila, Mexico",direct,29.306198008967,-100.920035406444
 KMR 93B,Miroslav Kupčák,Ariocarpus fissuratus,"Rancho El Espejo, South-East Ocampo, Coahuila, Mexicó",NA,27/06/09,NA,clcactus,"Rancho El Espejo, South-East Ocampo, Coahuila, Mexico",direct,27.20775,-102.4647
-KMR 94,Miroslav Kupčák,Ariocarpus fissuratus  / lloydii complex,"Cerro Bola, Coahuila, Mexicó",NA,27/06/09,a. 'intermedius',clcactus,"Cerro Bola, Coahuila, Mexico",direct,25.1407393,-101.0927131
+KMR 94,Miroslav Kupčák,Ariocarpus fissuratus  / lloydii complex,"Cerro Bola, Coahuila, Mexicó",NA,27/06/09,a. 'intermedius',clcactus,"Cerro Bola, Coahuila, Mexico",direct,25.0685411,-101.1683326
 KMR 94A,Miroslav Kupčák,Ariocarpus fissuratus  / lloydii complex,"La Virgen, North of Viesca, Coahuila, Mexicó",NA,27/06/09,a. 'intermedius',clcactus,"La Virgen, North of Viesca, Coahuila, Mexico",direct,27.87146,-101.11484
 KMR 94B,Miroslav Kupčák,Ariocarpus fissuratus  / lloydii complex,"Emiliano Zapata, North of Viesca, Coahuila, Mexicó",NA,27/06/09,a. 'intermedius',clcactus,"Emiliano Zapata, North of Viesca, Coahuila, Mexico",direct,25.485331334865,-102.993105325379
 KMR 99A,Miroslav Kupčák,Ariocarpus fissuratus  v. lloydii,"North-East of ast of El Capulín, Parras, Coahuila, Mexicó",NA,27/06/09,NA,clcactus,"ast of El Capulín, Parras, Coahuila, Mexico",direction_only,25.382044167,-102.242752778
@@ -532,12 +532,12 @@ PP 802,Pavel Pavlíček,Ariocarpus fissuratus,Mexicó : Chihuahua (Coyame),NA,NA
 PP 803,Pavel Pavlíček,Ariocarpus fissuratus  lloydii,Mexicó : Coahuila (Parras),NA,NA,NA,clcactus,"Parras, Coahuila, Mexico",direct,25.591946,-102.3839713
 PP 989,Pavel Pavlíček,Ariocarpus fissuratus  v. lloydii,Mexicó : San Luis Potosi (El Hundido),NA,NA,NA,clcactus,"El Hundido, San Luis Potosi, Mexico",direct,21.7625922,-100.9801842
 PP 1010,Pavel Pavlíček,Ariocarpus fissuratus,Mexicó : Coahuila (La Linda),NA,severní forma,severní forma,clcactus,"La Linda, Coahuila, Mexico",direct,29.4494313,-102.8168793
-PP 1011,Pavel Pavlíček,Ariocarpus fissuratus,Mexicó : Coahuila (Cuatro Palmas),NA,NA,NA,clcactus,"Cuatro Palmas, Coahuila, Mexico",direct,29.288480278,-102.560083056
+PP 1011,Pavel Pavlíček,Ariocarpus fissuratus,Mexicó : Coahuila (Cuatro Palmas),NA,NA,NA,clcactus,"Cuatro Palmas, Coahuila, Mexico",direct,32.6281402,-115.4393921
 PP 1085,Pavel Pavlíček,Ariocarpus fissuratus  lloydii,Mexicó : Coahuila (East of Viesca),NA,NA,NA,clcactus,"East of Viesca, Coahuila, Mexico",direct,25.221868961,-102.924968307
 PP 1112,Pavel Pavlíček,Ariocarpus fissuratus  minimus,USA : Texas (Terlingua),NA,NA,NA,clcactus,"Terlingua, Texas, USA",direct,29.321586,-103.616019
 PP 1168,Pavel Pavlíček,Ariocarpus fissuratus  lloydii,Mexicó : Durango (Rio Nazas),NA,NA,NA,clcactus,"Rio Nazas, Durango, Mexico",direct,25.5035637,-103.5344389
 PP 1357,Pavel Pavlíček,Ariocarpus fissuratus  lloydii,"Mexicó : Coahuila (La Peňa, srra Parras)",NA,NA,NA,clcactus,"La Peňa, srra Parras, Coahuila, Mexico",direct,25.452269167,-102.586846389
-PP 1389,Pavel Pavlíček,Ariocarpus fissuratus  intermedius f. gigant,Mexicó : Coahuila (Sierra de la Paila),NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direct,25.4214964,-100.9835202
+PP 1389,Pavel Pavlíček,Ariocarpus fissuratus  intermedius f. gigant,Mexicó : Coahuila (Sierra de la Paila),NA,NA,NA,clcactus,"Sierra de la Paila, Coahuila, Mexico",direct,25.4214965,-100.9835202
 PP 1415,Pavel Pavlíček,Ariocarpus fissuratus,Mexicó : Coahuila (15 km vých Ocampo),NA,NA,NA,clcactus,"15 km vých Ocampo, Coahuila, Mexico",direct,27.9656187,-102.892888915
 PP 1469,Pavel Pavlíček,Ariocarpus fissuratus  lloydii,Mexicó : Coahuila (Tanque Menchaca),NA,NA,NA,clcactus,"Tanque Menchaca, Coahuila, Mexico",direct,25.27482,-102.30103
 PP 1578,Pavel Pavlíček,Ariocarpus fissuratus,"Mexicó : Coahuila (Ejido Lucio Blanco,)",NA,NA,NA,clcactus,"Ejido Lucio Blanco,, Coahuila, Mexico",direct,26.165299722,-102.188611389
@@ -587,7 +587,7 @@ RUS 474,Safronov Evgeny,Ariocarpus fissuratus  v. hintonii,"Mexicó : San Luis P
 SB 403,Steven (Steve) Brack,Ariocarpus fissuratus,USA : Texas (Crockett County),NA,NA,NA,clcactus,"Crockett County, Texas, USA",direct,30.6517377,-101.3766686
 SB 413,Steven (Steve) Brack,Ariocarpus fissuratus,USA : Texas (Brewster County),NA,NA,NA,clcactus,"Brewster County, Texas, USA",direct,29.8462742,-103.2400734
 SB 503,Steven (Steve) Brack,Ariocarpus fissuratus  v. intermedius,Mexicó : Coahuila (State Capital),NA,NA,NA,clcactus,"State Capital, Coahuila, Mexico",direct,26.9292,-101.4138
-SB 1156,Steven (Steve) Brack,Ariocarpus fissuratus  v. lloydii,Mexicó : Durango (Rodeo),NA,NA,NA,clcactus,"Rodeo, Durango, Mexico",direct,25.1953826,-104.578476
+SB 1156,Steven (Steve) Brack,Ariocarpus fissuratus  v. lloydii,Mexicó : Durango (Rodeo),NA,NA,NA,clcactus,"Rodeo, Durango, Mexico",direct,25.1953827,-104.578476
 SB 1568,Steven (Steve) Brack,Ariocarpus fissuratus  v. hintonii,Mexicó :  (South-West of Matehuala),NA,NA,NA,clcactus,"South-West of Matehuala, Mexico",direct,23.665167239339,-100.638603158593
 DU 3,Ulrich Dosedal,Ariocarpus fissuratus,"on hill, about 30km West of Cuatrocienegas up to Microonda, Coahuila, Mexicó",NA,NA,NA,clcactus,"on hill, about 30km West of Cuatrocienegas up to Microonda, Coahuila, Mexico",direct,26.98542,-102.06386
 DU 6,Ulrich Dosedal,Ariocarpus fissuratus  v. hintonii,"La Palma, South of Matehuala, San Luis Potosi, Mexicó",NA,NA,NA,clcactus,"La Palma, South of Matehuala, San Luis Potosi, Mexico",direct,23.650942671256,-100.636304473615
@@ -602,7 +602,7 @@ VM 248,Vojtech Myšák,Ariocarpus fissuratus,Mexicó : Coahuila (Cuatrociénegas
 VM 284,Vojtech Myšák,Ariocarpus fissuratus  v. hintonii,Mexicó : San Luis Potosí (El Herero),NA,NA,NA,clcactus,"El Herero, San Luis Potosí, Mexico",direct,32.512112566054,-117.042441884512
 VM 298,Vojtech Myšák,Ariocarpus fissuratus,Mexicó : Chihuahua (Coyame),NA,NA,NA,clcactus,"Coyame, Chihuahua, Mexico",direct,29.4615113,-105.0946093
 VM 301,Vojtech Myšák,Ariocarpus fissuratus  v. lloydii,Mexicó : Coahuila (Sierra de Parras),NA,NA,NA,clcactus,"Sierra de Parras, Coahuila, Mexico",direct,25.375884,-100.9757705
-VM 435,Vojtech Myšák,Ariocarpus fissuratus,Mexicó : Coahuila (Cuatro Palmas),NA,NA,NA,clcactus,"Cuatro Palmas, Coahuila, Mexico",direct,29.288480278,-102.560083056
+VM 435,Vojtech Myšák,Ariocarpus fissuratus,Mexicó : Coahuila (Cuatro Palmas),NA,NA,NA,clcactus,"Cuatro Palmas, Coahuila, Mexico",direct,32.6281402,-115.4393921
 REP 445,Werner Reppenhagen,Ariocarpus fissuratus,"Mexicó : Coahuila (Ojo Caliente, 1600m)",NA,07/09/1971,NA,clcactus,"Ojo Caliente,, Coahuila, Mexico",direct,25.6214308,-100.8375014
 REPP 445,Werner Reppenhagen,Ariocarpus fissuratus,"Mexicó : Coahuila (Ojo Caliente, 1600m)",NA,07/09/1971,NA,clcactus,"Ojo Caliente,, Coahuila, Mexico",direct,25.6214308,-100.8375014
 REPP 454,Werner Reppenhagen,Ariocarpus fissuratus  v. lloydii,"Mexicó : Coahuila (Parras, 1600m)",NA,10/09/1971,NA,clcactus,"Parras,, Coahuila, Mexico",direct,25.591946,-102.3839713
