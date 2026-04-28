@@ -16,7 +16,7 @@ MAX_RETRIES <- 3
 species <- c(
   "Ariocarpus fissuratus",
   "Pilosocereus chrysostele",
-  "Rhipsalis baccifera",
+  "Pilosocereus pachycladus",
   "Thelocactus conothelos"
 )
 
@@ -24,6 +24,24 @@ sources <- list(bcss = "data/bcss", clcactus = "data/clcactus")
 out_dir <- "data/geocoded_llm"
 
 dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+
+log_dir  <- "Logs"
+dir.create(log_dir, recursive = TRUE, showWarnings = FALSE)
+log_path <- file.path(log_dir, paste0("geocoder_llm_", format(Sys.time(), "%Y%m%d_%H%M%S"), ".log"))
+
+log_gemini <- function(label, input_json, output = NULL, error = NULL) {
+  ts    <- format(Sys.time(), "%Y-%m-%d %H:%M:%S")
+  lines <- c(
+    sprintf("=== %s | %s ===", ts, label),
+    "--- INPUT ---",
+    input_json,
+    if (!is.null(output)) c("--- OUTPUT ---", output),
+    if (!is.null(error))  c("--- ERROR ---",  error),
+    "--- END ---",
+    ""
+  )
+  cat(paste(lines, collapse = "\n"), "\n", file = log_path, append = TRUE)
+}
 
 # Copied verbatim from geocoder.R
 bearing_map <- c(N = 0, NE = 45, E = 90, SE = 135,
@@ -86,7 +104,7 @@ strip_markdown <- function(x) {
 
 # Sends one chunk of locality strings to Gemini.
 # Returns a list of raw result objects (with $i), or NULL on unrecoverable failure.
-call_gemini_batch <- function(localities) {
+call_gemini_batch <- function(localities, label = "") {
   input_json <- toJSON(
     lapply(seq_along(localities), function(i) list(i = i, locality = localities[[i]])),
     auto_unbox = TRUE
@@ -107,6 +125,7 @@ call_gemini_batch <- function(localities) {
       ) |>
       req_perform()
     raw    <- resp_body_json(resp)$candidates[[1]]$content$parts[[1]]$text
+    log_gemini(label, input_json, output = raw)
     parsed <- fromJSON(strip_markdown(raw), simplifyVector = FALSE)
     if (!is.list(parsed) || length(parsed) != length(localities)) {
       warning(sprintf(
@@ -116,7 +135,9 @@ call_gemini_batch <- function(localities) {
     }
     parsed
   }, error = function(e) {
-    warning(sprintf("Gemini batch failed after %d tries: %s", MAX_RETRIES, conditionMessage(e)))
+    msg <- sprintf("Gemini batch failed after %d tries: %s", MAX_RETRIES, conditionMessage(e))
+    log_gemini(label, input_json, error = msg)
+    warning(msg)
     NULL
   })
 }
@@ -179,7 +200,8 @@ for (sp in species) {
     chunk <- unique_locs[idx]
     message("  Batch ", ch, "/", n_chunks, " (", length(chunk), " localities)...")
 
-    batch_raw <- call_gemini_batch(as.list(chunk))
+    batch_raw <- call_gemini_batch(as.list(chunk),
+                                   label = sprintf("%s | Batch %d/%d", sp, ch, n_chunks))
 
     if (is.null(batch_raw)) {
       for (loc in chunk) parse_cache[[loc]] <- default_result(loc)

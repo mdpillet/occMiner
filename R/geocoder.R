@@ -7,7 +7,7 @@ library(purrr)
 species <- c(
   "Ariocarpus fissuratus",
   "Pilosocereus chrysostele",
-  "Rhipsalis baccifera",
+  "Pilosocereus pachycladus",
   "Thelocactus conothelos"
 )
 

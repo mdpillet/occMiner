@@ -2,9 +2,12 @@ library(readr)
 library(dplyr)
 library(purrr)
 library(stringr)
+library(sf)
 
-out_dir <- "data/kml"
-dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+kml_dir <- "data/kml"
+shp_dir <- "data/shp"
+dir.create(kml_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(shp_dir, recursive = TRUE, showWarnings = FALSE)
 
 # KML icon colors per geocode_type (aabbggrr)
 type_styles <- c(
@@ -97,25 +100,42 @@ make_kml <- function(data, doc_name) {
   ), xml_escape(doc_name), styles, placemarks)
 }
 
+# Shapefile field names are capped at 10 chars; rename the three that exceed it.
+make_shp <- function(data, shp_path) {
+  data <- filter(data, !is.na(lat), !is.na(lon)) %>%
+    rename(field_no = field_number, gc_query = geocode_query, gc_type = geocode_type) %>%
+    st_as_sf(coords = c("lon", "lat"), crs = 4326)
+  st_write(data, shp_path, delete_layer = TRUE, quiet = TRUE)
+}
+
 pipelines <- list(
   list(dir = "data/geocoded",     label = "geocoded"),
   list(dir = "data/geocoded_llm", label = "geocoded_llm")
 )
 
 for (pl in pipelines) {
-  kml_dir <- file.path(out_dir, pl$label)
-  dir.create(kml_dir, recursive = TRUE, showWarnings = FALSE)
+  kml_pl <- file.path(kml_dir, pl$label)
+  shp_pl <- file.path(shp_dir, pl$label)
+  dir.create(kml_pl, recursive = TRUE, showWarnings = FALSE)
+  dir.create(shp_pl, recursive = TRUE, showWarnings = FALSE)
 
   for (csv_path in list.files(pl$dir, pattern = "\\.csv$", full.names = TRUE)) {
-    sp_snake <- tools::file_path_sans_ext(basename(csv_path))
-    sp_label <- str_to_title(str_replace_all(sp_snake, "_", " "))
-    out_path  <- file.path(kml_dir, paste0(sp_snake, ".kml"))
+    sp_snake  <- tools::file_path_sans_ext(basename(csv_path))
+    sp_label  <- str_to_title(str_replace_all(sp_snake, "_", " "))
+    kml_path  <- file.path(kml_pl, paste0(sp_snake, ".kml"))
+    shp_path  <- file.path(shp_pl, paste0(sp_snake, ".shp"))
 
     data <- read_csv(csv_path, show_col_types = FALSE)
+    n    <- sum(!is.na(data$lat))
+
     kml  <- make_kml(data, sprintf("%s — %s", sp_label, pl$label))
-    writeLines(kml, out_path)
-    message("Written ", sum(!is.na(data$lat)), " placemarks to ", out_path)
+    writeLines(kml, kml_path)
+
+    make_shp(data, shp_path)
+
+    message("Written ", n, " records to ", kml_path, " and ", shp_path)
   }
 }
 
-message("Done. KML files written to ", out_dir, "/")
+message("Done. KML files written to ", kml_dir, "/")
+message("Done. SHP files written to ", shp_dir, "/")

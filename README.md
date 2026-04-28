@@ -6,7 +6,7 @@ Scrapes cactus collection records from two hobbyist databases and geocodes the f
 
 - *Ariocarpus fissuratus*
 - *Pilosocereus chrysostele*
-- *Rhipsalis baccifera*
+- *Pilosocereus pachycladus*
 - *Thelocactus conothelos*
 
 ## Pipeline
@@ -18,8 +18,10 @@ clcactus_miner.R  →  data/clcactus/<species>.csv
 geocoder.R        →  data/geocoded/<species>.csv      (regex pipeline)
 geocoder_llm.R    →  data/geocoded_llm/<species>.csv  (LLM pipeline)
                           ↓
-kmlCreator.R      →  data/kml/geocoded/<species>.kml
+mapCreator.R      →  data/kml/geocoded/<species>.kml
                       data/kml/geocoded_llm/<species>.kml
+                      data/shp/geocoded/<species>.shp
+                      data/shp/geocoded_llm/<species>.shp
 ```
 
 Run each script from the project root with `Rscript R/<script>.R`.
@@ -135,15 +137,23 @@ All methods failed: the query returned no geocoder result and Gemini returned nu
 
 ## KML output
 
-`kmlCreator.R` converts geocoded CSVs to KML for visualisation in Google Earth or QGIS. It produces one file per species per pipeline:
+`mapCreator.R` converts geocoded CSVs to KML and shapefile (SHP) for visualisation in Google Earth, QGIS, or any GIS tool. It produces one file per species per pipeline:
 
 ```
 data/kml/
   geocoded/
     ariocarpus_fissuratus.kml
     pilosocereus_chrysostele.kml
-    rhipsalis_baccifera.kml
+    pilosocereus_pachycladus.kml
     thelocactus_conothelos.kml
+  geocoded_llm/
+    (same four files)
+data/shp/
+  geocoded/
+    ariocarpus_fissuratus.shp  (+ .dbf, .prj, .shx)
+    pilosocereus_chrysostele.shp
+    pilosocereus_pachycladus.shp
+    thelocactus_conothelos.shp
   geocoded_llm/
     (same four files)
 ```
