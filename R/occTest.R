@@ -1,132 +1,98 @@
 library(terra)
 library(occTest)
 library(ggpubr)
+library(readr)
+library(dplyr)
 
-# Set paths
-occPath <- "D:/Research/DroughtForecasts/Data/Occurrences/BySpecies/Over10/"
-envRaster <- "D:/Research/DroughtForecasts/Data/Predictors/ase_UKESM1-0-LL_SSP585.tif"
-outPath <- "D:/Research/DroughtForecasts/Data/Occurrences/BySpecies/Filtered/" 
+# Load raster — layers 1-26 only (environment, no extent layers)
+env    <- rast("data/predictors/ase_UKESM1-0-LL_current.tif")[[1:26]]
+envProj <- project(env, "EPSG:4326")
 
-# Read occurrence data
-species <- list.files(occPath, "shp$", full.names = T)
-
-# Read environmental raster
-env <- rast(envRaster)
-envProj <- project(env, crs(vect(species[1])))
-envProj_all <- envProj
-envProj_noExt <- envProj[[1:26]]
-
-# Set occTest settings
 customSettings <- defaultSettings()
-customSettings$analysisSettings$filterAtlas <- F
+customSettings$analysisSettings$filterAtlas <- FALSE
 
-# Filter summary
-filterSumm <- data.frame(Species = character(length(species)),
-                         NoOccs = integer(length(species)),
-                         PostFilter_envT_extT = integer(length(species)),
-                         PostFilter_envF_extF = integer(length(species)),
-                         PostFilter_envT_extF = integer(length(species)),
-                         AddlRemovedEnv_extT = integer(length(species)),
-                         AddlRemovedEnv_extF = integer(length(species)))
+pipelines <- list(
+  list(in_dir = "data/cleaned",     out_dir = "data/occTest/cleaned"),
+  list(in_dir = "data/cleaned_llm", out_dir = "data/occTest/cleaned_llm")
+)
 
-# Loop over species
-for (i in 1:length(species)) {
-  # Load and count occurrences, print name
-  occ <- vect(species[i])
-  filterSumm[i, "NoOccs"] <- nrow(occ)
-  print(unique(occ$FinalSpeci))
-  filterSumm[i, "Species"] <- unique(occ$FinalSpeci)
-  
-  # Get coordinates
-  coords <- as.data.frame(crds(occ))
-  names(coords) <- c("decimalLongitude", "decimalLatitude")
-  
-  # Perform tests
-  occTest_envT_extT <- occTest(sp.name = unique(occ$FinalSpeci),
-                         habitat = "terrestrial",
-                         sp.table = coords,
-                         r.env = envProj_all, 
-                         interactiveMode = F,
-                         verbose = F,
-                         analysisSettings = customSettings$analysisSettings,
-                         doParallel = F)
-  occTest_envT_extF <- occTest(sp.name = unique(occ$FinalSpeci),
-                           habitat = "terrestrial",
-                           sp.table = coords,
-                           r.env = envProj_noExt, 
-                           interactiveMode = F,
-                           verbose = F,
-                           analysisSettings = customSettings$analysisSettings,
-                           doParallel = F)
-  customSettings$analysisSettings$envOutliers$doEnvOutliers <- F
-  occTest_envF_extF <- occTest(sp.name = unique(occ$FinalSpeci),
-                               habitat = "terrestrial",
-                               sp.table = coords,
-                               r.env = envProj_noExt, 
-                               interactiveMode = F,
-                               verbose = F,
-                               analysisSettings = customSettings$analysisSettings,
-                               doParallel = F)
-  customSettings$analysisSettings$envOutliers$doEnvOutliers <- T
-  
-  # Filter occurrences
-  occFilter_envT_extT <- occFilter(df = occTest_envT_extT, errorAcceptance = "strict")
-  occFilter_envT_extF <- occFilter(df = occTest_envT_extF, errorAcceptance = "strict")
-  occFilter_envF_extF <- occFilter(df = occTest_envF_extF, errorAcceptance = "strict")
-  n_envT_extT <- nrow(occFilter_envT_extT$filteredDataset)
-  if (is.null(n_envT_extT)) n_envT_extT <- 0
-  n_envT_extF <- nrow(occFilter_envT_extF$filteredDataset)
-  if (is.null(n_envT_extF)) n_envT_extF <- 0
-  n_envF_extF <- nrow(occFilter_envF_extF$filteredDataset)
-  if (is.null(n_envF_extF)) n_envF_extF <- 0
-  filterSumm[i, "PostFilter_envT_extT"] <- n_envT_extT
-  filterSumm[i, "PostFilter_envT_extF"] <- n_envT_extF
-  filterSumm[i, "PostFilter_envF_extF"] <- n_envF_extF
-  filterSumm[i, "AddlRemovedEnv_extT"] <- filterSumm[i, "PostFilter_envF_extF"] - filterSumm[i, "PostFilter_envT_extT"]
-  filterSumm[i, "AddlRemovedEnv_extF"] <- filterSumm[i, "PostFilter_envF_extF"] - filterSumm[i, "PostFilter_envT_extF"]
-  
-  # Set output folder
-  if (min(n_envF_extF, n_envT_extF, n_envT_extT) >= 10) {
-    outFolder <- "Over10/"
-  } else outFolder <- "Other/"
-  
-  # Plot results
-  if (min(n_envF_extF, n_envT_extF, n_envT_extT) > 1) {
-    plot_envT_extT <- plot(x = occTest_envT_extT, occFilter_list = occFilter_envT_extT, show_plot = F)
-    plot_envT_extF <- plot(x = occTest_envT_extF, occFilter_list = occFilter_envT_extF, show_plot = F)
-    plot_envF_extF <- plot(x = occTest_envF_extF, occFilter_list = occFilter_envF_extF, show_plot = F)
-    ggarrange(plot_envT_extT[[1]], plot_envT_extT[[2]], plot_envT_extT[[3]], plot_envT_extT[[4]])
-    ggsave(paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extT.jpg"))
-    ggarrange(plot_envT_extF[[1]], plot_envT_extF[[2]], plot_envT_extF[[3]], plot_envT_extF[[4]])
-    ggsave(paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extF.jpg"))
-    ggarrange(plot_envF_extF[[1]], plot_envF_extF[[2]], plot_envF_extF[[3]], plot_envF_extF[[4]])
-    ggsave(paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envF_extF.jpg"))  
+for (pl in pipelines) {
+  dir.create(pl$out_dir, recursive = TRUE, showWarnings = FALSE)
+
+  csv_files <- list.files(pl$in_dir, pattern = "\\.csv$", full.names = TRUE)
+  if (length(csv_files) == 0) {
+    message("No CSVs found in ", pl$in_dir, " — skipping")
+    next
   }
-  
-  # Export filtered occurrences
-  if (n_envT_extT > 0) {
-    writeVector(occ[occFilter_envT_extT$filteredDataset$taxonobservationID], paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extT.kml"), overwrite = T)
-    writeVector(occ[occFilter_envT_extT$filteredDataset$taxonobservationID], paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extT.shp"), overwrite = T)  
+
+  filterSumm <- data.frame(
+    Species   = character(length(csv_files)),
+    NoOccs    = integer(length(csv_files)),
+    PostFilter = integer(length(csv_files)),
+    Removed   = integer(length(csv_files)),
+    stringsAsFactors = FALSE
+  )
+
+  for (i in seq_along(csv_files)) {
+    data    <- read_csv(csv_files[i], show_col_types = FALSE)
+    sp_name <- unique(data$species)
+    sp_snake <- gsub(" ", "_", tolower(sp_name))
+    message(pl$in_dir, " | ", sp_name, " (", nrow(data), " records)")
+
+    coords <- data %>%
+      rename(decimalLongitude = lon, decimalLatitude = lat) %>%
+      select(decimalLongitude, decimalLatitude)
+
+    occTest_result <- occTest(
+      sp.name          = sp_name,
+      habitat          = "terrestrial",
+      sp.table         = coords,
+      r.env            = envProj,
+      interactiveMode  = FALSE,
+      verbose          = FALSE,
+      analysisSettings = customSettings$analysisSettings,
+      doParallel       = FALSE
+    )
+
+    occFilter_result <- occFilter(df = occTest_result, errorAcceptance = "strict")
+
+    n_filtered <- nrow(occFilter_result$filteredDataset)
+    if (is.null(n_filtered)) n_filtered <- 0
+
+    filterSumm[i, "Species"]    <- sp_name
+    filterSumm[i, "NoOccs"]     <- nrow(data)
+    filterSumm[i, "PostFilter"] <- n_filtered
+    filterSumm[i, "Removed"]    <- nrow(data) - n_filtered
+    message("  ", n_filtered, " records retained after strict filter")
+
+    # Diagnostic plots (require > 1 point)
+    if (n_filtered > 1) {
+      plots <- plot(x = occTest_result, occFilter_list = occFilter_result, show_plot = FALSE)
+      ggarrange(plots[[1]], plots[[2]], plots[[3]], plots[[4]])
+      ggsave(file.path(pl$out_dir, paste0(sp_snake, ".jpg")))
+    }
+
+    # Spatial export (KML + SHP)
+    if (n_filtered > 0) {
+      filtered_data <- data[occFilter_result$filteredDataset$taxonobservationID, ]
+      filtered_vect <- vect(filtered_data, geom = c("lon", "lat"), crs = "EPSG:4326")
+      writeVector(filtered_vect,
+                  file.path(pl$out_dir, paste0(sp_snake, ".kml")),
+                  overwrite = TRUE)
+      writeVector(filtered_vect,
+                  file.path(pl$out_dir, paste0(sp_snake, ".shp")),
+                  overwrite = TRUE)
+    }
+
+    # Save R objects
+    save(occTest_result, occFilter_result,
+         file = file.path(pl$out_dir, paste0(sp_snake, ".rda")))
+
+    closeAllConnections()
   }
-  if (n_envT_extF > 0) {
-    writeVector(occ[occFilter_envT_extF$filteredDataset$taxonobservationID], paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extF.kml"), overwrite = T)
-    writeVector(occ[occFilter_envT_extF$filteredDataset$taxonobservationID], paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extF.shp"), overwrite = T)  
-  }
-  if (n_envF_extF > 0) {
-    writeVector(occ[occFilter_envF_extF$filteredDataset$taxonobservationID], paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envF_extF.kml"), overwrite = T)
-    writeVector(occ[occFilter_envF_extF$filteredDataset$taxonobservationID], paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envF_extF.shp"), overwrite = T)  
-  }
-  
-  # Save objects
-  save(occTest_envT_extT, occFilter_envT_extT, file = paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extT.rda"))
-  save(occTest_envT_extF, occFilter_envT_extF, file = paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envT_extF.rda"))
-  save(occTest_envF_extF, occFilter_envF_extF, file = paste0(outPath, outFolder, unique(occ$FinalSpeci), "_envF_extF.rda"))
-  
-  # Print summary and clean up
-  closeAllConnections()
-  print(filterSumm[i,])
+
+  write_csv(filterSumm, file.path(pl$out_dir, "filterSummary.csv"))
+  message("Filter summary written to ", pl$out_dir, "/filterSummary.csv")
 }
-filterSumm$FractionRemoved <- filterSumm$AddlRemovedEnv_extF / filterSumm$PostFilter_envF_extF
 
-# Export summary
-write.csv(filterSumm, paste0(outPath, "filterSummary.csv"), row.names = F)
+message("Done.")
