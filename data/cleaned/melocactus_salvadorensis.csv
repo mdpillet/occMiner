@@ -1,0 +1,62 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+BB 102.01,Brian Francis Bates,melocactus salvadorensis,"Jequié Municipality, Bahia, Brazil",241m,24/05/1999,NA,bcss,"Jequié Municipality, Bahia, Brazil",direct,-11.0986,-38.9951
+BB 105.03,Brian Francis Bates,melocactus salvadorensis,"Porto Alegre, Bahia, Brazil",280m,24/05/1999,NA,bcss,"Porto Alegre, Bahia, Brazil",direct,-13.842062,-40.6208841
+BB 96.02,Brian Francis Bates,melocactus salvadorensis,"Rio de Contas near waterfall, Bahia, Brazil",925m,21/05/1999,NA,bcss,"Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5778179,-41.8115466
+BB 96.02,Brian Francis Bates,melocactus salvadorensis,"Rio de Contas near waterfall, Bahia, Brazil",925m,21/05/1999,NA,bcss,"Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5778179,-41.8115466
+CS 365.1_125,Chris Sherrah,melocactus salvadorensis,"Jequie, Bahia, Brasil",21/11/2009,21/11/2009,NA,bcss,"Jequie, Bahia, Brasil",direct,-13.8604033,-40.0719627
+CS 366.13,Chris Sherrah,melocactus salvadorensis,"Espinho, Bahia, Brasil",260m,22/11/2009,NA,bcss,"Espinho, Bahia, Brasil",direct,-14.0233944,-42.5057602
+CS 367.5,Chris Sherrah,melocactus salvadorensis,"Espinho 2, Bahia, Brasil",290m,22/11/2009,BB105 location,bcss,"Espinho 2, Bahia, Brasil",direct,-14.0233944,-42.5057602
+CS 368.3,Chris Sherrah,melocactus salvadorensis,"Espinho 3, Bahia, Brasil",343m,22/11/2009,NA,bcss,"Espinho 3, Bahia, Brasil",direct,-14.0233944,-42.5057602
+CS 371.4_135,Chris Sherrah,melocactus salvadorensis,"Rio de Contas, Bahia, Brasil",925m,24/11/2009,BB096 location,bcss,"Rio de Contas, Bahia, Brasil",direct,-13.5803333,-41.8112152
+GC 1022.02,Graham Charles,melocactus salvadorensis,Sussuarana,NA,NA,NA,bcss,Sussuarana,direct,-14.1598189,-41.2063284
+GC 1048.05,Graham Charles,melocactus salvadorensis,West of Jequié,NA,NA,NA,bcss,Jequié,direction_only,-13.8604033,-40.0719627
+GC 483.05,Graham Charles,melocactus salvadorensis,West of Jequié,NA,NA,NA,bcss,Jequié,direction_only,-13.8604033,-40.0719627
+GC 486.05,Graham Charles,melocactus salvadorensis,Porto Alegre,NA,NA,NA,bcss,Porto Alegre,direct,-30.0324999,-51.2303767
+GC 686.02,Graham Charles,melocactus salvadorensis,Sussuarana,NA,NA,NA,bcss,Sussuarana,direct,-14.1598189,-41.2063284
+GD 100-1,Gérard Delanoy,melocactus salvadorensis,"East of Sussuarana, Bahia, Brazil",NA,NA,NA,bcss,"Sussuarana, Bahia, Brazil",direction_only,-14.1598189,-41.2063284
+GD 101-1,Gérard Delanoy,melocactus salvadorensis,"East of Sussuarana, 1 km after GD100, Bahia, Brazil",NA,NA,NA,bcss,"Sussuarana, 1 km after GD100, Bahia, Brazil",direction_only,-13.281690982767,-42.602699018364
+GD 105-2,Gérard Delanoy,melocactus salvadorensis,"South-West of Jequié, Bahia, Brazil",NA,NA,NA,bcss,"Jequié, Bahia, Brazil",direction_only,-13.8604033,-40.0719627
+GJA 7.09,Gérard Ardisson,melocactus salvadorensis,"Itiîra, Bahia, Brazil",May-07,May-07,NA,bcss,"Itiîra, Bahia, Brazil",direct,-12.475311328524,-41.721435781216
+HU 301,"Leopoldo Horst,, later, Kurt-Ingo Horst",melocactus salvadorensis,"Bananeiras, Bahia, Brazil",1971,1971,NA,bcss,"Bananeiras, Bahia, Brazil",direct,-10.608216,-40.31353
+HU 535,"Leopoldo Horst,, later, Kurt-Ingo Horst",melocactus salvadorensis,"2 km North-West of Jacaraci, Bahia, Brazil",NA,NA,NA,bcss,"Jacaraci, Bahia, Brazil",offset_adjusted,-14.833034497842862,-42.446052664736456
+HU 576,"Leopoldo Horst,, later, Kurt-Ingo Horst",melocactus salvadorensis,"Licinio de Almeida, Bahia, Brazil",NA,NA,NA,bcss,"Licinio de Almeida, Bahia, Brazil",direct,-14.6835152,-42.5064545
+NPT 1523,Nigel Paul Taylor,melocactus salvadorensis,"Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil",660m,2/2/1991,NA,bcss,"Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil",direct,-14.0688042,-42.4851241
+NPT 1542,Nigel Paul Taylor,melocactus salvadorensis,"BR 030 25km along towards Sussuarana, Bahia, Brazil",400m,3/2/1991,NA,bcss,"BR 030 25km along towards Sussuarana, Bahia, Brazil",direct,-12.939117,-38.4356201
+NPT 1545,Nigel Paul Taylor,melocactus salvadorensis,"BR 030 54km along towards Sussuarana, Bahia, Brazil",400m,3/2/1991,NA,bcss,"BR 030 54km along towards Sussuarana, Bahia, Brazil",direct,-12.939117,-38.4356201
+NPT 1549,Nigel Paul Taylor,melocactus salvadorensis,"Contendas do Sincorá 34km towards Maracás, Bahia, Brazil",380m,4/2/1991,NA,bcss,"Contendas do Sincorá 34km towards Maracás, Bahia, Brazil",direct,-13.7627098,-41.0410047
+NPT 1553,Nigel Paul Taylor,melocactus salvadorensis,"Porto Alegre e 6-7km, Bahia, Brazil",300m,4/2/1991,NA,bcss,"Porto Alegre e 6-7km, Bahia, Brazil",direct,-10.346277998922,-39.836820000707
+NPT 1580,Nigel Paul Taylor,melocactus salvadorensis,"Iañu w 5.5km, Bahia, Brazil",300m,7/2/1991,NA,bcss,"Iañu w 5.5km, Bahia, Brazil",direct,-12.91868798105,-38.435754961537
+NPT 1609,Nigel Paul Taylor,melocactus salvadorensis,"Baixa Grande e 42.5km, BA 052, Bahia, Brazil",310m,9/2/1991,NA,bcss,"Baixa Grande e 42.5km, BA 052, Bahia, Brazil",direct,-12.050447119824,-39.980397874082
+NPT 1611,Nigel Paul Taylor,melocactus salvadorensis,"Ipirá e 24km, BA 052, Bahia, Brazil",300m,9/2/1991,NA,bcss,"Ipirá e 24km, BA 052, Bahia, Brazil",direct,-12.15705931469,-39.752231477151
+PM 126,Ken Preston-Mafham,melocactus salvadorensis,"6km South of Milagres, Brazil",NA,NA,NA,bcss,"Milagres, Brazil",offset_adjusted,-12.918594296355122,-39.861092
+PM 129,Ken Preston-Mafham,melocactus salvadorensis,"Jequie, Brazil",NA,NA,NA,bcss,"Jequie, Brazil",direct,-13.8604033,-40.0719627
+BB 102.01,Brian Francis Bates,Melocactus salvadorensis,"Brazil : Bahia (Mun. Jequié, Mun. Jequié  241m)",NA,1999/05/24,NA,clcactus,"Mun. Jequié, Mun. Jequié, Bahia, Brazil",direct,-13.8551593,-40.0916162
+CS 365.1_125,Chris Sherrah,Melocactus salvadorensis,Brazil : Bahia (Jequie),NA,21/11/2009,NA,clcactus,"Jequie, Bahia, Brazil",direct,-13.8604033,-40.0719627
+CS 366.13,Chris Sherrah,Melocactus salvadorensis,"Brazil : Bahia (Espinho, 260 m)",NA,22/11/2009,NA,clcactus,"Espinho,, Bahia, Brazil",direct,-14.0233944,-42.5057602
+CS 367.5,Chris Sherrah,Melocactus salvadorensis,"Brazil : Bahia (Espinho 2, 290 m)",NA,22/11/2009,NA,clcactus,"Espinho 2,, Bahia, Brazil",direct,-14.0233944,-42.5057602
+CS 368.3,Chris Sherrah,Melocactus salvadorensis,"Brazil : Bahia (Espinho 3, 343 m)",NA,22/11/2009,NA,clcactus,"Espinho 3,, Bahia, Brazil",direct,-14.0233944,-42.5057602
+CS 371.4_135,Chris Sherrah,Melocactus salvadorensis,"Brazil : Bahia (Rio de Contas, 925 m)",NA,24/11/2009,NA,clcactus,"Rio de Contas,, Bahia, Brazil",direct,-13.5803333,-41.8112152
+GJA 7.09,Gérard Ardisson,Melocactus salvadorensis,"ItiÃ®ra, Bahia, Brazil",NA,01/05/07,NA,clcactus,"ItiÃ®ra, Bahia, Brazil",direct,-12.475311328524,-41.721435781216
+GD 100-1,Gérard Delanoy,Melocactus salvadorensis,"East of Sussuarana, Bahia, Brazil",NA,NA,NA,clcactus,"Sussuarana, Bahia, Brazil",direction_only,-14.1598189,-41.2063284
+GD 101-1,Gérard Delanoy,Melocactus salvadorensis,"East of Sussuarana, 1 km after GD100, Bahia, Brazil",NA,NA,NA,clcactus,"Sussuarana, 1 km after GD100, Bahia, Brazil",direction_only,-13.281690982767,-42.602699018364
+GD 105-2,Gérard Delanoy,Melocactus salvadorensis,"South-West of Jequié, Bahia, Brazil",NA,NA,NA,clcactus,"Jequié, Bahia, Brazil",direction_only,-13.8604033,-40.0719627
+"GC 483,05",Graham Charles,Melocactus salvadorensis,Brazil :  (W. Jequié),NA,NA,NA,clcactus,"W. Jequié, Brazil",direct,-13.8604033,-40.0719627
+"GC 486,05",Graham Charles,Melocactus salvadorensis,Brazil :  (Porto Alegre),NA,NA,NA,clcactus,"Porto Alegre, Brazil",direct,-30.0324999,-51.2303767
+"GC 686,02",Graham Charles,Melocactus salvadorensis,Brazil :  (Sussuarana),NA,NA,NA,clcactus,"Sussuarana, Brazil",direct,-14.1598189,-41.2063284
+"GC 1022,02",Graham Charles,Melocactus salvadorensis,Brazil :  (Sussuarana),NA,NA,NA,clcactus,"Sussuarana, Brazil",direct,-14.1598189,-41.2063284
+"GC 1048,05",Graham Charles,Melocactus salvadorensis,Brazil :  (West of Jequié),NA,NA,NA,clcactus,"West of Jequié, Brazil",direct,-13.8551593,-40.0916162
+"GC 1050,02",Graham Charles,Melocactus salvadorensis  aff.,Brazil :  (Milagres),NA,NA,NA,clcactus,"Milagres, Brazil",direct,-12.864635,-39.861092
+pm 126,Ken Preston-Mafham,Melocactus salvadorensis,"6km South of Milagres, Brazil",NA,NA,NA,clcactus,"Milagres, Brazil",offset_adjusted,-12.918594296355122,-39.861092
+pm 129,Ken Preston-Mafham,Melocactus salvadorensis,"Jequie, Brazil",NA,NA,NA,clcactus,"Jequie, Brazil",direct,-13.8604033,-40.0719627
+HU 301,"Leopoldo Horst, later, Kurt-Ingo Horst",Melocactus salvadorensis,"Bananeiras, Bahia, Brazil",NA,24/05/1905,NA,clcactus,"Bananeiras, Bahia, Brazil",direct,-10.608216,-40.31353
+HU 535,"Leopoldo Horst, later, Kurt-Ingo Horst",Melocactus salvadorensis,"2 km North-West of Jacaraci, Bahia, Brazil",NA,NA,NA,clcactus,"Jacaraci, Bahia, Brazil",offset_adjusted,-14.833034497842862,-42.446052664736456
+HU 576,"Leopoldo Horst, later, Kurt-Ingo Horst",Melocactus salvadorensis,"Licinio de Almeida, Bahia, Brazil",NA,NA,NA,clcactus,"Licinio de Almeida, Bahia, Brazil",direct,-14.6835152,-42.5064545
+NPT 1523,Nigel Paul Taylor,Melocactus salvadorensis,"Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil 660m",NA,02/02/91,NA,clcactus,"Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil",direct,-14.0688042,-42.4851241
+NPT 1542,Nigel Paul Taylor,Melocactus salvadorensis,"BR 030 25km along towards Sussuarana, Bahia, Brazil 400m",NA,03/02/91,NA,clcactus,"BR 030 25km along towards Sussuarana, Bahia, Brazil",direct,-12.939117,-38.4356201
+NPT 1545,Nigel Paul Taylor,Melocactus salvadorensis,"BR 030 54km along towards Sussuarana, Bahia, Brazil 400m",NA,03/02/91,NA,clcactus,"BR 030 54km along towards Sussuarana, Bahia, Brazil",direct,-12.939117,-38.4356201
+NPT 1549,Nigel Paul Taylor,Melocactus salvadorensis,"Contendas do Sincorá 34km towards MaracÃ¡s, Bahia, Brazil 380m",NA,04/02/91,NA,clcactus,"Contendas do Sincorá 34km towards MaracÃ¡s, Bahia, Brazil",direct,-13.7627098,-41.0410047
+NPT 1553,Nigel Paul Taylor,Melocactus salvadorensis,"Porto Alegre e 6-7km, Bahia, Brazil 300m",NA,04/02/91,NA,clcactus,"Porto Alegre e 6-7km, Bahia, Brazil",direct,-10.346277998922,-39.836820000707
+NPT 1580,Nigel Paul Taylor,Melocactus salvadorensis,"Iañu w 5.5km, Bahia, Brazil 300m",NA,07/02/91,NA,clcactus,"Iañu w 5.5km, Bahia, Brazil",direct,-12.91868798105,-38.435754961537
+NPT 1609,Nigel Paul Taylor,Melocactus salvadorensis,"Baixa Grande e 42.5km, BA 052, Bahia, Brazil 310m",NA,09/02/91,NA,clcactus,"Baixa Grande e 42.5km, BA 052, Bahia, Brazil",direct,-12.050447119824,-39.980397874082
+NPT 1611,Nigel Paul Taylor,Melocactus salvadorensis,"Ipirá e 24km, BA 052, Bahia, Brazil 300m",NA,09/02/91,NA,clcactus,"Ipirá e 24km, BA 052, Bahia, Brazil",direct,-12.15705931469,-39.752231477151
+PCO 1188-01,Philippe Corman,Melocactus salvadorensis,Brazil : Bahia (Feira de Santana-Morro do Chapeu),NA,2008,NA,clcactus,"Feira de Santana-Morro do Chapeu, Bahia, Brazil",direct,-12.230257064677,-38.959457780681

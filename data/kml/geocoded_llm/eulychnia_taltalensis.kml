@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Eulychnia Taltalensis — geocoded_llm</name>
+  <Style id="direct">
+    <IconStyle>
+      <color>ff4db34d</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="direction_only">
+    <IconStyle>
+      <color>ff00aaff</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="offset_adjusted">
+    <IconStyle>
+      <color>ffff6600</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="llm_approximate">
+    <IconStyle>
+      <color>ffff00cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="failed">
+    <IconStyle>
+      <color>ff0000cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+      <Placemark>
+        <name>BB 2252.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 2252.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>East of Taltal, 02 Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>315m</td></tr><tr><td><b>Date</b></td><td>14/11/2018</td></tr><tr><td><b>Notes</b></td><td>same locality as BJB18-25</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 2253.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 2253.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Paposo, 02 Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>294m</td></tr><tr><td><b>Date</b></td><td>18/11/2018</td></tr><tr><td><b>Notes</b></td><td>same locality as ADB2.44</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 296.02</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 296.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>North of Paposo</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 298.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 298.03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>San Ramon Valley</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada San Ramon, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.453105,-25.381455,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 299.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 299.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Above Paposo</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 300.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 300.03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Above Paposo</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 301.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 301.03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Above Paposo</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 302.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 302.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Guanillos</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Guanillos, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.252292,-22.403825,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 305.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 305.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Breas</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Las Breas, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.375724,-25.564461,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 730.03</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 730.03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>North of Taltal</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 733.02</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 733.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>North of Paposo</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 734.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 734.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Above Paposo</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 737.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 737.05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Botija Valley</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 1319</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 1319</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Ruta 1 Paposo to Blanco Encalada, 02 Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>48m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ruta 1, Paposo to Blanco Encalada, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.466854,-23.762069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 1701</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 1701</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Paposo to Blanco Encalada, 02 Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ruta 1, Paposo to Blanco Encalada, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.466854,-23.762069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 854</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 854</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>above Playa Sara, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>49m</td></tr><tr><td><b>Date</b></td><td>Feb-12</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Playa Sara, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-69.867050,-25.342030,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 856</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 856</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Paposo National Reserve, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>600m</td></tr><tr><td><b>Date</b></td><td>Feb-12</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Reserva Nacional Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.384390,-23.580389,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 862</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 862</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Santunario Lidia Escobar Negra, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>411m</td></tr><tr><td><b>Date</b></td><td>Feb-12</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Santuario Lidia Escobar Negra, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.390128,-23.626601,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KBC 956</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KBC 956</td></tr><tr><td><b>Collector</b></td><td>Petr Kupčák
+Josef Bis</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Right side of road, Route 5 North, Taltal City, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>293m</td></tr><tr><td><b>Date</b></td><td>2008</td></tr><tr><td><b>Notes</b></td><td>Long, brown to black spined form</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ruta 5, Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-69.081075,-25.246186,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 1278</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 1278</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Taltal, Chile</td></tr><tr><td><b>Altitude</b></td><td>300-500m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 252.6</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 252.6</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>400-480m</td></tr><tr><td><b>Date</b></td><td>10-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 253.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 253.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Caleta Botija and Punta Plata, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>60-250m</td></tr><tr><td><b>Date</b></td><td>11-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Caleta Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.558676,-24.502549,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 254.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 254.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Punta Plata and Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>10m</td></tr><tr><td><b>Date</b></td><td>11-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 255.2</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 255.2</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Punta Plata and Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>40m</td></tr><tr><td><b>Date</b></td><td>11-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 256.2</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 256.2</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Hills above Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>530-720m</td></tr><tr><td><b>Date</b></td><td>11-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 258.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 258.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>South side of Quebrada de San Ramón, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>300-720m</td></tr><tr><td><b>Date</b></td><td>12-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada San Ramon, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.453105,-25.381455,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 259.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 259.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Estación Breas, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>660-880m</td></tr><tr><td><b>Date</b></td><td>13-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Estacion Breas, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.404797,-25.506047,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 260.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 260.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>South of Taltal along coast, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>70-160m</td></tr><tr><td><b>Date</b></td><td>13-Feb-01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 442.6</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 442.6</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>110-650m</td></tr><tr><td><b>Date</b></td><td>21-Nov-02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH252</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 443.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 443.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Iscuña, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>80-400m</td></tr><tr><td><b>Date</b></td><td>22-Nov-02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Iscuna, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.429985,-24.527720,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 445.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 445.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Punta Plata and Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>70m</td></tr><tr><td><b>Date</b></td><td>22-Nov-02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH255</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 446.4</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 446.4</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Hills above Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>630-730m</td></tr><tr><td><b>Date</b></td><td>22-Nov-02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH256</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 447.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 447.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Hills above Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>780m</td></tr><tr><td><b>Date</b></td><td>23-Nov-02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 448.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 448.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Coast North of Taltal, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>30m</td></tr><tr><td><b>Date</b></td><td>23-Nov-02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 449.8</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 449.8</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada de San Ramón, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>260-920m</td></tr><tr><td><b>Date</b></td><td>23-Nov-02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH258</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada San Ramon, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.453105,-25.381455,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 656.5</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 656.5</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Punta Tragagente, quebrada North of Botija, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>440m</td></tr><tr><td><b>Date</b></td><td>22-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 658.5</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 658.5</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Iscuña, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>410-970m</td></tr><tr><td><b>Date</b></td><td>23-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Iscuna, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.429985,-24.527720,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 659.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 659.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>North of Caleta Olivia, North of Taltal, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>270m</td></tr><tr><td><b>Date</b></td><td>24-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Caleta Olivia, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.445930,-25.270410,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 660.5</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 660.5</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Coastal hills North of Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>1220m</td></tr><tr><td><b>Date</b></td><td>24-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 662.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 662.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Bandurrias, South of Paposo, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>770-860m</td></tr><tr><td><b>Date</b></td><td>25-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Bandurrias, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.348811,-25.190350,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 663.4</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 663.4</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Agua de Cascabeles, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>560-780m</td></tr><tr><td><b>Date</b></td><td>26-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Agua de Cascabeles, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.329079,-25.280321,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 664.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 664.3</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Taltal, inland from Taltal, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>560m</td></tr><tr><td><b>Date</b></td><td>26-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.299460,-25.455940,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 665.4</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 665.4</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada de San Ramón, Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>30-580m</td></tr><tr><td><b>Date</b></td><td>27-Nov-06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada San Ramon, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.453105,-25.381455,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RAP 321</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RAP 321</td></tr><tr><td><b>Collector</b></td><td>Raimondo Paladini</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Taltal, Monte Perales, II Region de Antofagasta, Chile</td></tr><tr><td><b>Altitude</b></td><td>500 m</td></tr><tr><td><b>Date</b></td><td>Jan / Feb 2014</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Monte Perales, Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.474540,-25.035140,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RD 53</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RD 53</td></tr><tr><td><b>Collector</b></td><td>Rodrigo Dacal Barlow</td></tr><tr><td><b>Species</b></td><td>eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>North of Taltal, II, Chile</td></tr><tr><td><b>Altitude</b></td><td>10-100m</td></tr><tr><td><b>Date</b></td><td>15/02/2011</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 296,02</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 296,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (N. Paposo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 298,03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 298,03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (San Ramon Valley)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada San Ramon, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.453105,-25.381455,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 299,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 299,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Above Paposo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 300,03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 300,03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Above Paposo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 301,03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 301,03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Above Paposo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 302,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 302,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Guanillos)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Guanillos, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.252292,-22.403825,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 305,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 305,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Breas)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Las Breas, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.375724,-25.564461,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 730,03</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 730,03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (North of Taltal)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 733,02</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 733,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (North of Paposo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 734,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 734,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Above Paposo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 737,05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 737,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Botija Valley)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HNS 223</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HNS 223</td></tr><tr><td><b>Collector</b></td><td>HNS</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (above Playa Sara, 49m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Playa Sara, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-69.867050,-25.342030,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HNS 225</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HNS 225</td></tr><tr><td><b>Collector</b></td><td>HNS</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Reserva Nacional Poposo, 600m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Reserva Nacional Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.384390,-23.580389,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HNS 228</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HNS 228</td></tr><tr><td><b>Collector</b></td><td>HNS</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Santunario Lidia Escobar Negra, 411m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Santuario Lidia Escobar Negra, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.390128,-23.626601,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 854</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 854</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (above Playa Sara, 49 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2012</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Playa Sara, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-69.867050,-25.342030,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 856</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 856</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Rezerva Nacional Paposo, 600 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2012</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Reserva Nacional Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.384390,-23.580389,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 862</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 862</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Santunario Lidia Escobar Negra, 411 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2012</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Santuario Lidia Escobar Negra, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.390128,-23.626601,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 1319</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 1319</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Ruta 1 Paposo-&gt;Blanco Encalada, 48 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2015</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ruta 1, Paposo to Blanco Encalada, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.466854,-23.762069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 1701</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 1701</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Paposo - Blanco Encalada)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2018</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ruta 1, Paposo to Blanco Encalada, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.466854,-23.762069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 2683</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 2683</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Quebrada Matancilla)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2024</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Matancilla, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-68.232595,-22.658606,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 2687</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 2687</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Quebrada Portezuelo)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2024</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Portezuelo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.142977,-25.285242,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JN 2694</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JN 2694</td></tr><tr><td><b>Collector</b></td><td>Jan Novák</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Cerro Mont Perrales)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2024</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cerro Monte Perales, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.474540,-25.035140,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 1278</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 1278</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis  Kníže n.n.</td></tr><tr><td><b>Locality</b></td><td>Chile :  (Taltal,300m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>SV 90</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>SV 90</td></tr><tr><td><b>Collector</b></td><td>Martin Švidrnoch</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Ruta 1 Paposo-&gt;Blanco Encalada, 48 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2015</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ruta 1, Paposo to Blanco Encalada, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.466854,-23.762069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 252.06</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 252.06</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada Botija, 400-480m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>10/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 253.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 253.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Caleta Botija and Punta Plata, Antofagasta, Chile 60-250m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>11/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Caleta Botija to Punta Plata, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.570110,-24.518040,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 254.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 254.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Punta Plata and Paposo, Antofagasta, Chile 10m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>11/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Punta Plata to Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.464748,-25.007834,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 255.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 255.02</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Punta Plata and Paposo, Antofagasta, Chile 40m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>11/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Punta Plata to Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.464748,-25.007834,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 256.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 256.02</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Hills above Paposo, Antofagasta, Chile 530-720m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>11/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 258.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 258.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>South side of Quebrada de San Ramón, Antofagasta, Chile 300-720m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>12/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada de San Ramón, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.452010,-25.382260,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 259.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 259.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Estación Breas, Antofagasta, Chile 660-880m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>13/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Estación Breas, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.404797,-25.506047,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 260.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 260.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>South of Taltal along coast, Antofagasta, Chile 70-160m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>13/02/01</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 442.06</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 442.06</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada Botija, 110-650m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>21/11/02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH252</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Botija, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.519390,-24.497234,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 443.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 443.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada Iscuña, 80-400m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Iscuña, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.429985,-24.527720,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 445.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 445.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Between Punta Plata and Paposo, Antofagasta, Chile 70m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH255</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Punta Plata to Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.464748,-25.007834,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 446.04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 446.04</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Hills above Paposo, Antofagasta, Chile 630-730m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH256</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 447.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 447.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Hills above Paposo, Antofagasta, Chile 780m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>23/11/02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 448.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 448.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Coast North of Taltal, Antofagasta, Chile 30m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>23/11/02</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 449.08</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 449.08</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada de San Ramón, 260-920m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>23/11/02</td></tr><tr><td><b>Notes</b></td><td>Same locality as PH258</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada de San Ramón, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.452010,-25.382260,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 656.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 656.05</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Punta Tragagente, quebrada North of Botija, Antofagasta, Chile 440m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Punta Tragagente, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.553427,-24.451926,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 658.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 658.05</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada Iscuña, 410-970m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>23/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Iscuña, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.429985,-24.527720,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 659.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 659.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>North of Caleta Olivia, North of Taltal, Antofagasta, Chile 270m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>24/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Caleta Olivia, Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.445930,-25.270410,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 660.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 660.05</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Coastal hills North of Paposo, Antofagasta, Chile 1220m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>24/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paposo, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.465342,-25.009444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 662.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 662.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Bandurrias, South of Paposo, Antofagasta, Chile 770-860m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>25/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Bandurrias, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.348811,-25.190350,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 663.04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 663.04</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Quebrada Agua de Cascabeles, Antofagasta, Chile 560-780m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>26/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Agua de Cascabeles, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.329079,-25.280321,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 664.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 664.03</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada Taltal, inland from Taltal, 560m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>26/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.299460,-25.455940,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PH 665.04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PH 665.04</td></tr><tr><td><b>Collector</b></td><td>Paul Hoxey</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : 02 Antofagasta (Quebrada de San Ramón, 30-580m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>27/11/06</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Quebrada de San Ramón, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.452010,-25.382260,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KP 956</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KP 956</td></tr><tr><td><b>Collector</b></td><td>Petr Kupcak</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Taltal City back to Ruta 5 Norte , off road right side 293 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2008</td></tr><tr><td><b>Notes</b></td><td>LONG BROWN TILL BLACK SPINY FORM</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KBC 956</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KBC 956</td></tr><tr><td><b>Collector</b></td><td>Petr Kupcak + Josef Bis</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Taltal City back to Ruta 5 Norte , off road right side 293 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2008</td></tr><tr><td><b>Notes</b></td><td>LONG BROWN TILL BLACK SPINY FORM</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RAP 321</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RAP 321</td></tr><tr><td><b>Collector</b></td><td>Raimondo Paladini</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta (Taltal, Monte Perales 500 mt)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>jan.- feb. 2014.</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cerro Monte Perales, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.474540,-25.035140,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RD 53</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RD 53</td></tr><tr><td><b>Collector</b></td><td>Rodrigo Dacal Barlow</td></tr><tr><td><b>Species</b></td><td>Eulychnia taltalensis</td></tr><tr><td><b>Locality</b></td><td>Chile : Antofagasta II (norte taltal, 10-100 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>15/02/2011</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Taltal, Antofagasta, Chile</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-70.485842,-25.407829,0</coordinates></Point>
+      </Placemark>
+</Document>
+</kml>

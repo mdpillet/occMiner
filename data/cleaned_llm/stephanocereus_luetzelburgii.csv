@@ -1,0 +1,46 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+BR 623,Pierre Josef Braun,stephanocereus luetzelburgii,"Seabra, Bahia, Brazil",1986/07,1986/07,NA,bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+BU 623,Pierre Josef Braun,stephanocereus luetzelburgii,"Seabra, Bahia, Brazil",1986/07,1986/07,NA,bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+CS 371.2,Chris Sherrah,stephanocereus luetzelburgii,"Rio de Contas, Bahia, Brasil",925m,24/11/2009,"BB096 location, syn Lagenosocereus",bcss,"Rio de Contas, Bahia, Brazil",direct,-13.5803333,-41.8112152
+CS 372.1,Chris Sherrah,stephanocereus luetzelburgii,"Mucage, Bahia, Brasil",1050m,25/11/2009,"BB095 location, syn Lagenosocereus",bcss,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+GJA 7.05,Gérard Ardisson,stephanocereus luetzelburgii,"Mucugé, Bahia, Brazil",May-07,May-07,NA,bcss,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+HU 136,"Leopoldo Horst,, later, Kurt-Ingo Horst",stephanocereus luetzelburgii,"Seabra, Bahia, Brazil","= Pilocereus, Coleocephalocereus","= Pilocereus, Coleocephalocereus","= Pilocereus, Coleocephalocereus",bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+HU 1396,"Leopoldo Horst,, later, Kurt-Ingo Horst",stephanocereus luetzelburgii,"Piat?, Bahia, Brazil",NA,NA,NA,bcss,"Piatã, Bahia, Brazil",direct,-13.1535638,-41.7743761
+HU 1498,"Leopoldo Horst,, later, Kurt-Ingo Horst",stephanocereus luetzelburgii,"Pico das Almas, Bahia, Brazil",NA,NA,NA,bcss,"Pico das Almas, Rio de Contas, Bahia, Brazil",direct,-13.5269323,-41.9681317
+BB 074.01,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Morro do Chapéu, Ventura  910m)",NA,1999/05/14,NA,clcactus,"Ventura, Morro do Chapéu, Bahia, Brazil",direct,-11.674635,-40.995165
+BB 075.04,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapeu  - Jacobina  930m)",NA,1999/05/15,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+BB 077.02,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapéu  970m)",NA,1999/05/15,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+BB 086.04,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Morro do Chapéu, near Jacarezinho  845m)",NA,1999/05/16,NA,clcactus,"Jacarezinho, Morro do Chapéu, Bahia, Brazil",direct,-11.5487212,-41.1596058
+BB 087.05,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapéu 1180m)",NA,1999/05/17,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+BB 095.01,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Mucugê, Mucugé 1050m)",NA,1999/05/20,NA,clcactus,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+BB 096.06,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Rio de Contas, Rio de Contas near waterfall  925m)",NA,1999/05/21,NA,clcactus,"Rio de Contas, Bahia, Brazil",direct,-13.5803333,-41.8112152
+BB 097.01,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Rio de Contas, Rio de Contas, Pico das Almas 1685m)",NA,1999/05/22,NA,clcactus,"Pico das Almas, Rio de Contas, Bahia, Brazil",direct,-13.5269323,-41.9681317
+BB 136.01,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Morro do Chapéu, E of Morro do Chapéu)",NA,1999/06/15,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
+BB 139.02,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Seabra, Seabra 1300m)",NA,1999/06/17,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+BB 145.02,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Mucugê, S of Mucugê)",NA,1999/06/17,NA,clcactus,"Mucugê, Bahia, Brazil",direction_only,-13.0053,-41.370271
+BB 146.01,Brian Francis Bates,Stephanocereus luetzelburgii,"Brazil : Bahia (Mun. Mucugê, S of Mucugê)",NA,1999/06/18,NA,clcactus,"Mucugê, Bahia, Brazil",direction_only,-13.0053,-41.370271
+CS 371.2,Chris Sherrah,Stephanocereus luetzelburgii,"Brazil : Bahia (Rio de Contas, 925 m)",NA,24/11/2009,NA,clcactus,"Rio de Contas, Bahia, Brazil",direct,-13.5803333,-41.8112152
+CS 372.1,Chris Sherrah,Stephanocereus luetzelburgii,"Brazil : Bahia (Mucage, 1050 m)",NA,25/11/2009,NA,clcactus,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+GJA 7.05,Gérard Ardisson,Stephanocereus luetzelburgii,"Mucugé, Bahia, Brazil",NA,01/05/07,NA,clcactus,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+"GC 352,09",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (W. Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
+"GC 355,02",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+"GC 356,04",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+"GC 357,04",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+"GC 380,05",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Mata dos Mendes),NA,NA,NA,clcactus,"Mata dos Mendes, Bahia, Brazil",direct,-12.4254259,-41.9948939
+"GC 381,03",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Piaté),NA,NA,NA,clcactus,"Piatã, Bahia, Brazil",direct,-13.1535638,-41.7743761
+"GC 382,03",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Mucugé),NA,NA,NA,clcactus,"Mucugê, Bahia, Brazil",direct,-13.0053,-41.370271
+"GC 524,05",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (W Seabra),NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",direction_only,-12.4172071,-41.772051
+"GC 529,09",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (N of Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
+"GC 645,09",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+"GC 646,04",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+"GC 648,02",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+"GC 1007,09",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (West of Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
+"GC 1012,04",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (South of Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
+"GC 1013,05",Graham Charles,Stephanocereus luetzelburgii,Brazil :  (West of Seabra),NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",direction_only,-12.4172071,-41.772051
+HU 136,"Leopoldo Horst, later, Kurt-Ingo Horst",Stephanocereus luetzelburgii,"Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+HU 1396,"Leopoldo Horst, later, Kurt-Ingo Horst",Stephanocereus luetzelburgii,"Piat?, Bahia, Brazil",NA,NA,NA,clcactus,"Piatã, Bahia, Brazil",direct,-13.1535638,-41.7743761
+HU 1498,"Leopoldo Horst, later, Kurt-Ingo Horst",Stephanocereus luetzelburgii,"Pico das Almas, Bahia, Brazil",NA,NA,NA,clcactus,"Pico das Almas, Rio de Contas, Bahia, Brazil",direct,-13.5269323,-41.9681317
+PCO 1189-01,Philippe Corman,Stephanocereus luetzelburgii,Brazil : Bahia (Morro do Chapeu),NA,2008,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
+BR 623,Pierre Josef Braun,Stephanocereus luetzelburgii,Brazil : Bahia (Seabra),NA,1986/07,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+BU 623,Pierre Josef Braun,Stephanocereus luetzelburgii,Brazil : Bahia (Seabra),NA,1986/07,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
+WCO 383,Wolfgang Colotti,Stephanocereus luetzelburgii,"Cachoeira do Fraga, Rio de Contas, Bahia",NA,05/06/09,NA,clcactus,"Cachoeira do Fraga, Rio de Contas, Bahia, Brazil",direct,-13.5980533,-41.8290417

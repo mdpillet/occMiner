@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="trichocereus_macrogonus" id="trichocereus_macrogonus">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>trichocereus_macrogonus</name>
+  <Placemark id="trichocereus_macrogonus.1">
+	<name>BLMT 49.03</name>
+	<description>Brian Francis Bates, Martin Lowry, Timothy (Tim) David Marshall, Tomlinson</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Sucre to Tarabuco, Yamparaez, Chuquisaca, Bolivia</SimpleData>
+		<SimpleData name="species">3081</SimpleData>
+		<SimpleData name="locality">1996/12/29</SimpleData>
+		<SimpleData name="altitude">flat ground below road on S side</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sucre to Tarabuco, Yamparaez, Chuquisaca, Bolivia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.9162224,-19.1818563</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.2">
+	<name>BLMT 52.01</name>
+	<description>Brian Francis Bates, Martin Lowry, Timothy (Tim) David Marshall, Tomlinson</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Yotalla, Oropeza, Chuquisaca, Bolivia</SimpleData>
+		<SimpleData name="species">1996/12/29</SimpleData>
+		<SimpleData name="locality">1996/12/29</SimpleData>
+		<SimpleData name="altitude">Wooded slope E of road</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Yotalla, Oropeza, Chuquisaca, Bolivia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-65.25679,-19.23331</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.3">
+	<name>BLMT 6.02</name>
+	<description>Brian Francis Bates, Martin Lowry, Timothy (Tim) David Marshall, Tomlinson</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Tarata n, El Arce, Cochabamba, Bolivia</SimpleData>
+		<SimpleData name="species">2770m</SimpleData>
+		<SimpleData name="locality">1996/12/19</SimpleData>
+		<SimpleData name="altitude">near cemetary on W of road, hedging</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tarata, Esteban Arce, Cochabamba, Bolivia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.0233585,-17.6113527</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.4">
+	<name>KK 1422</name>
+	<description>Karel Kníže</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Villa Abecia, Bolivia</SimpleData>
+		<SimpleData name="species">2800m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Villa Abecia, Chuquisaca, Bolivia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-65.2307378,-20.974536</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.5">
+	<name>KK 2175</name>
+	<description>Karel Kníže</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Apurimac, Pachachaca, Peru</SimpleData>
+		<SimpleData name="species">2000m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Pachachaca, Apurimac, Peru</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.8143989,-14.4027171</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.6">
+	<name>KK 2176</name>
+	<description>Karel Kníže</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Ayacucho, Peru</SimpleData>
+		<SimpleData name="species">2600m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ayacucho, Peru</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74,-14</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.7">
+	<name>KK 923</name>
+	<description>Karel Kníže</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Cieneguillas, Bolivia</SimpleData>
+		<SimpleData name="species">3000m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cieneguillas, Tarija, Bolivia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.5082347,-21.5996315</coordinates></Point>
+  </Placemark>
+  <Placemark id="trichocereus_macrogonus.8">
+	<name>RBC 73</name>
+	<description>Ramirez Brothers Cacti
+(Luis Alberto, Juan H. Ramírez Pinto)</description>
+	<ExtendedData><SchemaData schemaUrl="#trichocereus_macrogonus">
+		<SimpleData name="field_number">trichocereus macrogonus</SimpleData>
+		<SimpleData name="collector">Cieneguillas, Mendez, Tarija, Bolivia</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cieneguillas, Mendez, Tarija, Bolivia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-65.0348486,-21.3701108</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

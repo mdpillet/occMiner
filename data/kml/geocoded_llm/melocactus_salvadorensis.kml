@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Melocactus Salvadorensis — geocoded_llm</name>
+  <Style id="direct">
+    <IconStyle>
+      <color>ff4db34d</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="direction_only">
+    <IconStyle>
+      <color>ff00aaff</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="offset_adjusted">
+    <IconStyle>
+      <color>ffff6600</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="llm_approximate">
+    <IconStyle>
+      <color>ffff00cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="failed">
+    <IconStyle>
+      <color>ff0000cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+      <Placemark>
+        <name>BB 102.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 102.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Jequié Municipality, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>241m</td></tr><tr><td><b>Date</b></td><td>24/05/1999</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 105.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 105.03</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Porto Alegre, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>280m</td></tr><tr><td><b>Date</b></td><td>24/05/1999</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Porto Alegre, Maracás, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.620884,-13.842062,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 96.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 96.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Rio de Contas near waterfall, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>925m</td></tr><tr><td><b>Date</b></td><td>21/05/1999</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Rio de Contas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.811215,-13.580333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 96.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 96.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Rio de Contas near waterfall, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>925m</td></tr><tr><td><b>Date</b></td><td>21/05/1999</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Rio de Contas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.811215,-13.580333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 365.1_125</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 365.1_125</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Jequie, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>21/11/2009</td></tr><tr><td><b>Date</b></td><td>21/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 366.13</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 366.13</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Espinho, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>260m</td></tr><tr><td><b>Date</b></td><td>22/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Espinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.505760,-14.023394,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 367.5</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 367.5</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Espinho 2, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>290m</td></tr><tr><td><b>Date</b></td><td>22/11/2009</td></tr><tr><td><b>Notes</b></td><td>BB105 location</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Espinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.505760,-14.023394,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 368.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 368.3</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Espinho 3, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>343m</td></tr><tr><td><b>Date</b></td><td>22/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Espinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.505760,-14.023394,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 371.4_135</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 371.4_135</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Rio de Contas, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>925m</td></tr><tr><td><b>Date</b></td><td>24/11/2009</td></tr><tr><td><b>Notes</b></td><td>BB096 location</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Rio de Contas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.811215,-13.580333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1022.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1022.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Sussuarana</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Tanhaçu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1048.05</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1048.05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>West of Jequié</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 483.05</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 483.05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>West of Jequié</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 486.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 486.05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Porto Alegre</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Porto Alegre, Maracás, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.620884,-13.842062,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 686.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 686.02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Sussuarana</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Tanhaçu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 100-1</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 100-1</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>East of Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 101-1</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 101-1</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>East of Sussuarana, 1 km after GD100, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 105-2</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 105-2</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>South-West of Jequié, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 106-2</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 106-2</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>John's Quarry, South-West of Jequié, Rio</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GJA 7.09</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GJA 7.09</td></tr><tr><td><b>Collector</b></td><td>Gérard Ardisson</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Itiîra, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>May-07</td></tr><tr><td><b>Date</b></td><td>May-07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Itiúba, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-39.853289,-10.691750,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 301</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 301</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Bananeiras, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>1971</td></tr><tr><td><b>Date</b></td><td>1971</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Bananeiras, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.313530,-10.608216,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 535</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 535</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>2 km North-West of Jacaraci, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jacaraci, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-42.446053,-14.833034,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 576</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 576</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Licinio de Almeida, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Licínio de Almeida, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.506454,-14.683515,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1523</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1523</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>660m</td></tr><tr><td><b>Date</b></td><td>2/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>BR-030, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.342190,-14.362982,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1542</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1542</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>BR 030 25km along towards Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>400m</td></tr><tr><td><b>Date</b></td><td>3/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>BR-030, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.342190,-14.362982,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1545</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1545</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>BR 030 54km along towards Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>400m</td></tr><tr><td><b>Date</b></td><td>3/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>BR-030, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.342190,-14.362982,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1549</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1549</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Contendas do Sincorá 34km towards Maracás, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>380m</td></tr><tr><td><b>Date</b></td><td>4/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Contendas do Sincorá, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.042132,-13.761228,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1553</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1553</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Porto Alegre e 6-7km, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>300m</td></tr><tr><td><b>Date</b></td><td>4/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Porto Alegre, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-40.560680,-13.842055,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1580</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1580</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Iañu w 5.5km, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>300m</td></tr><tr><td><b>Date</b></td><td>7/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Iaçu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-40.261359,-12.767203,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1609</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1609</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Baixa Grande e 42.5km, BA 052, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>310m</td></tr><tr><td><b>Date</b></td><td>9/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Baixa Grande, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-39.775057,-11.962824,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1611</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1611</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Ipirá e 24km, BA 052, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>300m</td></tr><tr><td><b>Date</b></td><td>9/2/1991</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ipirá, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-39.520871,-12.157746,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PM 126</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PM 126</td></tr><tr><td><b>Collector</b></td><td>Ken Preston-Mafham</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>6km South of Milagres, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Milagres, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-39.861092,-12.918594,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PM 129</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PM 129</td></tr><tr><td><b>Collector</b></td><td>Ken Preston-Mafham</td></tr><tr><td><b>Species</b></td><td>melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Jequie, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 102.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 102.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Jequié, Mun. Jequié  241m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/24</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 365.1_125</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 365.1_125</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Jequie)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>21/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 366.13</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 366.13</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Espinho, 260 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Espinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.505760,-14.023394,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 367.5</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 367.5</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Espinho 2, 290 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Espinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.505760,-14.023394,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 368.3</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 368.3</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Espinho 3, 343 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>22/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Espinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.505760,-14.023394,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 371.4_135</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 371.4_135</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Rio de Contas, 925 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>24/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Rio de Contas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.811215,-13.580333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GJA 7.09</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GJA 7.09</td></tr><tr><td><b>Collector</b></td><td>Gérard Ardisson</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>ItiÃ®ra, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>01/05/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Itiúba, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-39.853289,-10.691750,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 100-1</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 100-1</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>East of Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 101-1</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 101-1</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>East of Sussuarana, 1 km after GD100, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 105-2</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 105-2</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>South-West of Jequié, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GD 106-2</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GD 106-2</td></tr><tr><td><b>Collector</b></td><td>Gérard Delanoy</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>John's Quarry, South-West of Jequié, Rio</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 483,05</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 483,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (W. Jequié)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 486,05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 486,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Porto Alegre)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Porto Alegre, Maracás, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.620884,-13.842062,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 686,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 686,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Sussuarana)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Tanhaçu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1022,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1022,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Sussuarana)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Sussuarana, Tanhaçu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.206328,-14.159819,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1048,05</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1048,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (West of Jequié)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1050,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1050,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis  aff.</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Milagres)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Milagres, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-39.861092,-12.864635,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>pm 126</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>pm 126</td></tr><tr><td><b>Collector</b></td><td>Ken Preston-Mafham</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>6km South of Milagres, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Milagres, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-39.861092,-12.918594,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>pm 129</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>pm 129</td></tr><tr><td><b>Collector</b></td><td>Ken Preston-Mafham</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Jequie, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jequié, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.071963,-13.860403,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 301</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 301</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Bananeiras, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>24/05/1905</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Bananeiras, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.313530,-10.608216,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 535</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 535</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>2 km North-West of Jacaraci, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Jacaraci, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-42.446053,-14.833034,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 576</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 576</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Licinio de Almeida, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Licínio de Almeida, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-42.506454,-14.683515,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1523</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1523</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil 660m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>02/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>BR-030, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.342190,-14.362982,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1542</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1542</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>BR 030 25km along towards Sussuarana, Bahia, Brazil 400m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>03/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>BR-030, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.342190,-14.362982,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1545</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1545</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>BR 030 54km along towards Sussuarana, Bahia, Brazil 400m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>03/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>BR-030, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.342190,-14.362982,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1549</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1549</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Contendas do Sincorá 34km towards MaracÃ¡s, Bahia, Brazil 380m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>04/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Contendas do Sincorá, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.042132,-13.761228,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1553</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1553</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Porto Alegre e 6-7km, Bahia, Brazil 300m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>04/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Porto Alegre, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-40.560680,-13.842055,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1580</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1580</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Iañu w 5.5km, Bahia, Brazil 300m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>07/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Iaçu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-40.261359,-12.767203,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1609</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1609</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Baixa Grande e 42.5km, BA 052, Bahia, Brazil 310m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>09/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Baixa Grande, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-39.775057,-11.962824,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>NPT 1611</name>
+        <styleUrl>#offset_adjusted</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>NPT 1611</td></tr><tr><td><b>Collector</b></td><td>Nigel Paul Taylor</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Ipirá e 24km, BA 052, Bahia, Brazil 300m</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>09/02/91</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ipirá, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
+        <Point><coordinates>-39.520871,-12.157746,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PCO 1188-01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PCO 1188-01</td></tr><tr><td><b>Collector</b></td><td>Philippe Corman</td></tr><tr><td><b>Species</b></td><td>Melocactus salvadorensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Feira de Santana-Morro do Chapeu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2008</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Feira de Santana, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-38.959805,-12.257893,0</coordinates></Point>
+      </Placemark>
+</Document>
+</kml>

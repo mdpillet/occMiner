@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="epithelantha_pachyrhiza" id="epithelantha_pachyrhiza">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>epithelantha_pachyrhiza</name>
+  <Placemark id="epithelantha_pachyrhiza.1">
+	<name>AD 410</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza ssp. parvula</SimpleData>
+		<SimpleData name="collector">South-West of Hipolito, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1163m</SimpleData>
+		<SimpleData name="locality">18-Apr-14</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Hipolito, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.4022023,25.6988669</coordinates></Point>
+  </Placemark>
+  <Placemark id="epithelantha_pachyrhiza.2">
+	<name>CS 1120.16</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza</SimpleData>
+		<SimpleData name="collector">Higueras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1262m</SimpleData>
+		<SimpleData name="locality">14/05/2024</SimpleData>
+		<SimpleData name="altitude">LRM055 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Higueras, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.797136,25.6351495</coordinates></Point>
+  </Placemark>
+  <Placemark id="epithelantha_pachyrhiza.3">
+	<name>CS 1170.1</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza</SimpleData>
+		<SimpleData name="collector">Icamole West, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">1262m</SimpleData>
+		<SimpleData name="locality">14/06/2024</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Icamole, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.7141308,25.9143018</coordinates></Point>
+  </Placemark>
+  <Placemark id="epithelantha_pachyrhiza.4">
+	<name>CS 1171.7</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza v. pulchra</SimpleData>
+		<SimpleData name="collector">Mina S.E., Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="species">586m</SimpleData>
+		<SimpleData name="locality">14/06/2024</SimpleData>
+		<SimpleData name="altitude">AD931 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mina, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.8025046,26.2993869</coordinates></Point>
+  </Placemark>
+  <Placemark id="epithelantha_pachyrhiza.5">
+	<name>IDD 1163</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza</SimpleData>
+		<SimpleData name="collector">Km 40.5, before San Antonio de Acatita, low ranges to the right, San Antonio de Acatita, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">16/11/2008</SimpleData>
+		<SimpleData name="locality">16/11/2008</SimpleData>
+		<SimpleData name="altitude">= IDD28/08; clusters of hundreds of heads</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Antonio de Acatita, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.146332,25.7019143</coordinates></Point>
+  </Placemark>
+  <Placemark id="epithelantha_pachyrhiza.6">
+	<name>MK 127.407</name>
+	<description>Miloš Kaplan</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza</SimpleData>
+		<SimpleData name="collector">Higueras, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Higueras, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.0073883,26.0355173</coordinates></Point>
+  </Placemark>
+  <Placemark id="epithelantha_pachyrhiza.7">
+	<name>Z 41</name>
+	<description>Carlo Zanovello</description>
+	<ExtendedData><SchemaData schemaUrl="#epithelantha_pachyrhiza">
+		<SimpleData name="field_number">epithelantha pachyrhiza</SimpleData>
+		<SimpleData name="collector">Ojo Caliente, Coahuila, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ojo Caliente, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.8375014,25.6214308</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

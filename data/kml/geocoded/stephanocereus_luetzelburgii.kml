@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Stephanocereus Luetzelburgii — geocoded</name>
+  <Style id="direct">
+    <IconStyle>
+      <color>ff4db34d</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="direction_only">
+    <IconStyle>
+      <color>ff00aaff</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="offset_adjusted">
+    <IconStyle>
+      <color>ffff6600</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="llm_approximate">
+    <IconStyle>
+      <color>ffff00cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="failed">
+    <IconStyle>
+      <color>ff0000cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+      <Placemark>
+        <name>BR 623</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BR 623</td></tr><tr><td><b>Collector</b></td><td>Pierre Josef Braun</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>1986/07</td></tr><tr><td><b>Date</b></td><td>1986/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BU 623</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BU 623</td></tr><tr><td><b>Collector</b></td><td>Pierre Josef Braun</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>1986/07</td></tr><tr><td><b>Date</b></td><td>1986/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 371.2</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 371.2</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Rio de Contas, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>925m</td></tr><tr><td><b>Date</b></td><td>24/11/2009</td></tr><tr><td><b>Notes</b></td><td>BB096 location, syn Lagenosocereus</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Rio de Contas, Bahia, Brasil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.811215,-13.580333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 372.1</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 372.1</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Mucage, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>1050m</td></tr><tr><td><b>Date</b></td><td>25/11/2009</td></tr><tr><td><b>Notes</b></td><td>BB095 location, syn Lagenosocereus</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Mucage, Bahia, Brasil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.371727,-13.009097,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GJA 7.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GJA 7.05</td></tr><tr><td><b>Collector</b></td><td>Gérard Ardisson</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Mucugé, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>May-07</td></tr><tr><td><b>Date</b></td><td>May-07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Mucugé, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.370271,-13.005300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 136</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 136</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td>= Pilocereus, Coleocephalocereus</td></tr><tr><td><b>Date</b></td><td>= Pilocereus, Coleocephalocereus</td></tr><tr><td><b>Notes</b></td><td>= Pilocereus, Coleocephalocereus</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 1396</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 1396</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Piat?, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Piat?, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.773918,-13.154543,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 1498</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 1498</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Pico das Almas, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Pico das Almas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.968132,-13.526932,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 074.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 074.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Morro do Chapéu, Ventura  910m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/14</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Morro do Chapéu, Ventura, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-40.994170,-11.673610,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 075.04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 075.04</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapeu  - Jacobina  930m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/15</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Morro do Chapéu, Morro do Chapeu  - Jacobina, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.158040,-11.548520,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 077.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 077.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapéu  970m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/15</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Morro do Chapéu, Morro do Chapéu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.158040,-11.548520,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 086.04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 086.04</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Morro do Chapéu, near Jacarezinho  845m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/16</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Morro do Chapéu, near Jacarezinho, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.159606,-11.548721,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 087.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 087.05</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapéu 1180m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/17</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Morro do Chapéu, Morro do Chapéu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.158040,-11.548520,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 095.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 095.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Mucugê, Mucugé 1050m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/20</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Mucugê, Mucugé, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.375232,-13.010030,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 096.06</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 096.06</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Rio de Contas, Rio de Contas near waterfall  925m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/21</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Rio de Contas, Rio de Contas near waterfall, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.816240,-13.585300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 097.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 097.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Rio de Contas, Rio de Contas, Pico das Almas 1685m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/05/22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Rio de Contas, Rio de Contas, Pico das Almas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.816240,-13.585300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 136.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 136.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Morro do Chapéu, E of Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/06/15</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Morro do Chapéu, E of Morro do Chapéu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.158040,-11.548520,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 139.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 139.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Seabra, Seabra 1300m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/06/17</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Seabra, Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.781189,-12.416206,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 145.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 145.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Mucugê, S of Mucugê)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/06/17</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Mucugê, S of Mucugê, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.375232,-13.010030,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BB 146.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BB 146.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mun. Mucugê, S of Mucugê)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1999/06/18</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mun. Mucugê, S of Mucugê, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.375232,-13.010030,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 371.2</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 371.2</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Rio de Contas, 925 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>24/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Rio de Contas,, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.811215,-13.580333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 372.1</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 372.1</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Mucage, 1050 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>25/11/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mucage,, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.371727,-13.009097,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GJA 7.05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GJA 7.05</td></tr><tr><td><b>Collector</b></td><td>Gérard Ardisson</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Mucugé, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>01/05/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mucugé, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.370271,-13.005300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 352,09</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 352,09</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (W. Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>W. Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 355,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 355,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 356,04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 356,04</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 357,04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 357,04</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 380,05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 380,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Mata dos Mendes)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mata dos Mendes, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.994894,-12.425426,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 381,03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 381,03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Piaté)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Piaté, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.773918,-13.154543,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 382,03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 382,03</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Mucugé)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mucugé, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.370271,-13.005300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 524,05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 524,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (W Seabra)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>W Seabra, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 529,09</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 529,09</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (N of Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>N of Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.159606,-11.548721,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 645,09</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 645,09</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 646,04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 646,04</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 648,02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 648,02</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1007,09</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1007,09</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (West of Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>West of Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.159606,-11.548721,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1012,04</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1012,04</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (South of Morro do Chapéu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>South of Morro do Chapéu, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.159606,-11.548721,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GC 1013,05</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GC 1013,05</td></tr><tr><td><b>Collector</b></td><td>Graham Charles</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil :  (West of Seabra)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>West of Seabra, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.768962,-12.420906,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 136</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 136</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 1396</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 1396</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Piat?, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Piat?, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.773918,-13.154543,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>HU 1498</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 1498</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Pico das Almas, Bahia, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Pico das Almas, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.968132,-13.526932,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PCO 1189-01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PCO 1189-01</td></tr><tr><td><b>Collector</b></td><td>Philippe Corman</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Morro do Chapeu)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2008</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Morro do Chapeu, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.157025,-11.550029,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BR 623</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BR 623</td></tr><tr><td><b>Collector</b></td><td>Pierre Josef Braun</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Seabra)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1986/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BU 623</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BU 623</td></tr><tr><td><b>Collector</b></td><td>Pierre Josef Braun</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Seabra)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>1986/07</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Seabra, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.772051,-12.417207,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>WCO 383</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>WCO 383</td></tr><tr><td><b>Collector</b></td><td>Wolfgang Colotti</td></tr><tr><td><b>Species</b></td><td>Stephanocereus luetzelburgii</td></tr><tr><td><b>Locality</b></td><td>Cachoeira do Fraga, Rio de Contas, Bahia</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>05/06/09</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cachoeira do Fraga, Rio de Contas, Bahia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-41.829042,-13.598053,0</coordinates></Point>
+      </Placemark>
+</Document>
+</kml>

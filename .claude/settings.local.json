@@ -8,7 +8,16 @@
       "WebFetch(domain:jessecambon.github.io)",
       "WebFetch(domain:ai.google.dev)",
       "WebSearch",
-      "Bash(Rscript *)"
+      "Bash(Rscript *)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.rdocumentation.org)",
+      "WebFetch(domain:rdrr.io)",
+      "WebFetch(domain:onlinelibrary.wiley.com)",
+      "WebFetch(domain:www.researchgate.net)",
+      "WebFetch(domain:cran.r-project.org)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pepbioalerts.github.io)",
+      "WebFetch(domain:par.nsf.gov)"
     ]
   }
 }

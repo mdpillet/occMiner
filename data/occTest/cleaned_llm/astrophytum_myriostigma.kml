@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="astrophytum_myriostigma" id="astrophytum_myriostigma">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>astrophytum_myriostigma</name>
+  <Placemark id="astrophytum_myriostigma.1">
+	<name>AD 55</name>
+	<description>Aldo Delladdio</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">from Dr. Arroyo to Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1475m</SimpleData>
+		<SimpleData name="locality">16-Feb-05</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Dr. Arroyo to Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9153163,23.5442366</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.2">
+	<name>AL 250</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">San Antonio, Tamaulipas, México</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Antonio, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3438476,23.5842448</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.3">
+	<name>AL 410</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Palomas, San Luis Potosí, México</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Palomas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8499889,22.4837267</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.4">
+	<name>AL 411</name>
+	<description>Dr. Andreas Laras</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Las Tablas, San Luis Potosí, México</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Las Tablas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8613755,22.2571034</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.5">
+	<name>BZ 22</name>
+	<description>Luciano Battaia, Carlo Zanovello</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Buenavista, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Buenavista, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1458716,22.5968848</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.6">
+	<name>CH 231</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Charco Blanco, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="locality">1992/3/21-/4/27</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Charco Blanco, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5198234,22.6295776</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.7">
+	<name>CH 305</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Rayon to Ciudad Maiz, Pto Sta Gertrudis, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1225m</SimpleData>
+		<SimpleData name="locality">1994/10/19</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rayon to Ciudad Maiz, Puerto Santa Gertrudis, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.609598889,22.308683056</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.8">
+	<name>CH 311</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Las Palomas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1994/10/19</SimpleData>
+		<SimpleData name="locality">1994/10/19</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Las Palomas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.9211043,22.069203</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.9">
+	<name>CH 459</name>
+	<description>Jaromír Chvastek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Huizache, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1995/4/27</SimpleData>
+		<SimpleData name="locality">1995/4/27</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Huizache, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5110812,22.9103315</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.10">
+	<name>CS 1025.6</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Presa de Guadalupe, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1235m</SimpleData>
+		<SimpleData name="locality">11/03/2020</SimpleData>
+		<SimpleData name="altitude">ML567 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Presa de Guadalupe, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1508953,22.859444</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.11">
+	<name>CS 1047.5</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Pozo de Acuña, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1396m</SimpleData>
+		<SimpleData name="locality">02/10/2022</SimpleData>
+		<SimpleData name="altitude">LRM420 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Pozo de Acuña, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2620713,22.5719538</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.12">
+	<name>CS 1113.2</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. nudum</SimpleData>
+		<SimpleData name="collector">Entronque Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1464m</SimpleData>
+		<SimpleData name="locality">10/05/2024</SimpleData>
+		<SimpleData name="altitude">GLASS&amp;GLASS226 location</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Entronque Huizache, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.90310915881,22.149808894447</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.13">
+	<name>CSD 49</name>
+	<description>Jaromír Chvastek, Roman Staník, Igor Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Branch to Matias Garcia behind Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">25/04/1997</SimpleData>
+		<SimpleData name="locality">25/04/1997</SimpleData>
+		<SimpleData name="altitude">= IDD54; also plants with 6 ribs + G89</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Matias Garcia, Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4345938,23.4035607</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.14">
+	<name>DU 13</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Nunez, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Nunez, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.505316,22.6885734</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.15">
+	<name>DU 14</name>
+	<description>Ulrich Dosedal</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4263583,23.4719813</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.16">
+	<name>GL&amp;DONEY 566</name>
+	<description>Charles (Charlie) Edward Glass, B. Doney</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. quadricostatum</SimpleData>
+		<SimpleData name="collector">Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.0077097,23.6585116</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.17">
+	<name>GL&amp;F 683</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. quadricostatum</SimpleData>
+		<SimpleData name="collector">6 miles South-West of Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4928826192653,23.4109192206233</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.18">
+	<name>GL&amp;F 873</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">near Garcia, Charco Blanco to Guadalcazar, San Luis Potosi, Mexico, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Garcia, Guadalcazar, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.376292892581,22.636672889488</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.19">
+	<name>GM 148</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. tulense</SimpleData>
+		<SimpleData name="collector">Magdaleno Cedillo</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Magdaleno Cedillo, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.5955204,22.4749863</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.20">
+	<name>GM 150</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Ciudad del Maiz</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ciudad del Maiz, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7047331,22.4309306</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.21">
+	<name>GM 200</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Cerritos</SimpleData>
+		<SimpleData name="species">1400m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Cerritos, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2980541,22.419062</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.22">
+	<name>GOMEZ 807</name>
+	<description>Carlos Gómez Hinostrosa</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mier y Noriega, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mier y Noriega, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1389355,23.4022432</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.23">
+	<name>HT 1024</name>
+	<description>P. Hallet (plants collected by Alfred Bernhard Lau)</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. columnare</SimpleData>
+		<SimpleData name="collector">Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1900m</SimpleData>
+		<SimpleData name="locality">22/11/1974</SimpleData>
+		<SimpleData name="altitude">together with Neolloydia conoidea, Mammillaria candida</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Miquihuana, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7934682,23.5860223</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.24">
+	<name>HT 1183</name>
+	<description>P. Hallet (plants collected by Alfred Bernhard Lau)</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. nudum</SimpleData>
+		<SimpleData name="collector">Sierra de Santa Rita-Jauja, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1600-1800m</SimpleData>
+		<SimpleData name="locality">17/10/1978</SimpleData>
+		<SimpleData name="altitude">together with L1184, L1185</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sierra de Santa Rita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.05610242716,21.519279517486</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.25">
+	<name>HT 728</name>
+	<description>P. Hallet (plants collected by Alfred Bernhard Lau)</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Villar, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1500m</SimpleData>
+		<SimpleData name="locality">13/11/1974</SimpleData>
+		<SimpleData name="altitude">together with Gymnocactus knuthianus, Mammillaria aureilanata</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Villar, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.4666913,22.5447768</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.26">
+	<name>IDD 1107</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">El Sabino, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">25/10/2007</SimpleData>
+		<SimpleData name="locality">25/10/2007</SimpleData>
+		<SimpleData name="altitude">= IDD153/03</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Sabino, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.7137763,23.3974043</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.27">
+	<name>IDD 111/99</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Km 96 Route 80, Tula towards Ciudad del Maiz, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">30/04/2003</SimpleData>
+		<SimpleData name="locality">30/04/2003</SimpleData>
+		<SimpleData name="altitude">= IDD651</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tula to Ciudad del Maiz, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9724528,22.7326737</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.28">
+	<name>KPP 1849</name>
+	<description>Karel Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Ciudad Maiz-Alvaro Obregon, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">01/10/2014</SimpleData>
+		<SimpleData name="locality">01/10/2014</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ciudad del Maiz to Alvaro Obregon, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.033592222,23.097965833</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.29">
+	<name>KSS 160</name>
+	<description>Libor Kunte, Rudolf Slaba, Simerda</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">El Oro, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Oro, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3478622,22.6504004</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.30">
+	<name>LRM 263</name>
+	<description>Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Morita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">2001</SimpleData>
+		<SimpleData name="locality">2001</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Morita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8574615,22.3589958</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.31">
+	<name>LRM 287</name>
+	<description>Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mamaleon, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">2001</SimpleData>
+		<SimpleData name="locality">2001</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mamaleon, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.7623802,23.1025647</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.32">
+	<name>MZ 147B</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Guadalcazar I, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Guadalcazar, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2957141,22.9009999</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.33">
+	<name>MZ 232</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8055882,22.9478816</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.34">
+	<name>MZ 343</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">San Francisco, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Francisco, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.4231223,23.3037986</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.35">
+	<name>MZ 352</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Lazaro Cardenas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Lazaro Cardenas, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6873504,21.3980992</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.36">
+	<name>MZ 451</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Doctor Arroyo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Doctor Arroyo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2256635,23.8042046</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.37">
+	<name>MZ 473</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">La Paloma, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Paloma, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1411068,21.6704219</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.38">
+	<name>MZ 589</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Villa Juarez, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Villa Juarez, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2195026,22.2920741</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.39">
+	<name>MZ 617</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Noria de las Flores I, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Noria de las Flores, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5555395,22.789464</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.40">
+	<name>PAR 123</name>
+	<description>Pavlosek Rostislav</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Las Tablas, San Bartolo, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Las Tablas, San Bartolo, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.043368333,22.303471944</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.41">
+	<name>PH 100A.5</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Los Ebanos, KM103 / 4 on highway MX101, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1000m</SimpleData>
+		<SimpleData name="locality">21-Mar-98</SimpleData>
+		<SimpleData name="altitude">Same locality as PH42</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Los Ebanos, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.985301,25.7479317</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.42">
+	<name>PH 536.9</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">La Presa del Pinto, North of Santa Rita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1550m</SimpleData>
+		<SimpleData name="locality">03-Nov-04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Santa Rita, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direction_only</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8456953,21.9801276</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.43">
+	<name>PH 537.2</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Towards San Ignacio, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1350m</SimpleData>
+		<SimpleData name="locality">03-Nov-04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Ignacio, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1782162,23.1891569</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.44">
+	<name>PP 434</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Las Tablas, Municipio Río Verde, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1997</SimpleData>
+		<SimpleData name="locality">1997</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Las Tablas, Río Verde, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.28111,21.90417</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.45">
+	<name>PP 883</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma ssp. quadricostatum</SimpleData>
+		<SimpleData name="collector">San Vicente, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1998/11</SimpleData>
+		<SimpleData name="locality">1998/11</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Vicente, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3155213,23.4238467</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.46">
+	<name>REP 1094a</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1250m</SimpleData>
+		<SimpleData name="locality">21/11/1975</SimpleData>
+		<SimpleData name="altitude">together with REP1091-1094b, Coryphantha durangensis, Ferocactus hamatacanthus and Thelocactus bicolor</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.8608673,25.1900179</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.47">
+	<name>REP 1433</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">La Inconada, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1000m</SimpleData>
+		<SimpleData name="locality">15/9/1978</SimpleData>
+		<SimpleData name="altitude">together with REP1433-1437, Neolloydia conoidea, Echinocereus pentalophus, Coryphantha sp., Opuntia microdasys</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Inconada, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.850122223,26.2618</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.48">
+	<name>REP 2067c</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Monte Redondo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="species">1250m</SimpleData>
+		<SimpleData name="locality">16/4/1984</SimpleData>
+		<SimpleData name="altitude">together with REP2065-2067c, Echinocactus platyacanthus, Ferocactus echidne var. victoriensis, Opuntia lindheimeri</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Monte Redondo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4755028,23.3681934</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.49">
+	<name>REP 2273a</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Villa de Juarez, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1200m</SimpleData>
+		<SimpleData name="locality">28/6/1989</SimpleData>
+		<SimpleData name="altitude">together with REP2271-2273b, Opuntia imbricata, O. tunicata, O. pumila</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Villa de Juarez, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2591417,22.3253333</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.50">
+	<name>REP 2294</name>
+	<description>Werner Reppenhagen</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Viesca, Sierra Zavaleta, Coahuila, Mexico</SimpleData>
+		<SimpleData name="species">1200m</SimpleData>
+		<SimpleData name="locality">3/7/1989</SimpleData>
+		<SimpleData name="altitude">together with REP2291-2296d, Opuntia imbricata, O. leptocaulis, O. herrfeldtii, Agave lechuguilla, Jatropha spathulata.</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sierra Zavaleta, Viesca, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.924968307,25.221868961</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.51">
+	<name>ROG 246</name>
+	<description>Helmut Rogozinski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">San Francisco, San Luis Potosí, Mexico</SimpleData>
+		<SimpleData name="species">1991</SimpleData>
+		<SimpleData name="locality">1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Francisco, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.9297044,22.9971869</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.52">
+	<name>RS 1177</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">9.8km from La Morita to Los Angeles?</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">La Morita, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8574615,22.44712931738</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.53">
+	<name>RS 1211</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. strongylogonum</SimpleData>
+		<SimpleData name="collector">13km from Guadalcazar direction to 57</SimpleData>
+		<SimpleData name="species">22/6/04</SimpleData>
+		<SimpleData name="locality">22/6/04</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Guadalcazar, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.16879867018,22.9009495121351</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.54">
+	<name>RS 1224</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. nudum</SimpleData>
+		<SimpleData name="collector">6.7km from junction to Santa Rita</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Santa Rita, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8456953,22.0403821475966</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.55">
+	<name>RS 1304</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma fma. quadricostatum</SimpleData>
+		<SimpleData name="collector">San Antonio-Puente Chihuae, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">San Antonio, Puente Chihuae, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.446851944,24.033128889</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.56">
+	<name>RS 247</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">road to Buenavista Ranch, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">= CSD75</SimpleData>
+		<SimpleData name="locality">= CSD75</SimpleData>
+		<SimpleData name="altitude">= CSD75</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Buenavista Ranch, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.466286945,22.233802222</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.57">
+	<name>RS 526</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. tulense</SimpleData>
+		<SimpleData name="collector">km17, Route 101, South of Tula, Tamaulipas, Mexico /San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">29/10/95</SimpleData>
+		<SimpleData name="locality">29/10/95</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8055882,22.7949969269938</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.58">
+	<name>RS 531</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. tulense</SimpleData>
+		<SimpleData name="collector">km68, Route 80, direction to Ciudad Maiz, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Route 80, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1896105,22.5784364920247</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.59">
+	<name>RS 533</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma v. tulense</SimpleData>
+		<SimpleData name="collector">km96, Route 80, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Route 80, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1896105,21.9668978</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.60">
+	<name>WCO 28</name>
+	<description>Wolfgang Colotti</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">El Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="species">1971</SimpleData>
+		<SimpleData name="locality">1971</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">El Huizache, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3957347,22.9162024</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.61">
+	<name>GM 148</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. tulense</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipasaulipas (Magdaleno Cedillo)</SimpleData>
+		<SimpleData name="locality">1996</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Magdaleno Cedillo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.936819,22.7890092</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.62">
+	<name>GM 391.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Perdida, 1435 m)</SimpleData>
+		<SimpleData name="locality">1999</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Perdida, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.6319,24.27932</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.63">
+	<name>GM 580</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (La Muralla, 1000 m)</SimpleData>
+		<SimpleData name="locality">2002</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Muralla, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9055176,22.1570954</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.64">
+	<name>GM 588.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  nudum</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (Santa Rita del Rucio, 1800 m)</SimpleData>
+		<SimpleData name="locality">2002</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Santa Rita del Rucio, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3000094,23.0644411</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.65">
+	<name>GM 785</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (S-ta Gertrudis, 1490 m)</SimpleData>
+		<SimpleData name="locality">2003</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Santa Gertrudis, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.9218909,22.9536514</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.66">
+	<name>GM 787</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (Monte Bello, 1310 m)</SimpleData>
+		<SimpleData name="locality">2003</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Monte Bello, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.6972809,22.5297553</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.67">
+	<name>GM 788</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (La Encarnacion, 1250 m)</SimpleData>
+		<SimpleData name="locality">2003</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Encarnacion, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9439356,22.5504967</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.68">
+	<name>GM 794.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  nudum</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (Presa del Pinto, 1550 m)</SimpleData>
+		<SimpleData name="locality">2003</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Presa del Pinto, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2671,23.13962</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.69">
+	<name>GM 802</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. tulense</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Nicolas Merdano, 1360 m)</SimpleData>
+		<SimpleData name="locality">2003</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Nicolas Merdano, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.784663056,23.092368611</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.70">
+	<name>GM 1021.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (Canon Hondo, 1650 m)</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Canon Hondo, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1674925,21.657441944</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.71">
+	<name>GM 1035.8</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (San Rafael, 1000 m)</SimpleData>
+		<SimpleData name="locality">2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Rafael, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.9445985,23.0221176</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.72">
+	<name>GM 1251.12</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (La Naranjita, 1280 m)</SimpleData>
+		<SimpleData name="locality">08/11/2009</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Naranjita, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2154238,23.2034315</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.73">
+	<name>GM 1524.3</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (La Presa de San Carlos, 1510 m)</SimpleData>
+		<SimpleData name="locality">09/04/2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Presa de San Carlos, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.98111,23.58889</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.74">
+	<name>GM 1529.1</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Louis Potosi (La Polvora, 1500 m)</SimpleData>
+		<SimpleData name="locality">10/04/2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Polvora, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3388732,22.9280592</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.75">
+	<name>GM 1668</name>
+	<description>Grzegorz Matuszewski</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Francisco i Madero, 900 m)</SimpleData>
+		<SimpleData name="locality">14/03/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Francisco I. Madero, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.6312065,25.5666629</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.76">
+	<name>IDD 0080</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (cesta na Buenavista Rancho)</SimpleData>
+		<SimpleData name="locality">27/04/1993</SimpleData>
+		<SimpleData name="altitude">CSD 075</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Buenavista, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.7928502,23.4215367</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.77">
+	<name>IDD 1097</name>
+	<description>Igor D. Dráb</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (La Libertad - La Morita)</SimpleData>
+		<SimpleData name="locality">23/10/2003</SimpleData>
+		<SimpleData name="altitude">idd142/03 GPS 167</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Libertad, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8480879,22.4138375</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.78">
+	<name>P 466</name>
+	<description>Jörg and Brigitte Piltz</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. potosinum</SimpleData>
+		<SimpleData name="collector">Mexicó : SLP (Las Flores)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Las Flores, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.2749087,22.2436018</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.79">
+	<name>KKR 83</name>
+	<description>Karel Kracik</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Tepeyac)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Tepeyac, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6486587,23.6609541</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.80">
+	<name>KKR 100</name>
+	<description>Karel Kracik</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Los Cerritos)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Los Cerritos, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6980678,21.9736664</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.81">
+	<name>KS 184</name>
+	<description>Karel Slajs</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (route 80, KM 82)</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Highway 80, KM 82, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.039918666258,22.128305436172</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.82">
+	<name>KS 185</name>
+	<description>Karel Slajs</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (El Tanquito)</SimpleData>
+		<SimpleData name="locality">2005</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Tanquito, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9398267,22.8599134</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.83">
+	<name>KS 1211</name>
+	<description>Karel Slajs</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Trojes)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Trojes, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.6602144,23.7118384</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.84">
+	<name>KS 1311</name>
+	<description>Karel Slajs</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí</SimpleData>
+		<SimpleData name="locality">2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.4949145,22.5000001</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.85">
+	<name>KS 1313</name>
+	<description>Karel Slajs</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Guaxcama)</SimpleData>
+		<SimpleData name="locality">2013</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Guaxcama, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.2725715,22.2140219</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.86">
+	<name>MZ 264</name>
+	<description>Milan Zachar</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  f. columnare</SimpleData>
+		<SimpleData name="collector">Miquihuana III, San Luis Potosi, Mexicó</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Miquihuana, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.50104,22.71349</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.87">
+	<name>PH 42.05</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Los Ebanos, KM103 / 104 on highway MX101, Tamaulipas, Mexicó 1000m</SimpleData>
+		<SimpleData name="locality">05/11/96</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Los Ebanos, Highway 101, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.390582222,24.039501667</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.88">
+	<name>PP 480</name>
+	<description>Pavel Pavlíček</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (MEX 80,  odb. k Palomas,)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">MEX 80, Palomas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.283416063123,21.897768565235</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.89">
+	<name>PA 0411</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (El Nunez, 1467 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Nunez, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5808566,22.596665</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.90">
+	<name>PA 0848</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Dr/ Arroyo - La Perdida, 1479 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Perdida, Dr. Arroyo, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.858277222,23.545962778</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.91">
+	<name>PA 0878</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (8 km jihozápadne od Jaumave, 1190 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Jaumave, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4817995006861,23.4210981907064</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.92">
+	<name>PA 0962</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (Mex 80, križovatka na Las Tablas, 1045 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">MEX 80, Las Tablas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.9735703,21.9334008</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.93">
+	<name>PA 0979</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (3,5 km severozápadne od Las Tablas, 1028 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Las Tablas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8854281949588,22.2793587041645</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.94">
+	<name>PA 0991</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (5 km severne od El Sabinito, 1046 m)</SimpleData>
+		<SimpleData name="locality">2012</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Sabinito, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.372789,22.5634969802959</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.95">
+	<name>PA 1630</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. strongylogonum</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (El Tepozan, 1224 m)</SimpleData>
+		<SimpleData name="locality">27/10/2015</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Tepozan, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.7995235,21.8108539</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.96">
+	<name>PA 1646</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (1 km jižne od Las Tablas, 1045 m)</SimpleData>
+		<SimpleData name="locality">28/10/2015</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Las Tablas, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8613755,22.2481101839408</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.97">
+	<name>PA 1662</name>
+	<description>Petr Antálek</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (3 km severne od Morita, 1100 m)</SimpleData>
+		<SimpleData name="locality">28/10/2015</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Morita, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8574615,22.3859754481776</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.98">
+	<name>PS 015</name>
+	<description>Potemkin Sergey</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma ssp. columnare</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (Gazmonez – Lazaro Cardenas)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Gazmonez, Lazaro Cardenas, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.017869445,22.420205555</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.99">
+	<name>RS 526</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. tulense</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (km17, Route 101, South of Tula, Tamaulipas)</SimpleData>
+		<SimpleData name="locality">29/10/1995</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Route 101, Tula, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.776262227,22.939893555</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.100">
+	<name>RS 531</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. tulense</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (km68, Route 80, direction to Ciudad Maiz)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Route 80, Ciudad Maiz, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.601913581,22.402994753</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.101">
+	<name>RS 1174</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (La Libertad to La Morita)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Libertad, La Morita, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.8415868242,22.378742940354</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.102">
+	<name>RS 1177</name>
+	<description>Roman Staník</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosi (9.8km from La Morita to Los Angeles?)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Morita, Los Angeles, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.824159207761,21.644923559468</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.103">
+	<name>RUS 436</name>
+	<description>Safronov Evgeny</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma  v. juamalense</SimpleData>
+		<SimpleData name="collector">Mexicó : Tamaulipas (La Florida)</SimpleData>
+		<SimpleData name="locality">21/10/2014</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">La Florida, Tamaulipas, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.1147122,23.3202573</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.104">
+	<name>VM 369</name>
+	<description>Vojtech Myšák</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma ssp. columnare</SimpleData>
+		<SimpleData name="collector">Mexicó :  (El Naranjito, N of Santa Rita del Rucio, SLP/NL)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Naranjito, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1768347,21.8502742</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.105">
+	<name>VZ 91</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí (El Sabinito)</SimpleData>
+		<SimpleData name="locality">2001</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">El Sabinito, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.372789,22.5185309</coordinates></Point>
+  </Placemark>
+  <Placemark id="astrophytum_myriostigma.106">
+	<name>VZ 124</name>
+	<description>Zdenek Vasko, Vladislav Zatloukal</description>
+	<ExtendedData><SchemaData schemaUrl="#astrophytum_myriostigma">
+		<SimpleData name="field_number">Astrophytum myriostigma</SimpleData>
+		<SimpleData name="collector">Mexicó : San Luis Potosí  (Tanque de Los Ángelos)</SimpleData>
+		<SimpleData name="locality">2002</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Tanque de Los Angeles, San Luis Potosi, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9241532,22.3935958</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

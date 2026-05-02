@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Trichocereus Macrogonus — geocoded</name>
+  <Style id="direct">
+    <IconStyle>
+      <color>ff4db34d</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="direction_only">
+    <IconStyle>
+      <color>ff00aaff</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="offset_adjusted">
+    <IconStyle>
+      <color>ffff6600</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="llm_approximate">
+    <IconStyle>
+      <color>ffff00cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="failed">
+    <IconStyle>
+      <color>ff0000cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+      <Placemark>
+        <name>BLMT 49.03</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BLMT 49.03</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates, Martin Lowry, Timothy (Tim) David Marshall, Tomlinson</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Sucre to Tarabuco, Yamparaez, Chuquisaca, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>3081</td></tr><tr><td><b>Date</b></td><td>1996/12/29</td></tr><tr><td><b>Notes</b></td><td>flat ground below road on S side</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Sucre to Tarabuco, Yamparaez, Chuquisaca, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-64.916222,-19.181856,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BLMT 52.01</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BLMT 52.01</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates, Martin Lowry, Timothy (Tim) David Marshall, Tomlinson</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Yotalla, Oropeza, Chuquisaca, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>1996/12/29</td></tr><tr><td><b>Date</b></td><td>1996/12/29</td></tr><tr><td><b>Notes</b></td><td>Wooded slope E of road</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Yotalla, Oropeza, Chuquisaca, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.256790,-19.233310,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>BLMT 6.02</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BLMT 6.02</td></tr><tr><td><b>Collector</b></td><td>Brian Francis Bates, Martin Lowry, Timothy (Tim) David Marshall, Tomlinson</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Tarata n, El Arce, Cochabamba, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>2770m</td></tr><tr><td><b>Date</b></td><td>1996/12/19</td></tr><tr><td><b>Notes</b></td><td>near cemetary on W of road, hedging</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Tarata n, El Arce, Cochabamba, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.993440,-17.755680,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 619.1</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 619.1</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus v. peruvianus</td></tr><tr><td><b>Locality</b></td><td>Lima to Canta, Lima, Peru</td></tr><tr><td><b>Altitude</b></td><td>2451m</td></tr><tr><td><b>Date</b></td><td>11/06/2010</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Lima to Canta, Lima, Peru</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-76.820474,-11.697002,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 1422</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 1422</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Villa Abecia, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>2800m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Villa Abecia, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.230738,-20.974536,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 2175</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 2175</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Apurimac, Pachachaca, Peru</td></tr><tr><td><b>Altitude</b></td><td>2000m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Apurimac, Pachachaca, Peru</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-73.001940,-13.858610,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 2176</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 2176</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Ayacucho, Peru</td></tr><tr><td><b>Altitude</b></td><td>2600m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ayacucho, Peru</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-74.000000,-14.000000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 923</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 923</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Cieneguillas, Bolivia</td></tr><tr><td><b>Altitude</b></td><td>3000m</td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Cieneguillas, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.922493,-19.370091,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RBC 73</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RBC 73</td></tr><tr><td><b>Collector</b></td><td>Ramirez Brothers Cacti
+(Luis Alberto, Juan H. Ramírez Pinto)</td></tr><tr><td><b>Species</b></td><td>trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Cieneguillas, Mendez, Tarija, Bolivia</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Cieneguillas, Mendez, Tarija, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.034849,-21.370111,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 619.1</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 619.1</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus  peruvianus</td></tr><tr><td><b>Locality</b></td><td>Perú : Lima (Lima to Canta, 2451 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>11/06/2010</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Lima to Canta,, Lima, Perú</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-76.828966,-11.696486,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 923</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 923</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Bolivia :  (Cieneguillas,3000m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cieneguillas,, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.922493,-19.370091,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 1422</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 1422</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Bolivia :  (Villa Abecia,2500m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Villa Abecia,, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.230738,-20.974536,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 2175</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 2175</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Perú :  (Apurimac,Pachachaca,2000m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Apurimac,Pachachaca,, Perú</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-73.001940,-13.858610,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KK 2176</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KK 2176</td></tr><tr><td><b>Collector</b></td><td>Karel Kníže</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Perú :  (Ayacucho,2600m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ayacucho,, Perú</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-74.000000,-14.000000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RCB 73</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RCB 73</td></tr><tr><td><b>Collector</b></td><td>Ramirez Brothers Cacti (Luis Alberto, Juan H. Ramírez Pinto)</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Bolivia : Tarija (Cieneguillas, Mendez)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cieneguillas, Mendez, Tarija, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.034849,-21.370111,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RBC 73</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RBC 73</td></tr><tr><td><b>Collector</b></td><td>Ramirez Brothers Cacti (Luis Alberto, Juan H. Ramírez Pinto)</td></tr><tr><td><b>Species</b></td><td>Trichocereus macrogonus</td></tr><tr><td><b>Locality</b></td><td>Bolivia : Tarija (Cieneguillas, Mendez)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cieneguillas, Mendez, Tarija, Bolivia</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-65.034849,-21.370111,0</coordinates></Point>
+      </Placemark>
+</Document>
+</kml>

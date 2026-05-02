@@ -72,7 +72,7 @@
         <name>AD 873</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AD 873</td></tr><tr><td><b>Collector</b></td><td>Aldo Delladdio</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos</td></tr><tr><td><b>Locality</b></td><td>Laureles, Matehuala, San Luis Potosí, Mexico</td></tr><tr><td><b>Altitude</b></td><td>2121m</td></tr><tr><td><b>Date</b></td><td>9-Mar-22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Laureles, Matehuala, San Luis Potosi, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.650024,23.651371,0</coordinates></Point>
+        <Point><coordinates>-100.643472,23.630528,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>AL 287</name>
@@ -444,7 +444,7 @@
         <name>IDD 45/99</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>IDD 45/99</td></tr><tr><td><b>Collector</b></td><td>Igor D. Dráb</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos ssp. conothelos</td></tr><tr><td><b>Locality</b></td><td>Microwave station on left, Matehuala to Doctor Arroyo</td></tr><tr><td><b>Altitude</b></td><td>23/04/2003</td></tr><tr><td><b>Date</b></td><td>23/04/2003</td></tr><tr><td><b>Notes</b></td><td>= IDD582; with Mammillaria candida, Coryphantha sp.</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Matehuala to Doctor Arroyo, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.202062,23.682994,0</coordinates></Point>
+        <Point><coordinates>-100.190554,23.668951,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>IDD 49A/99</name>
@@ -462,7 +462,7 @@
         <name>IDD 582</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>IDD 582</td></tr><tr><td><b>Collector</b></td><td>Igor D. Dráb</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos ssp. conothelos</td></tr><tr><td><b>Locality</b></td><td>Microwave station on left, Matehuala to Doctor Arroyo</td></tr><tr><td><b>Altitude</b></td><td>23/04/2003</td></tr><tr><td><b>Date</b></td><td>23/04/2003</td></tr><tr><td><b>Notes</b></td><td>= IDD45/99; with Mammillaria candida, Coryphantha sp.</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Matehuala to Doctor Arroyo, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.202062,23.682994,0</coordinates></Point>
+        <Point><coordinates>-100.190554,23.668951,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>IDD 587</name>
@@ -498,7 +498,7 @@
         <name>JABO 314</name>
         <styleUrl>#direction_only</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JABO 314</td></tr><tr><td><b>Collector</b></td><td>Jaroslav Bohata</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos v. argenteus</td></tr><tr><td><b>Locality</b></td><td>South-West of Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>KMR 31</name>
@@ -672,7 +672,7 @@
         <name>MK 118.383</name>
         <styleUrl>#direction_only</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>MK 118.383</td></tr><tr><td><b>Collector</b></td><td>Miloš Kaplan</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos v. argenteus</td></tr><tr><td><b>Locality</b></td><td>South-West Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td>long ivory spines</td></tr><tr><td><b>Date</b></td><td>long ivory spines</td></tr><tr><td><b>Notes</b></td><td>long ivory spines</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>MK 45.149</name>
@@ -756,7 +756,7 @@
         <name>MZ 62</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>MZ 62</td></tr><tr><td><b>Collector</b></td><td>Milan Zachar</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos v. argenteus</td></tr><tr><td><b>Locality</b></td><td>Ascencion, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>MZ 632</name>
@@ -1134,7 +1134,7 @@
         <name>SB 311</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>SB 311</td></tr><tr><td><b>Collector</b></td><td>Steven (Steve) Brack</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos v. argenteus</td></tr><tr><td><b>Locality</b></td><td>Ascencion, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>SB 329</name>
@@ -1188,7 +1188,7 @@
         <name>WTH 114</name>
         <styleUrl>#direction_only</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>WTH 114</td></tr><tr><td><b>Collector</b></td><td>Wolter ten Hoeve</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos v. argenteus</td></tr><tr><td><b>Locality</b></td><td>On the hill just South of La Presa, Nuevo León, Mexico</td></tr><tr><td><b>Altitude</b></td><td>2001</td></tr><tr><td><b>Date</b></td><td>2001</td></tr><tr><td><b>Notes</b></td><td>Many plants</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>La Presa, Nuevo León, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
-        <Point><coordinates>-99.991496,24.602637,0</coordinates></Point>
+        <Point><coordinates>-99.636751,25.519045,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>WTH 205</name>
@@ -1368,7 +1368,7 @@
         <name>GLF 3176</name>
         <styleUrl>#offset_adjusted</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GLF 3176</td></tr><tr><td><b>Collector</b></td><td>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos  v. argenteus</td></tr><tr><td><b>Locality</b></td><td>Mountain ridges 7 miles West of Ascension, Nuevo Leon, Mexicó</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
-        <Point><coordinates>-100.387587,25.757375,0</coordinates></Point>
+        <Point><coordinates>-100.435611,25.657755,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>GLF 3183</name>
@@ -1392,7 +1392,7 @@
         <name>GLF 5529</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GLF 5529</td></tr><tr><td><b>Collector</b></td><td>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos  v. argenteus</td></tr><tr><td><b>Locality</b></td><td>Near Ascension, Cerro Hijo, Nuevo Leon, Mexicó</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>CS 73.10</name>
@@ -1830,7 +1830,7 @@
         <name>JABO 314</name>
         <styleUrl>#direction_only</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JABO 314</td></tr><tr><td><b>Collector</b></td><td>Jaroslav Bohata</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos  v. argenteus</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Nuevo Leon (SW. Ascension)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>P 265</name>
@@ -2064,7 +2064,7 @@
         <name>MK 118.383</name>
         <styleUrl>#direction_only</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>MK 118.383</td></tr><tr><td><b>Collector</b></td><td>Miloš Kaplan</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos  v. argenteus</td></tr><tr><td><b>Locality</b></td><td>South-West Ascension, Nuevo Leon, Mexicó</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>long ivory spines</td></tr><tr><td><b>Notes</b></td><td>long ivory spines</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>MH 132</name>
@@ -2616,7 +2616,7 @@
         <name>VM 372</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>VM 372</td></tr><tr><td><b>Collector</b></td><td>Vojtech Myšák</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos  v. argenteus-aurantiacus</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Nuevo Léon (San Antonio, Peña Nevada)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>San Antonio, Peña Nevada, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-99.980220,23.745270,0</coordinates></Point>
+        <Point><coordinates>-99.992611,23.698445,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>VM 375</name>

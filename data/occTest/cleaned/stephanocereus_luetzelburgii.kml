@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="stephanocereus_luetzelburgii" id="stephanocereus_luetzelburgii">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>stephanocereus_luetzelburgii</name>
+  <Placemark id="stephanocereus_luetzelburgii.1">
+	<name>BR 623</name>
+	<description>Pierre Josef Braun</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">1986/07</SimpleData>
+		<SimpleData name="locality">1986/07</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.772051,-12.4172071</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.2">
+	<name>CS 371.2</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Rio de Contas, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">925m</SimpleData>
+		<SimpleData name="locality">24/11/2009</SimpleData>
+		<SimpleData name="altitude">BB096 location, syn Lagenosocereus</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rio de Contas, Bahia, Brasil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.8112152,-13.5803333</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.3">
+	<name>CS 372.1</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Mucage, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">1050m</SimpleData>
+		<SimpleData name="locality">25/11/2009</SimpleData>
+		<SimpleData name="altitude">BB095 location, syn Lagenosocereus</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Mucage, Bahia, Brasil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.3717267,-13.0090975</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.4">
+	<name>HU 1396</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Piat?, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Piat?, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.7739181,-13.1545434</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.5">
+	<name>HU 1498</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Pico das Almas, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Pico das Almas, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.9681317,-13.5269323</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.6">
+	<name>BB 074.01</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">Stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Brazil : Bahia (Mun. Morro do Chapéu, Ventura  910m)</SimpleData>
+		<SimpleData name="locality">1999/05/14</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Mun. Morro do Chapéu, Ventura, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.99417,-11.67361</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.7">
+	<name>BB 075.04</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">Stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Brazil : Bahia (Mun. Morro do Chapéu, Morro do Chapeu  - Jacobina  930m)</SimpleData>
+		<SimpleData name="locality">1999/05/15</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Mun. Morro do Chapéu, Morro do Chapeu  - Jacobina, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.15804,-11.54852</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.8">
+	<name>BB 096.06</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">Stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Brazil : Bahia (Mun. Rio de Contas, Rio de Contas near waterfall  925m)</SimpleData>
+		<SimpleData name="locality">1999/05/21</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Mun. Rio de Contas, Rio de Contas near waterfall, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.81624,-13.5853</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.9">
+	<name>BB 139.02</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">Stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Brazil : Bahia (Mun. Seabra, Seabra 1300m)</SimpleData>
+		<SimpleData name="locality">1999/06/17</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Mun. Seabra, Seabra, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.781189341887,-12.416206055759</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.10">
+	<name>GC 380,05</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">Stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Brazil :  (Mata dos Mendes)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Mata dos Mendes, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.9948939,-12.4254259</coordinates></Point>
+  </Placemark>
+  <Placemark id="stephanocereus_luetzelburgii.11">
+	<name>WCO 383</name>
+	<description>Wolfgang Colotti</description>
+	<ExtendedData><SchemaData schemaUrl="#stephanocereus_luetzelburgii">
+		<SimpleData name="field_number">Stephanocereus luetzelburgii</SimpleData>
+		<SimpleData name="collector">Cachoeira do Fraga, Rio de Contas, Bahia</SimpleData>
+		<SimpleData name="locality">05/06/09</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Cachoeira do Fraga, Rio de Contas, Bahia</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.8290417,-13.5980533</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -110,7 +110,7 @@
 		<SimpleData name="notes">Laureles, Matehuala, San Luis Potosí, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-100.6457618,23.6310783</coordinates></Point>
+      <Point><coordinates>-100.643472,23.6305284</coordinates></Point>
   </Placemark>
   <Placemark id="thelocactus_conothelos.8">
 	<name>CH 186</name>
@@ -1564,6 +1564,18 @@
       <Point><coordinates>-99.529303,24.9059302</coordinates></Point>
   </Placemark>
   <Placemark id="thelocactus_conothelos.117">
+	<name>VM 372</name>
+	<description>Vojtech Myšák</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  v. argenteus-aurantiacus</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Léon (San Antonio, Peña Nevada)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">San Antonio, Peña Nevada, Nuevo Léon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9926109,23.6984447</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.118">
 	<name>VZD 160</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1576,7 +1588,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.178654,21.9962105</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.118">
+  <Placemark id="thelocactus_conothelos.119">
 	<name>VCCB 748</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1589,7 +1601,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.6243471,23.4446861</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.119">
+  <Placemark id="thelocactus_conothelos.120">
 	<name>VCCB 1046</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1602,7 +1614,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.1743799,22.5833539</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.120">
+  <Placemark id="thelocactus_conothelos.121">
 	<name>VZD 1168</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1615,7 +1627,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.435557,23.6774919</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.121">
+  <Placemark id="thelocactus_conothelos.122">
 	<name>VZD 1415</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">

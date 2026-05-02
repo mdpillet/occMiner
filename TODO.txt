@@ -1,5 +1,13 @@
-Additional ideas (not yet implemented):
-* Use existing occurrences to help with geocoder_llm.R.
-* Synonyms. Use TNRS?
-* Mine the Notes field for co-occurrences.
-* Use NSR?
+Dealing with geographic outliers:
+* Need to explore if these are incorrect occurrences due to database, or due to geocoding. Likely due to geocoding.
+* We should tighten up the geocoding pipeline: why not use both APIs and find a consensus?
+* We should tighten the Gemini prompts. Perhaps we could use reference occurrences or NSR to do this?
+* We can either manually remove these based on expert review, or tighten occTest.
+* If we do this using occTest, then we should think about how we run the pipeline: using only the new points or the old + new points. If using the old points, do we use the cleaned or uncleaned old points?
+* Also check OUTLIERFLAGGING.md for suggestions.
+
+Dealing with synonyms and the Notes field:
+* This means a rewrite where we move away from a per-species approach, i.e. mine the databases first, then run taxonomic reconciliation, then per-species processing.
+* Key issue will be how to know what taxa to query. Can we creatively extract all possible queries to use, or should we generate a list of target species + synonyms first?
+
+Should I just dump the regex pipeline?

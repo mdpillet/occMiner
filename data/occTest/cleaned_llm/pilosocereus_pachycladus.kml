@@ -308,7 +308,7 @@
 		<SimpleData name="notes">Porto Novo, Bahia, Brazil</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-43.8707923,-13.1573721</coordinates></Point>
+      <Point><coordinates>-43.8707923,-13.1573722</coordinates></Point>
   </Placemark>
   <Placemark id="pilosocereus_pachycladus.22">
 	<name>CS 380.3</name>
@@ -623,7 +623,7 @@
 		<SimpleData name="notes">Porto Novo, Bahia, Brazil</SimpleData>
 		<SimpleData name="source">offset_adjusted</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-43.8707923,-13.0224738591122</coordinates></Point>
+      <Point><coordinates>-43.8707923,-13.0224739591122</coordinates></Point>
   </Placemark>
   <Placemark id="pilosocereus_pachycladus.46">
 	<name>GD 54-2</name>

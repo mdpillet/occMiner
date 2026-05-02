@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Documentation maintenance
+
+After any code change that implements or changes functionality, ask the user whether CLAUDE.md and README.md should be updated to reflect the change before closing the task.
+
 ## Project
 
 `occMiner` is an R project (RStudio) that scrapes cactus collection records from two hobbyist databases and geocodes free-text locality strings to decimal coordinates.
@@ -32,9 +36,17 @@ Run a single script: `Rscript R/<script>.R`
 ### Species covered
 
 - *Ariocarpus fissuratus*
-- *Pilosocereus chrysostele*
 - *Pilosocereus pachycladus*
 - *Thelocactus conothelos*
+- *Trichocereus macrogonus*
+- *Eulychnia taltalensis*
+- *Epithelantha pachyrhiza*
+- *Stephanocereus luetzelburgii*
+- *Astrophytum myriostigma*
+- *Melocactus salvadorensis*
+- *Eriosyce wagenknechtii*
+- *Rhipsalis hileiabaiana*
+- *Opuntia mesacantha*
 
 ### LLM pipeline notes
 
@@ -61,10 +73,12 @@ Run a single script: `Rscript R/<script>.R`
 
 ### compareOccurrences notes
 
-- Reference shapefiles named `<Species>_envT_extF.shp` under `data/reference/` (not in git)
+- Reference shapefiles named `<Species>_envT_extF.shp` under `data/reference/` (not in git). The active subset is copied out of `data/referencePool/` (a 1,038-species library, also not in git) — when adding/removing species, copy their `*_envT_extF.*` sidecars across so `sf::st_read` finds the full set.
+- Comparison runs for **both** pipelines per species: `data/occTest/cleaned/<species>.shp` (regex) and `data/occTest/cleaned_llm/<species>.shp` (LLM). Reference shapefile is loaded once per species and shared across pipelines.
 - PCA fitted on 100,000 random raster samples; cached to `data/comparison/PCA.rda` and reused on subsequent runs (delete the file to refit)
-- `summary.csv` columns: `n_ref`, `n_new`, `n_combined`, `n_pct_increase`, `range_*` and `niche_*` triplets (`ref`, `new`, `combined`, `pct_increase`); `pct_increase = (combined − ref) / ref × 100`
-- Per-species outputs: `<species>.png` (PC1/PC2 niche plot with Reference / New / Combined hulls), `<species>_map.png` (OpenTopoMap basemap with points coloured by source, shaped by `geocode_type`, plus three MCP polygons)
+- `summary.csv` is long-format: one row per species × pipeline (24 rows total for the current 12 species). Columns: `species`, `pipeline` (`cleaned` or `cleaned_llm`), `n_ref`, `n_new`, `n_combined`, `n_pct_increase`, `range_*` and `niche_*` triplets (`ref`, `new`, `combined`, `pct_increase`); `pct_increase = (combined − ref) / ref × 100`
+- Per-(species × pipeline) PNGs: `<species>_<pipeline>.png` (PC1/PC2 niche plot with Reference / New / Combined hulls) and `<species>_<pipeline>_map.png` (OpenTopoMap basemap with points coloured by source, shaped by `geocode_type`, plus three MCP polygons)
+- Per-species PDF: `<species>.pdf` — US letter portrait (8.5 × 11 in), top half is LLM pipeline, bottom half is regex pipeline; each half is map (left) + niche plot (right) above a 3 × 4 stats table (n / range km² / niche × Reference / New / Combined / +%). Built with `ggpubr::ggarrange` + `ggpubr::ggtexttable` and `cairo_pdf` device.
 
 ### Dependencies
 

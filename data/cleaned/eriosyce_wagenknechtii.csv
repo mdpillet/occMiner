@@ -1,0 +1,10 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+BB 1978.02,Brian Francis Bates,eriosyce wagenknechtii,"East of La Serena, down dirt road, 04 Coquimbo, Chile",62m,18/11/2014,same locality as BJB14-61,bcss,"La Serena, down dirt road, 04 Coquimbo, Chile",direction_only,-29.9093532,-71.2500402
+GC 706.02,Graham Charles,eriosyce wagenknechtii,South of Los Hornos,NA,NA,NA,bcss,Los Hornos,direction_only,-34.9544461,-57.9656981
+GC 96.03,Graham Charles,eriosyce wagenknechtii,Punta Hornus,NA,NA,NA,bcss,Punta Hornus,direct,-22.92348,-70.3031
+JN 1236,Jan Novák,eriosyce wagenknechtii,"Coquimbito, 04 Coquimbo, Chile",87m,NA,NA,bcss,"Coquimbito, 04 Coquimbo, Chile",direct,-29.9138253,-71.1501559
+JN 1631,Jan Novák,eriosyce wagenknechtii,"El Islon, 04 Coquimbo, Chile",NA,NA,NA,bcss,"El Islon, 04 Coquimbo, Chile",direct,-29.8989899,-71.1787629
+JN 1942,Jan Novák,eriosyce wagenknechtii,"Quebrada El Romeral, 04 Coquimbo, Chile",Trichocereus,Trichocereus,Trichocereus,bcss,"Quebrada El Romeral, 04 Coquimbo, Chile",direct,-29.6648823,-71.2540965
+"GC 96,03",Graham Charles,Eriosyce wagenknechtii,Chile :  (Punta Hornus),NA,NA,NA,clcactus,"Punta Hornus, Chile",direct,-22.92348,-70.3031
+"GC 706,02",Graham Charles,Eriosyce wagenknechtii,Chile :  (South of Los Hornos),NA,NA,NA,clcactus,"South of Los Hornos, Chile",direct,-29.6227199,-71.2853773
+RH 1774,Ralf Hillmann,Eriosyce wagenknechtii,Chile :  (Elqui Punta Hornos 300 m),NA,NA,NA,clcactus,"Elqui Punta Hornos, Chile",direct,-29.6227199,-71.2853773

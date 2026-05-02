@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eulychnia_taltalensis" id="eulychnia_taltalensis">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>eulychnia_taltalensis</name>
+  <Placemark id="eulychnia_taltalensis.1">
+	<name>BB 2253.02</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Paposo, 02 Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">294m</SimpleData>
+		<SimpleData name="locality">18/11/2018</SimpleData>
+		<SimpleData name="altitude">same locality as ADB2.44</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Paposo, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4653417,-25.0094441</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.2">
+	<name>GC 298.03</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">San Ramon Valley</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada San Ramon, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4531054,-25.3814545</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.3">
+	<name>GC 305.02</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Breas</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Las Breas, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3757238,-25.5644609</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.4">
+	<name>GC 737.05</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Botija Valley</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada Botija, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5193899,-24.497234</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.5">
+	<name>JN 1319</name>
+	<description>Jan Novák</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Ruta 1 Paposo to Blanco Encalada, 02 Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">48m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ruta 1, Paposo to Blanco Encalada, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.466854254092,-23.762068831329</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.6">
+	<name>JN 854</name>
+	<description>Jan Novák</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">above Playa Sara, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">49m</SimpleData>
+		<SimpleData name="locality">Feb-12</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Playa Sara, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.86705,-25.34203</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.7">
+	<name>KBC 956</name>
+	<description>Petr Kupčák
+Josef Bis</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Right side of road, Route 5 North, Taltal City, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">293m</SimpleData>
+		<SimpleData name="locality">2008</SimpleData>
+		<SimpleData name="altitude">Long, brown to black spined form</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ruta 5, Taltal, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.0810752,-25.2461856</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.8">
+	<name>PH 253.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Between Caleta Botija and Punta Plata, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">60-250m</SimpleData>
+		<SimpleData name="locality">11-Feb-01</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Caleta Botija, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5586759,-24.5025488</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.9">
+	<name>PH 259.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Estación Breas, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">660-880m</SimpleData>
+		<SimpleData name="locality">13-Feb-01</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Estacion Breas, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4047966,-25.5060472</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.10">
+	<name>PH 443.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Quebrada Iscuña, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">80-400m</SimpleData>
+		<SimpleData name="locality">22-Nov-02</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada Iscuna, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4299846,-24.5277202</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.11">
+	<name>PH 659.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">North of Caleta Olivia, North of Taltal, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">270m</SimpleData>
+		<SimpleData name="locality">24-Nov-06</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Caleta Olivia, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.44593,-25.27041</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.12">
+	<name>PH 662.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Quebrada Bandurrias, South of Paposo, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">770-860m</SimpleData>
+		<SimpleData name="locality">25-Nov-06</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada Bandurrias, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3488115,-25.1903497</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.13">
+	<name>PH 663.4</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Quebrada Agua de Cascabeles, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">560-780m</SimpleData>
+		<SimpleData name="locality">26-Nov-06</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada Agua de Cascabeles, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3290791,-25.2803207</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.14">
+	<name>PH 664.3</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Quebrada Taltal, inland from Taltal, Antofagasta, Chile</SimpleData>
+		<SimpleData name="species">560m</SimpleData>
+		<SimpleData name="locality">26-Nov-06</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada Taltal, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2994601,-25.45594</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.15">
+	<name>JN 2687</name>
+	<description>Jan Novák</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">Eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Chile : Antofagasta (Quebrada Portezuelo)</SimpleData>
+		<SimpleData name="locality">2024</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Quebrada Portezuelo, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.1429772,-25.2852424</coordinates></Point>
+  </Placemark>
+  <Placemark id="eulychnia_taltalensis.16">
+	<name>PH 656.05</name>
+	<description>Paul Hoxey</description>
+	<ExtendedData><SchemaData schemaUrl="#eulychnia_taltalensis">
+		<SimpleData name="field_number">Eulychnia taltalensis</SimpleData>
+		<SimpleData name="collector">Punta Tragagente, quebrada North of Botija, Antofagasta, Chile 440m</SimpleData>
+		<SimpleData name="locality">22/11/06</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Punta Tragagente, Antofagasta, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5534268,-24.4519255</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

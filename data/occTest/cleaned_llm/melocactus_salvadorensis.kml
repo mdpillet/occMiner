@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="melocactus_salvadorensis" id="melocactus_salvadorensis">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>melocactus_salvadorensis</name>
+  <Placemark id="melocactus_salvadorensis.1">
+	<name>BB 105.03</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Porto Alegre, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">280m</SimpleData>
+		<SimpleData name="locality">24/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Porto Alegre, Maracás, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.6208841,-13.842062</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.2">
+	<name>BB 96.02</name>
+	<description>Brian Francis Bates</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Rio de Contas near waterfall, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">925m</SimpleData>
+		<SimpleData name="locality">21/05/1999</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Rio de Contas, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.8112152,-13.5803333</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.3">
+	<name>CS 366.13</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Espinho, Bahia, Brasil</SimpleData>
+		<SimpleData name="species">260m</SimpleData>
+		<SimpleData name="locality">22/11/2009</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Espinho, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5057602,-14.0233944</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.4">
+	<name>GC 1022.02</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Sussuarana</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Sussuarana, Tanhaçu, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.2063284,-14.1598189</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.5">
+	<name>GJA 7.09</name>
+	<description>Gérard Ardisson</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Itiîra, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">May-07</SimpleData>
+		<SimpleData name="locality">May-07</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Itiúba, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.8532886,-10.6917496</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.6">
+	<name>HU 301</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Bananeiras, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">1971</SimpleData>
+		<SimpleData name="locality">1971</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Bananeiras, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.31353,-10.608216</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.7">
+	<name>HU 535</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">2 km North-West of Jacaraci, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Jacaraci, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.4460526647365,-14.8330344978429</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.8">
+	<name>HU 576</name>
+	<description>Leopoldo Horst,, later, Kurt-Ingo Horst</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Licinio de Almeida, Bahia, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Licínio de Almeida, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5064545,-14.6835152</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.9">
+	<name>NPT 1523</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Brumado w 36km, BR 030 towards Caetite, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">660m</SimpleData>
+		<SimpleData name="locality">2/2/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">BR-030, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.3421902,-14.3629822</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.10">
+	<name>NPT 1549</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Contendas do Sincorá 34km towards Maracás, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">380m</SimpleData>
+		<SimpleData name="locality">4/2/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Contendas do Sincorá, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.0421315,-13.7612283</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.11">
+	<name>NPT 1553</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Porto Alegre e 6-7km, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">300m</SimpleData>
+		<SimpleData name="locality">4/2/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Porto Alegre, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.5606797980524,-13.842054652349</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.12">
+	<name>NPT 1580</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Iañu w 5.5km, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">300m</SimpleData>
+		<SimpleData name="locality">7/2/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Iaçu, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-40.2613593052772,-12.767202562193</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.13">
+	<name>NPT 1609</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Baixa Grande e 42.5km, BA 052, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">310m</SimpleData>
+		<SimpleData name="locality">9/2/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Baixa Grande, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.7750568521392,-11.9628239839202</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.14">
+	<name>NPT 1611</name>
+	<description>Nigel Paul Taylor</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">Ipirá e 24km, BA 052, Bahia, Brazil</SimpleData>
+		<SimpleData name="species">300m</SimpleData>
+		<SimpleData name="locality">9/2/1991</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Ipirá, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.5208713149194,-12.1577461168644</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.15">
+	<name>PM 126</name>
+	<description>Ken Preston-Mafham</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">melocactus salvadorensis</SimpleData>
+		<SimpleData name="collector">6km South of Milagres, Brazil</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Milagres, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.861092,-12.9185942963551</coordinates></Point>
+  </Placemark>
+  <Placemark id="melocactus_salvadorensis.16">
+	<name>GC 1050,02</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#melocactus_salvadorensis">
+		<SimpleData name="field_number">Melocactus salvadorensis  aff.</SimpleData>
+		<SimpleData name="collector">Brazil :  (Milagres)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Milagres, Bahia, Brazil</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-39.861092,-12.864635</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

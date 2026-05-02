@@ -110,7 +110,7 @@
 		<SimpleData name="notes">Laureles, Matehuala, San Luis Potosi, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-100.6500236,23.6513711</coordinates></Point>
+      <Point><coordinates>-100.643472,23.6305284</coordinates></Point>
   </Placemark>
   <Placemark id="thelocactus_conothelos.8">
 	<name>CH 186</name>
@@ -449,7 +449,7 @@
 		<SimpleData name="notes">Matehuala to Doctor Arroyo, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-100.2020618,23.6829942</coordinates></Point>
+      <Point><coordinates>-100.1905536,23.6689507</coordinates></Point>
   </Placemark>
   <Placemark id="thelocactus_conothelos.32">
 	<name>KMR 31</name>
@@ -944,7 +944,7 @@
 		<SimpleData name="notes">La Presa, Nuevo León, Mexico</SimpleData>
 		<SimpleData name="source">direction_only</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-99.9914956,24.6026374</coordinates></Point>
+      <Point><coordinates>-99.6367509,25.5190453</coordinates></Point>
   </Placemark>
   <Placemark id="thelocactus_conothelos.69">
 	<name>WTH 450</name>
@@ -1047,6 +1047,18 @@
       <Point><coordinates>-100.288318038666,23.5225853576593</coordinates></Point>
   </Placemark>
   <Placemark id="thelocactus_conothelos.77">
+	<name>GLF 3176</name>
+	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  v. argenteus</SimpleData>
+		<SimpleData name="collector">Mountain ridges 7 miles West of Ascension, Nuevo Leon, Mexicó</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Ascension, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">offset_adjusted</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.435611491018,25.6577552381681</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.78">
 	<name>GLF 3183</name>
 	<description>Charles (Charlie) Edward Glass, Robert Alan (Bob) Foster (also see notes)</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1058,7 +1070,20 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.3740333923635,24.9078925832018</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.78">
+  <Placemark id="thelocactus_conothelos.79">
+	<name>CS 73.10</name>
+	<description>Chris Sherrah</description>
+	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
+		<SimpleData name="field_number">Thelocactus conothelos  (sausseri)</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Leon (Matehuala to Doctor Arroyo, 1651 m)</SimpleData>
+		<SimpleData name="locality">24/05/2007</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Matehuala to Doctor Arroyo, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.1964976,23.6802125</coordinates></Point>
+  </Placemark>
+  <Placemark id="thelocactus_conothelos.80">
 	<name>GM 390</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1071,7 +1096,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.6319,24.27932</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.79">
+  <Placemark id="thelocactus_conothelos.81">
 	<name>GM 1005</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1084,7 +1109,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.7548905,23.3892135</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.80">
+  <Placemark id="thelocactus_conothelos.82">
 	<name>GM 1014.6</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1097,7 +1122,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.8876779,24.6814043</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.81">
+  <Placemark id="thelocactus_conothelos.83">
 	<name>GM 1090.14</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1110,7 +1135,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.0160757,23.7317692</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.82">
+  <Placemark id="thelocactus_conothelos.84">
 	<name>GM 1100.1</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1123,7 +1148,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-98.8773263,21.6188931</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.83">
+  <Placemark id="thelocactus_conothelos.85">
 	<name>GM 1250.11</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1136,7 +1161,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.275104444,23.369158055</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.84">
+  <Placemark id="thelocactus_conothelos.86">
 	<name>GM 1250.14</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1149,7 +1174,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.9817219,23.4020847</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.85">
+  <Placemark id="thelocactus_conothelos.87">
 	<name>GM 1251.3</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1162,7 +1187,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.2386345,24.9350737</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.86">
+  <Placemark id="thelocactus_conothelos.88">
 	<name>GM 1522</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1175,7 +1200,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.98111,23.58889</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.87">
+  <Placemark id="thelocactus_conothelos.89">
 	<name>GM 1527.4</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1188,7 +1213,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-98.841535175,21.629209689</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.88">
+  <Placemark id="thelocactus_conothelos.90">
 	<name>IDD 0582</name>
 	<description>Igor D. Dráb</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1202,7 +1227,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.4497873,23.686732</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.89">
+  <Placemark id="thelocactus_conothelos.91">
 	<name>BKM 825</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1215,7 +1240,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.2386758,24.2242136</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.90">
+  <Placemark id="thelocactus_conothelos.92">
 	<name>BKM 947</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1228,7 +1253,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.674581,23.5760188</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.91">
+  <Placemark id="thelocactus_conothelos.93">
 	<name>MZ 263</name>
 	<description>Milan Zachar</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1240,7 +1265,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.50104,22.71349</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.92">
+  <Placemark id="thelocactus_conothelos.94">
 	<name>KMR 67A</name>
 	<description>Miroslav Kupčák</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1253,7 +1278,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.9001429,23.8801882</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.93">
+  <Placemark id="thelocactus_conothelos.95">
 	<name>PP 1183</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1265,7 +1290,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.3972322,24.9765135</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.94">
+  <Placemark id="thelocactus_conothelos.96">
 	<name>PP 1442</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1277,7 +1302,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.8206861,21.8801393</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.95">
+  <Placemark id="thelocactus_conothelos.97">
 	<name>PA 0097</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1290,7 +1315,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.3505277,24.6675101</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.96">
+  <Placemark id="thelocactus_conothelos.98">
 	<name>PA 0448</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1303,7 +1328,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.604046,23.7387408854205</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.97">
+  <Placemark id="thelocactus_conothelos.99">
 	<name>PA 0883</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1316,7 +1341,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.4817995006861,23.4210981907064</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.98">
+  <Placemark id="thelocactus_conothelos.100">
 	<name>RUS 046</name>
 	<description>Safronov Evgeny</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1328,7 +1353,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.5582297,23.412227</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.99">
+  <Placemark id="thelocactus_conothelos.101">
 	<name>RUS 436</name>
 	<description>Safronov Evgeny</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1341,7 +1366,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-98.1147122,23.3202573</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.100">
+  <Placemark id="thelocactus_conothelos.102">
 	<name>RUS 437</name>
 	<description>Safronov Evgeny</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1354,7 +1379,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.872678882,23.32679751</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.101">
+  <Placemark id="thelocactus_conothelos.103">
 	<name>RUS 640</name>
 	<description>Safronov Evgeny</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1366,7 +1391,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.871791944,23.282219444</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.102">
+  <Placemark id="thelocactus_conothelos.104">
 	<name>VM 227</name>
 	<description>Vojtech Myšák</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1378,21 +1403,19 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.529303,24.9059302</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.103">
-	<name>WTH 114</name>
-	<description>Wolter ten Hoeve</description>
+  <Placemark id="thelocactus_conothelos.105">
+	<name>VM 372</name>
+	<description>Vojtech Myšák</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
-		<SimpleData name="field_number">Thelocactus conothelos  v. argenteus</SimpleData>
-		<SimpleData name="collector">On the hill just South of La Presa, Nuevo León, Mexicó</SimpleData>
-		<SimpleData name="locality">2001</SimpleData>
-		<SimpleData name="altitude">Many plants</SimpleData>
+		<SimpleData name="field_number">Thelocactus conothelos  v. argenteus-aurantiacus</SimpleData>
+		<SimpleData name="collector">Mexicó : Nuevo Léon (San Antonio, Peña Nevada)</SimpleData>
 		<SimpleData name="date">clcactus</SimpleData>
-		<SimpleData name="notes">La Presa, Nuevo Leon, Mexico</SimpleData>
-		<SimpleData name="source">direction_only</SimpleData>
+		<SimpleData name="notes">San Antonio, Peña Nevada, Nuevo Leon, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-99.6367509,25.5190453</coordinates></Point>
+      <Point><coordinates>-99.9926109,23.6984447</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.104">
+  <Placemark id="thelocactus_conothelos.106">
 	<name>VZD 160</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1405,7 +1428,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.178654,21.9962105</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.105">
+  <Placemark id="thelocactus_conothelos.107">
 	<name>VCCB 748</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1418,7 +1441,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.6243471,23.4446861</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.106">
+  <Placemark id="thelocactus_conothelos.108">
 	<name>VCCB 1046</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1431,7 +1454,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.1743799,22.5833539</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.107">
+  <Placemark id="thelocactus_conothelos.109">
 	<name>VZD 1168</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">
@@ -1444,7 +1467,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.435557,23.6774919</coordinates></Point>
   </Placemark>
-  <Placemark id="thelocactus_conothelos.108">
+  <Placemark id="thelocactus_conothelos.110">
 	<name>VZD 1415</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#thelocactus_conothelos">

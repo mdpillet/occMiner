@@ -68,7 +68,7 @@
 		<SimpleData name="notes">Maderas del Carmen, Coahuila, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-102.578646389,28.963611111</coordinates></Point>
+      <Point><coordinates>-102.5465257,29.0063792</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.5">
 	<name>AD 468</name>
@@ -310,7 +310,7 @@
 		<SimpleData name="notes">Alacran, Coahuila, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-100.9106034,29.3005313</coordinates></Point>
+      <Point><coordinates>-100.9106033,29.3005313</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.23">
 	<name>DU 107</name>
@@ -602,7 +602,7 @@
 		<SimpleData name="notes">Terlingua Ranch, Texas, USA</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-103.4777215,29.4304509</coordinates></Point>
+      <Point><coordinates>-103.3760029,29.4693411</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.46">
 	<name>JM 25</name>
@@ -927,7 +927,7 @@
 		<SimpleData name="notes">Gallegos, Zacatecas, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-103.6983931,22.6470128</coordinates></Point>
+      <Point><coordinates>-102.0645478,24.568265</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.71">
 	<name>PAR 345</name>
@@ -1002,18 +1002,6 @@
       <Point><coordinates>-102.8168793,29.4494313</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.76">
-	<name>PP 1011</name>
-	<description>Pavel Pavlíček</description>
-	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
-		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
-		<SimpleData name="collector">Cuatro Palmas, Coahuila, Mexico</SimpleData>
-		<SimpleData name="date">bcss</SimpleData>
-		<SimpleData name="notes">Cuatro Palmas, Coahuila, Mexico</SimpleData>
-		<SimpleData name="source">direct</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-102.560083056,29.288480278</coordinates></Point>
-  </Placemark>
-  <Placemark id="ariocarpus_fissuratus.77">
 	<name>PP 1357</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1028,7 +1016,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.586846389,25.452269167</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.78">
+  <Placemark id="ariocarpus_fissuratus.77">
 	<name>PP 1415</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1042,7 +1030,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.367157,27.0310889</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.79">
+  <Placemark id="ariocarpus_fissuratus.78">
 	<name>PP 1578</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1056,7 +1044,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.188611389,26.165299722</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.80">
+  <Placemark id="ariocarpus_fissuratus.79">
 	<name>PP 565</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1070,7 +1058,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.5595358,25.3642699</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.81">
+  <Placemark id="ariocarpus_fissuratus.80">
 	<name>PP 989</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1085,7 +1073,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.9801842,21.7625922</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.82">
+  <Placemark id="ariocarpus_fissuratus.81">
 	<name>REP 1216b</name>
 	<description>Werner Reppenhagen</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1100,7 +1088,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.41861,25.57639</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.83">
+  <Placemark id="ariocarpus_fissuratus.82">
 	<name>REP 445</name>
 	<description>Werner Reppenhagen</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1115,7 +1103,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.8375014,25.6214308</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.84">
+  <Placemark id="ariocarpus_fissuratus.83">
 	<name>RS 1134</name>
 	<description>Roman Staník</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1127,7 +1115,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.612010833,25.993238889</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.85">
+  <Placemark id="ariocarpus_fissuratus.84">
 	<name>SB 1156</name>
 	<description>Steven (Steve) Brack</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1139,7 +1127,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.578476,25.1953827</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.86">
+  <Placemark id="ariocarpus_fissuratus.85">
 	<name>SB 403</name>
 	<description>Steven (Steve) Brack</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1151,7 +1139,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.3766686,30.6517377</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.87">
+  <Placemark id="ariocarpus_fissuratus.86">
 	<name>WTH 93</name>
 	<description>Wolter ten Hoeve</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1164,6 +1152,18 @@
 		<SimpleData name="source">direction_only</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.001455833,26.784403889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ariocarpus_fissuratus.87">
+	<name>LX 274</name>
+	<description>Alexander Lux</description>
+	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
+		<SimpleData name="field_number">Ariocarpus fissuratus  v. intermedius</SimpleData>
+		<SimpleData name="collector">Paila, Mexicó</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">Sierra la Paila, Coahuila, Mexico</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.0022323,25.3682733</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.88">
 	<name>BP 924</name>
@@ -2069,19 +2069,6 @@
       <Point><coordinates>-103.286724,28.0925399</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.158">
-	<name>VZD 1400</name>
-	<description>Zdenek Vasko, Vladislav Zatloukal</description>
-	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
-		<SimpleData name="field_number">Ariocarpus fissuratus</SimpleData>
-		<SimpleData name="collector">Mexicó : Chihuahua (El Molino)</SimpleData>
-		<SimpleData name="locality">3-4/2013</SimpleData>
-		<SimpleData name="date">clcactus</SimpleData>
-		<SimpleData name="notes">El Molino, Chihuahua, Mexico</SimpleData>
-		<SimpleData name="source">direct</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-107.4075801,29.1933903</coordinates></Point>
-  </Placemark>
-  <Placemark id="ariocarpus_fissuratus.159">
 	<name>VZD 1402</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2094,7 +2081,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.4892768,26.1284309</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.160">
+  <Placemark id="ariocarpus_fissuratus.159">
 	<name>VZD 1403</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">

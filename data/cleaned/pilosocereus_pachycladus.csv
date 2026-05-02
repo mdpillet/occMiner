@@ -24,7 +24,7 @@ BB 94.02,Brian Francis Bates,pilosocereus pachycladus,"Mucugê, Bahia, Brazil",1
 BB 96.05,Brian Francis Bates,pilosocereus pachycladus,"Rio de Contas near waterfall, Bahia, Brazil",925m,21/05/1999,NA,bcss,"Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5778179,-41.8115466
 BB 96.05,Brian Francis Bates,pilosocereus pachycladus,"Rio de Contas near waterfall, Bahia, Brazil",925m,21/05/1999,NA,bcss,"Rio de Contas near waterfall, Bahia, Brazil",direct,-13.5778179,-41.8115466
 BB 99.07,Brian Francis Bates,pilosocereus pachycladus,"Brumado, Bahia, Brazil",650m,23/05/1999,NA,bcss,"Brumado, Bahia, Brazil",direct,-14.2025099,-41.6701307
-CS 153.3,Chris Sherrah,pilosocereus pachycladus,"Sobradinho 1, Bahia, Brasil",389m,20/10/2007,NA,bcss,"Sobradinho 1, Bahia, Brasil",direct,-12.9633139,-39.263182
+CS 153.3,Chris Sherrah,pilosocereus pachycladus,"Sobradinho 1, Bahia, Brasil",389m,20/10/2007,NA,bcss,"Sobradinho 1, Bahia, Brasil",direct,-9.469775,-40.7957473
 CS 155.1_71,Chris Sherrah,pilosocereus pachycladus,"South of Massaroca Hwy 407, Bahia, Brasil, Bahia, Brasil",592m,21/10/2007,NA,bcss,"Massaroca Hwy 407, Bahia, Brasil, Bahia, Brasil",direction_only,-9.8764579,-40.2884766
 CS 177.3,Chris Sherrah,pilosocereus pachycladus,"Barrieras, Bahia, Brasil",10/11/2007,10/11/2007,NA,bcss,"Barrieras, Bahia, Brasil",direct,-12.1339871,-44.98989
 CS 178.2,Chris Sherrah,pilosocereus pachycladus,"America Dourada, Bahia, Brasil",879m,10/11/2007,NA,bcss,"America Dourada, Bahia, Brasil",direct,-11.3998963,-41.5247219
@@ -35,7 +35,7 @@ CS 363.1_122,Chris Sherrah,pilosocereus pachycladus,"Pedra Azul 4, Minas Gerais,
 CS 369.2_131,Chris Sherrah,pilosocereus pachycladus,"Serra Escura, Bahia, Brasil",620m,23/11/2009,NA,bcss,"Serra Escura, Bahia, Brasil",direct,-12.7704741,-41.4032006
 CS 370.3,Chris Sherrah,pilosocereus pachycladus,"Brumado, Bahia, Brasil",650m,24/11/2009,BB99 location,bcss,"Brumado, Bahia, Brasil",direct,-14.2025099,-41.6701307
 CS 371.3,Chris Sherrah,pilosocereus pachycladus,"Rio de Contas, Bahia, Brasil",925m,24/11/2009,BB096 location,bcss,"Rio de Contas, Bahia, Brasil",direct,-13.5803333,-41.8112152
-CS 374.3,Chris Sherrah,pilosocereus pachycladus,"Porto Novo, Bahia, Brasil",498m,27/11/2009,NA,bcss,"Porto Novo, Bahia, Brasil",direct,-13.1573722,-43.8707923
+CS 374.3,Chris Sherrah,pilosocereus pachycladus,"Porto Novo, Bahia, Brasil",498m,27/11/2009,NA,bcss,"Porto Novo, Bahia, Brasil",direct,-13.1573721,-43.8707923
 CS 377.2,Chris Sherrah,pilosocereus pachycladus,"Seabra, Bahia, Brasil",1129m,30/11/2009,near BB89 location,bcss,"Seabra, Bahia, Brasil",direct,-12.4172071,-41.772051
 CS 380.3,Chris Sherrah,pilosocereus pachycladus,"Capim Grosso, Bahia, Brasil",392m,03/12/2009,NA,bcss,"Capim Grosso, Bahia, Brasil",direct,-11.379428,-40.0115228
 CS 383.9,Chris Sherrah,pilosocereus pachycladus,"Delfino, Bahia, Brasil",624m,05/12/2009,NA,bcss,"Delfino, Bahia, Brasil",direct,-10.4966113,-41.1048995
@@ -115,7 +115,7 @@ HU 402,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"Munic
 HU 421,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"Brejinho das Amethistas, Bahia, Brazil",NA,NA,NA,bcss,"Brejinho das Amethistas, Bahia, Brazil",direct,-14.26361,-42.52667
 HU 421a,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"Minas Gerais and Bahia, Brazil",NA,NA,NA,bcss,"Minas Gerais and Bahia, Brazil",direct,-12.150609169664,-38.420225583066
 HU 477,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus ssp. pernambucoensis,"Parnamirim road, BR 232, Pernambuco, Brazil",1985,1985,NA,bcss,"Parnamirim road, BR 232, Pernambuco, Brazil",direct,-8.0911653,-39.5790136
-HU 714,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"18 km East of Rio Sao Joao, Minas Gerais, Brazil",5/9/1985,5/9/1985,= P. cyaneus according to DW,bcss,"Rio Sao Joao, Minas Gerais, Brazil",offset_adjusted,-20.662656960142144,-46.64464668727344
+HU 714,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"18 km East of Rio Sao Joao, Minas Gerais, Brazil",5/9/1985,5/9/1985,= P. cyaneus according to DW,bcss,"Rio Sao Joao, Minas Gerais, Brazil",offset_adjusted,-20.571923273534004,-46.64833193122506
 HU 891,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"MucugÍ, Bahia, Brazil",NA,NA,NA,bcss,"MucugÍ, Bahia, Brazil",direct,-13.0090975,-41.3717267
 HU 906,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus,"Seabra, Bahia, Brazil",NA,NA,NA,bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
 HU 921,"Leopoldo Horst,, later, Kurt-Ingo Horst",pilosocereus pachycladus ssp. pernambucoensis,"Tanquinho, Bahia, Brazil",NA,NA,NA,bcss,"Tanquinho, Bahia, Brazil",direct,-11.9747061,-39.1057638
@@ -147,7 +147,7 @@ BB 128.03,Brian Francis Bates,Pilosocereus pachycladus,Brazil : Minas Gerais (13
 BB 129.02,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Minas Gerais (Mun. Montalvania, Porto Agraria)",NA,1999/06/07,NA,clcactus,"Mun. Montalvania, Porto Agraria, Minas Gerais, Brazil",direct,-19.540781670607,-44.137397572974
 BB 134.02,Brian Francis Bates,Pilosocereus pachycladus,"Brazil : Bahia (Mun. Ipirá?, W of Ipirá)",NA,1999/06/15,NA,clcactus,"Mun. Ipirá?, W of Ipirá, Bahia, Brazil",direct,-12.15833,-39.73722
 BB 145.03,Brian Francis Bates,Pilosocereus pachycladus  / magnificus / catingicola,"Brazil : Bahia (Mun. Mucugê, S of Mucugê)",NA,1999/06/17,NA,clcactus,"Mun. Mucugê, S of Mucugê, Bahia, Brazil",direct,-13.010030129089,-41.375232062394
-CS 154.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Sobradinho 1, 389 m)",NA,20/10/2007,NA,clcactus,"Sobradinho 1,, Bahia, Brazil",direct,-9.469775,-40.7957473
+CS 154.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Sobradinho 1, 389 m)",NA,20/10/2007,NA,clcactus,"Sobradinho 1,, Bahia, Brazil",direct,-12.9633139,-39.263182
 CS 156.1_71,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (South of Massaroca Hwy 407, 592 m)",NA,21/10/2007,NA,clcactus,"South of Massaroca Hwy 407,, Bahia, Brazil",direct,-9.8764579,-40.2884766
 CS 179.3,Chris Sherrah,Pilosocereus pachycladus,Brazil : Bahia (Barrieras),NA,10/11/2007,NA,clcactus,"Barrieras, Bahia, Brazil",direct,-12.1339871,-44.98989
 CS 180.2,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (America Dourada, 879 m)",NA,10/11/2007,NA,clcactus,"America Dourada,, Bahia, Brazil",direct,-11.3998963,-41.5247219
@@ -158,7 +158,7 @@ CS 363.1_122,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Minas Gerais (Pedr
 CS 369.2_131,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Serra Escura, 620 m)",NA,23/11/2009,NA,clcactus,"Serra Escura,, Bahia, Brazil",direct,-12.7704741,-41.4032006
 CS 370.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Brumado, 650 m)",NA,24/11/2009,NA,clcactus,"Brumado,, Bahia, Brazil",direct,-14.2025099,-41.6701307
 CS 371.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Rio de Contas, 925 m)",NA,24/11/2009,NA,clcactus,"Rio de Contas,, Bahia, Brazil",direct,-13.5803333,-41.8112152
-CS 374.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Porto Novo, 498 m)",NA,27/11/2009,NA,clcactus,"Porto Novo,, Bahia, Brazil",direct,-13.1573722,-43.8707923
+CS 374.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Porto Novo, 498 m)",NA,27/11/2009,NA,clcactus,"Porto Novo,, Bahia, Brazil",direct,-13.1573721,-43.8707923
 CS 377.2,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Seabra, 1129 m)",NA,30/11/2009,NA,clcactus,"Seabra,, Bahia, Brazil",direct,-12.4172071,-41.772051
 CS 380.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Capim Grosso, 392 m)",NA,03/12/2009,NA,clcactus,"Capim Grosso,, Bahia, Brazil",direct,-11.379428,-40.0115228
 CS 383.9,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Delfino, 624 m)",NA,05/12/2009,NA,clcactus,"Delfino,, Bahia, Brazil",direct,-10.4966113,-41.1048995
@@ -216,7 +216,7 @@ A&M 1457,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Ba
 "GC 643,07",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
 "GC 644,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
 "GC 645,1",Graham Charles,Pilosocereus pachycladus,Brazil :  (Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Brazil",direct,-11.5500293,-41.1570248
-"GC 649,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (Gruta dos Brejões),NA,NA,NA,clcactus,"Gruta dos Brejões, Brazil",direct,-11.0072231,-41.4345838
+"GC 649,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (Gruta dos Brejões),NA,NA,NA,clcactus,"Gruta dos Brejões, Brazil",direct,-11.007223,-41.4345838
 "GC 656,04",Graham Charles,Pilosocereus pachycladus,Brazil :  (Road to Barra),NA,NA,NA,clcactus,"Road to Barra, Brazil",direct,-11.089902500000001,-43.1416284
 "GC 667,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
 "GC 668,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
@@ -247,7 +247,7 @@ HU 402,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Munici
 HU 421,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Brejinho das Amethistas, Bahia, Brazil",NA,NA,NA,clcactus,"Brejinho das Amethistas, Bahia, Brazil",direct,-14.26361,-42.52667
 HU 421a,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Minas Gerais and Bahia, Brazil",NA,NA,NA,clcactus,"Minas Gerais and Bahia, Brazil",direct,-12.150609169664,-38.420225583066
 HU 477,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus ssp. pernambucoensis,"Parnamirim road, BR 232, Pernambuco, Brazil",NA,07/06/1905,NA,clcactus,"Parnamirim road, BR 232, Pernambuco, Brazil",direct,-8.0911653,-39.5790136
-HU 714,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"18 km East of Rio Sao Joao, Minas Gerais, Brazil",NA,04/09/1981,NA,clcactus,"Rio Sao Joao, Minas Gerais, Brazil",offset_adjusted,-20.662656960142144,-46.64464668727344
+HU 714,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"18 km East of Rio Sao Joao, Minas Gerais, Brazil",NA,04/09/1981,NA,clcactus,"Rio Sao Joao, Minas Gerais, Brazil",offset_adjusted,-20.571923273534004,-46.64833193122506
 HU 891,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"MucugÃ?, Bahia, Brazil",NA,NA,NA,clcactus,"MucugÃ?, Bahia, Brazil",direct,-12.475311328524,-41.721435781216
 HU 906,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus,"Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
 HU 921,"Leopoldo Horst, later, Kurt-Ingo Horst",Pilosocereus pachycladus ssp. pernambucoensis,"Tanquinho, Bahia, Brazil",NA,NA,NA,clcactus,"Tanquinho, Bahia, Brazil",direct,-11.9747061,-39.1057638

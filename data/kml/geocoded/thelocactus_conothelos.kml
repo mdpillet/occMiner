@@ -72,7 +72,7 @@
         <name>AD 873</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AD 873</td></tr><tr><td><b>Collector</b></td><td>Aldo Delladdio</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos</td></tr><tr><td><b>Locality</b></td><td>Laureles, Matehuala, San Luis Potosí, Mexico</td></tr><tr><td><b>Altitude</b></td><td>2121m</td></tr><tr><td><b>Date</b></td><td>9-Mar-22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Laureles, Matehuala, San Luis Potosí, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.645762,23.631078,0</coordinates></Point>
+        <Point><coordinates>-100.643472,23.630528,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>AL 287</name>
@@ -504,7 +504,7 @@
         <name>JABO 314</name>
         <styleUrl>#direction_only</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JABO 314</td></tr><tr><td><b>Collector</b></td><td>Jaroslav Bohata</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos v. argenteus</td></tr><tr><td><b>Locality</b></td><td>South-West of Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ascension, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
-        <Point><coordinates>-100.275053,25.757418,0</coordinates></Point>
+        <Point><coordinates>-100.323171,25.657798,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>KMR 31</name>
@@ -1176,7 +1176,7 @@
         <name>TK 338</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>TK 338</td></tr><tr><td><b>Collector</b></td><td>Antonín Krejčík</td></tr><tr><td><b>Species</b></td><td>thelocactus conothelos</td></tr><tr><td><b>Locality</b></td><td>Nuevo Leon to Puentes, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Nuevo Leon to Puentes, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.259059,25.785113,0</coordinates></Point>
+        <Point><coordinates>-100.258903,25.785135,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>TK 344</name>
@@ -1290,7 +1290,7 @@
         <name>TK 338</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>TK 338</td></tr><tr><td><b>Collector</b></td><td>Antonín Krejčík</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos</td></tr><tr><td><b>Locality</b></td><td>Nuevo Leon to Puentes, Mexicó</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Nuevo Leon to Puentes, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.259059,25.785113,0</coordinates></Point>
+        <Point><coordinates>-100.258903,25.785135,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>TK 344</name>
@@ -2628,7 +2628,7 @@
         <name>VM 372</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>VM 372</td></tr><tr><td><b>Collector</b></td><td>Vojtech Myšák</td></tr><tr><td><b>Species</b></td><td>Thelocactus conothelos  v. argenteus-aurantiacus</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Nuevo Léon (San Antonio, Peña Nevada)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>San Antonio, Peña Nevada, Nuevo Léon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-99.980220,23.745270,0</coordinates></Point>
+        <Point><coordinates>-99.992611,23.698445,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>VM 375</name>

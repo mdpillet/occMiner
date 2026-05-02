@@ -5,9 +5,17 @@ Scrapes cactus collection records from two hobbyist databases and geocodes the f
 ## Species covered
 
 - *Ariocarpus fissuratus*
-- *Pilosocereus chrysostele*
 - *Pilosocereus pachycladus*
 - *Thelocactus conothelos*
+- *Trichocereus macrogonus*
+- *Eulychnia taltalensis*
+- *Epithelantha pachyrhiza*
+- *Stephanocereus luetzelburgii*
+- *Astrophytum myriostigma*
+- *Melocactus salvadorensis*
+- *Eriosyce wagenknechtii*
+- *Rhipsalis hileiabaiana*
+- *Opuntia mesacantha*
 
 ## Pipeline
 
@@ -170,19 +178,18 @@ Output: `data/cleaned/<species>.csv` and `data/cleaned_llm/<species>.csv`.
 data/kml/
   geocoded/
     ariocarpus_fissuratus.kml
-    pilosocereus_chrysostele.kml
     pilosocereus_pachycladus.kml
     thelocactus_conothelos.kml
+    trichocereus_macrogonus.kml
+    ... (one per species, 12 total)
   geocoded_llm/
-    (same four files)
+    (same files)
 data/shp/
   geocoded/
     ariocarpus_fissuratus.shp  (+ .dbf, .prj, .shx)
-    pilosocereus_chrysostele.shp
-    pilosocereus_pachycladus.shp
-    thelocactus_conothelos.shp
+    ... (one per species, 12 total)
   geocoded_llm/
-    (same four files)
+    (same files)
 ```
 
 Each placemark is colour-coded by `geocode_type` and includes a metadata table (field number, collector, locality, date, source, geocode query and type) in its description popup.
@@ -215,11 +222,11 @@ Output per species per pipeline (in `data/occTest/cleaned/` and `data/occTest/cl
 
 ## Comparison
 
-`compareOccurrences.R` compares the new filtered occurrences against a reference dataset and computes range and niche size metrics, a niche-space plot, and a terrain map per species. It runs as the final step of `run_pipeline.R`, but is skipped automatically if `data/reference/` is not present (the reference shapefiles are not checked into git).
+`compareOccurrences.R` compares the new filtered occurrences against a reference dataset and computes range and niche size metrics, a niche-space plot, and a terrain map per species. The same comparison is run for **both** pipeline outputs (`data/occTest/cleaned/` and `data/occTest/cleaned_llm/`) so the regex and LLM pipelines can be evaluated against the same reference baseline. It runs as the final step of `run_pipeline.R`, but is skipped automatically if `data/reference/` is not present (the reference shapefiles are not checked into git).
 
 **Inputs:**
-- Reference shapefiles in `data/reference/<Species>_envT_extF.shp` (one per species, not checked into git)
-- Filtered shapefiles from `data/occTest/cleaned_llm/` (the LLM pipeline)
+- Reference shapefiles in `data/reference/<Species>_envT_extF.shp` (one per species, not checked into git). The active subset is copied from `data/referencePool/`, a 1,038-species library that holds reference shapefiles for the full project pool (also not in git).
+- Filtered shapefiles from `data/occTest/cleaned/` and `data/occTest/cleaned_llm/`
 - Environmental raster `data/predictors/ase_UKESM1-0-LL_current.tif`
 
 **Outputs** (in `data/comparison/`):
@@ -227,11 +234,12 @@ Output per species per pipeline (in `data/occTest/cleaned/` and `data/occTest/cl
 | File | Contents |
 |---|---|
 | `PCA.rda` | PCA model fitted on 100,000 random raster samples. Cached and reused on subsequent runs; delete to refit. |
-| `<species>.png` | PC1/PC2 niche-space plot with Reference, New, and Combined convex hulls |
-| `<species>_map.png` | OpenTopoMap terrain basemap with points coloured by source (Reference / New) and shaped by `geocode_type`, plus minimum convex polygons for reference, new, and combined point sets |
-| `summary.csv` | Per-species metrics (see below) |
+| `<species>_<pipeline>.png` | PC1/PC2 niche-space plot for one pipeline (`cleaned` or `cleaned_llm`) with Reference, New, and Combined convex hulls |
+| `<species>_<pipeline>_map.png` | OpenTopoMap terrain basemap for one pipeline with points coloured by source (Reference / New), shaped by `geocode_type`, plus MCPs for reference, new, and combined |
+| `<species>.pdf` | Per-species report (US letter portrait): top half is the LLM pipeline, bottom half is the regex pipeline. Each half lays the range map (left) and the niche plot (right) above a 3 × 4 stats table summarising n / range / niche for Reference, New, and Combined plus the combined-vs-reference percentage increase. |
+| `summary.csv` | Per-species per-pipeline metrics (one row per species × pipeline; see below) |
 
-`summary.csv` columns: `species`, `n_ref`, `n_new`, `n_combined`, `n_pct_increase`, `range_ref_km2`, `range_new_km2`, `range_combined_km2`, `range_pct_increase`, `niche_ref`, `niche_new`, `niche_combined`, `niche_pct_increase`. Each `*_combined` value is the metric computed on the union of reference and new points; `*_pct_increase` is `(combined − ref) / ref × 100`.
+`summary.csv` columns: `species`, `pipeline` (`cleaned` or `cleaned_llm`), `n_ref`, `n_new`, `n_combined`, `n_pct_increase`, `range_ref_km2`, `range_new_km2`, `range_combined_km2`, `range_pct_increase`, `niche_ref`, `niche_new`, `niche_combined`, `niche_pct_increase`. Each `*_combined` value is the metric computed on the union of reference and new points for that pipeline; `*_pct_increase` is `(combined − ref) / ref × 100`.
 
 The script uses Mollweide projection for range area calculations and a convex-hull approach for niche size (requires ≥ 3 points per dataset).
 

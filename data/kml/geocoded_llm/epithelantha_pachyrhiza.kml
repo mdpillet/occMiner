@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Epithelantha Pachyrhiza — geocoded_llm</name>
+  <Style id="direct">
+    <IconStyle>
+      <color>ff4db34d</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="direction_only">
+    <IconStyle>
+      <color>ff00aaff</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="offset_adjusted">
+    <IconStyle>
+      <color>ffff6600</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="llm_approximate">
+    <IconStyle>
+      <color>ffff00cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="failed">
+    <IconStyle>
+      <color>ff0000cc</color><scale>0.8</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+      <Placemark>
+        <name>AD 410</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AD 410</td></tr><tr><td><b>Collector</b></td><td>Aldo Delladdio</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza ssp. parvula</td></tr><tr><td><b>Locality</b></td><td>South-West of Hipolito, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1163m</td></tr><tr><td><b>Date</b></td><td>18-Apr-14</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Hipolito, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-101.402202,25.698867,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>AD 924</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AD 924</td></tr><tr><td><b>Collector</b></td><td>Aldo Delladdio</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Santa Catarina, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td>961m</td></tr><tr><td><b>Date</b></td><td>2-Nov-22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Santa Catarina, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.461637,25.674505,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>AD 940</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AD 940</td></tr><tr><td><b>Collector</b></td><td>Aldo Delladdio</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza ssp. parvula</td></tr><tr><td><b>Locality</b></td><td>South-West of Hipolito, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1156m</td></tr><tr><td><b>Date</b></td><td>6-Nov-22</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Hipolito, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-101.402202,25.698867,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 1120.16</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 1120.16</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Higueras, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1262m</td></tr><tr><td><b>Date</b></td><td>14/05/2024</td></tr><tr><td><b>Notes</b></td><td>LRM055 location</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Higueras, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.797136,25.635150,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 1170.1</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 1170.1</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Icamole West, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1262m</td></tr><tr><td><b>Date</b></td><td>14/06/2024</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Icamole, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-100.714131,25.914302,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 1171.7</name>
+        <styleUrl>#direction_only</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 1171.7</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza v. pulchra</td></tr><tr><td><b>Locality</b></td><td>Mina S.E., Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td>586m</td></tr><tr><td><b>Date</b></td><td>14/06/2024</td></tr><tr><td><b>Notes</b></td><td>AD931 location</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Mina, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direction_only</td></tr></table>]]></description>
+        <Point><coordinates>-100.802505,26.299387,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>IDD 1163</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>IDD 1163</td></tr><tr><td><b>Collector</b></td><td>Igor D. Dráb</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Km 40.5, before San Antonio de Acatita, low ranges to the right, San Antonio de Acatita, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>16/11/2008</td></tr><tr><td><b>Date</b></td><td>16/11/2008</td></tr><tr><td><b>Notes</b></td><td>= IDD28/08; clusters of hundreds of heads</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>San Antonio de Acatita, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-101.146332,25.701914,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>IDD 28/08</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>IDD 28/08</td></tr><tr><td><b>Collector</b></td><td>Igor D. Dráb</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Km 40.5, before San Antonio de Acatita, low ranges to the right, San Antonio de Acatita, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>16/11/2008</td></tr><tr><td><b>Date</b></td><td>16/11/2008</td></tr><tr><td><b>Notes</b></td><td>= IDD1163; clusters of hundreds of heads</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>San Antonio de Acatita, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-101.146332,25.701914,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KPP 1929</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KPP 1929</td></tr><tr><td><b>Collector</b></td><td>Karel Pavel Pavlíček</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Mina, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td>2015?</td></tr><tr><td><b>Date</b></td><td>2015?</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Mina, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.802505,26.299387,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>LRM 54</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>LRM 54</td></tr><tr><td><b>Collector</b></td><td>Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Higueras, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1999</td></tr><tr><td><b>Date</b></td><td>1999</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Higueras, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.797136,25.635150,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>LRM 55</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>LRM 55</td></tr><tr><td><b>Collector</b></td><td>Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Higueras, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1999</td></tr><tr><td><b>Date</b></td><td>1999</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Higueras, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.797136,25.635150,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>MK 127.407</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>MK 127.407</td></tr><tr><td><b>Collector</b></td><td>Miloš Kaplan</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Higueras, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Higueras, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.007388,26.035517,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>RS 1274</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>RS 1274</td></tr><tr><td><b>Collector</b></td><td>Roman Staník</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>canyon opposite Ojo Caliente, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ojo Caliente, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.176551,25.674703,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Z 41</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>Z 41</td></tr><tr><td><b>Collector</b></td><td>Carlo Zanovello</td></tr><tr><td><b>Species</b></td><td>epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Ojo Caliente, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Ojo Caliente, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.837501,25.621431,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>IDD 1163</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>IDD 1163</td></tr><tr><td><b>Collector</b></td><td>Igor D. Dráb</td></tr><tr><td><b>Species</b></td><td>Epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Coahuila (San Antonio de Acatita)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>15/11/2008</td></tr><tr><td><b>Notes</b></td><td>idd28/08 GPS 33, km 40, 5, pred San Antonio de Acatita, vpravo od cesty na miernych hrebeňoch, stohlavé trsy</td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>San Antonio de Acatita, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-101.146332,25.701914,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KPP 1929</name>
+        <styleUrl>#direct</styleUrl>
+        <description><![CDATA[<table><tr><td><b>Field number</b></td><td>KPP 1929</td></tr><tr><td><b>Collector</b></td><td>Karel Pavlíček</td></tr><tr><td><b>Species</b></td><td>Epithelantha pachyrhiza</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Nuevo Leon (Mina)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Mina, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
+        <Point><coordinates>-100.802505,26.299387,0</coordinates></Point>
+      </Placemark>
+</Document>
+</kml>

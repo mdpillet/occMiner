@@ -54,7 +54,7 @@
         <name>AD 467</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AD 467</td></tr><tr><td><b>Collector</b></td><td>Aldo Delladdio</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Maderas del Carmen, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td>1262m</td></tr><tr><td><b>Date</b></td><td>2-Apr-15</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Maderas del Carmen, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-102.578646,28.963611,0</coordinates></Point>
+        <Point><coordinates>-102.546526,29.006379,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>AD 468</name>
@@ -108,7 +108,7 @@
         <name>AL 55</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AL 55</td></tr><tr><td><b>Collector</b></td><td>Dr. Andreas Laras</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Terlingua Ghost Town, Texas, USA</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Terlingua Ghost Town, Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.616945,29.321019,0</coordinates></Point>
+        <Point><coordinates>-103.615118,29.320661,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>AL 61</name>
@@ -318,7 +318,7 @@
         <name>CS 862.16</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 862.16</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Marathon 4, Texas, USA</td></tr><tr><td><b>Altitude</b></td><td>1256m</td></tr><tr><td><b>Date</b></td><td>19/05/2016</td></tr><tr><td><b>Notes</b></td><td>BB2128, CH-USA2009-029 location</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Marathon 4, Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-94.966672,29.288051,0</coordinates></Point>
+        <Point><coordinates>-94.966474,29.288002,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>CS 98.1</name>
@@ -510,7 +510,7 @@
         <name>GL 795</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GL 795</td></tr><tr><td><b>Collector</b></td><td>Gary Loos</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus v. hintonii</td></tr><tr><td><b>Locality</b></td><td>Matehuala, Nuevo Leon, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Matehuala, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.346159,25.699365,0</coordinates></Point>
+        <Point><coordinates>-100.342431,25.695080,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>GL&amp;F 1630</name>
@@ -714,7 +714,7 @@
         <name>JM 20</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JM 20</td></tr><tr><td><b>Collector</b></td><td>John Miller</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Terlingua Ranch, Texas, USA</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Terlingua Ranch, Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.477722,29.430451,0</coordinates></Point>
+        <Point><coordinates>-103.376003,29.469341,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>JM 25</name>
@@ -726,7 +726,7 @@
         <name>JM 27</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JM 27</td></tr><tr><td><b>Collector</b></td><td>John Miller</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Terlingua Ghost Town Texas, USA</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Terlingua Ghost Town Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.616945,29.321019,0</coordinates></Point>
+        <Point><coordinates>-103.615118,29.320661,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>JM 38</name>
@@ -1182,7 +1182,7 @@
         <name>PAR 327</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PAR 327</td></tr><tr><td><b>Collector</b></td><td>Pavlosek Rostislav</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus v. lloydii</td></tr><tr><td><b>Locality</b></td><td>Gallegos, Zacatecas, Mexico</td></tr><tr><td><b>Altitude</b></td><td>2000m</td></tr><tr><td><b>Date</b></td><td>23/03/2006</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Gallegos, Zacatecas, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.698393,22.647013,0</coordinates></Point>
+        <Point><coordinates>-102.064548,24.568265,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>PAR 345</name>
@@ -1302,7 +1302,7 @@
         <name>PP 1011</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PP 1011</td></tr><tr><td><b>Collector</b></td><td>Pavel Pavlíček</td></tr><tr><td><b>Species</b></td><td>ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Cuatro Palmas, Coahuila, Mexico</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Cuatro Palmas, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-102.560083,29.288480,0</coordinates></Point>
+        <Point><coordinates>-115.439392,32.628140,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>PP 1085</name>
@@ -1698,7 +1698,7 @@
         <name>AL 55</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>AL 55</td></tr><tr><td><b>Collector</b></td><td>Andreas Laras</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>USA : Texas (Terlingua Ghost Town)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Terlingua Ghost Town, Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.616945,29.321019,0</coordinates></Point>
+        <Point><coordinates>-103.615118,29.320661,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>AL 61</name>
@@ -2010,7 +2010,7 @@
         <name>GL 795</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>GL 795</td></tr><tr><td><b>Collector</b></td><td>Gary Loos</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus  v. hintonii</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Nuevo Leon (Matehuala)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Matehuala, Nuevo Leon, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-100.346159,25.699365,0</coordinates></Point>
+        <Point><coordinates>-100.342431,25.695080,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>GCG 10586</name>
@@ -2328,7 +2328,7 @@
         <name>JM 20</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JM 20</td></tr><tr><td><b>Collector</b></td><td>John Miller</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Terlingua Ranch, Texas, USA</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Terlingua Ranch, Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.477722,29.430451,0</coordinates></Point>
+        <Point><coordinates>-103.376003,29.469341,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>JM 25</name>
@@ -2340,7 +2340,7 @@
         <name>JM 27</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>JM 27</td></tr><tr><td><b>Collector</b></td><td>John Miller</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Terlingua Ghost Town Texas, USA</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Terlingua Ghost Town Texas, USA</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.616945,29.321019,0</coordinates></Point>
+        <Point><coordinates>-103.615118,29.320661,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>JM 38</name>
@@ -2448,7 +2448,7 @@
         <name>BKM 918</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>BKM 918</td></tr><tr><td><b>Collector</b></td><td>Josef Barcák, Miroslav Kupcák</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus LLOYDII MAGNIFICUS</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Zacatecas (Gallegos)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>2010</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Gallegos, Zacatecas, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.698393,22.647013,0</coordinates></Point>
+        <Point><coordinates>-102.064548,24.568265,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>BKM 919</name>
@@ -3210,7 +3210,7 @@
         <name>PP 1011</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PP 1011</td></tr><tr><td><b>Collector</b></td><td>Pavel Pavlíček</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Coahuila (Cuatro Palmas)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cuatro Palmas, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-102.560083,29.288480,0</coordinates></Point>
+        <Point><coordinates>-115.439392,32.628140,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>PP 1085</name>
@@ -3270,7 +3270,7 @@
         <name>PAR 327</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>PAR 327</td></tr><tr><td><b>Collector</b></td><td>Pavlosek Rostislav</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus  v. lloydii</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Zacatecas (Gallegos)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>23/03/2006</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Gallegos, Zacatecas, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-103.698393,22.647013,0</coordinates></Point>
+        <Point><coordinates>-102.064548,24.568265,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>PAR 345</name>
@@ -3630,7 +3630,7 @@
         <name>VM 435</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>VM 435</td></tr><tr><td><b>Collector</b></td><td>Vojtech Myšák</td></tr><tr><td><b>Species</b></td><td>Ariocarpus fissuratus</td></tr><tr><td><b>Locality</b></td><td>Mexicó : Coahuila (Cuatro Palmas)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td></td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Cuatro Palmas, Coahuila, Mexico</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-102.560083,29.288480,0</coordinates></Point>
+        <Point><coordinates>-115.439392,32.628140,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>REP 445</name>

@@ -68,7 +68,7 @@
 		<SimpleData name="notes">Maderas del Carmen, Coahuila, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-102.578646389,28.963611111</coordinates></Point>
+      <Point><coordinates>-102.5465257,29.0063792</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.5">
 	<name>AD 468</name>
@@ -160,7 +160,7 @@
 		<SimpleData name="notes">Terlingua Ghost Town, Texas, USA</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-103.6169449,29.3210186</coordinates></Point>
+      <Point><coordinates>-103.6151181,29.3206607</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.12">
 	<name>AL 61</name>
@@ -642,7 +642,7 @@
 		<SimpleData name="notes">Terlingua Ranch, Texas, USA</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-103.4777215,29.4304509</coordinates></Point>
+      <Point><coordinates>-103.3760029,29.4693411</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.49">
 	<name>JM 25</name>
@@ -1031,7 +1031,7 @@
 		<SimpleData name="notes">Gallegos, Zacatecas, Mexico</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-103.6983931,22.6470128</coordinates></Point>
+      <Point><coordinates>-102.0645478,24.568265</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.79">
 	<name>PAR 348</name>
@@ -1118,18 +1118,6 @@
       <Point><coordinates>-102.8168793,29.4494313</coordinates></Point>
   </Placemark>
   <Placemark id="ariocarpus_fissuratus.85">
-	<name>PP 1011</name>
-	<description>Pavel Pavlíček</description>
-	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
-		<SimpleData name="field_number">ariocarpus fissuratus</SimpleData>
-		<SimpleData name="collector">Cuatro Palmas, Coahuila, Mexico</SimpleData>
-		<SimpleData name="date">bcss</SimpleData>
-		<SimpleData name="notes">Cuatro Palmas, Coahuila, Mexico</SimpleData>
-		<SimpleData name="source">direct</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-102.560083056,29.288480278</coordinates></Point>
-  </Placemark>
-  <Placemark id="ariocarpus_fissuratus.86">
 	<name>PP 1415</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1143,7 +1131,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.367157,27.0310889</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.87">
+  <Placemark id="ariocarpus_fissuratus.86">
 	<name>PP 1578</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1157,7 +1145,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.188611389,26.165299722</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.88">
+  <Placemark id="ariocarpus_fissuratus.87">
 	<name>PP 539</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1172,7 +1160,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.035993889,26.991843611</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.89">
+  <Placemark id="ariocarpus_fissuratus.88">
 	<name>PP 565</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1186,7 +1174,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.5595358,25.3642699</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.90">
+  <Placemark id="ariocarpus_fissuratus.89">
 	<name>PP 989</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1201,7 +1189,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.9801842,21.7625922</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.91">
+  <Placemark id="ariocarpus_fissuratus.90">
 	<name>REP 1216b</name>
 	<description>Werner Reppenhagen</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1216,7 +1204,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.4594525,25.6544318</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.92">
+  <Placemark id="ariocarpus_fissuratus.91">
 	<name>REP 445</name>
 	<description>Werner Reppenhagen</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1231,7 +1219,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.8375014,25.6214308</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.93">
+  <Placemark id="ariocarpus_fissuratus.92">
 	<name>REP 485</name>
 	<description>Werner Reppenhagen</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1246,7 +1234,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.21234,25.44112</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.94">
+  <Placemark id="ariocarpus_fissuratus.93">
 	<name>RS 1255</name>
 	<description>Roman Staník</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1260,7 +1248,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.759896667,25.941991389</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.95">
+  <Placemark id="ariocarpus_fissuratus.94">
 	<name>SB 1156</name>
 	<description>Steven (Steve) Brack</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1272,7 +1260,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.578476,25.1953827</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.96">
+  <Placemark id="ariocarpus_fissuratus.95">
 	<name>SB 403</name>
 	<description>Steven (Steve) Brack</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1284,7 +1272,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.3766686,30.6517377</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.97">
+  <Placemark id="ariocarpus_fissuratus.96">
 	<name>WCO 48</name>
 	<description>Wolfgang Colotti</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1298,7 +1286,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.833333,24.833333</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.98">
+  <Placemark id="ariocarpus_fissuratus.97">
 	<name>WTH 93</name>
 	<description>Wolter ten Hoeve</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1312,7 +1300,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.001455833,26.784403889</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.99">
+  <Placemark id="ariocarpus_fissuratus.98">
 	<name>BP 924</name>
 	<description>Brian Penick</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1325,7 +1313,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.150169,30.7018281</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.100">
+  <Placemark id="ariocarpus_fissuratus.99">
 	<name>GCG 10634</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1337,7 +1325,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.887032,29.561265</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.101">
+  <Placemark id="ariocarpus_fissuratus.100">
 	<name>GCG 10708</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1349,7 +1337,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.3079223,30.8116024</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.102">
+  <Placemark id="ariocarpus_fissuratus.101">
 	<name>GCG 10877</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1361,7 +1349,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.0020873,29.3332062</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.103">
+  <Placemark id="ariocarpus_fissuratus.102">
 	<name>GCG 10932</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1375,7 +1363,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.66627,29.14271</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.104">
+  <Placemark id="ariocarpus_fissuratus.103">
 	<name>GCG 10935</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1387,7 +1375,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.525295922,29.36421992</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.105">
+  <Placemark id="ariocarpus_fissuratus.104">
 	<name>GCG 10936</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1401,7 +1389,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-106.29904,29.010344722</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.106">
+  <Placemark id="ariocarpus_fissuratus.105">
 	<name>GCG 10937</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1413,7 +1401,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.860799722,27.284151389</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.107">
+  <Placemark id="ariocarpus_fissuratus.106">
 	<name>GCG 10938</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1427,7 +1415,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.9785175,27.853184444</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.108">
+  <Placemark id="ariocarpus_fissuratus.107">
 	<name>GCG 10940</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1439,7 +1427,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.021131389,23.658549167</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.109">
+  <Placemark id="ariocarpus_fissuratus.108">
 	<name>GCG 10957</name>
 	<description>GCG - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1453,7 +1441,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.538176944,25.056005555</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.110">
+  <Placemark id="ariocarpus_fissuratus.109">
 	<name>GM 039</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1466,7 +1454,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.189261667,23.169066944</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.111">
+  <Placemark id="ariocarpus_fissuratus.110">
 	<name>GM 111</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1479,7 +1467,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.134202778,27.041721944</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.112">
+  <Placemark id="ariocarpus_fissuratus.111">
 	<name>GM 629.1</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1492,7 +1480,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.206044722,26.099555556</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.113">
+  <Placemark id="ariocarpus_fissuratus.112">
 	<name>GM 671.1</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1505,7 +1493,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.806510556,25.426155278</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.114">
+  <Placemark id="ariocarpus_fissuratus.113">
 	<name>GM 1075.10</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1518,7 +1506,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.134437,25.4453455</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.115">
+  <Placemark id="ariocarpus_fissuratus.114">
 	<name>GM 1082.11</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1531,7 +1519,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.012135833,26.618493056</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.116">
+  <Placemark id="ariocarpus_fissuratus.115">
 	<name>GM 1082.6</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1544,7 +1532,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.39831,28.26647</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.117">
+  <Placemark id="ariocarpus_fissuratus.116">
 	<name>GM 1233.14</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1557,7 +1545,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.6796097,25.464093</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.118">
+  <Placemark id="ariocarpus_fissuratus.117">
 	<name>GM 1233.28</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1570,7 +1558,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.9494602,25.6991232</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.119">
+  <Placemark id="ariocarpus_fissuratus.118">
 	<name>GM 1233.31</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1583,7 +1571,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.73837,28.74868</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.120">
+  <Placemark id="ariocarpus_fissuratus.119">
 	<name>GM 1235.3</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1596,7 +1584,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.3350501,28.9564464</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.121">
+  <Placemark id="ariocarpus_fissuratus.120">
 	<name>GM 1331.11</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1609,7 +1597,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.0630036,29.0446222</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.122">
+  <Placemark id="ariocarpus_fissuratus.121">
 	<name>GM 1331.18</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1622,7 +1610,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.7774932,29.6248262</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.123">
+  <Placemark id="ariocarpus_fissuratus.122">
 	<name>GM 1334.22</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1635,7 +1623,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.910983056,28.6747</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.124">
+  <Placemark id="ariocarpus_fissuratus.123">
 	<name>GM 1501.1</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1648,7 +1636,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.68932,27.0437717</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.125">
+  <Placemark id="ariocarpus_fissuratus.124">
 	<name>GM 1640</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1661,7 +1649,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.7920214,28.0428005</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.126">
+  <Placemark id="ariocarpus_fissuratus.125">
 	<name>GM 1640.8</name>
 	<description>Grzegorz Matuszewski</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1674,7 +1662,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.5702201,27.9398544</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.127">
+  <Placemark id="ariocarpus_fissuratus.126">
 	<name>IDD 1680</name>
 	<description>Igor D. Dráb</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1688,7 +1676,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.78333,26.58333</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.128">
+  <Placemark id="ariocarpus_fissuratus.127">
 	<name>BKM 859</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1701,7 +1689,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.459520556,24.154130278</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.129">
+  <Placemark id="ariocarpus_fissuratus.128">
 	<name>BKM 866</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1714,7 +1702,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.473800833,23.611094722</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.130">
+  <Placemark id="ariocarpus_fissuratus.129">
 	<name>BKM 868</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1727,7 +1715,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.628245278,24.539602222</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.131">
+  <Placemark id="ariocarpus_fissuratus.130">
 	<name>BKM 905</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1740,7 +1728,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.623527222,22.785558889</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.132">
+  <Placemark id="ariocarpus_fissuratus.131">
 	<name>BKM 919</name>
 	<description>Josef Barcák, Miroslav Kupcák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1753,7 +1741,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.1067644,23.7889289</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.133">
+  <Placemark id="ariocarpus_fissuratus.132">
 	<name>JS 1800</name>
 	<description>JS - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1765,7 +1753,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.196722622817,29.138405162159</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.134">
+  <Placemark id="ariocarpus_fissuratus.133">
 	<name>JS 1803</name>
 	<description>JS - gerardo.cz</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1777,7 +1765,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.606638,29.319294</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.135">
+  <Placemark id="ariocarpus_fissuratus.134">
 	<name>KMR 94A</name>
 	<description>Miroslav Kupčák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1791,7 +1779,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.11484,27.87146</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.136">
+  <Placemark id="ariocarpus_fissuratus.135">
 	<name>KMR 94B</name>
 	<description>Miroslav Kupčák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1805,7 +1793,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.993105325379,25.485331334865</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.137">
+  <Placemark id="ariocarpus_fissuratus.136">
 	<name>KMR 460</name>
 	<description>Miroslav Kupčák</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1817,7 +1805,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.097976111,21.486114445</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.138">
+  <Placemark id="ariocarpus_fissuratus.137">
 	<name>PD 45</name>
 	<description>Pavel Duchek</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1829,7 +1817,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.5605455,27.8369512</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.139">
+  <Placemark id="ariocarpus_fissuratus.138">
 	<name>PP 565</name>
 	<description>Pavel Pavlíček</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1841,7 +1829,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.676946944,25.511260555</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.140">
+  <Placemark id="ariocarpus_fissuratus.139">
 	<name>PA 0524</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1854,7 +1842,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.53217,25.82684</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.141">
+  <Placemark id="ariocarpus_fissuratus.140">
 	<name>PA 0613</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1867,7 +1855,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.470506667,25.553074166</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.142">
+  <Placemark id="ariocarpus_fissuratus.141">
 	<name>PA 1458</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1880,7 +1868,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.486245833,28.541528055</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.143">
+  <Placemark id="ariocarpus_fissuratus.142">
 	<name>PA 1518</name>
 	<description>Petr Antálek</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1893,7 +1881,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.077685861,25.247098329</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.144">
+  <Placemark id="ariocarpus_fissuratus.143">
 	<name>RUS 347</name>
 	<description>Safronov Evgeny</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1905,7 +1893,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.620961111,27.344901389</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.145">
+  <Placemark id="ariocarpus_fissuratus.144">
 	<name>RUS 474</name>
 	<description>Safronov Evgeny</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1917,7 +1905,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.122638611,22.939423055</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.146">
+  <Placemark id="ariocarpus_fissuratus.145">
 	<name>SB 1568</name>
 	<description>Steven (Steve) Brack</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1929,7 +1917,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.638603158593,23.665167239339</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.147">
+  <Placemark id="ariocarpus_fissuratus.146">
 	<name>VZ 339</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1942,7 +1930,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-105.386472492084,31.456188094352</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.148">
+  <Placemark id="ariocarpus_fissuratus.147">
 	<name>VCCB 343</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1955,7 +1943,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.41629,29.83518</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.149">
+  <Placemark id="ariocarpus_fissuratus.148">
 	<name>VZ 405</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1968,7 +1956,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-100.649625556,25.461663611</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.150">
+  <Placemark id="ariocarpus_fissuratus.149">
 	<name>VZ 408</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1981,7 +1969,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.08333,27.73333</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.151">
+  <Placemark id="ariocarpus_fissuratus.150">
 	<name>VCCB 409</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -1994,7 +1982,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.756494084,26.939832568</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.152">
+  <Placemark id="ariocarpus_fissuratus.151">
 	<name>VZD 412</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2007,7 +1995,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.869705556,27.227235833</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.153">
+  <Placemark id="ariocarpus_fissuratus.152">
 	<name>VZD 414</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2020,7 +2008,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.261990278,27.914834722</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.154">
+  <Placemark id="ariocarpus_fissuratus.153">
 	<name>VZ 415</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2033,7 +2021,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.28492,27.176674723</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.155">
+  <Placemark id="ariocarpus_fissuratus.154">
 	<name>VCCB 424</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2046,7 +2034,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.1106586,24.5918228</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.156">
+  <Placemark id="ariocarpus_fissuratus.155">
 	<name>VZ 442</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2059,7 +2047,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.4576923,29.9810004</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.157">
+  <Placemark id="ariocarpus_fissuratus.156">
 	<name>VCCB 708</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2072,7 +2060,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.36281,27.70468</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.158">
+  <Placemark id="ariocarpus_fissuratus.157">
 	<name>VZD 793</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2085,7 +2073,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.5176792,22.8285492</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.159">
+  <Placemark id="ariocarpus_fissuratus.158">
 	<name>VZD 1030</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2098,7 +2086,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-105.134346,25.7955522</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.160">
+  <Placemark id="ariocarpus_fissuratus.159">
 	<name>VZ 1092</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2111,7 +2099,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.63333,28.26667</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.161">
+  <Placemark id="ariocarpus_fissuratus.160">
 	<name>VZ 1110</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2124,7 +2112,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.3991556,22.874905</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.162">
+  <Placemark id="ariocarpus_fissuratus.161">
 	<name>VCCB 1115</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2137,7 +2125,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.0572781,26.9838552</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.163">
+  <Placemark id="ariocarpus_fissuratus.162">
 	<name>VZD 1291</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2150,7 +2138,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.0188808,27.7733191</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.164">
+  <Placemark id="ariocarpus_fissuratus.163">
 	<name>VZD 1371</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2163,7 +2151,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.07576,25.30176</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.165">
+  <Placemark id="ariocarpus_fissuratus.164">
 	<name>VZD 1382</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2176,7 +2164,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.267863889,29.083058056</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.166">
+  <Placemark id="ariocarpus_fissuratus.165">
 	<name>VZD 1391</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2189,7 +2177,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-101.6454913,27.0245482</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.167">
+  <Placemark id="ariocarpus_fissuratus.166">
 	<name>VZD 1396</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2202,7 +2190,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.286724,28.0925399</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.168">
+  <Placemark id="ariocarpus_fissuratus.167">
 	<name>VZD 1400</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2215,7 +2203,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-107.4075801,29.1933903</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.169">
+  <Placemark id="ariocarpus_fissuratus.168">
 	<name>VZD 1402</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">
@@ -2228,7 +2216,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-103.4892768,26.1284309</coordinates></Point>
   </Placemark>
-  <Placemark id="ariocarpus_fissuratus.170">
+  <Placemark id="ariocarpus_fissuratus.169">
 	<name>VZD 1403</name>
 	<description>Zdenek Vasko, Vladislav Zatloukal</description>
 	<ExtendedData><SchemaData schemaUrl="#ariocarpus_fissuratus">

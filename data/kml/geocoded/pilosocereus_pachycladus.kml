@@ -186,7 +186,7 @@
         <name>CS 153.3</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 153.3</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>pilosocereus pachycladus</td></tr><tr><td><b>Locality</b></td><td>Sobradinho 1, Bahia, Brasil</td></tr><tr><td><b>Altitude</b></td><td>389m</td></tr><tr><td><b>Date</b></td><td>20/10/2007</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Sobradinho 1, Bahia, Brasil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-39.263182,-12.963314,0</coordinates></Point>
+        <Point><coordinates>-40.795747,-9.469775,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>CS 155.1_71</name>
@@ -780,7 +780,7 @@
         <name>HU 714</name>
         <styleUrl>#offset_adjusted</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 714</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst,, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>pilosocereus pachycladus</td></tr><tr><td><b>Locality</b></td><td>18 km East of Rio Sao Joao, Minas Gerais, Brazil</td></tr><tr><td><b>Altitude</b></td><td>5/9/1985</td></tr><tr><td><b>Date</b></td><td>5/9/1985</td></tr><tr><td><b>Notes</b></td><td>= P. cyaneus according to DW</td></tr><tr><td><b>Source</b></td><td>bcss</td></tr><tr><td><b>Geocode query</b></td><td>Rio Sao Joao, Minas Gerais, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
-        <Point><coordinates>-46.644647,-20.662657,0</coordinates></Point>
+        <Point><coordinates>-46.648332,-20.571923,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>HU 891</name>
@@ -972,7 +972,7 @@
         <name>CS 154.3</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 154.3</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Pilosocereus pachycladus</td></tr><tr><td><b>Locality</b></td><td>Brazil : Bahia (Sobradinho 1, 389 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>20/10/2007</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Sobradinho 1,, Bahia, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-40.795747,-9.469775,0</coordinates></Point>
+        <Point><coordinates>-39.263182,-12.963314,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>CS 156.1_71</name>
@@ -1572,7 +1572,7 @@
         <name>HU 714</name>
         <styleUrl>#offset_adjusted</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>HU 714</td></tr><tr><td><b>Collector</b></td><td>Leopoldo Horst, later, Kurt-Ingo Horst</td></tr><tr><td><b>Species</b></td><td>Pilosocereus pachycladus</td></tr><tr><td><b>Locality</b></td><td>18 km East of Rio Sao Joao, Minas Gerais, Brazil</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>04/09/1981</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Rio Sao Joao, Minas Gerais, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>offset_adjusted</td></tr></table>]]></description>
-        <Point><coordinates>-46.644647,-20.662657,0</coordinates></Point>
+        <Point><coordinates>-46.648332,-20.571923,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>HU 891</name>

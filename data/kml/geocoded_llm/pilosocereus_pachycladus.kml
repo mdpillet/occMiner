@@ -1062,7 +1062,7 @@
         <name>CS 386.1_154</name>
         <styleUrl>#direct</styleUrl>
         <description><![CDATA[<table><tr><td><b>Field number</b></td><td>CS 386.1_154</td></tr><tr><td><b>Collector</b></td><td>Chris Sherrah</td></tr><tr><td><b>Species</b></td><td>Pilosocereus pachycladus ssp. pernambucoensis</td></tr><tr><td><b>Locality</b></td><td>Brazil : Alagoas (Paulo Alfonso, 306 m)</td></tr><tr><td><b>Altitude</b></td><td></td></tr><tr><td><b>Date</b></td><td>07/12/2009</td></tr><tr><td><b>Notes</b></td><td></td></tr><tr><td><b>Source</b></td><td>clcactus</td></tr><tr><td><b>Geocode query</b></td><td>Paulo Afonso, Alagoas, Brazil</td></tr><tr><td><b>Geocode type</b></td><td>direct</td></tr></table>]]></description>
-        <Point><coordinates>-35.745094,-9.638591,0</coordinates></Point>
+        <Point><coordinates>-35.745690,-9.636810,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>RITT 1223</name>

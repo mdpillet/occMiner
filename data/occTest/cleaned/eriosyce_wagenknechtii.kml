@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eriosyce_wagenknechtii" id="eriosyce_wagenknechtii">
+	<SimpleField name="field_number" type="string"></SimpleField>
+	<SimpleField name="collector" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="geocode_query" type="string"></SimpleField>
+	<SimpleField name="geocode_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>eriosyce_wagenknechtii</name>
+  <Placemark id="eriosyce_wagenknechtii.1">
+	<name>JN 1236</name>
+	<description>Jan Novák</description>
+	<ExtendedData><SchemaData schemaUrl="#eriosyce_wagenknechtii">
+		<SimpleData name="field_number">eriosyce wagenknechtii</SimpleData>
+		<SimpleData name="collector">Coquimbito, 04 Coquimbo, Chile</SimpleData>
+		<SimpleData name="species">87m</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Coquimbito, 04 Coquimbo, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1501559,-29.9138253</coordinates></Point>
+  </Placemark>
+  <Placemark id="eriosyce_wagenknechtii.2">
+	<name>JN 1942</name>
+	<description>Jan Novák</description>
+	<ExtendedData><SchemaData schemaUrl="#eriosyce_wagenknechtii">
+		<SimpleData name="field_number">eriosyce wagenknechtii</SimpleData>
+		<SimpleData name="collector">Quebrada El Romeral, 04 Coquimbo, Chile</SimpleData>
+		<SimpleData name="species">Trichocereus</SimpleData>
+		<SimpleData name="locality">Trichocereus</SimpleData>
+		<SimpleData name="altitude">Trichocereus</SimpleData>
+		<SimpleData name="date">bcss</SimpleData>
+		<SimpleData name="notes">Quebrada El Romeral, 04 Coquimbo, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2540965,-29.6648823</coordinates></Point>
+  </Placemark>
+  <Placemark id="eriosyce_wagenknechtii.3">
+	<name>GC 706,02</name>
+	<description>Graham Charles</description>
+	<ExtendedData><SchemaData schemaUrl="#eriosyce_wagenknechtii">
+		<SimpleData name="field_number">Eriosyce wagenknechtii</SimpleData>
+		<SimpleData name="collector">Chile :  (South of Los Hornos)</SimpleData>
+		<SimpleData name="date">clcactus</SimpleData>
+		<SimpleData name="notes">South of Los Hornos, Chile</SimpleData>
+		<SimpleData name="source">direct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2853773,-29.6227199</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

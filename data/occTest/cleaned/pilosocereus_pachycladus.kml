@@ -237,7 +237,7 @@
 		<SimpleData name="notes">Sobradinho 1, Bahia, Brasil</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-39.263182,-12.9633139</coordinates></Point>
+      <Point><coordinates>-40.7957473,-9.469775</coordinates></Point>
   </Placemark>
   <Placemark id="pilosocereus_pachycladus.17">
 	<name>CS 155.1_71</name>
@@ -322,7 +322,7 @@
 		<SimpleData name="notes">Porto Novo, Bahia, Brasil</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-43.8707923,-13.1573722</coordinates></Point>
+      <Point><coordinates>-43.8707923,-13.1573721</coordinates></Point>
   </Placemark>
   <Placemark id="pilosocereus_pachycladus.23">
 	<name>CS 380.3</name>
@@ -785,7 +785,7 @@
 		<SimpleData name="notes">Rio Sao Joao, Minas Gerais, Brazil</SimpleData>
 		<SimpleData name="source">offset_adjusted</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-46.6446466872734,-20.6626569601421</coordinates></Point>
+      <Point><coordinates>-46.6483319312251,-20.571923273534</coordinates></Point>
   </Placemark>
   <Placemark id="pilosocereus_pachycladus.58">
 	<name>HU 921</name>
@@ -812,20 +812,6 @@
       <Point><coordinates>-42.8676665,-15.4027219</coordinates></Point>
   </Placemark>
   <Placemark id="pilosocereus_pachycladus.60">
-	<name>NPT 1375</name>
-	<description>Nigel Paul Taylor</description>
-	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
-		<SimpleData name="field_number">pilosocereus pachycladus</SimpleData>
-		<SimpleData name="collector">Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil</SimpleData>
-		<SimpleData name="species">470m</SimpleData>
-		<SimpleData name="locality">8/1/1991</SimpleData>
-		<SimpleData name="date">bcss</SimpleData>
-		<SimpleData name="notes">Maçaroca to Barrinha, border with Municipio Juazeiro towards Senhor do Bonfim, Bahia, Brazil</SimpleData>
-		<SimpleData name="source">direct</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-40.179723,-10.4636445</coordinates></Point>
-  </Placemark>
-  <Placemark id="pilosocereus_pachycladus.61">
 	<name>NPT 1398</name>
 	<description>Nigel Paul Taylor</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -839,7 +825,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-39.13333,-8.95</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.62">
+  <Placemark id="pilosocereus_pachycladus.61">
 	<name>NPT 1406</name>
 	<description>Nigel Paul Taylor</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -853,7 +839,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-40.78674796074,-11.057196995736</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.63">
+  <Placemark id="pilosocereus_pachycladus.62">
 	<name>NPT 1426</name>
 	<description>Nigel Paul Taylor</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -867,7 +853,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-45.0120168,-12.1314838</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.64">
+  <Placemark id="pilosocereus_pachycladus.63">
 	<name>AH 323</name>
 	<description>Andreas Hofacker</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -880,7 +866,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-41.2900276,-16.0120974</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.65">
+  <Placemark id="pilosocereus_pachycladus.64">
 	<name>BB 096.05</name>
 	<description>Brian Francis Bates</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -893,7 +879,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-41.81624,-13.5853</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.66">
+  <Placemark id="pilosocereus_pachycladus.65">
 	<name>BB 099.07</name>
 	<description>Brian Francis Bates</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -906,7 +892,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-41.3020406,-13.8153579</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.67">
+  <Placemark id="pilosocereus_pachycladus.66">
 	<name>BB 109.01</name>
 	<description>Brian Francis Bates</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -919,7 +905,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-42.07028,-16.84972</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.68">
+  <Placemark id="pilosocereus_pachycladus.67">
 	<name>BB 128.03</name>
 	<description>Brian Francis Bates</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -932,7 +918,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-44.1588654,-18.5264844</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.69">
+  <Placemark id="pilosocereus_pachycladus.68">
 	<name>BB 129.02</name>
 	<description>Brian Francis Bates</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -945,7 +931,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-44.137397572974,-19.540781670607</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.70">
+  <Placemark id="pilosocereus_pachycladus.69">
 	<name>CS 154.3</name>
 	<description>Chris Sherrah</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -956,9 +942,9 @@
 		<SimpleData name="notes">Sobradinho 1,, Bahia, Brazil</SimpleData>
 		<SimpleData name="source">direct</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-40.7957473,-9.469775</coordinates></Point>
+      <Point><coordinates>-39.263182,-12.9633139</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.71">
+  <Placemark id="pilosocereus_pachycladus.70">
 	<name>A&amp;M 348</name>
 	<description>Giovanna Anceschi, Alberto Magli</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -971,7 +957,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-43.8143902,-17.1113023</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.72">
+  <Placemark id="pilosocereus_pachycladus.71">
 	<name>GC 353,06</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -983,7 +969,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-42.9603407,-21.1134476</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.73">
+  <Placemark id="pilosocereus_pachycladus.72">
 	<name>GC 368,05</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -995,7 +981,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-49.33806,-16.095</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.74">
+  <Placemark id="pilosocereus_pachycladus.73">
 	<name>GC 378,03</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -1007,7 +993,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-53.073466889,-10.769946429</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.75">
+  <Placemark id="pilosocereus_pachycladus.74">
 	<name>GC 381,04</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -1019,7 +1005,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-41.7739181,-13.1545434</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.76">
+  <Placemark id="pilosocereus_pachycladus.75">
 	<name>GC 520,04</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -1031,7 +1017,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-42.5237381,-14.2591798</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.77">
+  <Placemark id="pilosocereus_pachycladus.76">
 	<name>GC 656,04</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -1043,7 +1029,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-43.1416284,-11.0899025</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.78">
+  <Placemark id="pilosocereus_pachycladus.77">
 	<name>GC 1009,03</name>
 	<description>Graham Charles</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">
@@ -1055,7 +1041,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-39.793817,-13.101564</coordinates></Point>
   </Placemark>
-  <Placemark id="pilosocereus_pachycladus.79">
+  <Placemark id="pilosocereus_pachycladus.78">
 	<name>HU 891</name>
 	<description>Leopoldo Horst, later, Kurt-Ingo Horst</description>
 	<ExtendedData><SchemaData schemaUrl="#pilosocereus_pachycladus">

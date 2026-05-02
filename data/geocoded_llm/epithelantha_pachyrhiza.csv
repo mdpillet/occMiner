@@ -1,0 +1,17 @@
+field_number,collector,species,locality,altitude,date,notes,source,geocode_query,geocode_type,lat,lon
+AD 410,Aldo Delladdio,epithelantha pachyrhiza ssp. parvula,"South-West of Hipolito, Coahuila, Mexico",1163m,18-Apr-14,NA,bcss,"Hipolito, Coahuila, Mexico",direction_only,25.6988669,-101.4022023
+AD 924,Aldo Delladdio,epithelantha pachyrhiza,"Santa Catarina, Nuevo Leon, Mexico",961m,2-Nov-22,NA,bcss,"Santa Catarina, Nuevo Leon, Mexico",direct,25.6745052,-100.4616371
+AD 940,Aldo Delladdio,epithelantha pachyrhiza ssp. parvula,"South-West of Hipolito, Coahuila, Mexico",1156m,6-Nov-22,NA,bcss,"Hipolito, Coahuila, Mexico",direction_only,25.6988669,-101.4022023
+CS 1120.16,Chris Sherrah,epithelantha pachyrhiza,"Higueras, Coahuila, Mexico",1262m,14/05/2024,LRM055 location,bcss,"Higueras, Coahuila, Mexico",direct,25.6351495,-100.797136
+CS 1170.1,Chris Sherrah,epithelantha pachyrhiza,"Icamole West, Nuevo Leon, Mexico",1262m,14/06/2024,NA,bcss,"Icamole, Nuevo Leon, Mexico",direction_only,25.9143018,-100.7141308
+CS 1171.7,Chris Sherrah,epithelantha pachyrhiza v. pulchra,"Mina S.E., Nuevo Leon, Mexico",586m,14/06/2024,AD931 location,bcss,"Mina, Nuevo Leon, Mexico",direction_only,26.2993869,-100.8025046
+IDD 1163,Igor D. Dráb,epithelantha pachyrhiza,"Km 40.5, before San Antonio de Acatita, low ranges to the right, San Antonio de Acatita, Coahuila, Mexico",16/11/2008,16/11/2008,= IDD28/08; clusters of hundreds of heads,bcss,"San Antonio de Acatita, Coahuila, Mexico",direct,25.7019143,-101.146332
+IDD 28/08,Igor D. Dráb,epithelantha pachyrhiza,"Km 40.5, before San Antonio de Acatita, low ranges to the right, San Antonio de Acatita, Coahuila, Mexico",16/11/2008,16/11/2008,= IDD1163; clusters of hundreds of heads,bcss,"San Antonio de Acatita, Coahuila, Mexico",direct,25.7019143,-101.146332
+KPP 1929,Karel Pavel Pavlíček,epithelantha pachyrhiza,"Mina, Nuevo Leon, Mexico",2015?,2015?,NA,bcss,"Mina, Nuevo Leon, Mexico",direct,26.2993869,-100.8025046
+LRM 54,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",epithelantha pachyrhiza,"Higueras, Coahuila, Mexico",1999,1999,NA,bcss,"Higueras, Coahuila, Mexico",direct,25.6351495,-100.797136
+LRM 55,"Living Rocks of Mexico. Now Geoff Bailey, John Miller, previously also David (Dave) Rushforth.",epithelantha pachyrhiza,"Higueras, Coahuila, Mexico",1999,1999,NA,bcss,"Higueras, Coahuila, Mexico",direct,25.6351495,-100.797136
+MK 127.407,Miloš Kaplan,epithelantha pachyrhiza,"Higueras, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Higueras, Nuevo Leon, Mexico",direct,26.0355173,-100.0073883
+RS 1274,Roman Staník,epithelantha pachyrhiza,"canyon opposite Ojo Caliente, Nuevo Leon, Mexico",NA,NA,NA,bcss,"Ojo Caliente, Nuevo Leon, Mexico",direct,25.6747026,-100.1765509
+Z 41,Carlo Zanovello,epithelantha pachyrhiza,"Ojo Caliente, Coahuila, Mexico",NA,NA,NA,bcss,"Ojo Caliente, Coahuila, Mexico",direct,25.6214308,-100.8375014
+IDD 1163,Igor D. Dráb,Epithelantha pachyrhiza,Mexicó : Coahuila (San Antonio de Acatita),NA,15/11/2008,"idd28/08 GPS 33, km 40, 5, pred San Antonio de Acatita, vpravo od cesty na miernych hrebeňoch, stohlavé trsy",clcactus,"San Antonio de Acatita, Coahuila, Mexico",direct,25.7019143,-101.146332
+KPP 1929,Karel Pavlíček,Epithelantha pachyrhiza,Mexicó : Nuevo Leon (Mina),NA,NA,NA,clcactus,"Mina, Nuevo Leon, Mexico",direct,26.2993869,-100.8025046

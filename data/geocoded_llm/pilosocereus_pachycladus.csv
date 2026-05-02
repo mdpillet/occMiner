@@ -35,7 +35,7 @@ CS 363.1_122,Chris Sherrah,pilosocereus pachycladus,"Pedra Azul 4, Minas Gerais,
 CS 369.2_131,Chris Sherrah,pilosocereus pachycladus,"Serra Escura, Bahia, Brasil",620m,23/11/2009,NA,bcss,"Serra Escura, Bahia, Brazil",direct,-12.7704741,-41.4032006
 CS 370.3,Chris Sherrah,pilosocereus pachycladus,"Brumado, Bahia, Brasil",650m,24/11/2009,BB99 location,bcss,"Brumado, Bahia, Brazil",direct,-14.2025099,-41.6701307
 CS 371.3,Chris Sherrah,pilosocereus pachycladus,"Rio de Contas, Bahia, Brasil",925m,24/11/2009,BB096 location,bcss,"Rio de Contas, Bahia, Brazil",direct,-13.5803333,-41.8112152
-CS 374.3,Chris Sherrah,pilosocereus pachycladus,"Porto Novo, Bahia, Brasil",498m,27/11/2009,NA,bcss,"Porto Novo, Bahia, Brazil",direct,-13.1573721,-43.8707923
+CS 374.3,Chris Sherrah,pilosocereus pachycladus,"Porto Novo, Bahia, Brasil",498m,27/11/2009,NA,bcss,"Porto Novo, Bahia, Brazil",direct,-13.1573722,-43.8707923
 CS 377.2,Chris Sherrah,pilosocereus pachycladus,"Seabra, Bahia, Brasil",1129m,30/11/2009,near BB89 location,bcss,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
 CS 380.3,Chris Sherrah,pilosocereus pachycladus,"Capim Grosso, Bahia, Brasil",392m,03/12/2009,NA,bcss,"Capim Grosso, Bahia, Brazil",direct,-11.379428,-40.0115228
 CS 383.9,Chris Sherrah,pilosocereus pachycladus,"Delfino, Bahia, Brasil",624m,05/12/2009,NA,bcss,"Delfino, Bahia, Brazil",direct,-10.4966113,-41.1048995
@@ -78,14 +78,14 @@ GC 492.06,Graham Charles,pilosocereus pachycladus,West of Itaobim,woolly,woolly,
 GC 516.05,Graham Charles,pilosocereus pachycladus,East of Mato Verde,NA,NA,NA,bcss,"Mato Verde, Minas Gerais, Brazil",direction_only,-15.3942731,-42.8624286
 GC 519.06,Graham Charles,pilosocereus pachycladus,North of Licinio de Armeida,NA,NA,NA,bcss,"Licinio de Almeida, Bahia, Brazil",direction_only,-14.6835152,-42.5064545
 GC 520.04,Graham Charles,pilosocereus pachycladus,South-West of Brejinho das Ametistas,NA,NA,NA,bcss,"Brejinho das Ametistas, Bahia, Brazil",direction_only,-14.2868643,-42.5140263
-GC 522.09,Graham Charles,pilosocereus pachycladus,Porto Novo,NA,NA,NA,bcss,"Porto Novo, Bahia, Brazil",direct,-13.1573721,-43.8707923
+GC 522.09,Graham Charles,pilosocereus pachycladus,Porto Novo,NA,NA,NA,bcss,"Porto Novo, Bahia, Brazil",direct,-13.1573722,-43.8707923
 GC 524.06,Graham Charles,pilosocereus pachycladus,West of Seabra,NA,NA,NA,bcss,Seabra,direction_only,-12.4172071,-41.772051
 GC 527.06,Graham Charles,pilosocereus pachycladus,North of Morro do Chapéu,NA,NA,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
 GC 529.1,Graham Charles,pilosocereus pachycladus,North of Morro do Chapéu,NA,NA,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
 GC 643.07,Graham Charles,pilosocereus pachycladus,San Rafael,NA,NA,NA,bcss,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
 GC 644.05,Graham Charles,pilosocereus pachycladus,San Rafael,NA,NA,NA,bcss,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
 GC 645.1,Graham Charles,pilosocereus pachycladus,Morro do Chapéu,NA,NA,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direct,-11.5500293,-41.1570248
-GC 649.03,Graham Charles,pilosocereus pachycladus,Gruta dos Brejões,NA,NA,NA,bcss,"Gruta dos Brejões, Bahia, Brazil",direct,-11.0072231,-41.4345838
+GC 649.03,Graham Charles,pilosocereus pachycladus,Gruta dos Brejões,NA,NA,NA,bcss,"Gruta dos Brejões, Bahia, Brazil",direct,-11.007223,-41.4345838
 GC 656.04,Graham Charles,pilosocereus pachycladus,Road to Barra,NA,NA,NA,bcss,"Barra, Bahia, Brazil",direct,-11.0891794,-43.1414512
 GC 667.06,Graham Charles,pilosocereus pachycladus,Porta Nova,NA,NA,NA,bcss,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
 GC 668.06,Graham Charles,pilosocereus pachycladus,Porta Nova,NA,NA,NA,bcss,"Porta Nova, Brazil",direct,-23.520059,-46.6650165
@@ -105,7 +105,7 @@ GD 27-3,Gérard Delanoy,pilosocereus pachycladus,"Lagedo Bordado, North Morro de
 GD 28-2,Gérard Delanoy,pilosocereus pachycladus,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",NA,NA,NA,bcss,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
 GD 47a-3,Gérard Delanoy,pilosocereus pachycladus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,bcss,"Seabra, Bahia, Brazil",offset_adjusted,-12.416737015594226,-42.27852485317287
 GD 47b-2,Gérard Delanoy,pilosocereus pachycladus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,bcss,"Seabra, Bahia, Brazil",offset_adjusted,-12.416737015594226,-42.27852485317287
-GD 51-4,Gérard Delanoy,pilosocereus pachycladus,"15km North of Porto-Novo, Bahia, Brazil",NA,NA,NA,bcss,"Porto Novo, Bahia, Brazil",offset_adjusted,-13.022473859112187,-43.8707923
+GD 51-4,Gérard Delanoy,pilosocereus pachycladus,"15km North of Porto-Novo, Bahia, Brazil",NA,NA,NA,bcss,"Porto Novo, Bahia, Brazil",offset_adjusted,-13.02247395911219,-43.8707923
 GD 54-2,Gérard Delanoy,pilosocereus pachycladus,"20km South of Iulu, Bahia, Brazil",NA,NA,NA,bcss,"Iuiu, Bahia, Brazil",offset_adjusted,-14.591165121183744,-43.5508641
 GD 57-3,Gérard Delanoy,pilosocereus pachycladus,"BR030, 5km after Guanambi, Bahia, Brazil",NA,NA,NA,bcss,"Guanambi, Bahia, Brazil",offset_adjusted,-14.22306152761332,-42.73355496542476
 GD 58-2,Gérard Delanoy,pilosocereus pachycladus,"South of Caitité, road towards Brejinho das Amethystas, Bahia, Brazil",NA,NA,NA,bcss,"Caetité, Bahia, Brazil",direction_only,-14.0691776,-42.4852428
@@ -166,12 +166,12 @@ CS 363.1_122,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Minas Gerais (Pedr
 CS 369.2_131,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Serra Escura, 620 m)",NA,23/11/2009,NA,clcactus,"Serra Escura, Bahia, Brazil",direct,-12.7704741,-41.4032006
 CS 370.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Brumado, 650 m)",NA,24/11/2009,NA,clcactus,"Brumado, Bahia, Brazil",direct,-14.2025099,-41.6701307
 CS 371.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Rio de Contas, 925 m)",NA,24/11/2009,NA,clcactus,"Rio de Contas, Bahia, Brazil",direct,-13.5803333,-41.8112152
-CS 374.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Porto Novo, 498 m)",NA,27/11/2009,NA,clcactus,"Porto Novo, Bahia, Brazil",direct,-13.1573721,-43.8707923
+CS 374.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Porto Novo, 498 m)",NA,27/11/2009,NA,clcactus,"Porto Novo, Bahia, Brazil",direct,-13.1573722,-43.8707923
 CS 377.2,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Seabra, 1129 m)",NA,30/11/2009,NA,clcactus,"Seabra, Bahia, Brazil",direct,-12.4172071,-41.772051
 CS 380.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Capim Grosso, 392 m)",NA,03/12/2009,NA,clcactus,"Capim Grosso, Bahia, Brazil",direct,-11.379428,-40.0115228
 CS 383.9,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Delfino, 624 m)",NA,05/12/2009,NA,clcactus,"Delfino, Bahia, Brazil",direct,-10.4966113,-41.1048995
 CS 385.3,Chris Sherrah,Pilosocereus pachycladus,"Brazil : Bahia (Rio Morim Mimoso, 1226 m)",NA,05/12/2009,NA,clcactus,"Rio Morim Mimoso, Bahia, Brazil",direct,-11.65531,-38.48586
-CS 386.1_154,Chris Sherrah,Pilosocereus pachycladus ssp. pernambucoensis,"Brazil : Alagoas (Paulo Alfonso, 306 m)",NA,07/12/2009,NA,clcactus,"Paulo Afonso, Alagoas, Brazil",direct,-9.6385912,-35.7450942
+CS 386.1_154,Chris Sherrah,Pilosocereus pachycladus ssp. pernambucoensis,"Brazil : Alagoas (Paulo Alfonso, 306 m)",NA,07/12/2009,NA,clcactus,"Paulo Afonso, Alagoas, Brazil",direct,-9.6368097,-35.7456898
 RITT 1223,Friedrich Ritter,Pilosocereus pachycladus,"Below Monte Azul, Minas Gerais, Brazil",NA,seed,seed,clcactus,"Monte Azul, Minas Gerais, Brazil",direct,-15.1531999,-42.8711742
 FR 1223,Friedrich Ritter,Pilosocereus pachycladus,"Urandi, Bahia, Brazil",NA,seed,seed,clcactus,"Urandi, Bahia, Brazil",direct,-14.7680766,-42.6573988
 RITT 1223,Friedrich Ritter,Pilosocereus pachycladus,"Urandi, Bahia, Brazil",NA,seed,seed,clcactus,"Urandi, Bahia, Brazil",direct,-14.7680766,-42.6573988
@@ -187,7 +187,7 @@ GD 39167,Gérard Delanoy,Pilosocereus pachycladus,"Lagedo Bordado, North Morro d
 GD 39140,Gérard Delanoy,Pilosocereus pachycladus,"Lagedo Bordado, North Morro de Chapeu, Bahia, Brazil",NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
 GD 47b-2,Gérard Delanoy,Pilosocereus pachycladus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",offset_adjusted,-12.416737015594226,-42.27852485317287
 GD 47a-3,Gérard Delanoy,Pilosocereus pachycladus,"Palmeira dos Mendes, 55km before Seabra, Bahia, Brazil",NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",offset_adjusted,-12.416737015594226,-42.27852485317287
-GD 51-4,Gérard Delanoy,Pilosocereus pachycladus,"15km North of Porto-Novo, Bahia, Brazil",NA,NA,NA,clcactus,"Porto Novo, Bahia, Brazil",offset_adjusted,-13.022473859112187,-43.8707923
+GD 51-4,Gérard Delanoy,Pilosocereus pachycladus,"15km North of Porto-Novo, Bahia, Brazil",NA,NA,NA,clcactus,"Porto Novo, Bahia, Brazil",offset_adjusted,-13.02247395911219,-43.8707923
 GD 54-2,Gérard Delanoy,Pilosocereus pachycladus,"20km South of Iulu, Bahia, Brazil",NA,NA,NA,clcactus,"Iuiu, Bahia, Brazil",offset_adjusted,-14.591165121183744,-43.5508641
 GD 57-3,Gérard Delanoy,Pilosocereus pachycladus,"BR030, 5km after Guanambi, Bahia, Brazil",NA,NA,NA,clcactus,"Guanambi, Bahia, Brazil",offset_adjusted,-14.22306152761332,-42.73355496542476
 GD 58-2,Gérard Delanoy,Pilosocereus pachycladus,"South of Caitité, road towards Brejinho das Amethystas, Bahia, Brazil",NA,NA,NA,clcactus,"Caetité, Bahia, Brazil",direction_only,-14.0691776,-42.4852428
@@ -238,7 +238,7 @@ A&M 1457,"Giovanna Anceschi, Alberto Magli",Pilosocereus pachycladus,Brazil : Ba
 "GC 685,05",Graham Charles,Pilosocereus pachycladus,Brazil :  (Sussuarana),NA,NA,NA,clcactus,"Sussuarana, Tanhaçu, Bahia, Brazil",direct,-14.1598189,-41.2063284
 "GC 1007,01",Graham Charles,Pilosocereus pachycladus,Brazil :  (West of Morro do Chapéu),NA,NA,NA,clcactus,"Morro do Chapéu, Bahia, Brazil",direction_only,-11.5500293,-41.1570248
 "GC 1008,07",Graham Charles,Pilosocereus pachycladus,Brazil :  (San Rafael),NA,NA,NA,clcactus,"San Rafael, Brazil",direct,-21.1134476,-42.9603407
-"GC 1009,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (North of Gruta dos Brejões),NA,NA,NA,clcactus,"Gruta dos Brejões, Bahia, Brazil",direction_only,-11.0072231,-41.4345838
+"GC 1009,03",Graham Charles,Pilosocereus pachycladus,Brazil :  (North of Gruta dos Brejões),NA,NA,NA,clcactus,"Gruta dos Brejões, Bahia, Brazil",direction_only,-11.007223,-41.4345838
 "GC 1013,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (West of Seabra),NA,NA,NA,clcactus,"Seabra, Bahia, Brazil",direction_only,-12.4172071,-41.772051
 "GC 1014,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Bahia, Brazil",direct,-9.4551876,-41.7911253
 "GC 1015,06",Graham Charles,Pilosocereus pachycladus,Brazil :  (Porta Nova),NA,NA,NA,clcactus,"Porta Nova, Bahia, Brazil",direct,-9.4551876,-41.7911253

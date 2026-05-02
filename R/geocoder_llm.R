@@ -15,9 +15,17 @@ MAX_RETRIES <- 3
 
 species <- c(
   "Ariocarpus fissuratus",
-  "Pilosocereus chrysostele",
   "Pilosocereus pachycladus",
-  "Thelocactus conothelos"
+  "Thelocactus conothelos",
+  "Trichocereus macrogonus",
+  "Eulychnia taltalensis",
+  "Epithelantha pachyrhiza",
+  "Stephanocereus luetzelburgii",
+  "Astrophytum myriostigma",
+  "Melocactus salvadorensis",
+  "Eriosyce wagenknechtii",
+  "Rhipsalis hileiabaiana",
+  "Opuntia mesacantha"
 )
 
 sources <- list(bcss = "data/bcss", clcactus = "data/clcactus")
