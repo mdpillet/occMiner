@@ -17,12 +17,14 @@ clcactus_miner.R      →  data/clcactus/<species>.csv
                                 ↓
 geocoder.R            →  data/geocoded/<species>.csv      (regex pipeline)
 geocoder_llm.R        →  data/geocoded_llm/<species>.csv  (LLM pipeline)
-                          ┌─────┴─────┐
-coordinateCleaner.R   →  data/cleaned/<species>.csv       mapCreator.R  →  data/kml/
-                          data/cleaned_llm/<species>.csv                     data/shp/
+        ↓ (reads geocoded/)                    ↓ (also reads geocoded/)
+coordinateCleaner.R   →  data/cleaned/         mapCreator.R  →  data/kml/
+                          data/cleaned_llm/                      data/shp/
                                 ↓
 occTest.R             →  data/occTest/cleaned/
                           data/occTest/cleaned_llm/
+                                ↓ (optional, not in run_pipeline.R)
+compareOccurrences.R  →  data/comparison/
 ```
 
 Run the full pipeline from the project root with:
@@ -211,6 +213,28 @@ Output per species per pipeline (in `data/occTest/cleaned/` and `data/occTest/cl
 | `<species>.jpg` | Diagnostic plots |
 | `filterSummary.csv` | Record counts before and after filtering |
 
+## Comparison (optional)
+
+`compareOccurrences.R` is a standalone script not included in `run_pipeline.R`. It compares the new filtered occurrences against a reference dataset and computes range and niche size metrics, a niche-space plot, and a terrain map per species.
+
+**Inputs:**
+- Reference shapefiles in `data/reference/<Species>_envT_extF.shp` (one per species, not checked into git)
+- Filtered shapefiles from `data/occTest/cleaned/`
+- Environmental raster `data/predictors/ase_UKESM1-0-LL_current.tif`
+
+**Outputs** (in `data/comparison/`):
+
+| File | Contents |
+|---|---|
+| `PCA.rda` | PCA model fitted on 100,000 random raster samples. Cached and reused on subsequent runs; delete to refit. |
+| `<species>.png` | PC1/PC2 niche-space plot with Reference, New, and Combined convex hulls |
+| `<species>_map.png` | OpenTopoMap terrain basemap with points coloured by source (Reference / New) and shaped by `geocode_type`, plus minimum convex polygons for reference, new, and combined point sets |
+| `summary.csv` | Per-species metrics (see below) |
+
+`summary.csv` columns: `species`, `n_ref`, `n_new`, `n_combined`, `n_pct_increase`, `range_ref_km2`, `range_new_km2`, `range_combined_km2`, `range_pct_increase`, `niche_ref`, `niche_new`, `niche_combined`, `niche_pct_increase`. Each `*_combined` value is the metric computed on the union of reference and new points; `*_pct_increase` is `(combined − ref) / ref × 100`.
+
+The script uses Mollweide projection for range area calculations and a convex-hull approach for niche size (requires ≥ 3 points per dataset).
+
 ## Setup
 
 ### Dependencies
@@ -223,6 +247,7 @@ install.packages(c(
   "CoordinateCleaner",                  # coordinate cleaning
   "terra", "sf",                        # spatial output
   "occTest", "ggpubr",                  # occurrence testing
+  "geometry", "maptiles", "tidyterra",  # comparison plots
   "dplyr", "readr", "stringr", "purrr"  # data wrangling
 ))
 ```

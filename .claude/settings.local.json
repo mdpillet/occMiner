@@ -7,7 +7,8 @@
       "Bash(curl -s \"https://www.cl-cactus.com/fnfinder.asp?Lang=en&Plant=Echinocactus+horizonthalonius\")",
       "WebFetch(domain:jessecambon.github.io)",
       "WebFetch(domain:ai.google.dev)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(Rscript *)"
     ]
   }
 }

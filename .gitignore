@@ -9,3 +9,4 @@ data/predictors/
 # Reference and comparison data
 data/reference/
 data/comparison/
+.positai
