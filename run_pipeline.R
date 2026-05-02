@@ -3,7 +3,7 @@ run <- function(script) {
   source(script)
 }
 
-# Remove all pipeline output from previous runs (Logs/ is preserved)
+# Remove all pipeline output from previous runs (data/comparison/PCA.rda is preserved as a cache)
 message("Cleaning previous output...")
 unlink(c("data/bcss", "data/clcactus",
          "data/geocoded", "data/geocoded_llm",
@@ -12,6 +12,10 @@ unlink(c("data/bcss", "data/clcactus",
          "data/occTest",
          "Logs"),
        recursive = TRUE)
+if (dir.exists("data/comparison")) {
+  comp_files <- list.files("data/comparison", full.names = TRUE, recursive = TRUE)
+  unlink(comp_files[basename(comp_files) != "PCA.rda"])
+}
 
 run("R/bcss_miner.R")
 run("R/clcactus_miner.R")
@@ -20,5 +24,11 @@ run("R/geocoder_llm.R")
 run("R/coordinateCleaner.R")
 run("R/mapCreator.R")
 run("R/occTest.R")
+
+if (dir.exists("data/reference")) {
+  run("R/compareOccurrences.R")
+} else {
+  message("\nSkipping R/compareOccurrences.R — data/reference/ not present")
+}
 
 message("\nPipeline complete.")

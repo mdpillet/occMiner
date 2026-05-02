@@ -20,9 +20,11 @@ R/coordinateCleaner.R  →  data/cleaned/           R/mapCreator.R  →  data/km
                                     ↓
 R/occTest.R               →  data/occTest/cleaned/
                               data/occTest/cleaned_llm/
+                                    ↓
+R/compareOccurrences.R    →  data/comparison/   (skipped if data/reference/ is absent)
 ```
 
-`R/compareOccurrences.R` is a standalone script (not in `run_pipeline.R`) that reads reference shapefiles from `data/reference/` and `occTest` outputs, and writes PCA, metrics, niche-space plots, and terrain maps to `data/comparison/`.
+`R/compareOccurrences.R` reads reference shapefiles from `data/reference/` and the LLM-pipeline `occTest` outputs (`data/occTest/cleaned_llm/`), and writes PCA, metrics, niche-space plots, and terrain maps to `data/comparison/`. `run_pipeline.R` invokes it after `occTest.R` but skips it if `data/reference/` is missing (the reference shapefiles are not in git).
 
 Run the full pipeline: `source("run_pipeline.R")`
 Run a single script: `Rscript R/<script>.R`

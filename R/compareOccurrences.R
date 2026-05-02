@@ -12,16 +12,16 @@ dir.create("data/comparison", recursive = TRUE, showWarnings = FALSE)
 species_map <- list(
   list(name = "Ariocarpus fissuratus",
        ref  = "data/reference/Ariocarpus fissuratus_envT_extF.shp",
-       new  = "data/occTest/cleaned/ariocarpus_fissuratus.shp"),
+       new  = "data/occTest/cleaned_llm/ariocarpus_fissuratus.shp"),
   list(name = "Pilosocereus chrysostele",
        ref  = "data/reference/Pilosocereus chrysostele_envT_extF.shp",
-       new  = "data/occTest/cleaned/pilosocereus_chrysostele.shp"),
+       new  = "data/occTest/cleaned_llm/pilosocereus_chrysostele.shp"),
   list(name = "Pilosocereus pachycladus",
        ref  = "data/reference/Pilosocereus pachycladus_envT_extF.shp",
-       new  = "data/occTest/cleaned/pilosocereus_pachycladus.shp"),
+       new  = "data/occTest/cleaned_llm/pilosocereus_pachycladus.shp"),
   list(name = "Thelocactus conothelos",
        ref  = "data/reference/Thelocactus conothelos_envT_extF.shp",
-       new  = "data/occTest/cleaned/thelocactus_conothelos.shp")
+       new  = "data/occTest/cleaned_llm/thelocactus_conothelos.shp")
 )
 
 # ---- Predictor raster + PCA (cached) ----
@@ -53,7 +53,7 @@ niche_size <- function(v) {
   extr <- terra::extract(preds, v, ID = FALSE)
   extr <- extr[complete.cases(extr), ]
   if (nrow(extr) < 3) return(NA_real_)
-  trans <- predict(pca, newdata = extr)[, 1:2]
+  trans <- predict(pca, newdata = extr)[, 1:2, drop = FALSE]
   if (nrow(unique(trans)) < 3) return(NA_real_)
   convhulln(trans, options = "FA")$vol
 }
@@ -68,7 +68,7 @@ niche_points_df <- function(v, label) {
   extr <- terra::extract(preds, v, ID = FALSE)
   extr <- extr[complete.cases(extr), ]
   if (nrow(extr) < 1) return(NULL)
-  trans <- predict(pca, newdata = extr)[, 1:2]
+  trans <- predict(pca, newdata = extr)[, 1:2, drop = FALSE]
   data.frame(PC1 = trans[, 1], PC2 = trans[, 2], dataset = label)
 }
 

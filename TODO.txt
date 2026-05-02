@@ -1,6 +1,5 @@
 Additional ideas (not yet implemented):
 * Use existing occurrences to help with geocoder_llm.R.
-* Synonyms.
+* Synonyms. Use TNRS?
 * Mine the Notes field for co-occurrences.
-* Range comparison figure.
-* Combined niche size.
+* Use NSR?

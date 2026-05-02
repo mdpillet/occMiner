@@ -23,7 +23,7 @@ coordinateCleaner.R   →  data/cleaned/         mapCreator.R  →  data/kml/
                                 ↓
 occTest.R             →  data/occTest/cleaned/
                           data/occTest/cleaned_llm/
-                                ↓ (optional, not in run_pipeline.R)
+                                ↓ (skipped if data/reference/ is absent)
 compareOccurrences.R  →  data/comparison/
 ```
 
@@ -213,13 +213,13 @@ Output per species per pipeline (in `data/occTest/cleaned/` and `data/occTest/cl
 | `<species>.jpg` | Diagnostic plots |
 | `filterSummary.csv` | Record counts before and after filtering |
 
-## Comparison (optional)
+## Comparison
 
-`compareOccurrences.R` is a standalone script not included in `run_pipeline.R`. It compares the new filtered occurrences against a reference dataset and computes range and niche size metrics, a niche-space plot, and a terrain map per species.
+`compareOccurrences.R` compares the new filtered occurrences against a reference dataset and computes range and niche size metrics, a niche-space plot, and a terrain map per species. It runs as the final step of `run_pipeline.R`, but is skipped automatically if `data/reference/` is not present (the reference shapefiles are not checked into git).
 
 **Inputs:**
 - Reference shapefiles in `data/reference/<Species>_envT_extF.shp` (one per species, not checked into git)
-- Filtered shapefiles from `data/occTest/cleaned/`
+- Filtered shapefiles from `data/occTest/cleaned_llm/` (the LLM pipeline)
 - Environmental raster `data/predictors/ase_UKESM1-0-LL_current.tif`
 
 **Outputs** (in `data/comparison/`):
