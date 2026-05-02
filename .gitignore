@@ -8,5 +8,6 @@ data/predictors/
 
 # Reference and comparison data
 data/reference/
+data/referencePool/
 data/comparison/
 .positai
