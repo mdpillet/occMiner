@@ -13,8 +13,8 @@ After any code change that implements or changes functionality, ask the user whe
 ### Pipeline (run in order)
 
 ```
-R/bcss_miner.R            →  data/bcss/<species>.csv
-R/clcactus_miner.R        →  data/clcactus/<species>.csv
+R/bcss_miner.R            →  data/bcss/all_records.csv          (full DB, hybrid sweep)
+R/clcactus_miner.R        →  data/clcactus/all_records.csv      (full DB, all genera)
                                     ↓
 R/geocoder.R              →  data/geocoded/<species>.csv       (regex pipeline)
 R/geocoder_llm.R          →  data/geocoded_llm/<species>.csv  (LLM, requires GEMINI_API_KEY)
@@ -29,6 +29,8 @@ R/compareOccurrences.R    →  data/comparison/   (skipped if data/reference/ is
 ```
 
 `R/compareOccurrences.R` reads reference shapefiles from `data/reference/` and the LLM-pipeline `occTest` outputs (`data/occTest/cleaned_llm/`), and writes PCA, metrics, niche-space plots, and terrain maps to `data/comparison/`. `run_pipeline.R` invokes it after `occTest.R` but skips it if `data/reference/` is missing (the reference shapefiles are not in git).
+
+> **Downstream caveat:** Both miners now emit single combined CSVs (`data/bcss/all_records.csv` and `data/clcactus/all_records.csv`), not per-species CSVs. `geocoder.R`, `geocoder_llm.R`, etc. still expect `data/bcss/<species>.csv` and `data/clcactus/<species>.csv` and will not find data until they are reworked (e.g., to read the combined files and filter by species).
 
 Run the full pipeline: `source("run_pipeline.R")`
 Run a single script: `Rscript R/<script>.R`
@@ -47,6 +49,33 @@ Run a single script: `Rscript R/<script>.R`
 - *Eriosyce wagenknechtii*
 - *Rhipsalis hileiabaiana*
 - *Opuntia mesacantha*
+
+### bcss_miner notes
+
+- Scrapes the **entire** `fieldnos.bcss.org.uk` field-number database. BCSS has no genus dropdown, and `finder.php` rejects single-word queries — so discovery uses a hybrid two-pass approach.
+- **Pass 1 — country sweep**: queries `locality.php?Locality=<country>` for ~250 country/territory names (full ISO 3166-1 list + common aliases like `USA`/`United States`, `UK`/`Britain`, `Czechia`/`Czech Republic`, `Burma`/`Myanmar`, plus historical names like `USSR`, `Yugoslavia`, `Czechoslovakia`). `locality.php` is a case-insensitive substring match (min 3 chars), returns ALL matches in a single (sometimes ~30 MB) HTML response — no pagination. Substring matching means a place named "Algeria" in South Africa is returned by the `Algeria` query, but the final dedupe collapses overlap.
+- **Pass 2 — cl-cactus binomial sweep**: only runs if `data/clcactus/.binomials.csv` exists (produced by `clcactus_miner.R`). Queries `finder.php?Plant=<genus>+<epithet>` lowercase for each binomial. ~17k requests at 1 s ≈ 5 h.
+- Record format on both endpoints is identical `<p><b>Field number: </b>...<br>...</p>` blocks. The parser uses xpath `following-sibling::node()[1][self::text()]` (NOT `text()[1]`) so empty fields don't bleed in the next field's value.
+- Output: single combined CSV `data/bcss/all_records.csv`, appended incrementally. Columns: `field_number, collector, species, locality, altitude, date, notes, source_url` (altitude is BCSS-specific; cl-cactus doesn't have it).
+- Final pass dedupes on the tuple `(field_number, collector, tolower(species), locality, altitude, date, notes)`, keeping the first `source_url`. `species` is case-folded in the key because `finder.php` echoes the lowercased URL query (`stapelia cedrimontana`) while `locality.php` preserves the original case (`Stapelia cedrimontana`); since country rows are appended first, `.keep_all` retains the proper-cased species value. Rewrites `all_records.csv` in place.
+- Resumable state: `data/bcss/.scrape_state.csv` with `(kind, query, status, n_records, fetched_at)` — `kind` is `country` or `binomial`. Delete the file (or specific rows) to force re-scrape.
+- Pacing: 1 s polite-sleep, 5 s × 2^n backoff with 3 retries on errors. RSelenium fallback for Cloudflare retained.
+- Logging: `Logs/bcss_miner_YYYYMMDD_HHMMSS.log` per run. Each successful query logs a `Fetched (<size>, ~<n> record blocks) — parsing…` line, then a `parsed N/<total> records` tick every 100 records during parse (matters mainly for large countries like Argentina where one page yields tens of thousands of records).
+- Smoke-test env var: `BCSS_QUERY_LIMIT=N` caps total queries across both passes (e.g. `$env:BCSS_QUERY_LIMIT='3'; Rscript R/bcss_miner.R`).
+
+### clcactus_miner notes
+
+- Scrapes the **entire** cl-cactus.com database (~1,220 genera) rather than a hardcoded species list.
+- Discovery: `https://www.cl-cactus.com/` front page → `<select name="selGenres">` options (drops empty + `?`).
+- Per genus: paginates `genres.asp?genres=<G>&NbrList=80&page=<offset>&OrderBy=Species`, extracts unique binomials (`Genus epithet`) from the species column, filtering out qualifier tokens (e.g. `aff.`, `sp.`, `v.`).
+- Per binomial: `fnfinder.asp?Lang=en&Plant=<Genus>+<epithet>` parsed for full schema (`fn_id, field_number, collector, species, genus, locality, date, notes, source_url`). `fn_id` is extracted from the field-number anchor href.
+- Output: single combined CSV `data/clcactus/all_records.csv`, appended incrementally so partial progress is preserved.
+- Resumable state files (hidden, in `data/clcactus/`):
+  - `.binomials.csv` — per-genus discovery cache; reused on rerun so pagination isn't repeated.
+  - `.scrape_state.csv` — per-binomial `(genus, binomial, status, n_records, fetched_at)`; binomials marked `done` are skipped on rerun. Delete either file to force re-discovery / re-scrape.
+- Pacing: 1 s sleep on success; 5 s × 2^n exponential backoff with 3 retries on errors. Roughly 7 h for a full DB run.
+- Logging: `Logs/clcactus_miner_YYYYMMDD_HHMMSS.log` per run.
+- Smoke-test env var: `CLCACTUS_GENUS_LIMIT=N` restricts the run to the first N genera (e.g. `$env:CLCACTUS_GENUS_LIMIT='1'; Rscript R/clcactus_miner.R`).
 
 ### LLM pipeline notes
 

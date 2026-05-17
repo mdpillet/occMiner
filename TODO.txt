@@ -1,3 +1,35 @@
+Step 1: Get all occurrences
+* Easiest, if possible: get a list of all genera/species combinations from databases.
+* More difficult: loop through species under consideration, extract all synonyms, and query individually.
+* Also mine Notes field for co-occurrences.
+
+Step 2: Standardize taxonomy
+* Use TNRS + manual validation as needed
+
+Step 3: Geocode occurrences
+* Explore different geocoding APIs, and combine if possible.
+* Customize query to Gemini, and possibly use existing occurrences as priors.
+
+Step 4: Outlier analysis
+* Iterative filter.
+* Query LLM to flag unlikely occurrences.
+* Could use existing occurrences in combination with new occurrences.
+
+Step 5: Analysis
+* How does n change? How many more species become possible to model?
+* How does it affect convex hulls and AOO?
+* How does it affect niche size?
+* Compare clustering in space (spatial bias).
+
+Step 6: Impacts
+* Improved RL assessments.
+* Improved understanding of niches.
+* Improved understanding of distributions (edges and interior).
+* Allows for more improved and increased number of SDMs.
+
+https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2613291
+https://ecoevorxiv.org/repository/view/9113/
+
 Dealing with geographic outliers:
 * Need to explore if these are incorrect occurrences due to database, or due to geocoding. Likely due to geocoding.
 * We should tighten up the geocoding pipeline: why not use both APIs and find a consensus?
@@ -11,3 +43,13 @@ Dealing with synonyms and the Notes field:
 * Key issue will be how to know what taxa to query. Can we creatively extract all possible queries to use, or should we generate a list of target species + synonyms first?
 
 Should I just dump the regex pipeline?
+
+From meeting:
+Percentage niche characterized as more points are sampled (curve)
+Expert review by researchers of by collectors themselves! Is this polygon right?
+Sell the points as polygons rather than points!
+occOutliers package on Cory's Github
+Iterating is probably fine
+And validating!
+Quality score for points
+Set up a quality scoring framework

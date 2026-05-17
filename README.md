@@ -20,8 +20,8 @@ Scrapes cactus collection records from two hobbyist databases and geocodes the f
 ## Pipeline
 
 ```
-bcss_miner.R          →  data/bcss/<species>.csv
-clcactus_miner.R      →  data/clcactus/<species>.csv
+bcss_miner.R          →  data/bcss/all_records.csv      (full DB, hybrid sweep)
+clcactus_miner.R      →  data/clcactus/all_records.csv  (full DB, all genera)
                                 ↓
 geocoder.R            →  data/geocoded/<species>.csv      (regex pipeline)
 geocoder_llm.R        →  data/geocoded_llm/<species>.csv  (LLM pipeline)
@@ -43,14 +43,20 @@ source("run_pipeline.R")
 
 Or run individual scripts with `Rscript R/<script>.R`.
 
+> **Downstream caveat:** Both miners now write single combined CSVs (`data/bcss/all_records.csv` and `data/clcactus/all_records.csv`), not per-species CSVs. The geocoding / cleaning / occTest stages still expect `data/bcss/<species>.csv` and `data/clcactus/<species>.csv` and will not pick up the new data until they are reworked to read the combined files and filter by species.
+
 ## Data sources
 
 | Script | Source | URL pattern |
 |---|---|---|
-| `bcss_miner.R` | British Cactus & Succulent Society field number database | `fieldnos.bcss.org.uk/finder.php?Plant=<species>` |
-| `clcactus_miner.R` | CL-Cactus field number finder | `cl-cactus.com/fnfinder.asp?Lang=en&Plant=<species>` |
+| `bcss_miner.R` | British Cactus & Succulent Society field number database | Country sweep (substring match, no pagination): `fieldnos.bcss.org.uk/locality.php?Locality=<Country>`; per-species (Pass 2): `fieldnos.bcss.org.uk/finder.php?Plant=<genus>+<species>` |
+| `clcactus_miner.R` | CL-Cactus field number finder | Genus list: `cl-cactus.com/` (front-page `<select name="selGenres">`); per-genus listing: `cl-cactus.com/genres.asp?genres=<Genus>`; per-species records: `cl-cactus.com/fnfinder.asp?Lang=en&Plant=<Genus>+<species>` |
 
 BCSS scraping uses `httr` with browser headers and falls back to RSelenium if a non-200 response is returned (Cloudflare protection). cl-cactus.com is fetched directly via `httr`.
+
+`bcss_miner.R` scrapes the **whole** BCSS database via a two-pass hybrid sweep. Pass 1 queries `locality.php` once per country/territory using a hardcoded ~250-entry ISO 3166-1 list (plus common aliases like `USA`/`United States` and `UK`/`Britain`, and historical names like `USSR`, `Yugoslavia`); each query is a case-insensitive substring match with no pagination, so a single call returns every matching record (responses can be ~30 MB for big countries). Pass 2 — only triggered if `data/clcactus/.binomials.csv` exists — queries `finder.php` once per cl-cactus-discovered binomial to catch records whose locality strings don't contain a country name. A final dedupe pass collapses duplicates (substring overlap across country queries, plus cross-pass overlap between country and binomial sweeps) on the full record tuple with `species` case-folded — necessary because `finder.php` lowercases the species name in its response while `locality.php` preserves the original case. Output: `data/bcss/all_records.csv` with columns `field_number, collector, species, locality, altitude, date, notes, source_url`. State file `data/bcss/.scrape_state.csv` tracks per-query completion (`kind = country` or `binomial`) — delete to force re-scrape. Smoke-test env var: `BCSS_QUERY_LIMIT=N`. Pass 1 takes ~5–20 min; Pass 2 adds ~5 h. Logs at `Logs/bcss_miner_YYYYMMDD_HHMMSS.log` — each successful query logs its fetched response size and record-block count, with a progress tick every 100 records during parse (useful for big-country pages like Argentina where one response yields tens of thousands of records).
+
+`clcactus_miner.R` scrapes the **whole** cl-cactus database: it discovers all genera from the front-page dropdown, enumerates the binomials in each genus via the paginated `genres.asp` listing, then fetches every binomial's full records via `fnfinder.asp`. Output is appended incrementally to `data/clcactus/all_records.csv` so partial progress survives interruption. State files `data/clcactus/.binomials.csv` (per-genus discovery cache) and `data/clcactus/.scrape_state.csv` (per-binomial completion) make reruns resumable — delete them to force a fresh scrape. Set the env var `CLCACTUS_GENUS_LIMIT=N` to restrict a run to the first N genera (useful for smoke tests). A full scrape is roughly 7 hours at 1 s polite-sleep with exponential backoff on errors; each run writes a timestamped log to `Logs/clcactus_miner_YYYYMMDD_HHMMSS.log`.
 
 ## Output schema
 

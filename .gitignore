@@ -3,11 +3,8 @@
 .RData
 .Ruserdata
 
-# Large predictor rasters
-data/predictors/
+# Data and logs folder
+data/
+Logs/
 
-# Reference and comparison data
-data/reference/
-data/referencePool/
-data/comparison/
 .positai
