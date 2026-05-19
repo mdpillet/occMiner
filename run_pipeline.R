@@ -5,7 +5,8 @@ run <- function(script) {
 
 # Remove all pipeline output from previous runs (data/comparison/PCA.rda is preserved as a cache)
 message("Cleaning previous output...")
-unlink(c("data/bcss", "data/clcactus",
+unlink(c("data/bcss", "data/clcactus", "data/combined",
+         "data/cooccurrence_llm",
          "data/geocoded", "data/geocoded_llm",
          "data/cleaned", "data/cleaned_llm",
          "data/kml", "data/shp",
@@ -19,6 +20,8 @@ if (dir.exists("data/comparison")) {
 
 run("R/bcss_miner.R")
 run("R/clcactus_miner.R")
+run("R/combineOccs.R")
+run("R/cooccurrence_llm.R")
 run("R/geocoder.R")
 run("R/geocoder_llm.R")
 run("R/coordinateCleaner.R")

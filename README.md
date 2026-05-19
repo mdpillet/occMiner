@@ -23,6 +23,10 @@ Scrapes cactus collection records from two hobbyist databases and geocodes the f
 bcss_miner.R          →  data/bcss/all_records.csv      (full DB, hybrid sweep)
 clcactus_miner.R      →  data/clcactus/all_records.csv  (full DB, all genera)
                                 ↓
+combineOccs.R         →  data/combined/all_records.csv  (union, source-tagged)
+                                ↓
+cooccurrence_llm.R    →  data/cooccurrence_llm/all_records.csv  (LLM, adds cooccurring_species)
+                                ↓
 geocoder.R            →  data/geocoded/<species>.csv      (regex pipeline)
 geocoder_llm.R        →  data/geocoded_llm/<species>.csv  (LLM pipeline)
         ↓ (reads geocoded/)                    ↓ (also reads geocoded/)
@@ -43,7 +47,7 @@ source("run_pipeline.R")
 
 Or run individual scripts with `Rscript R/<script>.R`.
 
-> **Downstream caveat:** Both miners now write single combined CSVs (`data/bcss/all_records.csv` and `data/clcactus/all_records.csv`), not per-species CSVs. The geocoding / cleaning / occTest stages still expect `data/bcss/<species>.csv` and `data/clcactus/<species>.csv` and will not pick up the new data until they are reworked to read the combined files and filter by species.
+> **Downstream caveat:** Both miners now write single combined CSVs (`data/bcss/all_records.csv` and `data/clcactus/all_records.csv`), not per-species CSVs. The geocoding / cleaning / occTest stages still expect `data/bcss/<species>.csv` and `data/clcactus/<species>.csv` and will not pick up the new data until they are reworked to read the combined files and filter by species. `cooccurrence_llm.R` is currently informational only — it writes a `cooccurring_species` column alongside the combined records, but no downstream script promotes those names into new presence records yet.
 
 ## Data sources
 
@@ -157,6 +161,26 @@ All methods failed: the query returned no geocoder result and Gemini returned nu
 | Directional parsing | Regex (fast, deterministic) | LLM (flexible, handles unusual phrasing) |
 | Fallback for failed geocodes | None — record marked `failed` | LLM approximate coordinates |
 | Rate limit | Nominatim: 1 req/s | Gemini free tier: 15 req/min |
+
+## Co-occurrence extraction
+
+`cooccurrence_llm.R` reads `data/combined/all_records.csv` and asks Gemini 3.1 Flash Lite to extract co-occurring species names from the free-text `notes` field of each record (e.g. *"together with Parodia malyana"*, *"Found in association with Opuntia fragilis and O. cymochila"*). Output is written to `data/cooccurrence_llm/all_records.csv` — the same schema as the combined records, plus one new column:
+
+| Column | Description |
+|---|---|
+| `cooccurring_species` | Semicolon-joined list of co-occurring species names extracted from `notes`. Empty string when there are none. |
+
+### Prompt rules
+
+- **Co-occurrence must be explicitly signaled** by a connecting phrase: `with`, `together with`, `growing with`, `growing among`, `in association with`, `associated with`, `amongst`, `accompanied by`, `alongside`, `near`, `beside`, and similar. Names in quotes by themselves, `(= Genus species)` synonyms, `!` / `=` / `syn.` markers, parenthetical authorities, and the focal species echoed back in notes are all excluded.
+- **Verbatim preservation.** Misspellings, infraspecific ranks (`ssp.`, `subsp.`, `var.`, `v.`, `f.`, `fma.`), `cf.` / `aff.` qualifiers, and bare `sp.` are kept exactly as written. The only normalization allowed is expanding an abbreviated genus (e.g. `G.spegazzinnii` → `Gymnocalycium spegazzinnii`, typo preserved).
+- **Field numbers / collector codes excluded.** Anything matching `REP329-331f`, `BB1182.01`, `=BLMT63`, `JO323`, etc. is dropped. Generic plant references (`grasses`, `bushes`) are dropped.
+
+### Implementation
+
+- Same Gemini wiring as `geocoder_llm.R`: model `gemini-3.1-flash-lite-preview`, batches of up to 50 `{focal_species, notes}` items per API call, 15 RPM throttle, 3 retries with exponential backoff plus indefinite outer retry, timestamped log at `Logs/cooccurrence_llm_YYYYMMDD_HHMMSS.log`.
+- Cache is keyed on the `notes` string alone, so identical notes across records cost only one API call. On the current dataset, ~351k records collapse to ~34k unique non-empty notes (~45 min API time at the free-tier rate).
+- Smoke-test env var: `COOCCURRENCE_LIMIT=N` caps the number of unique notes sent to Gemini (`$env:COOCCURRENCE_LIMIT='100'; Rscript R/cooccurrence_llm.R`).
 
 ## Coordinate cleaning
 

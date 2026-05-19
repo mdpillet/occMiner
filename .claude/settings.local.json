@@ -50,7 +50,28 @@
       "Bash(curl -sL -A \"Mozilla/5.0\" \"https://fieldnos.bcss.org.uk/fieldno.php?FieldNo=KLAK+1346\" -o /tmp/bcss_klak.html)",
       "Bash(curl -sL -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" \"https://fieldnos.bcss.org.uk/locality.php?Locality=Algeria\" -o /tmp/bcss_alg.html)",
       "PowerShell(Remove-Item *)",
-      "PowerShell(Get-Process *)"
+      "PowerShell(Get-Process *)",
+      "PowerShell($bytes = [System.IO.File]::ReadAllBytes\\('D:\\\\Research\\\\occMiner\\\\data\\\\clcactus\\\\all_records.csv'\\); \\($bytes[0..400] | ForEach-Object { '{0:X2}' -f $_ }\\) -join ' ')",
+      "PowerShell($fs = [System.IO.File]::Open\\('D:\\\\Research\\\\occMiner\\\\data\\\\clcactus\\\\all_records.csv', 'Open', 'Read', 'ReadWrite'\\); $buf = New-Object byte[] 600; $null = $fs.Read\\($buf, 0, 600\\); $fs.Close\\(\\); \\($buf | ForEach-Object { '{0:X2}' -f $_ }\\) -join ' ')",
+      "PowerShell($fs = [System.IO.File]::Open\\('D:\\\\Research\\\\occMiner\\\\R\\\\clcactus_miner.R', 'Open', 'Read', 'ReadWrite'\\); $sr = New-Object System.IO.StreamReader\\($fs, [System.Text.Encoding]::UTF8\\); $null = $sr.ReadToEnd\\(\\); $fs.Close\\(\\); $bytes = [System.IO.File]::ReadAllBytes\\('D:\\\\Research\\\\occMiner\\\\R\\\\clcactus_miner.R'\\); $text = [System.Text.Encoding]::UTF8.GetString\\($bytes\\); $lines = $text -split \"`n\"; $line58 = $lines[57]; \\($line58.ToCharArray\\(\\) | ForEach-Object { '{0}={1:X4}' -f $_, [int]$_ }\\) -join ' ')",
+      "PowerShell($bytes = [System.IO.File]::ReadAllBytes\\('D:\\\\Research\\\\occMiner\\\\R\\\\clcactus_miner.R'\\); $text = [System.Text.Encoding]::UTF8.GetString\\($bytes\\); $lines = $text -split \"`n\"; $lines[57..60] -join \"`n\")",
+      "PowerShell($bytes = [System.IO.File]::ReadAllBytes\\('D:\\\\Research\\\\occMiner\\\\R\\\\clcactus_miner.R'\\); $text = [System.Text.Encoding]::UTF8.GetString\\($bytes\\); $lines = $text -split \"`n\"; \\($lines[57].ToCharArray\\(\\) | ForEach-Object { '{0:X4}' -f [int]$_ }\\) -join ' ')",
+      "PowerShell($bytes = [System.IO.File]::ReadAllBytes\\('D:\\\\Research\\\\occMiner\\\\R\\\\clcactus_miner.R'\\); $text = [System.Text.Encoding]::UTF8.GetString\\($bytes\\); $lines = $text -split \"`n\"; $lines[55..62] -join \"`n\")",
+      "PowerShell($path = 'D:\\\\Research\\\\occMiner\\\\R\\\\clcactus_miner.R'; $text = [System.IO.File]::ReadAllText\\($path, [System.Text.Encoding]::UTF8\\); $nbspLine = \"  x <- gsub\\(`\"$\\([char]0x00A0\\)`\", `\" `\", x\\)           # non-breaking spaces \\(U+00A0\\)\"; $newLine  = '  x <- gsub\\(intToUtf8\\(160L\\), \" \", x, fixed = TRUE\\)  # non-breaking spaces \\(U+00A0\\)'; $new = $text.Replace\\($nbspLine, $newLine\\); [System.IO.File]::WriteAllText\\($path, $new, \\(New-Object System.Text.UTF8Encoding $false\\)\\); if \\($new -eq $text\\) { Write-Output \"NO CHANGE\" } else { Write-Output \"REPLACED\" })",
+      "PowerShell(Get-Command *)",
+      "PowerShell(& \"C:\\\\Program Files\\\\R\\\\R-4.5.1\\\\bin\\\\x64\\\\Rscript.exe\" \"D:\\\\Research\\\\occMiner\\\\tmp_clean_clcactus.R\")",
+      "PowerShell($fs = [System.IO.File]::Open\\('D:\\\\Research\\\\occMiner\\\\data\\\\clcactus\\\\all_records.csv', 'Open', 'Read', 'ReadWrite'\\); $buf = New-Object byte[] 600; $null = $fs.Read\\($buf, 0, 600\\); $fs.Close\\(\\); [System.Text.Encoding]::UTF8.GetString\\($buf\\))",
+      "PowerShell(Copy-Item *)",
+      "PowerShell(Get-Item 'D:\\\\Research\\\\occMiner\\\\data\\\\clcactus\\\\all_records.csv' | ForEach-Object { \"$\\($_.Name\\)`t$\\($_.Length\\)\" })",
+      "PowerShell($fs = [System.IO.File]::Open\\('D:\\\\Research\\\\occMiner\\\\data\\\\clcactus\\\\all_records.csv', 'Open', 'Read', 'ReadWrite'\\); $buf = New-Object byte[] 800; $null = $fs.Read\\($buf, 0, 800\\); $fs.Close\\(\\); [System.Text.Encoding]::UTF8.GetString\\($buf\\))",
+      "PowerShell(Test-Path *)",
+      "PowerShell(& \"C:\\\\Program Files\\\\R\\\\R-4.5.1\\\\bin\\\\x64\\\\Rscript.exe\" \"D:\\\\Research\\\\occMiner\\\\R\\\\combineOccs.R\")",
+      "PowerShell($fs = [System.IO.File]::Open\\('D:\\\\Research\\\\occMiner\\\\data\\\\combined\\\\all_records.csv', 'Open', 'Read', 'ReadWrite'\\); $sr = New-Object System.IO.StreamReader\\($fs, [System.Text.Encoding]::UTF8\\); $hdr = $sr.ReadLine\\(\\); $r1 = $sr.ReadLine\\(\\); $r2 = $sr.ReadLine\\(\\); $sr.Close\\(\\); \"$hdr`n$r1`n$r2\")",
+      "PowerShell($fs = [System.IO.File]::Open\\('D:\\\\Research\\\\occMiner\\\\data\\\\combined\\\\all_records.csv', 'Open', 'Read', 'ReadWrite'\\); $sr = New-Object System.IO.StreamReader\\($fs, [System.Text.Encoding]::UTF8\\); $null = $sr.ReadLine\\(\\); $bcssLast = $null; $clFirst = $null; while \\(-not $sr.EndOfStream\\) { $line = $sr.ReadLine\\(\\); if \\($line.StartsWith\\('bcss,'\\)\\) { $bcssLast = $line } elseif \\($line.StartsWith\\('clcactus,'\\)\\) { $clFirst = $line; break } }; $sr.Close\\(\\); \"BCSS tail:`n$bcssLast`n`nclcactus head:`n$clFirst\")",
+      "Bash(grep -v '^.*,NA,$' \"data/combined/all_records.csv\")",
+      "Bash(awk -F',' 'NF > 10 && $10 != \"notes\" && $10 != \"NA\" && length\\($10\\) > 2 {print $10}' \"data/combined/all_records.csv\")",
+      "Bash(awk -F',\"' 'NR > 1 && NF >= 10 {match\\($0, /,\"\\([^\"]*\\)\"$/, a\\); if \\(a[1] && a[1] != \"NA\" && length\\(a[1]\\) > 3\\) print a[1]}' \"data/combined/all_records.csv\")",
+      "Bash(COOCCURRENCE_LIMIT=100 Rscript R/cooccurrence_llm.R)"
     ]
   }
 }

@@ -55,7 +55,8 @@ fetch_html <- function(url) {
 
 clean_text <- function(x) {
   if (is.na(x)) return(NA_character_)
-  x <- gsub(" ", " ", x)  # non-breaking spaces
+  x <- gsub(intToUtf8(160L), " ", x, fixed = TRUE)  # non-breaking spaces (U+00A0)
+  x <- gsub("[[:space:]]+", " ", x)       # collapse runs of whitespace
   x <- trimws(x)
   if (nchar(x) == 0) NA_character_ else x
 }

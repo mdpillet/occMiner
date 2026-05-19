@@ -16,6 +16,10 @@ After any code change that implements or changes functionality, ask the user whe
 R/bcss_miner.R            →  data/bcss/all_records.csv          (full DB, hybrid sweep)
 R/clcactus_miner.R        →  data/clcactus/all_records.csv      (full DB, all genera)
                                     ↓
+R/combineOccs.R           →  data/combined/all_records.csv      (union schema, source-tagged)
+                                    ↓
+R/cooccurrence_llm.R      →  data/cooccurrence_llm/all_records.csv  (LLM, adds cooccurring_species column)
+                                    ↓
 R/geocoder.R              →  data/geocoded/<species>.csv       (regex pipeline)
 R/geocoder_llm.R          →  data/geocoded_llm/<species>.csv  (LLM, requires GEMINI_API_KEY)
            ↓ (coordinateCleaner reads geocoded/)    ↓ (mapCreator also reads geocoded/)
@@ -30,7 +34,7 @@ R/compareOccurrences.R    →  data/comparison/   (skipped if data/reference/ is
 
 `R/compareOccurrences.R` reads reference shapefiles from `data/reference/` and the LLM-pipeline `occTest` outputs (`data/occTest/cleaned_llm/`), and writes PCA, metrics, niche-space plots, and terrain maps to `data/comparison/`. `run_pipeline.R` invokes it after `occTest.R` but skips it if `data/reference/` is missing (the reference shapefiles are not in git).
 
-> **Downstream caveat:** Both miners now emit single combined CSVs (`data/bcss/all_records.csv` and `data/clcactus/all_records.csv`), not per-species CSVs. `geocoder.R`, `geocoder_llm.R`, etc. still expect `data/bcss/<species>.csv` and `data/clcactus/<species>.csv` and will not find data until they are reworked (e.g., to read the combined files and filter by species).
+> **Downstream caveat:** The miners and `combineOccs.R` emit single CSVs (`data/bcss/all_records.csv`, `data/clcactus/all_records.csv`, `data/combined/all_records.csv`), not per-species CSVs. `geocoder.R`, `geocoder_llm.R`, etc. still expect `data/bcss/<species>.csv` and `data/clcactus/<species>.csv` and will not find data until they are reworked — most naturally, to read `data/combined/all_records.csv` and filter by species. `cooccurrence_llm.R` is currently informational only — it writes a `cooccurring_species` column alongside the combined records, but no downstream script promotes those names into new presence records yet.
 
 Run the full pipeline: `source("run_pipeline.R")`
 Run a single script: `Rscript R/<script>.R`
@@ -77,12 +81,34 @@ Run a single script: `Rscript R/<script>.R`
 - Logging: `Logs/clcactus_miner_YYYYMMDD_HHMMSS.log` per run.
 - Smoke-test env var: `CLCACTUS_GENUS_LIMIT=N` restricts the run to the first N genera (e.g. `$env:CLCACTUS_GENUS_LIMIT='1'; Rscript R/clcactus_miner.R`).
 
+### combineOccs notes
+
+- Reads `data/bcss/all_records.csv` and `data/clcactus/all_records.csv` and writes the union to `data/combined/all_records.csv`.
+- Stops with a clear error if either input is missing — it does not attempt a partial merge.
+- Both inputs are read with `col_types = cols(.default = col_character())` so the 20-digit clcactus `fn_id` round-trips intact (auto type inference would coerce it to a lossy double).
+- Output schema (in order): `source, fn_id, field_number, collector, species, genus, locality, altitude, date, notes, source_url`. BCSS rows get `NA` for `fn_id` and `genus`; clcactus rows get `NA` for `altitude`. `source` is `bcss` or `clcactus`.
+- No deduplication across sources — the same plant scraped from both DBs appears twice, distinguished by `source`. Downstream code that wants a single record per plant must dedupe itself.
+- No filtering — every row from both DBs is kept. The "Species covered" list does not apply here; that filter (if needed) lives downstream.
+- Logs a one-line summary to stdout (`bcss rows: N / clcactus rows: M / combined rows: N+M`). No log file.
+
 ### LLM pipeline notes
 
 - Model: `gemini-3.1-flash-lite-preview` (free tier, 15 RPM)
 - Localities batched 50 per API call; results cached to avoid duplicate calls
 - Add `GEMINI_API_KEY=your_key_here` to `~/.Renviron`
 - Each run writes a timestamped log to `Logs/geocoder_llm_YYYYMMDD_HHMMSS.log` with raw LLM input/output per batch
+
+### cooccurrence_llm notes
+
+- Reads `data/combined/all_records.csv`; writes `data/cooccurrence_llm/all_records.csv` (same schema plus a new `cooccurring_species` column — semicolon-joined list, empty string when there are no co-occurrences).
+- Same Gemini wiring as `geocoder_llm.R` (model, throttle, retry, log format). Each batch carries `{i, focal_species, notes}`; the prompt asks for `{i, species: [...]}` back.
+- Cache is keyed on the `notes` string alone, so identical notes across records cost one API call.
+- Prompt rules:
+  - Co-occurrence must be **explicitly signaled** by a connecting phrase (`with`, `together with`, `growing with`, `growing among`, `in association with`, `associated with`, `amongst`, `accompanied by`, `alongside`, `near`, `beside`, …). Bare names in quotes, `(= Genus species)` synonyms, `!` / `=` / `syn.` markers, parenthetical authorities, and the focal species itself are all excluded.
+  - **Verbatim preservation**: misspellings, infraspecific ranks (`ssp.`, `subsp.`, `var.`, `v.`, `f.`, `fma.`), `cf.`/`aff.` qualifiers, and bare `sp.` are all kept as written. The only normalization allowed is expanding an abbreviated genus (`G.spegazzinnii` → `Gymnocalycium spegazzinnii`, typo preserved).
+  - Field numbers / collector codes (`REP329-331f`, `BB1182.01`, `=BLMT63`, `JO323`) and generic plant references (`grasses`, `bushes`) are dropped.
+- Logging: `Logs/cooccurrence_llm_YYYYMMDD_HHMMSS.log`, same `--- INPUT --- / --- OUTPUT ---` block format as `geocoder_llm.R`.
+- Smoke-test env var: `COOCCURRENCE_LIMIT=N` caps the number of unique notes sent to Gemini (e.g. `$env:COOCCURRENCE_LIMIT='100'; Rscript R/cooccurrence_llm.R`). Useful for a first-pass sanity check before committing to a full run (~33k unique notes, ~45 min at 15 RPM).
 
 ### geocode_type values
 
