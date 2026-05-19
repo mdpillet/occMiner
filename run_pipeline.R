@@ -3,10 +3,11 @@ run <- function(script) {
   source(script)
 }
 
-# Remove all pipeline output from previous runs (data/comparison/PCA.rda is preserved as a cache)
+# Remove all pipeline output from previous runs. Expensive caches are preserved:
+#   data/comparison/PCA.rda           — random-sample PCA fit
+#   data/cooccurrence_llm/.cache.csv  — per-notes Gemini extraction results
 message("Cleaning previous output...")
 unlink(c("data/bcss", "data/clcactus", "data/combined",
-         "data/cooccurrence_llm",
          "data/geocoded", "data/geocoded_llm",
          "data/cleaned", "data/cleaned_llm",
          "data/kml", "data/shp",
@@ -16,6 +17,10 @@ unlink(c("data/bcss", "data/clcactus", "data/combined",
 if (dir.exists("data/comparison")) {
   comp_files <- list.files("data/comparison", full.names = TRUE, recursive = TRUE)
   unlink(comp_files[basename(comp_files) != "PCA.rda"])
+}
+if (dir.exists("data/cooccurrence_llm")) {
+  cc_files <- list.files("data/cooccurrence_llm", full.names = TRUE, recursive = TRUE)
+  unlink(cc_files[basename(cc_files) != ".cache.csv"])
 }
 
 run("R/bcss_miner.R")

@@ -178,9 +178,11 @@ All methods failed: the query returned no geocoder result and Gemini returned nu
 
 ### Implementation
 
-- Same Gemini wiring as `geocoder_llm.R`: model `gemini-3.1-flash-lite-preview`, batches of up to 50 `{focal_species, notes}` items per API call, 15 RPM throttle, 3 retries with exponential backoff plus indefinite outer retry, timestamped log at `Logs/cooccurrence_llm_YYYYMMDD_HHMMSS.log`.
-- Cache is keyed on the `notes` string alone, so identical notes across records cost only one API call. On the current dataset, ~351k records collapse to ~34k unique non-empty notes (~45 min API time at the free-tier rate).
-- Smoke-test env var: `COOCCURRENCE_LIMIT=N` caps the number of unique notes sent to Gemini (`$env:COOCCURRENCE_LIMIT='100'; Rscript R/cooccurrence_llm.R`).
+- Same Gemini wiring as `geocoder_llm.R`: model `gemini-3.1-flash-lite-preview`, batches of up to 150 `{focal_species, notes}` items per API call (`maxOutputTokens = 16384`), 15 RPM throttle, 3 retries with exponential backoff plus indefinite outer retry, timestamped log at `Logs/cooccurrence_llm_YYYYMMDD_HHMMSS.log`. The batch size is tuned to the 250k TPM / 15 RPM / 500 requests-per-day free-tier limits — at 150/batch the full ~34k unique-notes workload is ~225 batches, which fits comfortably under the daily cap.
+- Cache is keyed on the `notes` string alone, so identical notes across records cost only one API call. On the current dataset, ~351k records collapse to ~34k unique non-empty notes.
+- **Disk-persisted cache** at `data/cooccurrence_llm/.cache.csv` (columns: `notes`, `cooccurring_species`). Appended to after every successful batch and reloaded on startup. Stopping and restarting the script — whether intentionally or because of a daily-quota hit — picks up exactly where it left off. Failed/transient batches are not cached so they get retried on the next run. `run_pipeline.R` preserves `.cache.csv` across full pipeline reruns (mirrors the `PCA.rda` cache preservation).
+- **Quota-aware clean exit**. The free tier has a daily request cap (~500/day at the time of writing) which the full ~675-batch workload will exceed. When Gemini returns `429 RESOURCE_EXHAUSTED` with a `PerDay`/`Daily` `quotaId` or a multi-minute `retryDelay`, the script recognises the daily-quota signal, **stops retrying immediately**, logs the event, writes whatever it has, and exits cleanly. Short throttle 429s are still treated as transient and retried with backoff as before. Run the script daily; the cache resumes from the last batch.
+- Smoke-test env var: `COOCCURRENCE_LIMIT=N` caps the number of unique notes sent to Gemini in **this run only** (cache loading is unaffected). Example: `$env:COOCCURRENCE_LIMIT='100'; Rscript R/cooccurrence_llm.R`.
 
 ## Coordinate cleaning
 

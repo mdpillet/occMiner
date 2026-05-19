@@ -9,12 +9,13 @@ if (nchar(Sys.getenv("GEMINI_API_KEY")) == 0) {
   stop("GEMINI_API_KEY is not set. Add it to .Renviron or set with Sys.setenv().")
 }
 
-CHUNK_SIZE  <- 50
+CHUNK_SIZE  <- 150
 MAX_RETRIES <- 3
 
-in_path  <- "data/combined/all_records.csv"
-out_dir  <- "data/cooccurrence_llm"
-out_path <- file.path(out_dir, "all_records.csv")
+in_path    <- "data/combined/all_records.csv"
+out_dir    <- "data/cooccurrence_llm"
+out_path   <- file.path(out_dir, "all_records.csv")
+cache_path <- file.path(out_dir, ".cache.csv")
 
 if (!file.exists(in_path)) {
   stop("Input not found: ", in_path,
@@ -108,6 +109,50 @@ strip_markdown <- function(x) {
   trimws(x)
 }
 
+# Round-trip helper: semicolon-joined cache field <-> character vector.
+parse_species_field <- function(s) {
+  if (is.na(s) || !nzchar(s)) return(character(0))
+  strsplit(s, ";", fixed = TRUE)[[1]]
+}
+
+# Detect Gemini "RESOURCE_EXHAUSTED" daily quota. Short 429 (transient throttle)
+# returns FALSE so req_retry keeps trying; daily quota returns TRUE so we exit clean.
+is_quota_exhausted_resp <- function(resp) {
+  if (resp_status(resp) != 429) return(FALSE)
+  body <- tryCatch(resp_body_json(resp), error = function(e) NULL)
+  if (is.null(body)) return(FALSE)
+  if (!identical(body$error$status, "RESOURCE_EXHAUSTED")) return(FALSE)
+  for (d in body$error$details %||% list()) {
+    typ <- d$`@type` %||% ""
+    if (grepl("RetryInfo", typ, fixed = TRUE)) {
+      delay_secs <- suppressWarnings(as.numeric(sub("s$", "", d$retryDelay %||% "0s")))
+      if (!is.na(delay_secs) && delay_secs > 300) return(TRUE)
+    }
+    if (grepl("QuotaFailure", typ, fixed = TRUE)) {
+      for (v in d$violations %||% list()) {
+        qid <- v$quotaId %||% ""
+        if (grepl("PerDay|Daily", qid, ignore.case = TRUE)) return(TRUE)
+      }
+    }
+  }
+  FALSE
+}
+
+# Set inside call_gemini_batch when daily quota is detected; checked by the main loop.
+quota_exhausted <- FALSE
+
+# Append rows to the disk cache. Header is written once at startup if the file
+# doesn't exist; subsequent calls use append = TRUE.
+append_cache <- function(notes_vec, species_lists) {
+  rows <- tibble(
+    notes               = notes_vec,
+    cooccurring_species = vapply(species_lists,
+                                 function(sp) paste(sp, collapse = ";"),
+                                 character(1))
+  )
+  write_csv(rows, cache_path, append = TRUE)
+}
+
 # Sends one chunk of {focal_species, notes} pairs to Gemini.
 # Retries indefinitely: MAX_RETRIES inner attempts with exponential backoff,
 # then a 60-second pause before the next outer attempt.
@@ -127,12 +172,17 @@ call_gemini_batch <- function(items, label = "") {
         req_body_json(list(
           systemInstruction = list(parts = list(list(text = EXTRACT_PROMPT))),
           contents          = list(list(parts = list(list(text = input_json)))),
-          generationConfig  = list(maxOutputTokens = 8192, temperature = 0)
+          generationConfig  = list(maxOutputTokens = 16384, temperature = 0)
         )) |>
         req_throttle(rate = 15 / 60, realm = "gemini") |>
         req_retry(
           max_tries    = MAX_RETRIES,
-          is_transient = \(resp) resp_status(resp) %in% c(429, 500, 502, 503, 504),
+          is_transient = function(resp) {
+            status <- resp_status(resp)
+            if (status %in% c(500, 502, 503, 504)) return(TRUE)
+            if (status == 429) return(!is_quota_exhausted_resp(resp))
+            FALSE
+          },
           backoff      = \(i) 10 * 2^(i - 1)
         ) |>
         req_perform()
@@ -147,6 +197,14 @@ call_gemini_batch <- function(items, label = "") {
       }
       parsed
     }, error = function(e) {
+      resp <- tryCatch(last_response(), error = function(...) NULL)
+      if (!is.null(resp) && is_quota_exhausted_resp(resp)) {
+        quota_exhausted <<- TRUE
+        msg <- "Gemini daily quota exhausted (RESOURCE_EXHAUSTED). Stopping cleanly so cache is preserved."
+        log_gemini(label, input_json, error = msg)
+        message(msg)
+        return(NULL)
+      }
       msg <- sprintf("Gemini batch failed after %d tries: %s", MAX_RETRIES, conditionMessage(e))
       log_gemini(label, input_json, error = msg)
       warning(msg)
@@ -154,6 +212,7 @@ call_gemini_batch <- function(items, label = "") {
     })
 
     if (!is.null(result)) return(result)
+    if (quota_exhausted) return(NULL)
     message("  Service unavailable — retrying batch in 60 seconds...")
     Sys.sleep(60)
   }
@@ -185,30 +244,48 @@ notes_jobs <- df |>
 
 message("Unique non-empty notes: ", nrow(notes_jobs))
 
-# Optional smoke-test cap.
+# ---- Load disk-persisted cache ----
+
+extract_cache <- list()
+
+if (file.exists(cache_path)) {
+  cache_df <- read_csv(cache_path, col_types = cols(.default = col_character()))
+  for (k in seq_len(nrow(cache_df))) {
+    extract_cache[[cache_df$notes[k]]] <- parse_species_field(cache_df$cooccurring_species[k])
+  }
+  message("Loaded ", length(extract_cache), " cached note(s) from ", cache_path)
+} else {
+  write_csv(tibble(notes = character(0), cooccurring_species = character(0)), cache_path)
+  message("Initialized empty cache at ", cache_path)
+}
+
+# Skip notes already in the cache.
+todo_jobs <- notes_jobs |> filter(!notes %in% names(extract_cache))
+message("Remaining notes to fetch: ", nrow(todo_jobs),
+        " (of ", nrow(notes_jobs), " unique)")
+
+# Optional smoke-test cap (applied to the remaining workload).
 limit_env <- Sys.getenv("COOCCURRENCE_LIMIT")
 if (nzchar(limit_env)) {
   n_cap <- suppressWarnings(as.integer(limit_env))
-  if (!is.na(n_cap) && n_cap > 0 && n_cap < nrow(notes_jobs)) {
-    message("COOCCURRENCE_LIMIT=", n_cap, " — capping unique notes for smoke test.")
-    notes_jobs <- notes_jobs[seq_len(n_cap), ]
+  if (!is.na(n_cap) && n_cap > 0 && n_cap < nrow(todo_jobs)) {
+    message("COOCCURRENCE_LIMIT=", n_cap, " — capping this run for smoke test.")
+    todo_jobs <- todo_jobs[seq_len(n_cap), ]
   }
 }
 
 # ---- Batch through Gemini ----
 
-extract_cache <- set_names(vector("list", nrow(notes_jobs)), notes_jobs$notes)
-
-if (nrow(notes_jobs) > 0) {
-  chunk_indices <- split(seq_len(nrow(notes_jobs)),
-                         ceiling(seq_len(nrow(notes_jobs)) / CHUNK_SIZE))
+if (nrow(todo_jobs) > 0) {
+  chunk_indices <- split(seq_len(nrow(todo_jobs)),
+                         ceiling(seq_len(nrow(todo_jobs)) / CHUNK_SIZE))
   n_chunks      <- length(chunk_indices)
-  message("Sending ", nrow(notes_jobs), " unique notes to Gemini in ",
+  message("Sending ", nrow(todo_jobs), " unique notes to Gemini in ",
           n_chunks, " batch(es) of up to ", CHUNK_SIZE, "...")
 
   for (ch in seq_len(n_chunks)) {
     idx   <- chunk_indices[[ch]]
-    chunk <- notes_jobs[idx, ]
+    chunk <- todo_jobs[idx, ]
     items <- lapply(seq_len(nrow(chunk)), function(j) list(
       focal_species = chunk$focal_species[[j]],
       notes         = chunk$notes[[j]]
@@ -217,21 +294,35 @@ if (nrow(notes_jobs) > 0) {
 
     batch_raw <- call_gemini_batch(items, label = sprintf("Batch %d/%d", ch, n_chunks))
 
+    if (quota_exhausted) break
+
     if (is.null(batch_raw)) {
-      for (j in seq_len(nrow(chunk))) extract_cache[[chunk$notes[[j]]]] <- character(0)
-    } else {
-      result_by_i <- set_names(batch_raw, sapply(batch_raw, function(r) as.character(r$i)))
-      for (j in seq_len(nrow(chunk))) {
-        r <- result_by_i[[as.character(j)]]
-        if (is.null(r)) {
-          warning("No result returned for notes: ", chunk$notes[[j]])
-          extract_cache[[chunk$notes[[j]]]] <- character(0)
-        } else {
-          extract_cache[[chunk$notes[[j]]]] <- normalize_result(r)
-        }
-      }
+      # Transient failure exhausted MAX_RETRIES — don't cache, so a future run retries.
+      next
     }
+
+    result_by_i  <- set_names(batch_raw, sapply(batch_raw, function(r) as.character(r$i)))
+    batch_notes  <- character(0)
+    batch_specs  <- list()
+    for (j in seq_len(nrow(chunk))) {
+      r  <- result_by_i[[as.character(j)]]
+      sp <- if (is.null(r)) {
+        warning("No result returned for notes: ", chunk$notes[[j]])
+        character(0)
+      } else {
+        normalize_result(r)
+      }
+      extract_cache[[chunk$notes[[j]]]] <- sp
+      batch_notes <- c(batch_notes, chunk$notes[[j]])
+      batch_specs <- c(batch_specs, list(sp))
+    }
+    append_cache(batch_notes, batch_specs)
   }
+}
+
+if (quota_exhausted) {
+  message("Stopped early due to daily quota. Cache preserved at ", cache_path,
+          " (", length(extract_cache), " note(s) cached). Re-run later to resume.")
 }
 
 # ---- Attach cooccurring_species column ----
